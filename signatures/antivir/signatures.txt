@@ -1,0 +1,2 @@
+\0\0\x80\0
+220 Symantec AntiVirus Scan Engine ready\.\r\n

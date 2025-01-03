@@ -1,0 +1,1 @@
+<KU_goodbye>Protocol Error: XML data is not well-formed\.</KU_goodbye>

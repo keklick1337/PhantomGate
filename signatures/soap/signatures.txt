@@ -1,0 +1,1 @@
+HTTP/1\.1 405 Method Not Allowed\r\nDate:0000-01-01T18:54:43\r\nContent-Type: application/soap\+xml; charset=\"utf-8\"\r\n\r\n

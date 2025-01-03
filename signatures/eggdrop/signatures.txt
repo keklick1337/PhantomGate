@@ -1,0 +1,3 @@
+\r\nSorry, that nickname format is invalid\.\r\n
+\r\nNickname\.\r\nSorry, that nickname format is invalid\.\r\n
+\r\nSurnom\.\r\nSorry, that nickname format is invalid\.\r\n

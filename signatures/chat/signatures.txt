@@ -1,0 +1,2 @@
+\*\x01..\0\x04\0\0\0\x01
+\r\n>STATUS\tset status\r\nINVISIBLE\tset invisible mode\r\nMAINWINDOW\tshow/hide main window\r\n

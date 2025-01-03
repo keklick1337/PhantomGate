@@ -1,0 +1,1 @@
+HTTP/1\.0 200 OK\r\nContent-type: application/ocsp-response\r\nContent-Transfer-Encoding: Binary\r\nContent-Length: 5\r\n\r\n0\x03\n\x01\x01

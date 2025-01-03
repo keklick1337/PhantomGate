@@ -1,0 +1,3 @@
+HTTP/1\.0 401 Unauthorized\r\n\r\n<BODY><HTML><H1>401 - Authorization Failed</H1></HTML></BODY>\0
+\r\nlogin: \0
+503 Service Unavailable\r\n\r\n\0

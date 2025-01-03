@@ -1,0 +1,2 @@
+DONE00000001.*?DOTO00
+DONE00000001.*CRITICAL! distcc seems to have invoked itself recursively!\n

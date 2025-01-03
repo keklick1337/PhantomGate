@@ -1,0 +1,4 @@
+.\0\0\0\xff.\x04Too many connections
+\x10\0\0\x01\xff\x13\x04Bad handshake
+.\0\0\0\xffj\x04Host hat keine Berechtigung, eine Verbindung zu diesem MySQL Server herzustellen\.
+.\0\0\0\xff.\x04Host '[-.\w]+' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts'

@@ -1,0 +1,1 @@
+HTTP/1\.0 302 Found\r\nLocation: http://www\.distributed\.net/\r\n\r\n

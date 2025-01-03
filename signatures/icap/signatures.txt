@@ -1,0 +1,1 @@
+ICAP/1\.0 501 Method not implemented\r\nConnection: close\r\n\r\n

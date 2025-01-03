@@ -1,0 +1,1 @@
+\*\*\* ITSO_DB_FAIL \*\*\* invalid request\r\n

@@ -1,0 +1,1 @@
+E\0\0\0&SERROR\0C08P01\0Mbad packet header\0\0

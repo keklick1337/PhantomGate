@@ -1,0 +1,196 @@
+220 ProFTP Server Ready\r\n
+220 FTP server ready\r\n211 HELP text\r\n
+220 wzd server ready\.\r\n
+220 .*\r\n500 Only one command at a time\.\r\n
+220.*This site is running NcFTPd Server software
+220 Welcome to blah FTP service\.\r\n
+220-Cerberus FTP Server Personal Edition\r\n220-UNREGISTERED\r\n
+220 Homer Ftp Server\r\n
+220 Welcome @ my\.ftp\.org\r\n
+200 Welcome to BarracudaBackupFTPd\.\r\n
+421 Too many connections for this IP address, please try again later\.\r\n
+220 Welcome to connection\.\r\n214 FTP Server Help\.\r\n  HUMAX PVR FTP Server\. \r\n214 End\r\n
+220 Ftp firmware update utility\r\n500 Unknown command: \"\"\r\n500 Unknown command: \"\"\r\n
+220 UnleashX FTP ready\.\r\n503 Login with USER first\.\r\n
+220 Welcome to Baby FTP Server\r\n
+220 Operation successful\r\n214-Features:\r\n EPSV\r\n PASV\r\n REST STREAM\r\n MDTM\r\n SIZE\r\n214 Ok\r\n
+220 FTP Server Ready\r\n500 Unknown cmd HELP\r\n
+220 Welcome to the Pli Jade Server >> OpenDreambox FTP service <<\.\r\n
+220-Welcome To Rumpus!\r\n220 Service ready for new user\r\n
+220-.*\r\n220 Please enter your name:\r\n
+220.*Check Point FireWall-1 Secure FTP server running on
+220 \r\n500-'\r\n500  ': command not understood\.\r\n500-'\r\n500  ': command not understood\.\r\n
+220 Service ready for new user\r\n214-The following commands are implemented\.\r\nABOR  APPE  CDUP  CWD   DELE  HELP  LIST  MDTM\r\nMKD   MODE  NLST  NOOP  PASS  PASV  PORT  PWD\r\nQUIT  REST  RETR  RMD   RNFR  RNTO  SITE  SIZE\r\nSTAT  STOR  STOU  STRU  SYST  TYPE  USER\r\n214 End of help\r\n
+120 The user queue is full, please try again later\.\r\n
+220-Welcome to the Ascotel FTP server\r\n220 \r\n
+220 Welcome to Mobile File Service\r\n\r\n| p|HTC P4000 PDA/Phone ftpd
+220 FTP Server, type 'quote help' for help\r\n
+220 FTP-Backupspace\r\n
+220---------- .* Pure-FTPd ----------\r\n220-
+220 FTPU ready\.\r\n500 Sorry, no such command\.\r\n
+220 Simple FTP daemon coming up!\r\n
+220 Welcome to Topfield PVR FTP server\r\n
+220 Welcome to the OpenDreambox FTP service\.\r\n
+550 no more people, max connections is reached\r\n
+220-National Instruments FTP\r\n220 Service Ready \r\n
+220 Welcome to This FTP Server\. Service ready for new user\.\r\n214-The following commands are recognised:\r\nUSER\r\nPASS\r\nCWD\r\nQUIT\r\nTYPE\r\nPORT\r\nRETR\r\nSTOR\r\nSTOU\r\nAPPE\r\nRNFR\r\nRNTO\r\nABOR\r\nDELE\r\nCDUP\r\nRMD\r\nMKD\r\nPWD\r\nLIST\r\nNLST\r\nHELP\r\nNOOP\r\nXCUP\r\nXCWD\r\nXPWD\r\nXRMD\r\nXMKD\r\n214 List End\.\r\n
+220 IronPort WSA ready\.\r\n500 Syntax error, command unrecognized\.\r\n
+220 Ready\r\n502 Not implemented\r\n
+220 Plan 9 FTP server ready\r\n
+220 Blue Coat FTP Service\r\n
+220 FileApp - FTP Server\r\n
+220 FTP Server Ready\r\n530 Authentication required\.\r\n530 Authentication required\.\r\n
+220 Server ready\r\n500 '\r': command not understood\.\r\n500 '\r': command not understood\.\r\n
+220.* GlobalSCAPE Secure FTP Server \(v\. ([^\)]+)\)
+220 Service Ready for new User\r\n
+220-Authenticate for FTP Access\. \r\n220 \r\n500-Syntax error -- unknown command\r\n500 \r\n500-Syntax error -- unknown command\r\n500 \r\n
+220 Net Administration Divisions FTP Server Ready\.\.\.\r\n
+220 The Avalaunch FTP system -- enter user name\r\n
+220-LRN\r\n220 Service Ready for new User\r\n
+220 FTP server ready\.\r\n200 NOOP command successful\.\r\n
+220 ---freeFTPd 1\.0---warFTPd 1\.65---\r\n
+220 Ftp firmware update utility\r\n
+220 Indy FTP-Server bereit\.\r\n
+220 NET Disk FTP Server ready\.\r\n| p|NET Disk/NetStore ftpd
+220 4dftp .* FTP Service \(Version ([^)]+)\)
+220 Service ready for new user\.\r\n
+220 FTP server ready\.\r\n510 command not supported\.\r\n
+220 Welcome to Windows FTP Server| p/Windows Ftp Server/ i|Not from Microsoft - http://srv.nease.net/
+220 KONICA MINOLTA FTP server ready\.\r\n
+220 Welcome to the update FTP server v1\.0\.\r\n502 'HELP' command not implemented\.\r\n
+220-BulletProof FTP Server ready \.\.\.\r\n
+220-Cerberus FTP Server - Personal Edition\r\n220-This is the UNLICENSED personal edition and may be used for home, personal use only\r\n220-Welcome to Cerberus FTP Server\r\n220 Created by Cerberus, LLC\r\n
+220 Ftp firmware update utility\r\n500 Unknown command: \"HELP\"\r\n| p|Belkin/BT/D-Link/Gigaset broadband router ftp firmware update
+220 FTP server: Lexmark Optra LaserPrinter ready\r\n
+220--------------------------------------------------------------------------------\r\n220-This is the \"Banner\" message for the Mac OS X Server's FTP server process\.\r\n
+220 Server 47 FTP service\. Welcome\.\r\n
+220 ALFTP Server ready\.  \^-\^\)/~\r\n
+220 FTP server ready\.\r\n500 \?\r\n500 \?\r\n
+431 Could not initialize SSL connection\r\n
+220 .*\r\n530 Please login with USER and PASS\.\r\n530 Please login with USER and PASS\.\r\n
+220 BBPS3FTP ready\r\n500 command not recognized\r\n
+220 OK\r\n500 Syntax error, command unrecognized\.\r\n
+220 Personal FTP Server ready\r\n
+220 FTP server ready\.\r\n502 Command not implemented\.\r\n
+220 Oracle Internet File System FTP Server ready\r\n
+220 JD FTP Server Ready
+220 Connection established\.\r\n214-The following commands are supported:\r\n\tUSER\tPORT\tTYPE\tABOR\tCWD \tLIST\r\n\tPASS\tPASV\tSTRU\tPWD \tXCWD\tNLST\r\n\tQUIT\tSTOR\tRETR\tMODE\tXPWD\tNOOP\r\n\tHELP\r\n214 \r\n
+220--- AlterVista FTP, based on Pure-FTPd --\r\n
+220 EFI FTP Print server ready\.\r\n
+220 Aos FTP Server ready\.\r\n
+230 FTP Server Ready\r\n530 Authentication required\.\r\n530 Authentication required\.\r\n
+220 Willkomen auf Ihrer Dreambox\.\r\n
+220 SwiFTP ready\r\n
+220---------- Welcome to Pure-FTPd \[privsep\] \[TLS\] ----------\r\n220-You are user number| p/Pure-FTPd/ i|with SSL/TLS
+220 FTP server ready\.  \r\n214-Ethernet Interface\r\n    \r\n    To access help, cd to the help directory then enter a \"dir\" command\.\r\n    \r\n    \r\n| p|QMS/Minolta Magicolor 2200 DeskLaser printer ftpd
+230 User logged in\.\r\n214-The following commands are recognized\.\r\n214-USER\r\n214-PASS\r\n214-XPWD\r\n214-PWD\r\n214-TYPE\r\n214-PORT\r\n214-EPRT\r\n214-PASV\r\n214-EPSV\r\n214-ALLO\r\n214-STOR\r\n214-APPE\r\n214-RETR\r\n214-LIST\r\n214-NLST\r\n214-SYST\r\n214-MDTM\r\n214-XCWD\r\n214-CWD\r\n214-XCUP\r\n214-CDUP\r\n214-DELE\r\n214-XMKD\r\n214-MKD\r\n214-XRMD\r\n214-RMD\r\n214-NOOP\r\n214-RNFR\r\n214-RNTO\r\n214-REST\r\n214-SIZE\r\n214-QUIT\r\n214-HELP\r\n214-STAT\r\n214-SITE\r\n214-FEAT\r\n214-ADMIN_LOGIN\r\n214-MGET\r\n214-MPUT\r\n214-OPTS\r\n214 End of help\r\n
+220 Welcome to Tenor Multipath Switch\.\r\n
+220-FileZilla Server\r\n
+220-\+----------------------\[ UNREGISTERED VERSION \]-----------------------\+\r\n220-\|   This site is running unregistered copy of RaidenFTPD ftp server   \+\r\n
+220 \r\n500 Unknown command: \"\"\r\n500 Unknown command: \"\"\r\n
+220 FTP server ready\r\n214-The following commands are recognized:\r\nHELP\tUSER\tPASS\tQUIT\tLIST\tNLST\r\nRETR\tSTOR\tCWD\tTYPE\tPORT\tPWD\r\nSTRU\tMODE\tALLO\tACCT\tPASV\tNOOP\r\nDELE\tEPRT\tEPSV\r\n214 End of command list\.\r\n| p|TopLayer/Alcatel ftpd
+220 awaiting Input\r\n
+220-Cerberus FTP Server - Personal Edition\r\n220-This is the UNLICENSED personal edition and may be used for home, personal use only\r\n220 Connected to Aurora FTP server\.\.\.\r\n
+421 Server is temporarily unavailable - please try again later\.\r\n421 Service closing control connection\.\r\n
+220 Connection established\.\r\n502  command not recognized\.\r\n502  command not recognized\.\r\n
+220  ADH FTP SERVER READY TYPE HELP FOR HELP \r\n
+220 Welcome to the PLi dreambox FTP server\r\n
+220 Welcome to Quick 'n Easy FTP Server DEMO\r\n
+220-Cerberus FTP Server - Personal Edition\r\n220-UNREGISTERED\r\n220-Welcome to Cerberus FTP Server\r\n220 Created by Grant Averett\r\n
+220 ftp\r\n
+220 FTP server ready\.\r\n530 access denied\.\r\n
+220-FTP Server ready\r\n220-Use USER user@host for native FTP proxy\r\n220 Your FTP Session will expire after 300 seconds of inactivity\.\r\n
+220 FTP server ready\.\r\n530 Please login with USER and PASS\.\r\n$| p|TRENDnet/Hawking webcam ftpd
+530 Connection refused, unknown IP address\.\r\n
+220 ftp server ready\.\r\n500 Unknown command: \"\"\r\n500 Unknown command: \"\"\r\n
+220 DiskStation FTP server ready\.\r\n
+220 Welcome to zFTPServer\r\n
+220 GlobalSCAPE Secure FTP Server\r\n
+220 Alize Session Manager FTP Server\r\n
+421-\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+=\+\r\n421-The evaluation period for this Titan FTP Server has expired\.\r\n
+220  WEB TLC FTP SERVER READY TYPE HELP FOR HELP \r\n
+220 FTP server ready\r\n214-The following commands are recognized:\r\nHELP\tUSER\tPASS\tQUIT\tLIST\tNLST\nRETR\tSTOR\tCWD\tTYPE\tPORT\tPWD\nSTRU\tMODE\tALLO\tACCT\tPASV\tNOOP\nDELE\n214 End of command list\.\r\n
+220 CrossFTP Server ready for new user\.\r\n
+220 Please enter your login name now\.\r\n502 help is not implemented\.\r\n
+220 PizzaSwitch FTP server ready\r\n
+220-\n220-Welcome to the HOME Edition of GlobalSCAPE CuteFTP Server, which limits\n
+214-The following SITE commands are recognized\r\n.*214 Pure-FTPd - http://pureftpd\.org/\r\n
+220 Adtec .* FTP server, ready \r\n530 Login failed, check Username/Password\.\r\n
+220- \r\n.*www\.imatix\.com --\r\n
+220-IBM FTP, .*\.\r\n220 Connection will close if idle for more than 120 minutes\.\r\n| p|IBM OS/390 ftpd| o|OS/390
+220 WinGate Engine FTP Gateway ready\r\n
+220 Z-FTP\r\n
+220 NetTerm FTP server ready \r\n
+220 Welcome to WinFtp Server\.\r\n
+220 Operation successful\r\n
+220 Welcome to the ftp service\r\n
+220 Welcome to Network Camera FTP Server\r\n
+220 Conti FTP Server ready\r\n
+220 ICS FTP Server ready\r\n500 '\r': command not understood\.\r\n500 '\r': command not understood\.\r\n
+220 .* by G6 FTP Server ready \.\.\.\r\n
+220 NETWORK HDD FTP Server ready\.\r\n
+220 copier2FTP server ready\.\r\n
+220 server ready\r\n530 Please login with USER and PASS\r\n
+220 Welcome to Pablo's FTP Server\r\n
+220 Welcome to Stupid-FTPd server\.\r\n422 Too busy to play with you\.\r\n
+431 Unable to negotiate secure command connection\.\r\n
+220  TANDBERG    Satellite Modulator SM6600\r\n
+220 Welcome to Quick 'n Easy FTP Server\r\n
+200 1500\r\nf\0\x18\0\0\0x\xda\x0b\xcd\xcb\xce\xcb/\xcfSH\xce\xcf\xcdM\xccK\xd1\x03\x005\x93\x06\x1e
+220 OpenFTPD server([^ ]+)?
+220 Welcome To WinEggDrop Tiny FTP Server\r\n
+220 FTP server ready\.\r\n214-The following commands are recognized:\r\nHELP\tUSER\tPASS\tQUIT\tLIST\tNLST\tCDUP\r\nRETR\tSTOR\tCWD\tTYPE\tPORT\tPWD\tXCUP\r\nSTRU\tMODE\tXCWD\tALLO\tACCT\tXPWD\tPASV\r\nNOOP\tSYST\r\n214 End of command list\.\r\n
+220 FTP server ready\.\r\n530 USER and PASS required\r\n530 USER and PASS required\r\n
+220 netapp ftp server\r\n
+220 Welcome to Freebox FTP Server\.\r\n
+220 Service ready\.\r\n501 Syntax Error\.\r\n
+220 Connection established\.\r\n214-The following commands are supported\.\r\n    USER    PORT    TYPE    ABOR    CWD     LIST\r\n    PASS    PASV    STRU    PWD     XCWD    NLST\r\n    QUIT    STOR    MODE    XPWD    NOOP    HELP\r\n214 End of HELP\r\n
+220- APC FTP server ready\.\r\n220 \r\n
+220 Welcome to the Netburner FTP server\.\r\n
+220 PV11 FTP Server ready\r\n
+220 Welcome to the dvd2xbox ftp server\.\r\n
+Error loading /etc/ssl/certs/ftpd\.pem:
+220 Welcome to Ocean FTP Server.
+220 FTP Server ready\.\r\n
+220 .*\r\n530 Please login with USER and PASS first\.\r\n
+220-MegaBit Gear (\S+).*FTP server ready
+220.*\r\n214-The following commands are recognized:\r\n   USER   PASS   QUIT   CWD    PWD    PORT   PASV   TYPE\r\n   LIST   REST   CDUP   RETR   STOR   SIZE   DELE   RMD \r\n   MKD    RNFR   RNTO   ABOR   SYST   NOOP   APPE   NLST\r\n   MDTM   XPWD   XCUP   XMKD   XRMD   NOP    EPSV   EPRT\r\n   AUTH   ADAT   PBSZ   PROT   FEAT   MODE   OPTS   HELP\r\n   ALLO   MLST   MLSD\r\n214 Have a nice day\.\r\n
+220 OK\n226 OK\n
+220 Fastream IQ FTP Server\r\n
+550 No connections allowed from your IP\r\n
+220 \"Global Site Selector FTP\"\r\n
+220 Personal FTP Professional Server ready\r\n
+220 Ipswitch Notification Server
+220 Star IFBD-HE05/06 FTP Server\.\r\n
+220 Authentication_Required\r\n
+421 You are not permitted to make this connection\.\r\n
+220-\r\n220 Features p a \.\r\n214 Please refer to FTP documentation\.\r\n
+220 RIEDEL Artist FTP Server\r\n
+220-\r\n220-\r\n220 Please enter your user name\.\r\n
+220 FTP Server Ready\r\n.*\r\n214 Direct comments to psp@amoks\.com\.\r\n
+220 Welcome to pyftpd\. Happy downloading\.\r\n500 I'm gonna ignore this command\.\.\. maybe later\.\.\.\r\n
+220 AudioVAULT FTP server\r\n
+220-Welcome to Cerberus FTP Server\r\n220 Created by Grant Averett\r\n
+220 SMTP service ready\r\n214-Commands:\r\r\n214-\tDATA\tRCPT\tMAIL\tQUIT\tRSET\r\r\n214 \tHELO\tVRFY\tEXPN\tHELP\tNOOP\r\n
+500 OOPS: vsftpd: both local and anonymous access disabled!\r\n
+220 \"Welcome to Bot FTP service\.\"\r\n331 Please specify the password\.\r\n230 Login successful\. Have fun\.\r\n
+220 FreeFlow Accxes FTP server ready\r\n
+220 Session will be terminated after 600 seconds of inactivity\.\r\n
+220 Welcome to Easy File Sharing FTP Server!\r\n
+220 Service ready for new user\r\n214-The following commands are recognized\r\n   ABOR\r\n   ALLO\r\n   APPE\r\n   CDUP\r\n   CWD\r\n   DELE\r\n   LIST\r\n   MKD\r\n   MODE\r\n   NLST\r\n   NOOP\r\n   PASS\r\n   PORT\r\n   PWD\r\n   QUIT\r\n   RETR\r\n   RMD\r\n   RNFR\r\n   RNTO\r\n   SIZE\r\n   SMNT\r\n   STOR\r\n   STRU\r\n   SYST\r\n   TYPE\r\n   USER\r\n   XCUP\r\n   XCWD\r\n   XMKD\r\n   XPWD\r\n   XRMD\r\n214 HELP command successful\r\n
+220 ProFTP Ready\r\n
+220 FTP server ready\.\r\n501 Command not supported\.\r\n
+220 Connection established\.\r\n214-The following commands are supported:\r\n\tUSER\tPORT\tTYPE\tABOR\tCWD \tLIST\r\n
+220-TwoFTPd server ready\.\r\n220 Authenticate first\.\r\n
+220-<W\x80lC0ME T0 THE \xb0GP - FXP PubSTRO\xb0 by JACK>\r\n
+220 TCAdmin FTP Server\r\n
+220 Service ready\r\n500 Unsupported command\r\n
+220 Treck FTP server ready\.\r\n
+421 Closing non-secure connections in Secure Mode\. \r\n
+220 ps2ftpd ready\.\r\n500 Not understood\.\r\n
+220 Comtrend FTP firmware update utility\r\n
+220-FTP Server ready\r\n220-Welcome to the Sambar FTP Server\r\r\n
+220 Type 'site help' or 'quote site help'\.\r\n220-
+220-Serv-U FTP Server for Winsock\r\n
+220 CommuniGate Pro FTP Server ready\r\n
+220 OpenFTPD server ready\. .*\.\r\n

@@ -1,0 +1,1 @@
+Welcome to FreeVCS MSSQL NT Service\r\n

@@ -1,0 +1,1 @@
+<aafMessage><aafInitRequest></aafInitRequest></aafMessage>

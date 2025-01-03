@@ -1,0 +1,1 @@
+Type 'connect <player name>' to log in\.\r\n

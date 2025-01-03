@@ -1,0 +1,24 @@
+\xff\xfb\x01\xff\xfb\x03\r\0\nMAC address (\w+)\n\r\0Software version V([\w._-]+ \(\d+\)) M100\r\0
+\xcb\0\0\0\xd5\xbfG\xee:0\0\0\x01\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\x01\0\0\0\xa7\0\0\0\x01uptime\0\0\0\0\0\0 `@\x03globalLock\09\0\0\0\x01totalTime\0\0\0\0\x7c\xf0\x9a\x9eA\x01lockTime\0\0\0\0\0\0\xac\x9e@\x01ratio\0!\xc6\$G\xeb\x08\xf0>\0\x03mem\0<\0\0\0\x10resident\0\x03\0\0\0\x10virtual\0\xa2\0\0\0\x08supported\0\x01\x12mapped\0\0\0\0\0\0\0\0\0\0\x01ok\0\0\0\0\0\0\0\xf0\?\0
+\x01\0\0\0\0\0\0\0T\x03\0\0\0\0\0\x01\x1e\0\0\0\0\0\0;\0\0\0\0\0\0\0\0Error: incompatible with administration server \(version (\d[-.\w ]*)\)\nc\0\0\0\0\0\0\0\0\0\0\x01\0\0\0\0
+..\0\x06\x85\0\0\x01\0\x01\0\x01\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\0...[\w._-]+-RedHat-([\w._-]+\.el5_[\w._-]+)\xc0\x0c\0\x02\0\x03\0\0\0\0\0\x02\xc0\x0c
+220-AVG daemon mode scanner \((?:AVG|SMTP)\)\r\n220-Program version ([\w._-]+)\r\n220-Virus Database: Version ([\w._/ -]+)\r\n220 Ready\r\n
+\x07version\x04bind\0.*Microsoft DNS ([-\w_.]+) \(
+\0\x06\x05\0\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x01X\x02\0\0\0..Microsoft DNS (.*)
+....\x85\x80\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\0...dnsmasq-([\w._-]+)
+..\0\x06\x81\x80\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\0\0\x0e.unbound ([\w._-]+)
+\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\0\0\x1b\x1arbldnsd ([\d.]+)
+..\0\x06\x85\0\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0.\xc0\x0c\0\x10\0\x01\0\0\0\x05\0..Served by POWERDNS (\d[-.\w]+)
+\+OK [-\w_.]+ PopMax version ([\d. ]+) POP3 Mail Server Ready, Willing, and Waiting\r\n
+\0\x06\x81\x80\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\0\0\x0e.unbound ([\w._-]+)
+\0\x06\x81\x80\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03......PowerDNS Recursor ([\w._-]+) (\$Id: pdns_recursor\.cc .*?\$)
+..*\x07version\x04bind.*Incognito DNS \w+ ([\d.]+) \(
+HTTP/1\.0 200 OK\nContent-type: text/html\r\n.*<title>DVR WebViewer</title>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=euc-kr\">\r\n.*<OBJECT\r\n\t  classid=\"clsid:EE479A40-C128-40DD-93DA-000556AF9607\"\r\n\t  codebase=\"CtrWeb\.cab#version=1,1,1,1\"\r\n\t  width=(\d+)\r\n\t  height=(\d+)\r\n\t  align=center\r\n\t  hspace=0\r\n\t  vspace=0\r\n>\r\n<param name=\"CmdPort\" value=\"(\d+)\">\r\n<param name=\"StreamPort\" value=\"(\d+)\">
+..\0\x06\x81\x80\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\0\0..Nominum Vantio ([\w._-]+)
+\x07version\x04bind\0\0\x10\0\x03\x07VERSION\x04BIND\0\0\x10\0\x03\0\0\0\0\0\)\(Meta IP DNS - BIND V([\d.]+)-REL \(Build (\d+)\)
+\x07version\x04bind\0\0\x10\0.\xc0\x0c\0\x10\0\x01\0\0\0\x05\0..Served by POWERDNS ([\d.]+)
+220 FTP version ([\w.]+)\r\n331 Enter PASS command\r\n
+\x1b\[2J\x1b\[1;1fATOS Telnet Server\r\n\r\nCTRL\+d to exit\n\r\n\xff\xfb\x01\xff\xfb\x03\xff\xfd\x03Init Command Line Interface\.\. \r\nBoot Version: [\d.]+\r\nBoot Date: [\d :/]+\r\nATOS Version: ([\d.]+)  \([^)]+\)\r\nATOS Date: [\d :/]+\r\nHardware: \w+\r\nProduct Code  : \d+\r\nSerial Number : (\d+)\r\nLAN0 MAC Address : ([A-F0-9:]+)\r\nADSL Modem SW version: [\w._-]+ *\r\nADSL Modem API version: \d+\r\nADSL Driver version: [\w._-]+\r\n([\w._-]+) release: ([\w._-]+)+\r\nHW encryption not supported\r\nVinetic fw version : [\w._-]+\r\n\r\nUser name :
+\0\x06\x81\x80\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03.......PowerDNS Recursor ([\w._-]+) (\$Id: pdns_recursor\.cc .*?\$)
+\0\x06\x85[\x00\x80]\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\x05\0..Served by POWERDNS ([\w._-]+) (\$Id: packethandler\.cc .*?\$)
+214-2\.0\.0 This is sendmail version (\S+)\r?\n214-2\.0\.0 Topics:

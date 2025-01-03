@@ -1,0 +1,3 @@
+HTTP/1\.0 404 Not found\r\n\r\n404 Not found
+<HEAD><TITLE>Not Found</TITLE></HEAD><BODY><H1><B>Not Found</B></H1><P>The requested URL \"\"was not found on this server\.</BODY>\r\n
+HTTP/1\.0 404 Not Found\r\nDate: .*\r\nContent-Language: C\r\nUpgrade: TLS/1\.0,HTTP/1\.1\r\nConnection: close\r\nContent-Type: text/html\r\nContent-Length: 138\r\n\r\n<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD><BODY><H1>Not Found</H1>The requested resource was not found on this server\.</BODY></HTML>\n

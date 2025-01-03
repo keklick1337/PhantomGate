@@ -1,0 +1,1 @@
+\([\w._-]+:\d+\) : updateShowMenu MayaWindow

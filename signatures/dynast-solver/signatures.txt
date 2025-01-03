@@ -1,0 +1,1 @@
+DYNAST server v(.*) \(Win32\) - Copyright\(c\) DYN

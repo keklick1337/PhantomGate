@@ -1,0 +1,1 @@
+SPAMD/1\.0 76 Bad header line: \r\n

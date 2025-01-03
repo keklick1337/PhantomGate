@@ -1,0 +1,2 @@
+220 hello <> msg\r\n
+530 access denied\r\n

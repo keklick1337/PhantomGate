@@ -1,0 +1,1 @@
+V\0\x02\0Your terminal version is too old\.\nPlease get a new version at\nhttp://www\.tibia\.com\.\0

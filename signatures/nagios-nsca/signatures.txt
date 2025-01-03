@@ -1,0 +1,60 @@
+\x01\x03\0\0........\0\0\0\0........\x8f\xfb.([^\0\x01]+)[\0\x01].*\tVMware7,1\x04\x06AFP3\.3\x06AFP3\.2\x06AFP3\.1\x06AFPX03.\tDHCAST128\x04DHX2\x06Recon1\rClient\x20Krb\x20v2\0\0.*[\x04\x05]([\w.-]+)\x01.afpserver/([\w.@-]+)\0
+220 SMTP\r\n214-Usage: HELP <topic>\r\n214-Topics:\r\n214-\tHELO EHLO MAIL RCPT DATA\r\n214-\tVRFY EXPN RSET NOOP QUIT\r\n214 End of HELP info\r\n
+HTTP/1\.0 401 Unauthorized\r\nServer: Agranat-EmWeb/R([\d_]+)\r\nWWW-Authenticate: Basic realm=\"Siemens Web User Interface\"\r\n\r\n401 Unauthorized\r\n
+HTTP/1\.0 \d\d\d .*\r\nContent-type: text/html\r\nContent-length: \d+\r\nWWW-authenticate: Basic realm=\"\(Password Only\) NAV for MS Exchange\"\r\n\r\n
+ICY 200 OK\r\n.*SHOUTcast Distributed Network Audio Server/posix\(linux x86\) v([\w._-]+)<BR>\r\n.*icy-name:([^\r\n]*)\r\n.*icy-genre:([^\r\n]*)\r\n.*icy-url:([^\r\n]*)\r\n.*icy-br:(\d+)\r\n
+HTTP/1\.0 401 Unauthorized\r\nServer: \r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"FC330A\"\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n
+HTTP/1\.0 200 OK\r\n.*Server: Synchronet BBS for Win32  Version ([\w._-]+)\r\n.*Allow: GET, HEAD, POST, OPTIONS\r\n.*<title>(.*) Home Page</title>
+HTTP/1\.0 401 Unauthorized\r\nServer: httpd\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"(WRT[-\w]+)\"\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n
+HTTP/1\.0 200 OK\r\nContent-Type: text/html;charset=utf-8\r\nConnection: close\r\nContent-Length: \d+\r\n\r\n<html><head>\n<title>mongod ([\w._-]+)</title>
+HTTP/1\.1 404 Not Found\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<html>\n  <head>\n    <title>Linksys PAP2 Configuration</title>\r\n
+\xff\xfd\x03\xff\xfb\x01\xff\xfb\x03Sharp (AR-\w+) Ver ([\w._+-]+) TELNET server\.\r\0\nCopyright\(C\) [\d -]+ SHARP CORPORATION\r\0\nCopyright\(C\) [\d -]+ Japan Computer Industry Inc\.\r\0\nlogin:
+HTTP/1\.1 302 Found\r\nDate: .*\r\nServer:  \r\nLocation: https://[\d.]+:(\d+)/redirect\.cgi\?arip=\r\n.*<address>  Server at ([\w._-]+) Port \d+</address>
+\xff\xfd\x03\xff\xfb\x01\xff\xfb\x03([\w-]+) Ver ([-\w_.]+) TELNET server\.\r\0\nCopyright \(C\) [\d-]+ KYOCERA CORPORATION\r\0\nCopyright \(C\) [\d-]+ KYOCERA MITA CORPORATION\r\0\nlogin:
+SIP/2\.0 404 Not Found\r\n.*Server: Asterisk PBX ([\w._~+-]+)\r\n.*Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH\r\n
+Welcome to the OfficeConnect\(TM\) LAN modem Telnet Server\n\rConnected From IpAddr/Port# \w+/\d+ To Port# \d+\n\r\nLANmodem> Password:
+HTTP/1\.0 401 Unauthorized\r\nMIME-Version: [\d.]+\r\nServer: SNMP Research DR-Web Agent/([\w._-]+)\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"DR-Web\"\r\n
+HTTP/1\.0 302 Object Moved\r\n.*Location: /\+CSCOE\+/logon\.html\r\nSet-Cookie: tg=; expires=Thu, 01 Jan 1970 22:00:00 GMT; path=/; secure\r\n
+\xff\xfc\x01\xff\xfd\"ixProxy V([\d.]+), Copyright \(C\) \d+ Ixia Communications\r\nEnter target port ip address as login name \(example: 10\.0\.1\.1\)\r\nlogin:
+HTTP/1\.1 \d\d\d .*\r\nServer: NT/([\d.]+) UPnP/([\d.]+)\r\nDate: .*\r\nContent-type: text/html\r\n\r\n<html>\r\n<head>\r\n<title>HotBrick Load Balancer ([-\w_.]+)</title>\r\n
+HTTP/1\.1 \d\d\d .*\r\nServer: Unknown/[\d.]+ UPnP/([\d.]+) GlobespanVirata-EmWeb/R([\d_]+)\r\nContent-Type: text/html\r\n.*<title>CopperJet ([-\w+/.]+) Router VoATM</title>
+HTTP/1\.0 401 Unauthorized\r\nServer: httpd\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"([^"]+)\"\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n
+HTTP/1\.0 \d\d\d .*\r\nServer: WYM/([\w._-]+)\r\n.*<TITLE>Video Server \(V([\w._-]+)\)</TITLE>\n<META NAME=\"Author\" CONTENT=\"ChenXiaohui\">\n<!-- Get Server or DVR-->
+HTTP/1\.1 200 OK.*\r\nServer: Web Server\r\n.*<TITLE>Netgear System Login</TITLE>.*<IMG SRC = \"/base/images/Netgear_fsm(\w+)_banner\.gif\"
+HTTP/1\.1 404 Not Found\r\nContent-Length: 72\r\nDate: .* GMT\r\n\r\n<html><head><title>not found</title></head><body>not found</body></html>
+\x01\x03\0\0........\0\0\0\0........\x8f\xfb.([^\0\x01]+)[\0\x01].*\tMacintosh\x04\x06AFP3\.2\x06AFP3\.1\x06AFPX03\x06AFP2\.2.\x06Recon1\rClient Krb v2\x0fNo User Authent\0.*[\x04\x05]([\w.-]+)\x01.afpserver/([-\w_.@]+)\0
+HTTP/1\.1 200 OK\r\n.*Server: UPnP/1\.0\r\n.*<title>HDHomeRun</title>\r\n.*<div class=\"S\">Model: ([\w._-]+)<br/>Device ID: ([\w._-]+)<br/>Firmware: ([\w._-]+)</div>
+\xff\xfb\x01\r\r\n\*+\r\n\r\* Copyright \(c\) 2010 Avaya, Inc\. +\r\n\r\* All Rights Reserved +\r\n\r\* Ethernet Routing Switch ([\w._-]+) +\r\n\r\* Software Release ([\w._-]+)
+HTTP/1\.0 302 Redirect\r\nPragma: no-cache\r\nCache-Control: no-cache\r\nContent-Length: 0\r\nConnection: close\r\nLocation: http://([\w._-]+):\d+/(?:nohost|nonauth/nohost\.php)\r\n\r\n
+HTTP/1\.0 200 OK\r\n.*<link rel=\"stylesheet\" type=\"text/css\" href=\"/musicpal_ie6\.css\" />\r\n<!\[endif\]-->\r\n<title>Freecom MusicPal</title>
+HTTP/1\.1 200 OK\r\nContent-length: \d+\r\nExpires: -1\r\nContent-type: application/sxp\r\nPragma: no-cache\r\nCache-control: no-cache\r\n\r\n\(ls \)
+HTTP/1\.1 \d\d\d .*\r\nServer: NT/([\d.]+) UPnP/([\d.]+)\r\nDate: .*\r\nContent-type: text/html\r\n\r\n<html>\r\n<head>\r\n<title>HotBrick Firewall VPN ([-\w_./]+)</title>
+HTTP/1\.0 302 FOUND\r\nContent-Type: text/html; charset=utf-8\r\nLocation: http://([\w._-]+):\d+/login\?next=%2F\r\n.*Server: Werkzeug/([\w._-]+) Python/([\w._-]+)\r\n
+HTTP/1\.1 200 OK\r\n.*document\.write\(\"<title>\" \+ ID_VC_Welcome \+ \"</title>\"\);.*<meta name=\"description\" content=\"VMware VirtualCenter
+<html>\n<title>24-Port 10/100M Fast Ethernet Web Smart Switch</title>\n<frameset rows='60,\*'.*<frame name=main src=cgi_login noresize>\n
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\*+\r\n\r\* +\*\r\n\r\*   The Gemini Project    \*\r\n\r\* +\*\r\n\r\*+\r\n.*Kernel ([\w._-]+) \(\d+:\d+:\d+\)\.\r\n\rdreambox login:
+\n    ----------------------------------------------------------------------\n                        Sorry, that user doesn't exist\.\n
+HTTP/1\.0 401 Unauthorized\r\nServer: \r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"ADSL Router \(ANNEX A\)\"\r\n.*System Authentication Failed\.
+HTTP/1\.0 200 OK\r\nServer: http server ([\w._-]+)\r\n.*<title>NAS</title>\n<script language=\"JavaScript\">\n\nfunction setCookie\(name, value, expires\)\n
+E\0\0\0\x83SFATAL\0C0A000\0Munsupported frontend protocol 3923\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L2504\0RProcessStartupPacket\0\0
+HTTP/1\.1 302 Moved Temporarily\r\nLocation: https://([\w._-]+):\d+/symantec\.jsp\r\nContent-Length: 0\r\nDate: .*\r\nConnection: close\r\nServer: Hidden\r\n\r\n
+HTTP/1\.1 200 OK\r\nX-Cocoon-Version: ([\w._-]+)\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\n.*<title>F-Secure Policy Manager Web Reporting</title>
+\0\0\0\x80<\?xml version=\"1\.0\" encoding=\"UTF-8\"\?>\r\n<exception requestID=\"0\">\r\n  <message>Unable to parse Message\.</message>\r\n</exception>\r\n
+HTTP/1\.0 302 Redirection\r\nDate: .*\r\nServer: iGuard Embedded Web Server/([-\w_.]+) \(\w+\) SN:([-\w]+)\r\nPragma: no-cache\r\nLocation: /Admins/index\.html\r\n\r\n
+HTTP/1\.1 200 OK\r\n.*SERVER: HDHomeRun/1\.0\r\n.*<title>HDHomeRun</title>\r\n.*<div class=\"S\">Model: ([\w._-]+)<br/>Device ID: ([\w._-]+)<br/>Firmware: ([\w._-]+)</div>
+\x01\x03\0\x01\0\0\0\0................\x03\xff.([^\0\x01]+)[\0\x01].*Windows Version: 5\.1 \(2\) build 2600 Service Pack (\d+) (\d+)-bit \(ExtremeZ-IP ([\w._-]+)x10\)\x02\x06AFP2\.2\x06AFP3\.1.*afpserver/([\w._@-]+)\0
+HTTP/1\.0 200 .*\r\nServer: Mbedthis-Appweb/([\w._-]+)\r\n.*\r\nX-Powered-By: PHP/([\w._-]+)\r\n.*<title>([\w._-]+) : Log In - Juniper Networks Web Management</title>
+HTTP/1\.0 200 \(OK\) \r\nPragma: No-Cache\r\nCache-Control: no-cache\r\nDate: .*\r\nServer: HTTP Server\r\n.*Copyright \d+, \d+ Nortel Networks\.
+HTTP/1\.1 404 Not found\r\nConnection: close\r\n.*<title>Proxy error: 404 Not found\.</title>\n.*<hr>Generated .* by Polipo on <em>([\w_.-]+):\d+</em>\.\n
+HTTP/1\.0 \d\d\d .*\r\nContent-Type: text/html;charset=ISO-8859-1\r\n\$WSEP: \r\nContent-Language: .*\r\nServer: WebSphere Application Server/([\d.]+)\r\n
+HTTP/1\.0 200 .*\r\nServer: wg_httpd/([\w._-]+)\(based Boa/([\w._-]+)\)\r\n.*<title>WebEye Index Page</title>\n<meta name=\"generator\" content=\"WebGateInc\">
+HTTP/1\.1 302 Moved Temporarily\r\nConnection: Close\r\nServer: Day-Servlet-Engine/([\w._-]+) \r\nDate: .*\r\nLocation: http://[\d.]+:\d+/welcome\.html\r\n\r\n
+HTTP/1\.0 200 OK\r\n.*Server: WebServer/([\d.]+)\r\n.*<META http-equiv=\"Refresh\" content=\"0; Url=/trane/tsws/login\.htm\" >\n  <title>redirect</title>
+\d+-NENET AB Ethernet Com Card V([\w._-]+)  Built .*\r\nDebugOutput: \d+  DebugLevel: \d+\r\nHit 0-4 to change debug level, S for socket status\r\n
+220-\*{89}\r\n220 \*{32}\r\n250-Welcome [\w._-]+, nice to meet you\.\.\.\r\n250-AUTH=(?:\w+ ?)+\r\n250-AUTH(?: \w+)+\r\n250-SIZE \d+\r\n250-DSN\r\n250-ETRN\r\n250 XXXA\r\n
+HTTP/1\.1 200 OK\r\n.*<!-- Copyright \(c\) (?:\d+, \d+|\d+-\d+), Fuji Xerox Co\., Ltd\. All Rights Reserved\. -->.*<TITLE>\r\nDocument Centre (\w+) - [\d.]+\r\n</TITLE>
+\"ADSL Router \(ANNEX B\)\"\r\n.*<meta HTTP-EQUIV=\"Expires\" CONTENT=\"Mon, 06 Jan 1990 00:00:01 GMT\">.*<meta name=\"description\" content
+HTTP/1\.0 400 Bad Request\r\nDate: .*\r\n\r\n<html><body>.*<font color=\"#FF0000\">Proxy</font><font color=\"#0000FF\">\+</font> (\d[-.\w]+) \(Build #(\d+)\), Date:
+HTTP/1\.0 401 Unauthorized\r\nServer: http server\r\nDate: .*\r\nCache-Control: no-cache,no-store\r\nWWW-Authenticate: Basic realm=\"Citadel\"\r\n
+HTTP/1\.0 \d\d\d .*\r\nServer: Winstone Servlet Engine v([\w._-]+)\r\nX-Hudson: ([\w._-]+)\r\nX-Hudson-CLI-Port: (\d+)\r\n.*X-Powered-By: Servlet/([\w._-]+) \(Winstone/[\w._-]+\)\r\n
+HTTP/1\.1 \d\d\d .*\r\nWWW-Authenticate: Basic realm=\"Switched Rack PDU\"\r\nContent-Type: text/html\r\nServer: Allegro-Software-RomPager/([\d.]+)\r\n\r\n

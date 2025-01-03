@@ -1,0 +1,7 @@
+:ezbounce!srv NOTICE \(unknown\) :\x02
+:dirkproxy NOTICE AUTH :Looking up your hostname\.\.\.\r\n:dirkproxy NOTICE AUTH :Got your hostname\.\r\n
+:dircproxy NOTICE AUTH :Looking up your hostname\.\.\.\r\n:dircproxy NOTICE AUTH :Got your hostname\.\r\n
+\+OK \r\n-ERR XXX authorization first\r\n
+:sbnc!sbnc@sbnc\.soohrt\.org NOTICE \* :Wellcum\r\n
+Login failed\. Disconnecting\.\r\n
+:.*!psyBNC@lam3rz\.de NOTICE \* :psyBNC([-.\w]+)\r\n

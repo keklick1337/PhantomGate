@@ -1,0 +1,4 @@
+ICY 200 OK\r\n.*SHOUTcast Distributed Network Audio Server/win32.v([\d.]+).*icy-name:(.*?)\r\n
+ICY 200 OK\r\n.*SHOUTcast Distributed Network Audio Server/Linux.v([\d.]+).*icy-name:(.*?)\r\n
+ICY 200 OK\r\n.*SHOUTcast Distributed Network Audio Server/SolarisSparc.v([\d.]+).*icy-name:(.*?)\r\n
+ICY 200 OK\r\n.*SHOUTcast Distributed Network Audio Server/FreeBSD.v([\d.]+).*icy-name:(.*?)\r\n

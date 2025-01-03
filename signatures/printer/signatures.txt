@@ -1,0 +1,9 @@
+\xff
+no queue to check\n\0
+SB06D2F0: \xe5\x9f\xf0\x18\xe5\x9f\xf0\x18\xe5\x9f\xf0\x18\xe5\x9f\xf0\x18\xe5\x9f\xf0\x18\xe1\xa0 no entries\n
+default: unknown printer\n
+no entries\n
+VSE Line Printer Daemon has rejected this request\.\0\0
+An lpd test connection was completed successfully\r\n
+/usr/local/helios/sbin/lpd Printer default doesn't exist! \n
+Fictive printer queue short information\n

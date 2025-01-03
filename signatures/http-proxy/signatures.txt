@@ -1,0 +1,96 @@
+HTTP/1\.0 407 Proxy access denied\r\nProxy-Authenticate: NTLM\r\nProxy-Connection: keep-alive\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.[01] \d\d\d .*\r\nServer: Sensorsoft-Remote-Watchman-Enterprise/([\d.]+)\r\n
+HTTP/1\.[01] \d\d\d .*\r\nServer: Kannel/([\d.]+)\r\n
+HTTP/1\.0 407 Proxy Authentication required\r\nDate: .*\r\nContent-Type: text/html\r\nProxy-Authenticate: Basic realm=\"Proxy\+ HTTP Proxy service\"\r\n
+HTTP/1\.1 503 Freenet is starting up\r\n
+HTTP/1\.0 400 Invalid header received from browser\n\n
+HTTP/1\.1 405 Bad Method\r\n.*<H1>I2P ERROR: METHOD NOT ALLOWED</H1>The request uses a bad protocol\. The Connect Proxy supports CONNECT requests ONLY\. Other methods such as GET are not allowed - Maybe you wanted the HTTP Proxy\?\.<BR>
+HTTP/1\.0 404 Not Found\r\n.*<title>HINWEIS: Die Internetnutzung ist gesperrt\.</title>
+HTTP/1\.0 403 Forbidden\r\nCache-Control: no-cache\r\nConnection: close\r\nContent-Type: text/html\r\n\r\n<html><body><h1>403 Forbidden</h1>\nRequest forbidden by administrative rules\.\n</body></html>\n
+HTTP/1\.0 200 OK\r\nCache-Control: no-cache\r\nConnection: close\r\nContent-Type: text/html\r\n\r\n<html><head><title>Statistics Report for HAProxy</title>
+HTTP/1\.1 503 Service Unavailable\r\nServer: Varnish\r\n
+HTTP/1\.0 400\r\nContent-Type: text/html\r\n\r\n<html><head><title>Error</title></head><body>\r\n<h2>ERROR: 400</h2>\r\n<br>\r\n</body></html>\r\n
+HTTP/1\.0 403 Access Forbidden\r\nContent-Type: text/html\r\n\r\n<HTML><HEAD><TITLE>407 Proxy Authentication Required</TITLE></HEAD><BODY><H1>Proxy Authentication Required</H1><H4>Unable to complete request<P>Access denied due to authentication failure\.</H4><HR></BODY></HTML>\n\n\0
+HTTP/1\.0 400 Bad Request\r\nContent-Type: text/html\r\n\r\nYou are trying to use a node of the CoDeeN CDN Network\.
+IsException=TRUE\r\nExceptionMsg=
+HTTP/1\.0 401 Unauthorized\r\nServer: Telkonet Communications\r\n
+HTTP/1\.1 302 Found\r\nServer: BlueCoat-Security-Appliance\r\nConnection: close\r\nLocation: /proxyclient/\r\n\r\n
+HTTP/1\.0 404 GlimmerBlocked\r\n
+HTTP/1\.1 502 Bad Gateway\r\nConnection : close\r\n.*\n<title>The requested URL could not be retrieved</title>\n<link href=\"http://passthrough\.fw-notify\.net/static/default\.css\"
+HTTP/1\.0 502 Bad Gateway\r\nProxy-Connection: close\r\nContent-type: text/html; charset=us-ascii\r\n\r\n<html><head><title>502 Bad Gateway</title></head>\r\n<body><h2>502 Bad Gateway</h2><h3>Host Not Found or connection failed</h3></body></html>\r\n
+HTTP/1\.0 500 Direct HTTP requests not allowed\nContent-type: text/html\n\n<font face=\"Bitstream Vera Sans Mono,Andale Mono,Lucida Console\">\nThe proxy is unable to process your request\.\n<h1><font color=red><b>Direct HTTP requests not allowed\.</b></font></h1>\n
+AdsGone Blocked HTML Ad
+HTTP/1\.1 \d\d\d .*\r\nServer: Oracle HTTP Server Powered by Apache/([-.\w]+)\r\n
+HTTP/1\.1 503 ERROR\nConnection: close\nContent-Type: text/html; charset=iso-8859-1\n\n<html>\n<head>\n<title>Error: Unable to resolve IP</title>
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.01 Transitional//EN\" \"http://www\.w3\.org/TR/html4/loose\.dtd\">.*FEHLER: Der angeforderte URL konnte nicht geholt werden
+<HTML><BODY bgColor=#FFFFFF link=#0000CC text=#000000 vLink=#CCCC88><TITLE>An error has occurred\.\.\.</TITLE><CENTER><TABLE width=600 border=0 cellpadding=2 cellspacing=1><TR bgcolor=#FFFFFF vAlign=top><TD width=\"90%\" colspan=2 bgcolor=#707888>
+HTTP/1\.1 407\r\nProxy-Authenticate: Basic realm=\"Proxy\"\r\nContent-Type: text/plain\r\n\r\nAccess denyed
+HTTP/1\.0 \d\d\d .*\r\nServer: icecast/(\d[-.\w]+)\r\n
+HTTP/1\.1 503 Service Unavailable\r\ndate: .*\r\nconnection: close\r\n\r\n<html><body><pre><h1>Service unavailable</h1></pre></body></html>\n
+HTTP/1\.0 407 Proxy Authentication Required\r\nProxy-Authenticate: NTLM\r\nProxy-Authenticate: basic realm=\"proxy\"\r\nProxy-Connection: close\r\n.*<h2>407 Proxy Authentication Required</h2><h3>Access to requested resource disallowed by administrator or you need valid username/password to use this resource</h3>
+<HTML><HEAD><TITLE>501 Not Implemented</TITLE></HEAD>\n<BODY><H2>501 Not Implemented</H2>\nThe requested method '' is not implemented by this server\.\n<HR>\n<I>httpd/1\.00</I></BODY></HTML>\n
+HTTP/1\.0 200 OK\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 3366\r\nPragma: no-cache\r\n\r\n.*<style>\r\n\r\nh1, p, a, body {font-family: Arial;}\r\n\r\nh2\r\n{\r\n\ttext-align: center; \r\n\tfont: bold 20px Verdana, sans-serif; \r\n\tcolor: #00F; \r\n}
+HTTP/1\.1 407 Proxy Authentication Required \( The ISA Server requires authorization to fulfill the request\. Access to the Web Proxy service is denied\.  \)\r\n
+HTTP/1\.0 404 Not Found\r\n.*<title>HINWEIS: Der Zugriff auf die angeforderte URL war nicht erfolgreich</title>
+HTTP/1\.0 302 Moved Temporarily\r\nContent-length: 22\r\nConnection: close\r\nSet-Cookie: sslvpn-authck-orig-url=/; path=/\r\nSet-Cookie: sslvpn-authck-realm-name=Our Users; path=/\r\nLocation: /_formauth/login\.html\r\nContent-Type: text/plain\r\n\r\n302 Moved Temporarily\n
+HTTP/1\.1 401 Unauthorized\r\nContent-Length: 0\r\nWWW-Authenticate: Basic realm=\"proxy1\"\r\nConnection: keep-alive\r\nProxy-Connection: keep-alive\r\n\r\n
+HTTP/1\.1 404 Not found\r\nConnection: close\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nContent-Type: text/html\r\nContent-Length: 48\r\n\r\n<html><body>HTTP/1\.1 404 Not found</body></html>
+HTTP/1\.0 403 Request error by HAVP\r\n.*<title>Yoggie - Unknown Request</title>
+HTTP/1\.0 407 Unauthorized\r\nServer: CCProxy\r\nProxy-Authenticate: Basic realm=\"CCProxy Authorization\"\r\n
+HTTP/1\.0 403 Access Denied\r\nConnection: close\r\n\r\n<html>The request you issued is not authorized for GoogleSharing\.\n
+HTTP/1\.1 403 Bad Protocol\r\n.*<H1>I2P ERROR: NON-HTTP PROTOCOL</H1>The request uses a bad protocol\. The I2P HTTP Proxy supports http:// requests ONLY\. Other protocols such as https:// and ftp:// are not allowed\.<BR>
+HTTP/1\.0 504 Gateway Timeout\r\nContent-Type: text/html\r\nPragma: no-cache\r\n\r\n<H4><font COLOR=\"#FF0000\">Error parsing http request : </font></H2><p><pre>GET / / HTTP/1\.0\r\n\r\n</pre>
+HTTP/1\.0 403 Forbidden\r\n.*<TITLE>\r\nFEHLER: Der Zugriff auf die angeforderte URL war nicht erfolgreich\r\n</TITLE>.*<B>KEN! DSL Proxy</B>
+HTTP/1\.1 502 Proxy Error \( The Uniform Resource Locator \(URL\) does not use a recognized protocol\. Either the protocol is not supported or the request was not typed correctly\. Confirm that a valid protocol is in use \(for example, HTTP for a Web request\)\.
+HTTP/1\.1 400 Bad Request\r\n.*This is a WebSEAL error message template file\.
+HTTP/1\.0 \d\d\d .*\r\nContent-type: text/html\r\n\r\n<HTML><HEAD><TITLE>OkiLAN (\w+)</TITLE>
+HTTP/1\.1 407 Proxy Authentication Required\r\nProxy-Authenticate: NTLM\r\nProxy-Authenticate: BASIC realm=\"DOMBUD\"\r\nCache-Control: no-cache\r\nPragma: no-cache\r\n
+HTTP/1\.0 503 Service unavailable\r\n\r\n\r\n<html>\r\n<head>\r\n<title>Connect server failed</title>\r\n</head>\r\n<body >\r\n<h3>503 Can not connect server</h3>\r\nezProxy meets some difficulties to connect this WWW server\.
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.01 Transitional//EN\" \"http://www\.w3\.org/TR/html4/loose\.dtd\">.*A URL solicitada n&atilde;o pode ser recuperada
+HTTP/1\.1 504 Gateway Time-out\r\nConnection: close\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nContent-Length: 2976\r\nContent-Type: text/html\r\n\r\n<DIV class=Section1> \n\t\t<P class=MsoNormal
+HTTP/1\.1 200 .*<title>Web Filter Block Override</title>.*/XX/YY/ZZ/logo_fguard_wf\.gif
+HTTP/1\.1 404 Unknown host\.\r\nServer: Varnish\r\n
+HTTP/1\.0 403 Request error by HAVP\r\n
+HTTP/1\.0 407 Proxy Authentication Required.*\r\nServer: HandyCache\r\n
+HTTP/1\.0 400 Bad Request\r\nContent-Length: 103\r\nConnection: close\r\n\r\n<html><body> <h2>Mikrotik HttpProxy</h2>\n\r<hr>\n\r<h2>\n\rError: 400 Bad Request\r\n\r\n</h2>\n\r</body></html>\n\r
+HTTP/1\.0 502 Bad gateway\r\n\r\nBurp proxy error: Invalid client request received: First line of request did not contain an absolute URL - try enabling invisible proxy support\r\n
+HTTP/1\.0 403 Forbidden\r\n.*<br><b>Access denied due to Proxy\+'s Security settings!</b>
+HTTP/1\.0 302 Moved\r\nDate: .*\r\nServer: DeleGate
+HTTP/1\.0 504 Gateway Timeout\r\nContent-Length: 237\r\n.*<p>The proxy server did not receive a timely response\nfrom the upstream server\.</p>
+HTTP/1\.0 404 Error\r\n.*<HTML><HEAD><TITLE>Extra Systems Proxy Server</TITLE>
+HTTP/1\.0 407 Proxy Authentication Required\r\nProxy-Authenticate: Basic realm=\"oops\"\r\n
+HTTP/1\.0 400 Bad Request\r\n.*<html><body>\t\t<i><h2>Invalid request:</h2></i><p><pre>Bad request format\.\n</pre><b>\t\t</b><p>Please, check URL\.<p>\t\t<hr>\t\tGenerated by Oops\.\t\t</body>\t\t</html>
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.01 Transitional//EN\" \"http://www\.w3\.org/TR/html4/loose\.dtd\">.*L'URL demand&eacute;e n'a pu &ecirc;tre charg&eacute;e
+HTTP/1\.0 400 Bad request\r\nContent-Type: text/html\r\nPragma: no-cache\r\n\r\n<H4><font COLOR=\"#FF0000\">Error parsing http request : </font></H2><p><pre>GET / / HTTP/1\.0\r\n\r\n</pre>
+HTTP/1\.0 503 Service Unavailable\r\nCache-Control: no-cache\r\nConnection: close\r\nContent-Type: text/html\r\n\r\n<html><body><h1>503 Service Unavailable</h1>\nNo server is available to handle this request\.\n</body></html>\n
+HTTP/1\.0 400 Bad Request\r\nMime-Version: 1\.0\r\n.*<!-- \n /\*\n Stylesheet for Squid Error pages\n
+<Html><Body><H1> Unauthorized \.\.\.</H1></Body></Html>
+HTTP/1\.0 502 Bad gateway\r\n\r\nBurp proxy error: invalid client request received: first line of request did not contain an absolute URL - try enabling invisible proxy support\r\n
+HTTP/1\.0 400 Bad Request\r\n\r\n
+HTTP/1\.1 \d\d\d .*\r\nConnection: close\r\nDate: .*\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nContent-Type: text/html\r\nContent-Length: \d+\r\nServer: Web-Server/([\d.]+)\r\n\r\n<HTML>\n<FRAMESET ROWS=\"82,40,\*\"| p/Web-Server httpd/ v/$1/ i|NRG/Ricoh copier http config
+HTTP/1\.0 407 Proxy Authentication Required\r\nProxy-Authenticate: Basic realm=.*<h3>Access to requested resource disallowed by administrator or you need valid username/password to use this resource
+HTTP/1\.1 \d\d\d .*\r\nConnection: close\r\nContent-Type: text/plain\r\nContent-Length: \d+\r\nServer: TiVo Server/([\d.]+)\r\n\r\n
+HTTP/1\.1 \d\d\d .*Server: Webserver\r\n.*\tCopyright \(c\) 2002-2006 Xerox Corporation\. All Rights Reserved\. \n\n
+HTTP/1\.0 501 Not Implemented\r\n.*<STRONG>\nUnsupported Request Protocol\n</STRONG>\n</UL>\n<P>\nBFilter does not support all request methods for all access protocols\.\n
+HTTP/1\.1 400 Bad Request\r\n.*<title>Webwasher - Notification</title>\r\n
+HTTP/1\.1 407 Proxy Authentication Required \( El servidor ISA requiere autorizaci\xc3\xb3n para completar la petici\xc3\xb3n\. Acceso denegado al servicio de proxy web\.  \)\r\n
+HTTP/1\.1 \d\d\d [^\r\n]*\r\n.*Server: BAIDA/([\w._-]+)\r\n
+HTTP/1\.0 400 Bad Request\r\n.*<html><head><title>WebWasher - Error 400: Bad Request</title>
+HTTP/1\.0 400 Ung\xfcltige Anforderung\r\nConnection: Close\r\nContent-type: text/html\r\nPragma: no-cache\r\n\r\n<html><head><title>WebWasher - Fehler 400: Ung\xfcltige Anforderung</title>
+HTTP/1\.1 400 Bad Request\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nContent-Type: text/html; charset=utf-8\r\nProxy-Connection: close\r\nConnection: close\r\n.*<TITLE>P\xc3\xa1gina de Error invalid_request</TITLE>
+HTTP/1\.1 301 Moved Permanently\r\nServer: Varnish\r\n
+HTTP/1\.1 502 Proxy Error \( L'URL \(Uniform Resource Locator\) n'utilise pas de protocole reconnu\. Soit le protocole n'est pas pris en charge, soit la demande n'a pas \xe9t\xe9 tap\xe9e correctement\.
+HTTP/1\.0 \d\d\d .*\r\nServer: Cherokee/([-.\w]+) \(Gentoo Linux\)\r\n
+HTTP/1\.0 404 No service found\r\nDate: .*\r\nServer: ACE XML Gateway\r\nContent-Type: text/plain\r\nConnection: close\r\nContent-Length: 30\r\n\r\nNo service matched the request
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.01 Transitional//EN\" \"http://www\.w3\.org/TR/html4/loose\.dtd\">.*El URL solicitado no se ha podido conseguir
+HTTP/1\.0 503 Service Unavailable\r\nContent-Type: text/html\r\nContent-Length: 53\r\nExpires: now\r\nPragma: no-cache\r\nCache-control: no-cache,no-store\r\n\r\nThe service is not available\. Please try again later\.
+HTTP/1\.1 \d\d\d .*\r\nServer: Indy/([\d.]+)\r\nWWW-Authenticate: Basic realm=\"NetStatus Professional\"\r\n
+HTTP/1\.0 200 OK\r\n\r\n
+HTTP/1\.0 302 Found\r\nSet-Cookie:.*<TITLE>Novell Proxy</TITLE></HEAD><BODY><b><p>HTTP request is being redirected to HTTPS\.</b></BODY></HTML>\r\n
+HTTP/1\.0 407 Authentication failed\r\nConnection: close\r\nProxy-Connection: close\r\nProxy-Authenticate: Basic realm=\"HTTP proxy\"\r\n
+HTTP/1\.0 503\r\nServer: Charles\r\n
+HTTP/1\.0 \d\d\d .*\r\nDate: .*\r\nContent-Length: \d+\r\nContent-Type: text/html\r\nServer: NetCache appliance \(NetApp/([\d.]+)\)\r\n\r\n
+HTTP/1\.1 \d\d\d .*\r\nServer: ml_www/(.*)\r\n
+HTTP/1\.0 \d\d\d .*\r\nServer: PRINT_SERVER WEB ([\w._-]+)\r\nWWW-Authenticate: Basic realm=\"NeedPassword\"\r\nContent-type: text/html\r\n
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.01 Transitional//EN\" \"http://www\.w3\.org/TR/html4/loose\.dtd\">.*ERROR: The requested URL could not be retrieved
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.01 Transitional//EN\" \"http://www\.w3\.org/TR/html4/loose\.dtd\">.*La URL richiesta non pu&ograve; essere recuperata</TITLE>

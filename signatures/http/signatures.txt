@@ -1,0 +1,677 @@
+HTTP/1\.0 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"/webpages\"\r\nServer: DigiSprite\r\n
+HTTP/1\.0 400 Bad Request\r\nServer: Mini web server 1\.0 ZTE corp 2005\.\r\nContent-Type: text/html; charset=iso-8859-1\r\nAccept-Ranges: bytes\r\nConnection: close\r\nCache-Control: no-cache,no-store\r\n\r\n                                              <HTML>\n                                              <HEAD><TITLE>400 Bad Request</TITLE></HEAD>\n                                              <BODY BGCOLOR=\"#FFFFFF\" TEXT=\"#000000\" LINK=\"#2020ff\" VLINK=\"#4040cc\">\n                                              <H2>400 Bad Request</H2>\nYour request has bad syntax or is inherently impossible to satisfy\.\n
+HTTP/1\.0 401 Authorization Required\r\nContent-length: 0\r\nWWW-Authenticate: Basic realm=\"Cayman-DSL\"\r\n\r\n
+HTTP/1\.0 200 Ok\r\nConnection: close\r\nContent-Type: text/html\r\n\r\n<HTML><FRAMESET COLS=\"23%,\*\"><FRAME NAME=\"side\" SRC=\"MENUNET\.htm\"><FRAME NAME=\"middle\" SRC=\"HOME\.htm\"></FRAMESET><NOFRAMES>Your Browser must support frames to view this page\.</NOFRAMES></HTML>
+HTTP/1\.1 405 Not Allowed\r\nContent-Type: text/html; charset=utf-8\r\n.*<head><title>405 Not Allowed</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n
+HTTP/1\.1 403 Forbidden\r\nServer: tksock\r\nDate: .*\r\nConnection: Close\r\nContent-length: 82\r\nContent-type: text/html\r\n\r\n<HTML><TITLE>Error</TITLE><BODY><H2>\r\nHTTP/1\.1 403: Forbidden\r\n</H2></BODY></HTML>
+HTTP/1\.1 400 Error in MIME message\r\n
+HTTP/1\.0 200 .*\r\nServer: IST OIS\r\n.*<title>Phone&nbsp;Station&nbsp;Information</title>
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<!---CAS:0003--><HTML><HEAD><TITLE>U\.S\. Robotics Broadband Router Configuration</TITLE>
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\nContent-Length: 227\r\n\r\n<html> <head> <title>D-Link VoIP Router</title>
+HTTP/1.0 200 OK\r\nServer:HTTP/1.0\r\n.*<title>Hewlett Packard</title>
+\r\n\r\n\r\n\r\n\r\n\r\n<\?xml version=\"1\.0\" encoding=\"ISO-8859-1\"\?>\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1\.0 Strict//EN\"\r\n  \"http://www\.w3\.org/TR/xhtml1/DTD/xhtml1-strict\.dtd\">\r\n\r\n\r\n\r\n<html>\r\n<head>\r\n<title>RealSecure SiteProtector</title>.*<meta name=\"copyright\"\r\n\t\tcontent=\"This web site, its design, copy, scripts and artwork,\r\n\t\tare copyright 2006 by Internet Security Systems, Inc\.\r\n
+HTTP/1\.0 503 Service Unavailable\r\nContent-Type: text/html\r\nContent-Length: 169\r\n\r\n<html><head><title>503 Service Unavailable</title></head><body><h1>503 Service Unavailable</h1><p>The service is not available\. Please try again later\.</p></body></html>
+HTTP/1\.0 200 OK\r\nHTTP/1\.0 200 OK\r\nServer: ap\r\nConnection: close\r\nCache-Control: must-revalidate = no-cache\r\nContent-Type: text/html\r\nExpires: 0\r\nLast-Modified: 0\r\n\r\n<html>  \r\n<head><title>IEEE802\.11b Wireless LAN Access Point
+HTTP/1\.1 200 OK\r\nPragma: no-cache\r\nConnection: close\r\nCache-Control: no-cache\r\nContent-Type: text/html\r\n\r\n<html><head><meta http-equiv=\"refresh\" content=\"0;url=/_top\.html\">\n<title></title></head><body></body></html>\0
+HTTP/1\.1 404 Not Found\r\nDate: .* GMT\r\nServer: Unknown\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2\.0//EN\">\n<HTML><HEAD>\n<TITLE>404 Not Found</TITLE>\n</HEAD><BODY>\n<H1>Not Found</H1>\nThe requested URL / was not found on this server\.<P>\n</BODY></HTML>\n
+HTTP/1\.1 404 Not Found\r\nContent-Type: text/html\r\nContent-Length: 232\r\nCache-Control: max-age=0\r\n.*<address>iNTERFACEWARE Iguana Administration Server</address>\r\n</body>\r\n\r\n</html>\r\n
+HTTP/1\.0 200 OK\r\n.*title>Security</title>.*font size=4 face=Arial>This unit is password protected</font></p><p align=center><font size=3 face=Arial>Please enter the correct password  to access the web pages</font>|s p|VoIP/POTS gateway http config
+HTTP/1\.0 200 Ok\r\nContent-Type: text/html\r\nServer: httpd\r\n.*<title>Router - Info</title>\n\n
+HTTP/1\.0 401 Unauthorized\r\nContent-Length: 91\r\nContent-Type: text/html\r\nX-Plex-Protocol: 1\.0\r\n
+HTTP/1\.1 200 OK\r\nConnection: close\r\nServer: Apache\r\nContent-Length: 43\r\n\r\n<h3>No site configured at this address</h3>
+HTTP/1\.0 500 no query\r\n\r\n
+HTTP/1\.0 501 Unimplemented\r\nContent-Type: text/plain\r\nContent-Length: 17\r\n\r\n501 Unimplemented
+HTTP/1\.0 200 OK\r\nContent-Type: text/html\r\n\r\n<html><head><title>VDR Channel Listing</title>
+HTTP/1\.1 404 File not Found\r\nServer: NAE01\r\nDate: .*\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 0\r\nConnection: Close\r\n\r\n
+HTTP/1\.1 200 Ok\r\nDate: .*\r\nContent-Type: text/html\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.01 Frameset//EN\" \"http://www\.w3\.org/TR/html4/frameset\.dtd\">\r\n<html>\r\n\t<head>\r\n\t\t<TITLE>Web Client for DVR</TITLE>
+HTTP/1\.0 200 OK\r\nPragma: no-cache\r\n.*<TITLE>Management</TITLE>.*<METArem http_equiv=\"Refresh\" content=\"0; URL=index\.ssi\">\n\n</HEAD>\n<FRAMESET border=0 frameSpacing=0 rows=48,\* frameBorder=no>
+HTTP/1\.0 302\r\nLocation: /Portal0000\.htm\r\n.*<HTML><HEAD><TITLE>Error</TITLE></HEAD>\r\n<BODY><CENTER><H2>/<BR><BR>302 : MOVED TEMPORARILY</H2></CENTER></BODY></HTML>
+HTTP/1\.1 403 Forbidden\r\nCache-Control: no-cache\r\nContent-type: text/html\r\nConnection: close\r\n\r\n<HTML><HEAD><TITLE>Error 403</TITLE></HEAD><BODY><H1>Error 403</H1><P>Forbidden</P></BODY></HTML>
+HTTP/1\.0 200 Ok\r\nServer: CAMEO-httpd\r\n.*<title>D-LINK CORPORATION \| WIRELESS AP \| LOGIN</title>
+HTTP/1\.0 501 Not Implemented\r\nServer: Waveplus HTTPD\r\n
+HTTP/1\.0 302 Redirect\r\nServer: GoAhead-Webs\r\n.*Location: https?://vxtarget/esm_loginMain\.htm\r\n\r\n
+HTTP/1\.1 200 OK\r\nServer: Miralix License Server\r\n
+HTTP/1\.0 401 Authentication Required\r\nWWW-Authenticate: Basic realm=\"Icecast2 Server\"\r\n\r\nYou need to authenticate\r\n
+HTTP/1\.0 403 Forbidden\r\nServer: Transmission\r\nContent-Type: text/html; charset=ISO-8859-1\r\n
+<HTML><HEAD><TITLE>Error</TITLE></HEAD><BODY><H1>Error</H1>Bad request or resource not found\.</BODY></HTML>\0
+HTTP/1\.0 401 Unauthorized\r\nContent-type: text/html\r\nWWW-Authenticate: Basic realm=\"Login\"\r\n<HTML><HEAD><TITLE>401 Unauthorized</TITLE></HEAD>\n<BODY><H1>401 Unauthorized Access Attempt</H1>\nYou are not authorized to access the requested file\.</BODY></HTML>
+HTTP/1\.0 200 OK \r\nContent-Type: text/html\r\nDate: .* GMT\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1\.0 Strict//EN\" \"http://www\.w3\.org/TR/xhtml1/DTD/xhtml1-strict\.dtd\">\n<html xmlns=\"http://www\.w3\.org/1999/xhtml\" lang=\"en\">\n<head>\n<title>Wuala  - Secure Online Storage</title>
+HTTP/1\.0 200 OK\r\nContent-Type: text/html \r\n\r\n<tr>\n<td>\n<img src=\"/clearpixelIcon\?ac=20\" height=\"5\" width=\"0\" border=\"0\" alt=\"\" title=\"\">
+HTTP/1\.1 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"Internet Camera\"\r\nContent-Type: text/html\r\nContent-Length: 16\r\nPragma: no-cache\r\n\r\n401 Unauthorized
+HTTP/1\.0 400 Bad Request protocol\r\nServer: httpd\r\n.*<TITLE>400 Bad Request protocol</TITLE></HEAD>\n<BODY BGCOLOR=\"#FFFFFF\"><H4>400 Bad Request protocol</H4>\nCan't parse request\.\n</BODY></HTML>\n
+HTTP/1\.0 200 OK\r\nContent-Type: text/html\r\n.*<title>RemoteView</title>.*<frame name=\"menu\" src=\"Menu_main\.htm\" target=\"parent\.work\"
+HTTP/1\.1 403 Directory Listing Denied\r\nContent-Type: text/plain\r\nContent-Length: 12\r\n\r\nError: 403\r\n
+HTTP/1\.0 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"router\"\r\n.*<h2>401 Unauthorized<h2>\n  <p>\n  Authorization required for the URL\.\n</body>\n</html>\n
+HTTP/1\.1 401 Unauthorized\r\nServer: micro_httpd\r\nCache-Control: no-cache\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"Wireless ADSL2\+ Router\"\r\n
+HTTP/1\.0 302 Found\r\nLocation: /login\.app\r\nContent-Lenght: 0\r\n\r\n
+HTTP/1\.0 401 Authorization Required\nWWW-Authenticate: Basic realm=\"HERCULES\"\n
+HTTP/1\.0 200 OK\r\nPragma: no-cache\r\n\r\n<HTML><HEAD><TITLE>WinRoute Pro - Web Interface</TITLE>
+HTTP/1\.0 200 OK\r\nDate: .*\r\nServer: qHTTPs\r\nMIME-version: 1\.0\r\nContent-type: text/html\r\nLast-modified: .*\r\nContent-length: \d+\r\n\r\n<head>\r\n<meta http-equiv='refresh' content='0; URL=\./cgi-bin/ups_view\.exe\?-ups_view'>\r\n</head>\r\n<body>\r\n</body>\r\n</html>\r\n
+HTTP/1\.1 501 Not Implemented\r\n\r\n
+HTTP/1\.1 401 Unauthorized\nDATE: .*\nWWW-Authenticate: Basic realm=\"Delta UPS Web\"\nServer: Delta UPSentry\n
+HTTP/1\.0 400 Bad Request\r\nServer: micro_httpd\r\n
+HTTP/1\.1 302 Found\r\nServer: httpd\r\nDate: .*\r\nLocation: login\.html\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 0\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nExpires: 0\r\nConnection: close\r\n\r\n
+HTTP/1\.1 400 Bad Request\r\nContent-Type: text/html\r\nConnection: close\r\nDate: .*\r\nContent-Length: 134\r\n\r\n<HTML><HEAD>\n<TITLE>400 Bad Request</TITLE>\n</HEAD><BODY>\n<H1>Method Not Implemented</H1>\nInvalid method in request<P>\n</BODY></HTML>\n
+HTTP/1\.1 200 OK\r\nServer: Web Server\r\n X-UA-Compatible: IE=EmulateIE7\r\nContent-Type: text/html\r\nCache-Control: no-cache\r\nPragma: no-cache\r\n.*<title>Switch</title>
+HTTP/1\.0 400 Bad Request\r\nServer: OfficeScan Client\r\nContent-Type: text/plain\r\nAccept-Ranges: bytes\r\nContent-Length: 4\r\n\r\nFail
+HTTP/1\.0 404 Not Found\r\nConnection: closed\r\nContent-Type: text/html; charset=UTF-8\r\n.*<html><head><title>404 Not Found</title>
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n<html><head>\n<title>\n  Authentication Form \n</title> \n</head> \n \n<BODY BGCOLOR=\"#000000\" TEXT=\"#00FF00\"> \n\n<p> \n<h3 align=left><font face=\"arial,helvetica\">Client Authentication Remote \nService</font></h3>
+HTTP/1\.1 200 OK\r\nX-Hue-Jframe-Path: /\r\nVary: Accept-Language, Cookie\r\nContent-Type: text/html; charset=utf-8\r\n.*<meta http-equiv=\"refresh\" content=\"0; url=/beeswax\">
+HTTP/1\.0 400 Bad Request\r\nContent-Type: text/html\r\n\r\n<title>400 Bad Request</title><body>400 Bad Request</body>
+HTTP/1\.0\x20250\x20Ok\r\n.*<title>PowerMTA monitoring</title>
+HTTP/1\.0 200 OK\r\n.*<TITLE>Print server homepage</TITLE></HEAD>\n<FRAMESET COLS=\"200,\*\" BORDER=0 FRAMEBORDER=0>\n<FRAME SRC=\"/links_en\.html\">\n
+HTTP/1\.1 403 Forbidden\r\nDate: .* GMT\r\nContent-Length: 13\r\nConnection: close\r\nCache-Control: no-cache\r\n\r\n403 Forbidden
+HTTP/1\.1 401 Unauthorized\r\nServer: DPH-140\r\nWWW-Authenticate: Digest realm=\"DPH-140\"
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\n.*<TITLE></TITLE>\r\n.*<meta http-equiv=\"refresh\" content=\"0; URL=/wcd/js_error\.xml\">\r\n
+HTTP/1.1 302 Document Follows\r\nLocation: /hag/pages/home.ssi\r\n\r\n
+HTTP/1\.1 401 Unauthorized\r\nContent-Type: text/html\r\nConnection: close\r\nPragma: no-cache\r\nWWW-Authenticate: Basic realm=\"netcam\"\r\nContent-Length: 17\r\n\r\n401 Unauthorized\n
+HTTP/1\.0 400 Bad Request\r\n.*This is a WebSEAL error message template file\.
+HTTP/1\.1 403 Forbidden\.\r\nContent-Type: application/json.*\r\nDate: .* GMT\r\nContent-Length: 90\r\n\r\n{\"status\": {\n  \"code\": 403,\n  \"commandResult\": 1,\n  \"msg\": \"Forbidden\.\",\n  \"query\": \"/\"\n}}
+HTTP/1\.1 200 OK\r\nContent-Length:165\r\nContent-Type:text/html\r\n\r\n<HTML><TITLE>NetTalk, Inc\.</TITLE><FRAMESET COLS=\"100%\" ROWS=\"140,\*\" frameborder=0><FRAME NAME=\"t\" SRC=\"t\.htm\"><FRAME NAME=\"login\" SRC=\"login\.cgi\"></FRAMESET></HTML>
+HTTP/1\.1 500 Internal Server Error\r\nContent-Type: text/plain; charset=UTF-8\r\n\r\nFailure: 500 Internal Server Error\r\nnull\r\n\r\n
+HTTP/1\.1 302 Found\r\nLocation: http:///home\.htm\r\nContent-Length: 0\r\nWebServer:\r\n\r\n
+HTTP/1\.1 404 Not Found\r\nContent-Length: 0\r\nCache-Control: no-cache,no-store,no-cache\r\nContent-Type: application/json\r\nPragma: no-cache,no-cache\r\n\r\nHTTP/1\.1 404 Not Found\r\nContent-Length: 0\r\nCache-Control: no-cache,no-store,no-cache\r\nContent-Type: application/json\r\nPragma: no-cache,no-cache\r\n\r\n
+HTTP/1\.0 401 Unauthorized\r\nServer: httpd\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"NETWORK HDD\"\r\n
+HTTP/1\.1 200 OK\r\nConnection: close\r\nContent-Type: text/html\r\nCache-Control: no-cache\r\n\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n   <title>CyberStat Configuration</title>
+HTTP/1\.1 403\r\nConnection: close\r\nContent-Type: text/plain\r\n\r\nAccess denied
+HTTP/1\.0 200 OK\r\nDate: .*\r\nServer: Embedded HTTP Server\.\r\n.*<meta http-equiv=\"refresh\" content=\"0; URL=/scgi-bin/index\.htm\">
+HTTP/1\.1 200 OK\r\nConnection: close\r\nContent-Type: text/html\r\nContent-length: 131\r\n\r\n<!DOCTYPE HTML>\n<html>\n<head>\n    <meta http-equiv=\"refresh\" content=\"0;url=http://www\.google\.com\">\n</head>\n<body>\n\n</body>\n</html>
+HTTP/1\.1 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"realm\"\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.0 405-metode ikke tillatt\r\nTillatt: GET, HEAD, POST, PUT\r\n\r\n
+HTTP/1\.1 200 OK\r\nContent-type: text/html\r\nExpires: .*\r\nDate: .*\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n<HTML><TITLE>JAP</TITLE>\n
+HTTP/1\.1 401 Authorization Required\r\nServer: servermgrd\r\nSupportsXMLRPC\r\nSupportsBinaryPlist\r\nContent-Type: \xe2\x80\xa0%\xc6\x92<\r\n
+HTTP/1\.0 404 Not Found\r\nServer: Xfire\r\nConnection: close\r\n\r\n\r\n
+HTTP/1\.0 200 OK\nContent-Type: text/html; charset=utf-8\nConnection: close\n\nUnknown operator\.
+HTTP/1\.1 200 OK\r\nContent-Type: text/html; charset=utf8\r\nX-Pow-Template: welcome\r\n
+HTTP/1\.0 302 Moved Temporarily\r\nContent-Type: text/html\r\nLocation: /EnterpriseController\r\n
+HTTP/1\.0 302 Temporarily Moved\nLocation: /winamp\?page=main\nConnection: close\nContent-type: text/html\n\n<html>\n<head>\n<title>Winamp Web Interface</title>
+HTTP/1\.1 302 Object Moved\r\nLocation: /vpn/index\.html\r\nConnection: close\r\n
+RTSP/1\.0 400 Bad Request\r\nServer: \r\nDate: .*\r\nConnection: keep-alive\r\nKeep-Alive: timeout=60, max=2000\r\nContent-Type: text/html\r\nContent-length: 130\r\n\r\n<HTML><HEAD><TITLE>Document Error: Bad Request</TITLE></HEAD>\r\n<BODY><H2>Access Error: 400 -- Bad Request</H2>\r\n</BODY></HTML>\r\n\r\n
+HTTP/1\.0 200 Output Follows\nServer: Apache Embedded Server\nDate: \nConnection: close\nContent-Type: text/html\n\n<html>\r\n<head>\r\n<title>NewCS Management Console\.\.</title>
+HTTP/1\.1 200 OK\r\nContent-Length: 273\r\nContent-Type: text/html\r\n\r\n<HTML><HEAD><TITLE>Root Index</TITLE></HEAD><BODY><UL><LI><A HREF=\"/ccm-notify\">/ccm-notify</A></LI>\r\n<LI><A HREF=\"/ccm-proxy\">/ccm-proxy</A></LI>\r\n<LI><A HREF=\"/ccm-update\">/ccm-update</A></LI>\r\n<LI><A HREF=\"/config_public/\">/config_public/</A></LI>\r\n</UL></BODY></HTML>\r\n
+HTTP/1\.1 302 Moved Temporarily\r\nDate: .*\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\nSet-Cookie: SSLX_SSESHID=
+HTTP/1\.1 400 Bad request\r\nServer: Citrix Web PN Server\r\n
+HTTP/1\.1 200 OK\r\nConnection: close\r\nContent-Type: text/html\r\nExpires:0\r\npragma:no-cache\r\n\r\n<meta http-equiv=\"refresh\" content=\"0;url=Footprints\.html\">\r\n\r\n\r\n\r\n
+HTTP/1\.0 400\r\nContent-Type: text/html\r\n\r\n<hr><pre><font size=\+2><b>\nError\. Unsupported method\.\n</b></font>
+HTTP/1\.0 \d\d\d .*<title>mikrotik routeros > administration</title>.*font-size: 9px\">mikrotik routeros ([\d.]+) administration
+HTTP/1\.0 200 OK\r\nServer: private\r\nCache-Control: no-cache,no-store,max-age=0\r\npragma: no-cache\r\nContent-Type: application/octet-stream\r\nContent-Length: 101376\r\nAccept-Ranges: bytes\r\nDate: .*\r\nLast-Modified: .*\r\nExpires: .*\r\nConnection: close\r\n\r\nMZP\0\x02\0\0\0\x04\0\x0f\0\xff\xff\0\0\xb8
+HTTP/1\.0 404 Not Found\r\nContent-Type: text/html\r\n\r\n<HTML><HEAD><TITLE>HTTP 404 File not found</TITLE></HEAD><BODY TEXT=BLACK BGCOLOR=WHITE>The requested file was not found</BODY></HTML>
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<!---CAS:0003--><HTML><HEAD>\n<TITLE>Wireless Broadband NAT Router Web-Console
+HTTP/1\.1 .*\r\nServer: Hitachi Web Server\r\n
+HTTP/1\.0 302 Found\r\nLocation: /html/en/index\.html\r\n\r\n
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<\?xml version=\"1\.0\" encoding=\"utf-8\"\?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1\.0 Strict//EN\"\n \"http://www\.w3\.org/TR/xhtml1/DTD/xhtml1-strict\.dtd\">\n<html xmlns=\"http://www\.w3\.org/1999/xhtml\" lang=\"en\"> \n<head> \n <title>BeagleBoard 101</title>
+HTTP/1\.0 200 OK\r\nServer: HomeSeer\r\n
+HTTP/1\.0 302 Redirect\r\nServer: GoAhead-Webs\r\nDate: .*\r\nPragma: no-cache\r\nCache-Control: no-cache\r\nContent-Type: text/html\r\nLocation: http://Netlinx/WebControl\.asp\r\n\r\n| p/GoAhead httpd/ i|AMX NetLinx A/V control
+HTTP/1\.1 404 File not found\r\nContent-Type: text/html\r\nConnection: close\r\nServer: Rex\r\nContent-Length: 141\r\n\r\n<html><head><title>404 Not Found</title></head><body><h1>Not found</h1>The requested URL / was not found on this server\.<p><hr></body></html>
+HTTP/1\.0 404 Not Found\r\nContent-Type: text/html\r\nCache-Control: public\r\nPragma: cache\r\nExpires: .* GMT\r\nDate: .* GMT\r\nLast-Modified: Fri, 12 Aug 2011 00:00:00 GMT\r\nAccept-Ranges: bytes\r\nConnection: close\r\n\r\n<html>\n<head>\n  <title>404 Not Found</title>\n</head>\n<body bgcolor=\"ffffff\">\n  <h2>404 Not Found<h2>\n  <p>\n  \n</body>\n</html>\n
+HTTP/1\.0 200 OK\r\nCache-control: no-cache\r\nPragma: no-cache\r\n.*<title>DTA310 Web Configuration Pages</title></head>
+HTTP/1\.1 302 Found\r\nDate: .*\r\nLocation: /iw/webdesk/login/\r\nX-Cache: MISS from .*\r\nConnection: close\r\nContent-Type: text/html\r\n\r\n
+HTTP/1\.1 502 Bad Gateway\r\nContent-Type: text/html\r\nContent-Length: 487\r\n\r\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">\n<title>\nContent Server Message\n</title>\n</head>\n<body>\nNetwork message format error\. Unable to parse browser environment or content item\. Unable to parse properties\. Name-value pairs are missing an '='\.\n<!---\nStatusCode=-1\nStatusMessage=Network message format error\. Unable to parse browser environment or content item\. Unable to parse properties\. Name-value pairs are missing an '='\.\n---!>\n</body></html>
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<!---CAS:0003--><HTML><HEAD>\n<TITLE> Broadband NAT Router Web-Console           </TITLE>
+HTTP/1\.0 200 OK\r\nContent-type: text/html\n\n<html>\r\n<head>\r\n<title></title>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-1252\">\r\n<style type=\"text/css\">\r\n<!--\r\n\.leftLink {
+HTTP/1\.0 200 OK\r\nConnection: close\r\nDate: .*\n<TITLE>Samba Web Administration Tool</TITLE>
+HTTP/1\.0 200 Ok\nDate: .*\nContent-type: text/html\n\n<font size=\"-4\">\nIf you can read this, you are sitting too close to the monitor\.\n</font>\n
+HTTP/1\.1 401 Unauthorized\r\nServer: Radware-web-server\r\nWWW-Authenticate: Basic realm=\"Radware\"\r\nPragma: no-cache\r\nCache-Control: no-cache\r\nContent-Type: text/html\r\n\r\n<html><head><title>Document Error: Unauthorized</title>
+HTTP/1\.1 302 Not Found\r\nConnection: close\r\nLocation: /user/login\r\nServer: Sockso\r\n\r\n
+HTTP/1\.1 200 Ok\r\nServer: httpd\r\nDate: .* GMT\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nExpires: 0\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<html>\n<head>\n<title>Login Page</title>\n<!--\[if lt IE 7\.\]>\n
+<HTML><HEAD><META HTTP-EQUIV=refresh CONTENT=30; \n\t\turl=status\.html><TITLE>Stratasys Modeler Queue &amp; Job Status</TITLE>
+HTTP/1\.1 200 OK\nServer: BOINC client\n
+HTTP/1\.0 200 OK\n\n<title>.* NDT server</title>\n
+HTTP/1\.1 301 Moved Permanently\r\nDate: .* UTC\r\nConnection: close\r\nLocation: /admin/public/index\.html\r\n\r\n
+HTTP/1\.0 301 Moved Permanently\r\nCache-Control: no-cache\r\nConnection: close\r\nPragma: no-cache\r\nLocation: /TopAccess/default\.htm\r\nServer: TOSHIBA TEC CORPORATION\r\n
+HTTP/1\.0 400 Bad Request\r\nPragma: no-cache\r\nContent-type: text/html\r\n\r\n<html>\n  <head>\n  <title>400 Bad Request !!!</title>
+HTTP/1\.1 200 OK\r\n.*<meta http-equiv=\"Content-Type\" content=\"text/html; charset=Shift_JIS\">\r\n\r\n<html>\r\n<head>\r\n<title>Network</title>\r\n</head>\r\n<noscript>Make sure JavaScript is ON\.</noscript>.*<frame src=\"dmy\.htm\" name=\"m\">
+\xff\xf0 400 Bad Request\r\n\r\n<HEAD><TITLE>400 Bad Request</TITLE></END>\r\n<BODY><H1>400 Bad Request</H1></BODY>
+HTTP/1\.1 200 OK\r\n.*<TITLE>Divar Web Client</TITLE>
+HTTP/1\.1 505 HTTP Version Not Supported\r\n.*<title>VMware View</title>
+HTTP/1\.1 404 Not Found\r\nContent-Length: 35\r\nConnection: close\r\n\r\nError 404: Not Found\nFile not found
+<html>\n<title>24-Port 10/100Mbps \+ 2 Combo Copper/SFP PoE Management Switch</title>\n
+HTTP/1\.0 200 \r\nContent-Type: text/html\r\n\r\n<HTML><HEAD><TITLE>MX G2000 DEDICATED FILE SERVER</TITLE>
+HTTP/1\.1 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"Admin\"\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.1 404 Not Found\r\nServer: MiniWeb\r\nConnection: Keep-Alive\r\nContent-length: 125\r\nContent-Type: text/html\r\n\r\n<html><head><title>404 Not Found</title></head><body><h1>Not Found</h1><p>The requested URL has no content\.</p></body></html>
+HTTP/1\.1 404  not found here\. Contact Phluant Mobile \r\nContent-Length: 13\r\n\r\nerror xxxxxxx
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\nPragma: no-cache\r\n\r\n<html><head><title>ffserver Status</title>\n<link rel=\"shortcut icon\" href=\"http://dlink\.ru/favicon\.ico\">\n
+HTTP/1\.0 500 Internal Server Error\r\nConnection: Close\r\nContent-Type: text/html\r\n.*<p>java\.lang\.Exception: Invalid request: \x16\x03
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n<html><head><title>Authentication Form</title></head><BODY BGCOLOR=\"#000000\" TEXT=\"#00FF00\"><p><h3 align=left><font face=\"arial,helvetica\">Client Authentication Remote Service</font>
+HTTP/1\.1 302 \r\nContent-Type: text/html\r\nConnection: Close\r\nLOCATION: https://speedport\.ip/\r\nContent-Length: 155\r\n\r\n<head><title>302 Document moved</title></head><body><h1>302 Document moved</h1>This document has moved <a href=\"https://speedport\.ip//\">here</a>\.<p></body>
+HTTP/1\.0 409 Conflict\r\nServer: Transmission\r\n
+HTTP/1\.0 200 OK\r\nConnection: Close\r\nContent-Type: text/html; charset=UTF-8\r\n\r\n<html>.*QueryString\.keys\[QueryString\.keys\.length\] = argname;
+HTTP/1\.0 200 OK \r\nContent-Type: text/html\r\nDate: .*\r\n\r\n<html><head><meta http-equiv=\"content-type\" content=\"text/html; charset=ISO-8859-1\"><title>DIRECTV HTTP server available options</title>
+HTTP/1\.0 401 Authenticate\nWWW-Authenticate: Basic realm=\"P4Web\"\n
+HTTP/1\.0 200\r\nContent-Type:text/html\r\n\r\n<!--SELECTserver Full Page Header-->\r\n<html>\r\n\r\n<head>\r\n<title>\r\nSELECTserver: License Manager\r\n
+HTTP/1\.0 403 Forbidden\r\nAccept-Ranges: none\r\nConnection: close\r\nContent-Encoding: identity\r\nContent-Length: 0\r\nContent-Type: text/plain\r\nDate: .*\r\nServer: IST OIS\r\n\r\n
+HTTP/1\.0 301 Moved Permanently\r\nCache-Control: no-cache\r\nConnection: close\r\nAccept-Ranges: none\r\nLocation: /CitrixLogonPoint/Secured/\r\n\r\n
+HTTP/1\.0 200 OK\r\nConnection: close\r\n.*<title>Samsung Printer Status</title>.*var contentURI = \"/general/printerDetails\.htm\"
+HTTP/1\.1 400 Bad Request\r\nContent-Type: text/html; charset=utf-8\r\nConnection: close\r\nPragma: no-cache\r\nCache-Control: no-store\r\nExpires: -1\r\n.*<script src=\"/dana-na/css/ds\.js\"></script>
+HTTP/1\.0 302 Redirect\r\nServer: GoAhead-Webs\r\nDate: .*\r\nConnection: Close\r\nPragma: no-cache\r\nCache-Control: no-cache\r\nContent-Type: text/html\r\nLocation: http://\xee{64}/index\.html\r\n\r\n<html><head></head><body>\r\n\t\tThis document has moved to a new
+HTTP/1\.1 401 Authorization Required\r\nWWW-Authenticate: Basic realm=\"Linksys BEFSR41v3\"\r\n
+HTTP/1\.0 503 OK\r\nContent-Type: text/html\r\n\r\nBusy
+HTTP/1\.0 404 Not found\r\n\r\n<HEAD><TITLE>File Not Found</TITLE></HEAD>\n<BODY><H1>File Not Found</H1></BODY>\n
+HTTP/1\.1 400 Bad Request\n\n
+HTTP/1\.0 200 OK\r\nConnection: close\r\nAccept-Ranges: none\r\n.*<SCRIPT language=JavaScript>\r\n\tvar PIN_change_attempted = false;\r\n\tvar Login_failed = false;\r\n\tvar password_label = \"\";\r\n</SCRIPT>\r\n<!--\rNote: the opening and closing HTML tags are deliberately omitted from\rthis file\.
+HTTP/1\.0 200 .*<title>BPA430 Web Configuration Pages</title></head><script LANGUAGE=\"JavaScript\" src=\"menu\.js\">
+HTTP/1\.1 408 Request Time-Out\r\nConnection: Close\r\n\r\n
+HTTP/1\.0 200 Ok\r\nServer: httpd\r\n.*\n<title>SHARED STORAGE DRIVE</title>\n
+UNKNOWN 501 Not Implemented\r\nServer: \r\n.*<BODY BGCOLOR=\"#cc9999\" TEXT=\"#000000\" LINK=\"#2020ff\" VLINK=\"#4040cc\">\n<H2>501 Not Implemented</H2>\nThe requested method 'OPTIONS' is not implemented by this server\.
+HTTP/1\.0 200 OK\r\n.*<meta http-equiv=\"refresh\" content=\"0; URL=/cgi-bin/luci\" />\n</head>.*href=\"/cgi-bin/luci\">LuCI - Lua Configuration Interface</a>
+HTTP/1\.0 404 Not Available\r\nContent-Type: text/html\r\n\r\n<b>The file you requested could not be found</b>\r\n
+HTTP/1\.0 404 Not Found\r\n\r\n
+HTTP/1\.1 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"ANLYX2\"\r\n\r\n
+HTTP/1\.0 200 OK\r\nServer: Netgear\r\nContent-Type: text/html\r\nPragma: no-cache\r\nLast Modified: .*\r\nConnection: close\r\n\r\n.*<title>\r\t\t\tNETGEAR Router \r
+HTTP/1\.1 401 Unauthorized\r\nWww-Authenticate: Basic REALM=\"elmeg\"\r\nContent-Type: text/plain\r\nContent-Length: 22\r\n\r\nUnauthorized request\r\n
+HTTP/1\.0 200 Ok\r\nServer: micro_httpd\r\n.*<title>Thomson Cable Modem Diagnostics</title>\r\n
+HTTP/1\.1 404 Not Found\r\nContent-Type: \r\nContent-Length: 0\r\nConnection: close\r\n\r\n
+HTTP/1\.1 302 Moved Temporarily\r\nDate: .*\r\nLocation: https://securelogin\.arubanetworks\.com/
+HTTP/1\.0 200 OK\r\nContent-Type: text/html\r\n\r\n<html>\n<body>\n<ul><li>\n<i>com\.apple\.KernelEventAgent</i>\n
+HTTP/1\.0 401 Unauthorized\nContent-type: text/html\r\nDate: .*\r\nConnection: close\r\nWWW-Authenticate: Basic realm=\"Web Server Authentication\"\r\n\r\n<HEAD><TITLE>401 Unauthorized</TITLE></HEAD>\n<BODY><H1>401 Unauthorized</H1>\n\n</BODY>\n
+HTTP/1\.0 400 Bad Request\r\nContent-Length: 6\r\n\r\nERROR\n
+HTTP/1\.1 400 Page not found\r\nServer: GoAhead-Webs\r\nDate: .*\r\nPragma: no-cache\r\nCache-Control: no-cache\r\nContent-Type: text/html\r\n\r\n<html><head><title>Document Error: Page not found</title></head>
+HTTP/1\.1 302 Redirect\r\nServer: GoAhead-Webs\r\n.*Location: https?://3100icp/esm_loginMain\.asp\r\n\r\n
+HTTP/1\.1 401 Unauthorized\r\nServer: GoAhead-Webs\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"WebAdmin\"\r\n.*<p>Access to this document requires a User ID</p>
+HTTP/1\.0 200 OK\r\nContent-type: application/octet-stream\r\nCache-Control: no-cache\r\n\r\nOggS
+HTTP/1\.1 302 Redirected\r\nConnection: close\r\nContent-Length: 0\r\nLocation: /login\r\n\r\n
+<html>\r\n<head><title>400 Bad Request</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>400 Bad Request</h1></center>\r\n<hr><center>cloudflare-nginx</center>\r\n</body>\r\n</html>\r\n
+HTTP/1\.1 400 ERROR\r\nConnection: keep-alive\r\nContent-Length: 17\r\nContent-Type: text/html\r\n\r\n\r\ninvalid requestHTTP/1\.1 400 ERROR\r\nConnection: keep-alive\r\nContent-Length: 17\r\nContent-Type: text/html\r\n\r\n\r\ninvalid request
+HTTP/1\.0 200 OK\nContent-Type: text/html \n\n<tr>\n<td>\n<img src=\"/clearpixelIcon\?ac=20\" height=\"5\" width=\"0\" border=\"0\" alt=\"\" title=\"\">
+<html><head><title>Cannot find server</title></head><body>\n<br>Access to this web page is currently unavailable\.<P><HR></BODY></HTML>\n
+HTTP/1\.0 200 Ok\r\nServer: CAMEO-httpd\r\n.*<title>D-LINK SYSTEMS, INC \| WIRELESS AP \| LOGIN</title>
+HTTP/1\.0 200 OK\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n<html>\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\r\n<title>8 Port Gigabit Switch</title>\r\n
+HTTP/1\.0 200 OK\r\nServer: Baby Web Server\r\n
+HTTP/1\.1 401 Unauthorized\r\nWww-Authenticate: Basic REALM=\"snom\"\r\nContent-Type: text/plain\r\nContent-Length: 22\r\n\r\nUnauthorized request\r\n
+HTTP/1\.0 400 Bad Request\r\n.*<h2>400 Bad Request<h2>\n  <p>\n  Your request has bad syntax or is inherently impossible to satisfy\.\n
+HTTP/1\.0 304 Not Modified\r\nContent-Length: 0\r\nServer: Unknown\r\n\r\n
+HTTP/1\.0 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"tuner\"\r\n| p|BMC/Marimba Management http config
+HTTP/1\.0 200 OK\r\nContent-Type: text/html\r\nContent-length: \d+\r\n\r\n<html>\r\n<head>\r\n<title>CiscoSecure ACS Login</title>
+HTTP/1\.0 200 OK\r\n.*<title>Web-Thermograph</title>\r\n|s p/W&T Web-Thermograph http config/ i|firmware 1.50/1.30
+HTTP/1\.0 200 ok\r\nContent-type: text/plain\r\n\r\nError accessing ''\r\n
+HTTP/1\.0 503 Directory unavailable\r\n\r\n
+HTTP/1\.1 400 ERROR\r\nConnection: keep-alive\r\nContent-Length: 15\r\nContent-Type: text/html\r\n\r\ninvalid request
+HTTP/1\.0 405 Method Not Allowed\r\nAllow: GET, HEAD, POST, PUT\r\n\r\n
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\n\r\n\n\nCONNECTION NOT AUTHORIZED\n\n\n
+HTTP/1\.1 401 Authorization Required\r\nWWW-Authenticate: Basic realm=\"NB5580\"\r\n
+HTTP/1\.1 200 Ok\r\n.*<title>\r\nData Frame - Browser not HTTP 1\.1 compatible\r\n</title>.*Your browser must support HTTP 1\.1 to view iLO web pages\.
+HTTP/1\.0  401 Unauthorized \r\nContent-type: text/html \r\nWWW-Authenticate: Basic realm=\"ULTAMUS RAID manager\"\r\n\r\n
+HTTP/1\.1 408 Request Timeout\nContent-Length:0\nContent-Type:text/html;charset=UTF-8\n\n
+HTTP/1\.1 401 BAD\r\nWWW-Authenticate: Basic realm=\"Vuze - Vuze Web Remote\"\r\n\r\nAccess Denied\r\n
+HTTP/1\.1 400 Bad Request\r\nServer: micro_httpd\r\n
+HTTP/1\.0 401 Unauthorized\r\nServer: Apache/0\.6\.5\r\nPragma: no-cache\r\nContent-type: text/html\r\nWWW-Authenticate: Basic realm=\"System Setup\"\r\n
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\nExpires: -1\r\n Cache-Control: no-cache\r\n.*<title>Contivity VPN Client</title>
+HTTP/1\.0 404 Not Found\r\nConnection: close\r\n\r\n<html><head><title>404 Not Found</title></head>\r\n<body><h1>Not Found</h1>The requested URL / was not found on this server\.<p>\r\n</body></html>\r\n
+HTTP/1\.1 302 Found\r\nContent-Length: 0\r\nLocation: /fhem\r\n\r\n
+HTTP/1\.0 400 Invalid Request\r\nContent-Type: text/html\r\nContent-Length: 31\r\n\r\n<title>Invalid Request</title>\n
+HTTP/1\.1 302 Moved Temporarily\r\nDate: .*\r\nContent-Type: text/html\r\nExpires: .*\r\nSet-Cookie: SSLX_SSESHID=
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3\.2//EN\">\n<html>\n<head>\n<title>GoodTech Systems Telnet Server Administration Login</title>\n
+HTTP/1\.0 200 OK\nContent-Type: text/html\n\n<head><title>File not found</title></head><h1><tt><font color=red>404 / OOPS!</font></tt></h1>\n<i>'File not found'</i>,<br>\nHow dare they say!<br>\nI am here,<br>\njust out of the way\.<br>\n<br>\nHow was I found\?<br>\nA typo\? A mistake\?<br>\nOr were you snooping\?!<br>\n<br>\nNonetheless, we meet at last\.<br>\nI am found - hip hip hooray!<br>\nNevermore can they say:<br>\n<i>'File not found! <a href=index>Back to main page!</a>'</i><br>\n<br>\n<a href=index><img src=\"puretraclogo\.png\" border=0></a>
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.01 Frameset//EN\" \r\n\"http://www\.w3\.org/TR/html4/frameset\.dtd\">\r\n<html>\r\n<head>\r\n<meta http-equiv=\"Pragma\" content=\"no-cache\">\r\n<meta http-equiv=\"Cache-Control\" content=\"no-cache\">\r\n<meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\">\r\n<title>Plasma Monitor web control system</title>\r\n
+HTTP/1\.1 200 Document follows\r\nServer: Micro-Web\r\n
+HTTP/1\.0 401 Unauthorized\n.*\r\nWWW-Authenticate: Basic realm=\"AirStation\"\r\n
+HTTP/1\.0 401 Authorization Required\r\nContent-length: 0\r\nWWW-Authenticate: Basic realm=\"Cayman-2E\"\r\n\r\n
+HTTP/1\.1 .*\r\nServer: Reactivity Gateway\r\n
+HTTP/1\.0 401 Unauthorized\r\nContent-Type: text/html\r\nWWW-Authenticate: Basic realm=\"Web Management\"\r\n\r\n<html><title>401 Unauthorized</title><body>401 Unauthorized</body></html>
+HTTP/1\.0 404 Document Follows\r\nContent-Type: text/html\r\nContent-Length: 147\r\n\r\n<HEAD><TITLE>404 Not Found</TITLE></HEAD>\r\n<BODY><H1>404 Not Found</H1>\r\nUrl '/nice%20ports%2C/Tri%6Eity\.txt%2ebak' not found on server<P>\r\n</BODY>
+HTTP/1\.1 400 Bad Request\r\n.*<link rel=\"shortcut icon\" href=\"/style/image/favicon\.ico\" type=\"image/vnd\.microsoft\.icon\"></link>\n   <script type=\"text/javascript\" src=\"/scripts/controller\.js\"></script>\n   <script type=\"text/javascript\" src=\"/scripts/sarissa\.js\"></script>
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.0 Transitional//EN\">\r\n<HTML><HEAD><TITLE>Bad Request</TITLE>.*<H4>401 Bad Request</H4>Cann't use wireless interface to access web\.\";
+HTTP/1\.0 200 Document follows\r\nDate: .*\r\nServer: WebminServer\r\n
+<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.01 Transitional//EN\" \"http://www\.w3\.org/TR/1999/REC-html401-19991224/loose\.dtd\">\n<HTML>\n<HEAD>\n<TITLE>Mac OS X Personal Web Sharing</TITLE>.*<H1>Your website here\.</H1>
+HTTP/1\.1 404 Not Found\r\nContent-Type: text/plain\r\nContent-Length: 35\r\nConnection: close\r\n\r\nError 404: Not Found\nFile not found
+HTTP/1\.0 501 Not Implemented\r\nDate: .*\r\nConnection: close\r\nContent-type: text/html\r\n\r\n<HTML><HEAD><TITLE>501 Not Implemented</TITLE></HEAD>\n<BODY><H1>501 Not Implemented</H1>\nThe requested method is not recognized\n</BODY></HTML>\n
+<html>\n<title>48-Port 10/100/1000Mbps Web-Smart Gigabit Ethernet Switch</title>\n
+HTTP/1\.1 200 OK\nMax-Age: 0\nExpires: 0\nCache-Control: no-cache\nCache-Control: private\nPragma: no-cache\nContent-type: multipart/x-mixed-replace;boundary=BoundaryString\n\n--BoundaryString\n
+HTTP/1\.1 302 Redirect\r\nServer: GoAhead-Webs\r\nPragma: no-cache\r\nCache-Control: no-cache\r\nContent-Type: text/html\r\nLocation: http://[\w._-]+/index\.asp\r\n\r\n<html><head></head><body>\r\n\t\tThis document has moved to a new
+HTTP/1\.0 302 \r\nLocation: ,\r\n\r\n
+HTTP/1\.1 400 Bad Request\r\nContent-Type: text/html.*\n<meta name=robots content=\"none\">\n<title>Secure&#32;Access&#32;SSL&#32;VPN</title>\n\n
+HTTP/1\.1 200 Ok\r\nServer: NAE Server\r\nContent-Length: 73\r\nConnection: close\r\n\r\n<html><center><h1>NAE Server Health Check Succeeded\.</h1></center></html>
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n<html>\n<head>\n<meta http-equiv=\"Content-type\" content=\"text/html; charset=iso-8859-1\">\n<title>Client Authentication</title>| p|Check Point VPN-1/UTM NGX R70 firewall http admin
+HTTP/1\.0 500 Internal Server Error\r\nCONTENT-LENGTH: 42\r\n\r\nYour request cannot be properly processed\.
+HTTP/1\.1 302 Found\r\nCache-Control: no-cache\r\nConnection: Close\r\nContent-Length: 0\r\nContent-Type: application/octet-stream\r\nDate: .*\r\nLocation: /main\.php\r\nPragma: no-cache\r\nServer: Kerio WinRoute Firewall Embedded Web Server\r\n
+HTTP/1\.0 200 OK\r\n.*<img src=\"images/chumby_logo\.png\">.*<font size=10>Welcome to Chumby</font>
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\n\r\n.*<TITLE>PowerDownTop</TITLE>\n<SCRIPT Language=\"JavaScript\">\n<!--\ntop\.location = \"CgiPowerDownReset\?Language=0\";\n// -->\n</SCRIPT>\n</HEAD>\n<BODY></BODY></HTML>
+HTTP/1\.0 401 Unauthorized\r\nConnection: close\r\nContent-Type: text/html\r\nServer: SNARE\r\nWWW-Authenticate: Basic realm=\"SNARE\"\r\n\r\n.*<ADDRESS>Snare Server Remote Control facility</ADDRESS>
+<HTML>\r\n<HEAD>\r\n<TITLE>UserGate report area</TITLE>\r\n
+HTTP/0\.9 400 Bad Request\r\n\r\n
+HTTP/1\.1 200 OK\r\nConnection: Close\r\nContent-Type: text/html; charset=UTF-8\r\n\r\n<html>\r\n    <head>\r\n        <script language=\"javascript\">\r\n\t\t\t\t\tif
+HTTP/1\.1 401 Authentication Required\r\nConnection: close\r\n\r\n
+HTTP/1\.0 200 OK\r\nContent-Type: text/html\r\nCache-Control: no-cache\r\nPragma: no-cache\r\n.*\r\nSet-Cookie: tg=; expires=Thu, 01 Jan 1970 22:00:00 GMT; path=/; secure\r\nSet-Cookie: webvpn=;.*/\+CSCOE\+/logon\.html
+HTTP/1\.0 200 OK\r\n.*<TITLE>AXIS 2400 Video Server</TITLE>
+HTTP/1\.0 403 Access denied\.  Please consult the http-access directive in the User's Guide for more information\.\r\nContent-Type: text/html\r\n\r\n<html><body>Access denied\.  Please consult the http-access directive in the User's Guide for more information\.</body></html>\r\n
+HTTP/1\.0 500 Internal Server Error \r\nContent-Type: text/plain\r\nDate: .*\r\n\r\nSERVER INTERNAL ERROR: Invalid ip\.
+HTTP/1\.0 400 Bad Request 2\r\nContent-Type: text/html\r\n\r\n<body><h1>HTTP/1\.0 400 Bad Request 2</h1></body>\r\n
+HTTP/1\.1 401 Unathorized\r\nWWW-Authenticate: BASIC realm=\"PY Software Active WebCam\"\r\n
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\n\r\n<head><meta http-equiv=\"content-type\" content=\"text/html; charset=utf-8\" /><title>Everything</title>
+HTTP/1\.1 403 Forbidden\.\r\nContent-Type: application/json; charset=UTF-8\r\nDate: .* GMT\r\nConnection: close\r\nContent-Length: 90\r\n\r\n{\"status\": {\n  \"code\": 403,\n  \"commandResult\": 1,\n  \"msg\": \"Forbidden\.\",\n  \"query\": \"/\"\n}}
+HTTP/1\.0 301 Moved Permanently\r\nCache-Control: no-cache\r\nConnection: close\r\nAccept-Ranges: none\r\nLocation: /CitrixLogonPoint/AccessGateway/\r\n\r\n
+HTTP/1\.1 404 Not found\n\0
+HTTP/1\.0 200 OK\r\nPragma: no-cache\r\nContent-Type: text/html\r\n\r\n\n\n\n\t\n\n\n\t\n\n\n\n\n\n<!--  -->\n\n\n\n<!-- \$R..file: i_pagestart\.shtm,v \$  -->\n<html>\n<head>\n
+HTTP/1\.0 200 .*\r\nDate: .*\r\nContent-Length: .*\r\nContent-Type: .*\r\n\r\n<html>\r\n<head>\r\n<title>Novell Messenger Download</title>
+HTTP/1\.1 403 Forbidden\r\nDate: .* GMT\r\nConnection: close\r\nContent-Type: text; charset=plain\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<!---CAS:0003--><HTML><HEAD><TITLE>Broadband NAT Router Web-Console</TITLE>
+HTTP/1\.0 401 Password Required\r\nWWW-Authenticate: Basic realm= StarVoice\r\nServer: GoAhead-Webs\r\n
+HTTP/1\.1 200 OK\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\n\r\n<html><head><title>Index of /</title>
+HTTP/1\.1 404 Not Found\r\n.*\r\nServer: Bomgar\r\n
+HTTP/1\.0 200 Ok\r\nServer: httpd\r\nDate: .*\n<title>WL700g Web Manager</title>
+HTTP/1\.0 -1 Internal Server Error\r\n\r\n
+HTTP/1\.1 200 OK\r\nConnection: close\r\nContent-Type: text/html\r\nCache-Control: no-cache\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1\.0 STRICT//EN\" \"DTD/xhtml1-strict\.dtd\">\r\n<html>\r\n<head>\r\n<title>EDS Ethernet to 1-wire Interface</title>
+HTTP/1\.1 200 Ok\r\nContent-Type: text/html\r\nCache-Control: no-cache\r\nSet-Cookie: SessId=.*HREF=\"/theme/main\.css\".*TD\.calMonth SPAN\n
+HTTP/1\.1 200 OK\r\n.*<!-- \$Header: index\.html 115\.2 2003/03/18 21:32:39 hfux ship \$ -->.*<TITLE>Oracle Applications Rapid Install</TITLE>
+HTTP/1\.0 200 OK\n.*<title>Grandstream Device Configuration</title>\n.*<form action=\"/cgi-bin/dologin\" method=\"post\" name=\"loginForm\">
+HTTP/1\.0 404 Not Found\r\n\r\nThis page does not exist or you are not authorized to view it
+HTTP/1\.0 501 Method Not Implemented\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.1 401 Unauthorized\r\nServer: micro_httpd.*Basic realm=\"USR ADSL Gateway\"\r\n
+<HTML><BODY><CENTER>Authentication failed</CENTER></BODY></HTML>\r\n
+HTTP/1\.1 200 OK\r\nAllow: GET, POST, HEAD, CONNECT, PUT, DELETE, OPTIONS\r\nDAV: 1\r\n\r\n
+HTTP/1\.1 200 OK\r\nConnection: close\r\nContent-Type: text/html\r\nContent-Encoding: gzip\r\nCache-Control: max-age=600\r\n\r\n\x1f\x8b\x08\0\0\0\0\0
+HTTP/1\.0 501 Not Implemented\r\nContent-type: text/html\r\nDate: .*\r\nConnection: close\r\n\r\n<HEAD><TITLE>501 Not Implemented</TITLE></HEAD>\n<BODY><H1>501 Not Implemented</H1>\nThe requested method is not recognized by this server\.\n</BODY>\n
+HTTP/1\.1 200 OK\r\nConnection: close\r\n.*<title>VoIP Gateway</title>.*<frame name=\"contents\" target=\"main\" src=\"otgw\.cgi\?PAGE=USER\" scrolling=\"auto\" noresize>
+HTTP/1\.1 200\r\nContent-type: text/html\r\nConnection: close\r\nCONTENT-LENGTH: 81\r\n\r\n<head>\r\n<meta http-equiv=\"refresh\" content=\"0; URL=get\.cgi&index\.cgi\">\r\n</head>\r\n
+HTTP/1\.1 404 Not Found\r\nContent-type: text/html\r\nConnection: close\r\nDate: .*\r\n\r\n<HTML><HEAD><TITLE>Error 404</TITLE></HEAD><BODY><H1>Error 404</H1><P>Not Found</P></BODY></HTML>
+HTTP/1\.1 401 Unauthorized\r\nServer: BitLeapHTTP\r\nX-Dav-Powered-By: BitLeapWebDAV\r\nMS-Author-Via: DAV\r\nDAV: 1, 2, version-control\r\nContent-Length: 0\r\nConnection: Keep-Alive\r\nContent-Type: text/xml; charset=\"utf-8\"\r\nDate: .*\r\nX-WebDAV-Status: HTTP/1\.1 401 Unauthorized\r\nWWW-Authenticate: Basic realm=LeapServ\r\n\r\n
+GIF89a\xa8\0-\0\xf7\0\0\x03\x03\x03\x83\x83\x83\xc4\xc4\xc4\xfe\x02\x02\xc9\x85c\x85|\xb5\xe2\xe2\xe2\xca\xa2\x8e\xd4RRCCC\xdeb\"\xa5\xa5\xa5\xe7\xc5
+HTTP/1\.0 200 OK\r\nDate: .*\r\nContent-Length: 131\r\nContent-Type: text/html\r\n\r\n\n\n<HTML>\n<HEAD>\n<meta http-equiv=\"Refresh\" content=\"0;URL=/dynamic/action\?Page=general&Action=get\">\n</HEAD>\n<BODY>\n</BODY>\n</HTML>\n
+HTTP/1\.0 401 Unauthorized\r\nContent-Type: text/html\r\nWWW-Authenticate: Basic realm=\"DI-514\"\r\n\r\n<title>401 Unauthorized</title><body><h1>401 Unauthorized</h1></body>
+HTTP/1\.0 404 NON-EXISTENT BACKEND\r\n\r\n
+HTTP/1\.1 400 Bad Request\r\nContent-Type: text/plain\r\nContent-Length: 59\r\nConnection: close\r\n\r\nError 400: Bad Request\nCannot parse HTTP request: \[OPTIONS\]
+HTTP/1\.0 403 File not found - unknown extension\r\n\r\n| p|apt-cache/apt-proxy httpd
+HTTP/1\.0 500 Internal Server Error\r\nDate: .*\r\nContent-type: text/html\r\nExpires: .*\r\n\r\n<H1>500 Internal Server Error</H1>\r\n\r\n\r\n
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\n\r\n.*<TITLE>Start</TITLE>\n</HEAD>\n<FRAMESET border=0 frameSpacing=0 rows=30,8,\* frameBorder=0>\n<FRAME name=bar src=\"CgiTagMenu\?page=Top&Language=0\" scrolling=no NORESIZE>\n<FRAME name=hrbar src=\"BarFoot\.html\" scrolling=no NORESIZE>
+HTTP/1\.1 302 Moved Temporarily\r\nServer: Catwalk\r\nDate: .*\r\nLocation: https://null:8443/\r\nContent-Length: 0\r\nConnection: close\r\n\r\n
+HTTP/1\.0 200 OK\r\nContent-Type: text/html\r\n\r\n<HTML>\r\n<TITLE>nweb\r\n</TITLE>
+HTTP/1\.0 403 Forbidden\r\nMime-Version: 1\.0\r\nDate: .* CEST\r\nContent-Type: text/html\r\nConnection: close\r\n
+HTTP/1\.0 200 OK\nContent-type: text/html\r\nDate: .*\n<TITLE>\nGigaset M740 AV - Experimentelles Web-Interface\n</TITLE>\n
+HTTP/1\.1 404 .*<title>Not Found, APT Reconfiguration required</title>
+HTTP/1\.0 500 Server Error\r\nConnection: close\r\nContent-Type: text/html\r\n\r\n<HTML><HEAD><TITLE>500 Server Error</TITLE></HEAD><BODY><H1>500 Server Error</H1>chdir failed - the server is not configured correctly<p></BODY></HTML>\r\n\r\n
+HTTP/1\.1 403 Sorry, not allowed to fetch that type of file: Tri%6Eity\.txt%2ebak\r\n\r\n
+HTTP/1\.0 303 Use Instead\r\nLocation: /index\.html\r\nContent-Type: text/html\r\n\r\n
+HTTP/1\.0 200 OK\r\n.*<TITLE>HTML-Konfiguration</TITLE>\n<SCRIPT language=\"JavaScript\" src=\"/cgi-bin/webcm\?getpage=\.\./html/js_top\.txt\"
+HTTP/1\.1 200 OK\r\nServer: <xxxx>\r\nContent-Length: 1057\r\n.*<TITLE>Bad Browser</TITLE>
+HTTP/1\.0 401 Unauthorized\r\nConnection: close\r\nContent-Type: text/html\r\nWWW-Authenticate: Basic realm=\"dreambox\"\r\n\r\n
+HTTP/1\.0 400 Bad request\r\n\r\n
+HTTP/1\.1 200 OK\r\nConnection: close\r\nContent-Type: text/html\r\nCache-Control: no-cache\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1\.0 Strict//EN\" \"http://www\.w3\.org/TR/xhtml1/DTD/xhtml1-strict\.dtd\">\r\n<html xmlns=\"http://www\.w3\.org/1999/xhtml\" xml:lang=\"fr\" lang=\"fr\">\r\n  <head>\r\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=iso-8859-15\" />\r\n    <meta http-equiv=\"content-style-type\" content=\"text/css\" />\r\n    <title>Mon syst\xe8me d'alarme Somfy\r\n    </title>\r\n
+HTTP/1\.0 302 Found\nLocation: /login\.ews\r\nCache-Control: no-store\nContent-Type: text/html\r\n\r\n
+HTTP/1\.0 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"\r\n\r\n<title>401 Unauthorized</title><body><h1>401 Unauthorized</h1></body>
+HTTP/1\.1 302\r\nLocation: /login\.vibe\r\n\r\n
+HTTP/1\.0 200 OK\r\nDate: .*\r\nServer: qHTTPs\r\nMIME-version: 1\.0\r\nContent-type: text/html\r\nLast-modified: .*\r\nContent-length: \d+\r\n\r\n<html>\r\n<head>\r\n<title>JUPSMON</title>
+HTTP/1\.0 200 Ok\r\nServer: \r\n.*<title>RWO-CPE-PLUS-G Login Page</title>
+HTTP/1\.0 401 Authorization Required\r\nWWW-Authenticate: BASIC realm=\"Administrator or User\"\r\n\r\nPassword Error\. \r\n\r\n
+HTTP/1\.0 403 Forbidden\r\nServer: Agent-ListenServer-HttpSvr/1\.0\r\n
+HTTP/1\.0 400 Bad Request\r\nDate: .*\r\nServer: Embedded HTTP Server\.\r\nConnection: close\r\nContent-Type: text/html; charset=ISO-8859-1\r\n\r\n<HTML><HEAD><TITLE>400 Bad Request</TITLE></HEAD>\n<BODY><H1>400 Bad Request</H1>\nYour client has issued a malformed or illegal request\.\n</BODY></HTML>\n
+HTTP/1\.0 302 Found\r\nLocation: /cgi-bin/guestimage\.html\r\nContent-type: text/html; charset=ISO-8859-1\r\nCache-Control: no-cache\r\n\r\n.*<title>\r\nRedirect to guestimage: /cgi-bin/guestimage\.html\r\n
+HTTP/1\.0 401 Unauthorized\r\nConnection: close\r\nWWW-Authenticate: Basic realm=\"SIP Phone\"\r\nContent-Type: text/html\r\n\r\n<html>\r\n<head>\r\n<title>401 Unauthorized Ip Phone Access</title>\r\n
+<HTML><BODY><H1>nweb Web Server Sorry: Only simple GET operation supported OPTIONS / HTTP/1\.0\*\*\*\*</H1></BODY></HTML>\r\n
+HTTP/1\.0 403 Access Denied\r\nConnection: close\r\n\r\n<html>The request you issued is not an authorized Convergence Notary request\.\n
+HTTP/1\.0 301 File moved Permanently\nLocation: /cgi-bin/menu/TCP/IP Settings/\r\nDate: Mon, 23 Sep 1996 16:00:00 GMT\r\nExpires: Thu, 01 Dec 1994 16:00:00 GMT\r\nPragma: no-cache\r\nSet-Cookie: Login=DELETED; path=/;\r\n\r\n
+HTTP/1\.1 405 Method Not Allowed\.\r\nContent-Type: application/json; charset=ISO-8859-1\r\nDate: .* GMT\r\nContent-Length: 142\r\nReason: Only HTTP GET or POST methods are supported\.\r\n\r\n{\"status\": {\n  \"code\": 405,\n  \"commandResult\": 1,\n  \"msg\": \"Method Not Allowed\.Only HTTP GET or POST methods are supported\.\",\n  \"query\": \"\"\n}}
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\n\r\n<HTML>\n<HEAD>\n<TITLE>NETGEAR Web Smart Switch</TITLE>\n
+HTTP/1\.1 200 OK\r\n.*VMware Server provides a virtual machine platform, which can be managed by VMware VirtualCenter Server\.\">\r\n\r\n<title>VMware Server 2</title>
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\nContent-Length: 17\r\n\r\nNo soap\. Radio!\n\n
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\nDate: .*\nThe requested URL '' was not found on the Divar\.<p>\nReturn to
+HTTP/1\.1 404 NotFound\r\nConnection: close\r\nContent-Type: application/json\r\nContent-length: 16\r\n\r\n\"File not found\"
+HTTP/1\.1 200 OK\r\nDate: .*\r\nExpires: Fri, 01 Jan 1980 00:00:00 GMT\r\n.*<title>Gerrit Code Review</title>
+HTTP/1\.1 302 Found\r\ncontent-type: text/html;charset=utf8\r\ncache-control: no-cache\r\ncontent-length: 0\r\nlast-modified: .*\r\ndate: .*\r\nconnection: close\r\nlocation: /login\?continue=%2f\r\n\r\n
+HTTP/1\.1 404 Not Found\r\nServer: Netwave IP Camera\r\n
+HTTP/1\.1 200 .*<meta http-equiv=\"Refresh\" content=\"2; url=/transmission/web/\">\r\n.*<p>redirecting to <a href=\"/transmission/web\">/transmission/web/</a></p>
+HTTP/1\.1 400 Bad Request\r\nConnection: close\r\nContent-Length: 0\r\ntv2-auth-digest: [\w=]+\r\n\r\n
+HTTP/1\.1 200 Ok\r\nServer: snom embedded\r\n.*\n<html>\n<head>\n\n<title>snom 105 VoIP Phone :: Home</title>
+HTTP/1\.1 200 OK\r\nServer: Netwave IP Camera\r\n
+HTTP/1\.0 200 OK\r\nServer: http server/everfocus\r\n.*<meta http-equiv=\"refresh\" content=\"0;url=/login\.html\?1600&1\">
+HTTP/1\.1 200 OK\r\nDate: .* GMT\r\nLast-Modified: .* GMT\r\nETag: .*\r\nAccept-Ranges: bytes\r\n
+HTTP/1\.1 200 OK\r\nCACHE-CONTROL: no-cache\r\nDate: .* GMT\r\nContent-Type: text/html\r\n.*<META http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\">\n<link rel=\"icon\" type=\"image/icon\" href=\"/favicon\.ico\"/>\n<title>Login</title>
+HTTP/1\.0 200 OK\r\nServer: Barrelfish\r\n
+HTTP/1\.1 200 OK\r\nDate: .*\r\nExpires: .*\r\nCache-control: private\r\nContent-type: text/html\r\n\r\n<html><body><table width=\"100%\" border=\"0\" cellspacing=\"10\" cellpadding=\"5\">  <tr>    <td colspan=\"2\"  bgcolor=\"#00304B\"><h1><FONT COLOR=\"white\">Enistic Smart Energy Controller</FONT></h1>
+HTTP/1\.0 401 Authorization Required\r\nWWW-Authenticate: Basic realm=\"Linksys-CIT400\"\r\n
+HTTP/1\.0 200 Okay\r\nConnection: close\r\nServer: BaseSwitch 801FM\r\nContent-Type: text/html\r\n\r\n<HTML>\n<HEAD><TITLE>Welcome to Transtec AG WEBServer</TITLE>
+HTTP/1\.1 505 HTTP Version Not Supported\r\nServer: Marvell 8688WM\r\nConnection: close\r\nTransfer-Encoding: chunked\r\nContent-Type: text/plain\r\n\r\n22\r\nHTTP/1\.0 clients are not supported\r\n0\r\n\r\n
+HTTP/1\.1 401 Unauthorized\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"Authentication\"\r\n\r\n<HEAD><TITLE>Authorization Required</TITLE></HEAD><BODY><H1>Authorization Required</H1>Browser not authentication-capable or authentication failed\.</BODY>\n\n
+HTTP/1\.1 200 OK\r\nConnection: close\r\nServer: jDownloader HTTP Server\r\nContent-Type: text/html\r\nContent-Length: 46\r\n\r\nJDRemoteControl - Malformed Request\. use /help
+HTTP/1\.0 501 Not Implemented\r\nDate: .*\r\nCache-Control: no-cache,no-store\r\nContent-Type: text/html; charset=%s\r\nConnection: close\r\n\r\n<html>\n<head><title>501 Not Implemented</title></head>\n<body>\n<h3>501 Not Implemented</h3>\nThat method is not implemented\.\n</body>\n</html>\n
+HTTP/1\.0 200 OK\r\nPragma: no-cache\r\nContent-Type: text/html\r\n\r\n<html>\n<head>\n<meta http-equiv=\"content-type\" content=\"text/css;charset=UTF-8\">\n<meta http-equiv=\"Cache-Control\" content=\"no-cache\">\n<meta http-equiv=\"Expires\" content=\"0\">\n<title>prelogin</title>
+HTTP/1\.1 400 Bad request\r\n\r\n
+HTTP/1\.1 302 Document Follows\r\nLocation: /hag/pages/home\.ssi\r\n\r\nHTTP/1\.1 302 Document Follows\r\nLocation: /hag/pages/home\.ssi\r\n\r\nConnection: close\r\n\r\n
+HTTP/1\.1 401 Authorization Required\r\nServer: servermgrd\r\nWWW-Authenticate: Basic realm = \"Server Admin\"\r\n.*The server could not verify that you are authorized to access the requested content\.<P>\r\n<HR>\r\n</BODY></HTML>\r\n\r\n
+HTTP/1\.0 302 Not Found\r\nConnection: close\r\nLocation: /user/login\r\nAccept-Ranges: none\r\nServer: Sockso\r\n\r\n
+HTTP/1\.1 200 OK\r\nConnection: close\r\nServer: jDownloader HTTP Server\r\nContent-Type: text/html\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.0 200 OK\r\nContent-Length: 111\r\nContent-Type: text/xml\r\n.*<error xmlns=\"http://www\.slingbox\.com\"><code>ObjectNotFound</code><message>Resource Not Found</message></error>
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n.*<HTML><HEAD><TITLE>SMC Barricade Broadband Router</TITLE>
+HTTP/1\.0 302 Redirect\r\nServer: GoAhead-Webs\r\nDate: .*\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n
+HTTP/1\.1 200 OK\r\nContent-type: text/html\r\nExpires: Thu, 3 Oct 1968 12:00:00 GMT\r\nConnection: close\r\nPragma: no-cache\r\n.*<title>Super Hub \x7c GUI</title>
+HTTP/1\.0 200 ;OK\r\nServer: \?\?\?\?\?\?\?\?\?\?\?\?\?\?\r\nContent-Type: text/html\r\nConnection: Close\r\n\r\n<html>\n<head>\n<link rel=\"SHORTCUT ICON\" href=\"favicon\.ico\">\n<title>EATON</title>\n
+HTTP/1\.0 200 OK\r\nServer: ZK Web Server\r\nPragma: no-cache\r\nCache-control: no-cache\r\n.*<script language=JavaScript type='text/javascript'>self\.location\.href='/csl/login'</script>
+HTTP/1\.1 404 Not Found\r\nServer: Asterisk/\r\n
+HTTP/1\.1 501 Not Implemented\r\nServer: sfcHttpd\r\nContent-Length: 0\r\n\r\nHTTP/1\.1 400 Bad Request\r\nServer: sfcHttpd\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.1 403 Forbidden \( The ISA Server denied the specified Uniform Resource Locator \(URL\)\.  \)
+HTTP/1\.0 200 OK\r\nDate: .*\r\nServer: Z-World Rabbit\r\nConnection: close\r\nContent-Type: text/html\r\n\r\n<HTML>\r\n<HEAD>\r\n<title>SafetyNet Series 5</title>
+HTTP/1\.0 404 Not Found\r\nContent-type: text/html\r\nDate: Sat, 31 Dec 2005 23:02:28 GMT\r\nConnection: close\r\n\r\n<HEAD><TITLE>404 Not Found</TITLE></HEAD>\n<BODY><H1>404 Not Found</H1>\nThe requested URL was not found on this server\.\n</BODY>\n
+HTTP/1\.1 401 Unauthorized\r\nContent-Type: text/html\r\nWWW-Authenticate: Negotiate\r\nWWW-Authenticate: NTLM\r\nX-Powered-By: ASP\.NET\r\n
+HTTP/1\.1 200 OK\r\nServer: minituner\r\n| p|BMC/Marimba Management http config
+HTTP/1\.1 200 OK\r\nServer: SnapStream\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: close\r\nContent-Type:text/html\r\n\r\n<html>\r\n<body>\r\n<h1>Beyond TV Web Admin Redirector</h1>
+HTTP/1\.1 200\r\n.*<meta http-equiv=\"refresh\" content=\"10;url=\"><link rel=\"stylesheet\" type=\"text/css\" href=\"/viawarp\.css\" />
+HTTP/1\.0 401 Unauthorized\r\nServer: httpd\r\nDate: .*\r\nWWW-Authenticate: Basic\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<HTML><HEAD><TITLE>401 Unauthorized</TITLE></HEAD>\n<BODY BGCOLOR=\"#cc9999\"><H4>401 Unauthorized</H4>\nAuthorization required\.\n</BODY></HTML>\n
+HTTP/1\.0 501 Not Implemented\r\nContent-type: text/html\r\nDate: .*\r\nConnection: close\r\n\r\n<HTML><HEAD><TITLE>501 Not Implemented</TITLE></HEAD>\n<BODY><H1>501 Not Implemented</H1>\nThe requested method is not recognized\n</BODY></HTML>\n
+HTTP/1.0 401 Unauthorized\r\nDate: .*\r\nConnection: close\r\nServer: Microsoft-WinCE/5.0\r\nSet-Cookie: .*\r\nWWW-Authenticate: Basic Realm="Kesseltronics"
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\n\r\n<html xmlns:o=\"urn:schemas-microsoft-com:office:office\"\r\n.*<title>Now SMS</title>
+HTTP/1\.1 403 Forbidden\r\nConnection: close\r\nContent-Type: text/plain\r\nTransfer-Encoding: chunked\r\n\r\n39\r\nRejected request from RFC1918 IP to public server address\r\n0\r\n\r\n
+HTTP/1\.0 .*\r\nDate: .*\r\n\r\n<html>\n<head>\n<title>Login : Messenger Express</title>\n<script>\n
+HTTP/1\.0 302 Look here\r\nLocation: /rom/default\.html\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.1 400 Bad Request\r\nServer:httpd\r\nDate: .*\r\nContent-Type:text/html\r\n\r\n<html><title>400 Bad Request </title>                         <body> <h1> Bad Request or Syntax Error/Not able to                         understand the request
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\n.*<script src=\"\./message/message\.js\"></script>\n\t<script src=\"\./buffalo\.js\"></script>\n\t\n\t<script src=\"\./btsdk\.js\"></script>\n\t<script src=\"\./btuicommon\.js\"></script>
+HTTP/1\.0 401 Authorization Required\r\nWWW-Authenticate: Basic realm=\"TiVo-web\"\r\nConnection: close\r\n\r\n
+HTTP/1\.0 200 OK\r\nConnection: close\r\nContent-Type: text/html\r\nSet-Cookie: DLILPC=\"\"; Version=1; Max-Age=0; Path=/\r\n\r\n.*<title>Power Controller </title>\n \n<script language=\"javascript\" src=\"/md5\.js\"></script>
+HTTP/1\.0 501 Document Follows\r\nContent-Type: text/html\r\nContent-Length: 106\r\n\r\n<HEAD><TITLE>501 Method Not Implemented</TITLE></HEAD>\r\n<BODY><H1>501 Method Not Implemented</H1>\r\n</BODY>
+HTTP/1\.0 200 OK\r\n\r\n<HTML>\r\n<HEAD>\r\n<TITLE>JetDirect Home Page</TITLE>\r\n\r\n</HEAD>\r\n<BODY>\r\n<P>\r\nWelcome to the HP JetDirect print server!\r\n
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\nCache-Control: must-revalidate, no-store\r\nConnection: close\r\n\r\n<html>\n<style>\ntable\.stat th, table\.stat td {\n  font-family:\tVerdana, Geneva, sans-serif;\n  font-size : 11px;\n  color: blue;\n  border: 0px solid;\n  white-space: nowrap;\n}\n
+HTTP/1\.0 404 Not Found\r\ncontent-length : 90\r\ncontent-type : text/html\r\n\r\n<html>\n<pre><html><h2>404 Not Found</h2>The server could not locate the resource you requested</html>\0</pre>\n</html>
+HTTP/1\.0 400 Bad Request\r\nContent-Type: text/html\r\nCache-Control: public,max-age=86400\r\nPragma: cache\r\nExpires: .*\r\nDate: .*\r\nLast-Modified: .*\r\nAccept-Ranges: bytes\r\nConnection: close\r\n\r\n<html>\n<head>\n  <title>400 Bad Request</title>\n</head>\n<body bgcolor=\"ffffff\">\n  <h2>400 Bad Request<h2>\n  <p>\n  \n</body>\n</html>\n
+HTTP/1\.1 200 OK\r\n\r\n\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1\.0 Transitional//EN\" \"http://www\.w3\.org/TR/xhtml1/DTD/xhtml1-transitional\.dtd\">\n<html xmlns=\"http://www\.w3\.org/1999/xhtml\">\n  <head>\n    <meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n    <title>Servers Ultimate Pro</title>
+HTTP/1\.0 504 Gateway Timeout\r\nMime-Version: 1\.0\r\nDate: .* CEST\r\nContent-Type: text/html\r\nConnection: close\r\n
+HTTP/1\.0 200 Ok\r\nServer: httpd\r\nDate: .*\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nExpires: 0\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<script>\ntop\.location\.href=\"/login_en\.htm\";\n</script>\n\n
+HTTP/1\.1 400 Bad request\n.*<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2\.0//EN\">\n<html><head>\n<title>400 Header 'Host' is missing\.</title>
+HTTP/1\.0 403 Access Denied\r\n\r\nWeb Access is not enabled\.\r\n
+HTTP/1\.1 400 ERROR\r\nConnection: keep-alive\r\nContent-Length: 17\r\nContent-Type: text/html\r\n\r\n\r\ninvalid request
+HTTP/1\.0 404 Not Found\r\nContent-Length: 0\r\nConnection: Close\r\nContent-Type: text/html\r\n\r\n
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\n\r\n.*<title>MiniShare</title>\r\n
+HTTP/1\.0 403 Forbidden\r\nServer: iPrism/v3\r\n
+HTTP/1\.0 401 Unauthorized\r\nWWW-Authenticate: Digest realm=\"ActiontecBHR\"
+HTTP/1\.1 400 Bad Request\r\nDate: Mon, 21 Feb 2011 17:38:00 GMT\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.0 503 R\r\nContent-Type: text/html\r\n\r\nBusy
+HTTP/1\.1 302 Found\r\nDate: .*\r\nLocation: https://pgpuniversal_
+HTTP/1\.0 400 msg=Bad%20Request&rc=%00%00%03%1b\r\n
+HTTP/1\.1 401 Unauthorized\r\nWWW-Authenticate: Digest realm=\"iRMC@.*<title>RemoteView&reg; iRMC Web Server</title>
+HTTP/1\.1 404 Not Found\r\nServer: Switch \r\n.*<html dir=ltr>\n<head>.*<h1 style=\"COLOR:000000; FONT: 24pt/30pt \">HTTP/1\.1 404 NOT FOUND!<br>Check flash:/http\.zip , please\.</h1>
+HTTP/1\.0 200 OK\r\nConnection: close\r\n.*\n<html><head><title>NETGEAR Web Smart Switch</title>
+HTTP/1\.1 500 Internal Server Error\r\nConnection: close\r\nContent-Type: text/plain\r\nContent-Length: 16\r\n\r\nEAccessViolation
+HTTP/1\.1 401 Unauthorized \r\nServer:httpd\r\nDate: .*\r\nContent-Type:text/html\r\nWWW-Authenticate: Basic realm=\"U\.S\.Robotics\"\r\nConnection:close\r\n\r\n<HTML> <Title> 401 unAuthorized </title>                   <body> <H1> 401 unauthorized request </H1></body>                   </HTML>
+<HEAD><TITLE>501 Not Implemented</TITLE></HEAD>\n<BODY><H1>501 Not Implemented</H1>\nThe server has not implemented your request type\.<BR>\n</BODY>\r\n
+HTTP/1\.1 400 Bad Request\nContent-Type: text/xml\n\n<\?xml version=\"1\.0\" encoding=\"UTF-8\" \?>\n<syabasCommandServerXml>\n\t<returnValue>1</returnValue>\n\t<response>\n\t</response>\n</syabasCommandServerXml>\n
+HTTP/1\.1 404 Not Found\r\nServer: Splunkd\r\n
+HTTP/1\.1 200 OK\r\nCache-Control: no-cache\r\nConnection: close\r\nContent-Type: text/html\r\n.*<title>Canopy Home Page</title>\r\n.*<frame name=\"leftFrame\" noresize src=\"smleft\.html\">\r\n
+HTTP/1\.1 200 OK.*\* Zimbra Collaboration Suite Web Client\n
+HTTP/1\.0 404 Not Found\r\n\r\nNot Found
+HTTP/1\.1 404 Not Found\r\nServer: libzapid-httpd\r\nContent-Type: text/html\r\nContent-Length: 86\r\nDate: .*\r\n\r\n<HTML><HEAD><TITLE>404 Not Found</TITLE></HEAD><BODY><H1>Not Found</H1></BODY></HTML>\n
+HTTP/1\.1 301 Moved Permanently\r\nx-amz-error-code: WebsiteRedirect\r\nx-amz-error-message: Request does not contain a bucket name\.\r\n
+HTTP/1\.0 200 OK\r\nServer: AP HTTP Server\r\nSet-Cookie: LogIn=0\r\n.*<frame name=\"top\" src=\"/cgibin/entry\" marginwidth=\"10\" marginheight=\"10\" scrolling=\"auto\" frameborder=\"0\">\n    <frame name=\"center\" src=\"/user/images/selected/logslct\.gif
+HTTP/1\.0 400 String index out of range: -1\r\nContent-Type: text/html\r\n\r\n
+HTTP/1\.0 200 OK\r\nServer: ScanAlert\r\n
+HTTP/1\.1 \d\d\d .*<font color=#FFFFFF size=5>Cisco ATA 186 \(SIP\)</font>
+HTTP/1\.0 404 Not Found\r\n.*<LINK REL=\"stylesheet\" HREF=\"/style\.css\" TYPE=\"text/css\"></HEAD>\r\n<BODY><H2>URL demand\xe9e introuvable\.</H2>
+HTTP/1\.0 404 Not Found\r\nDate: .*\r\nContent-Type: text/html\r\nConnection: close\r\nContent-Length: 82\r\n\r\n<HEAD><TITLE>404 Not Found</TITLE></HEAD><BODY>unknown uri in pks request</BODY>\r\n
+HTTP/1\.0 200 OK\nServer: Integrity\nContent-type: text/html\n\n<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2\.0//EN\">\n<html>\n<head>\n<title>Welcome to INTEGRITY</title>
+HTTP/1\.0 401 Unauthorized\r\nServer: \r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"Linksys WRT300N\"\r\n
+HTTP/1\.1 404 Not Found\r\nContent-Length: 19\r\nContent-Type: text/html\r\n\r\n 404 Page Not Found
+HTTP/1\.0 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"FXO Configuration Web Server\"\r\nContent-type: text/html\r\n\r\n<html>\r\n<body><h1>401 Unauthorized</h1></body></html>\r\n
+HTTP/1\.1 405 Method Not Allowed\r\nPragma: no-cache\r\nConnection: close\r\nCache-Control: no-cache\r\n\r\n<html><head><title>Error</title></head><body>Error: 405 METHOD NOT ALLOWED</body></html>
+HTTP/1\.0 200 OK\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nExpires: 0\r\ncharset: UTF8\r\nContent-Type: text/html\r\n\r\n.*<title>MONyog</title>
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\n\r\n<html><head><title>GC-100 Network Adapter</title>
+<html>\n<title>NETGEAR Web Smart Switch</title>\n<frameset rows='109,\*' framespacing=0 frameborder=no>\n <frame name=top src=top\.htm scrolling=no>\n
+HTTP/1\.1 505 Server Error\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<HTML><BODY>\n<TITLE>505 Internal Server Error</TITLE><H1>Internal Server Error: Invalid request</H1>\n<BR><BR>Internal Error\.\n</BODY></HTML>\n
+HTTP/1\.1 403 Forbidden\r\nServer: Web Server\r\n\r\n
+HTTP/1\.0 200 OK\r\nContent-type: text/html; charset=utf-8\r\nContent-Length: 204\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 3\.2 Final//EN\"><html>\n<title>Directory listing for /</title>\n<body>\n<h2>Directory listing for /</h2>\n<hr>\n<ul>\n<li><a href=\"\.\./\">\.\./</a>\n</ul>\n<hr>\n</body>\n</html>\n
+HTTP/1\.1 200 OK\r\nX-Powered-By: Express\r\nContent-Type: text/html; charset=utf-8\r\n
+HTTP/1\.0 200 Ok\r\nServer: diva_httpd\r\n
+HTTP/1\.0 400 bad http request\r\ndate: .*\r\nserver: SAP Web Application Server\r\n
+HTTP/1\.1 200 OK\r\nServer: servermgrd\r\nConnection: close\r\nContent-Type: text/html\r\n.*<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3\.2 Final//EN\"><HTML>\r\n<HEAD>\r\n<TITLE>Server Admin module list</TITLE>
+HTTP/1\.0 200 OK\r\nPragma: no-cache\r\nContent-Type: text/html\r\n\r\n<HTML>\n<FRAMESET COLS=\"105,\*\" FRAMEBORDER=NO BORDER=0\nFRAMESPACING=0>\n<FRAME SRC=\"/side\.html\" SCROLLING=NO>\n<FRAME SRC=\"/startupdata\.html\">\n</FRAMESET>\n</HTML>\n
+HTTP/1\.0 301 Moved Permanently\r\nServer: Transmission\r\nLocation: /transmission/web/\r\nContent-Type: text/html; charset=ISO-8859-1\r\n\r\n
+HTTP/1\.1 200 OK\r\nConnection: close\r\nContent-Type: text/html\r\nCache-Control: no-cache\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1\.0 Strict//EN\"\r\n  \"http://www\.w3\.org/TR/xhtml1/DTD/xhtml1-strict\.dtd\">\r\n<html xmlns=\"http://www\.w3\.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\r\n<head>\r\n<title>Flyport online webserver</title>\r\n
+HTTP/1\.1 301 Moved Permanently\r\nContent-Length:0\r\nLocation: /SSI/index\.htm\r\nServer: Mrvl-R1_0\r\nCache-Control: no-cache\r\n\r\n
+HTTP/1\.0 400 Bad Request \r\nContent-Type: text/plain\r\nDate: .*\r\n\r\nBAD REQUEST: Syntax error\. Usage: GET /example/file\.html
+HTTP/1\.1 200 OK \n\n
+HTTP/1\.0 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"VoIP Configuration Web Server\"\r\nContent-type: text/html\r\n\r\n<html>\r\n<body><h1>401 Unauthorized</h1></body></html>\r\n
+HTTP/1\.0 200 OK\r\nContent-type: text/html; charset=UTF-8\r\nPragma: no-cache\r\nWindow-target: _top\r\n
+HTTP/1\.0 301 Moved Permanently\r\nLocation: /Secure/Local/console/index\.htm\r\n\r\n
+HTTP/1\.1 200 OK\r\nServer: cloudflare-nginx\r\n
+HTTP/1\.1 403 Forbidden\r\nServer: ZenAgent\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.1 500 Internal Server Error\r\nContent-Length:71\r\nConnection: close\r\nCache-Control: no-cache,no-store\r\nPragma: no-cache\r\n\r\n<html><body><b>Http/1\.1 Internal Server Error 31    </b></body> </html>
+HTTP/1\.0 200 Ok\r\nServer: micro_httpd\r\n.*<title>Linksys Cable Modem : Status : Modem</title>
+HTTP/1\.1 501 Not Implemented\r\nServer: sfcHttpd\r\nContent-Length: 0\r\nConnection: close\r\n\r\nHTTP/1\.1 400 Bad Request\r\nServer: sfcHttpd\r\nContent-Length: 0\r\nConnection: close\r\n\r\n
+HTTP/1\.0 404 Not Found\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.0 Transitional//EN\">\r\n<HTML>\r\n<HEAD>\r\n<TITLE></TITLE>\r\n<META content=\"text/html; charset=utf-8\" http-equiv=Content-Type><STYLE type=text/css>BODY {BACKGROUND-COLOR: #3300cc; BACKGROUND-REPEAT: repeat}</STYLE>\r\n<META name=generator content=\"Trellian WebPage\"></HEAD><BODY><FONT color=#ffff00 size=7><P align=center>SDR-IP</P><P align=center>by</P><P align=center>RFSPACE</P></FONT>\r\n</BODY>\r\n</HTML>\r\n
+HTTP/1\.1 503 Service Unavailable\r\nContent-Type: text/html\r\nDate: .*\r\nConnection: close\r\nContent-Length: 28\r\n\r\n<h1>Service Unavailable</h1>
+HTTP/1\.1 401 \r\nServer: GoAhead-Webs\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"AirMagnet SmartEdge Sensor\"\r\n
+HTTP/1\.1 401 Unauthorized\r\nServer: BBVS\r\nContent-type: text/plain\r\n.*WWW-Authenticate: Basic realm=\"SecuritySpy Web Server\"\r\n\r\n401 Unauthorized\r\n
+HTTP/1\.0 200 OK\r\nConnection: Close\r\nContent-Type: text/html\r\nDate: .*\r\n\r\n<html xml:lang=\"en\" xmlns=\"http://www\.w3\.org/1999/xhtml\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\r\n<title>FMS : Freenet Message System</title>
+HTTP/1\.0 400 Bad Request\r\nContent-Type: text/html\r\n\r\n<HTML><HEAD><TITLE>Bad Request</TITLE></HEAD><BODY><h3>Error: Bad HTTP Request</h3></BODY></HTML>
+HTTP/1\.0 404 File Not Found\r\nContent-Type: text/html\r\n\r\n<b>The source you requested could not be found\.</b>\r\n
+HTTP/1\.1 400 Bad Request\r\nDate: .*\r\nServer: FineGround Performance Server\r\n
+<html><head><title>ServiceRegistry</title><META HTTP-EQUIV=\"Pragma\" CONTENT=\"no-cache\"></head><basefont size=\"2\" face=\"Arial\" color=\"Black\">.*<br><h1><i>ServiceRegistry</i></h1>\r\nAvailable commands:\r\n<ul>
+HTTP/1\.0 400 Bad Request\r\nContent-Type: text/html; charset=UTF-8\r\nPragma: no-cache\r\nConnection: close\r\nDate: .*\r\n\r\n<HTML><HEAD><TITLE>400 Bad Request</TITLE></HEAD>\r\n<BODY><H1>400 Bad Request</H1>\r\nThe request could not be understood by the server due to malformed syntax\r\n</BODY></HTML>
+HTTP/1\.0 302 Document Follows\r\nLocation: http:///index\.htm\r\nConnection: close\r\n\r\n
+HTTP/1\.1 200 OK\r\nServer: Web Server\r\nContent-Type: text/html\r\nCache-Control: no-cache\r\nPragma: no-cache\r\n\r\n\r\n   <!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.0 Transitional//EN\">\n<HTML>\n<HEAD>\n   <TITLE>Login</TITLE>
+HTTP/1\.1 500 Internal Server Error\r\nServer: Catwalk\r\n
+HTTP/1\.0 200 OK.*\r\n\tThis machine cannot be used for administration\.\r\n
+HTTP/1\.1 204 No Content\r\nConnection: close\r\nServer: AChat\r\n\r\n
+HTTP/1\.0 200 Ok\r\nCseq: 0\r\nServer: VLC Server\r\nPublic: DESCRIBE, SETUP, TEARDOWN, PLAY, PAUSE\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.0 200 OK\r\nContent-type: application/octet-stream\r\nCache-Control: no-cache\r\n\r\n
+HTTP/1\.0 200 OK\r\nDate: .* GMT\r\nServer: Synaccess \r\nConnection: close\r\nContent-Type: text/html\r\n\r\n\r\n<html>\r\n<head>\r\n  <title>Remote Power Management System By Synaccess</title>\r\n
+HTTP/1\.0 400 Bad Request\r\nServer: httpd\r\nDate: .*\r\nConnection: close\r\nContent-Type: text/html\r\nContent-length: 130\r\n\r\n<HTML><HEAD><TITLE>Document Error: Bad Request</TITLE></HEAD>\r\n<BODY><H2>Access Error: 400 -- Bad Request</H2>\r\n</BODY></HTML>\r\n\r\n
+HTTP/1\.1 200 OK\r\n.*<\?xml version=\"1\.0\" encoding=\"utf-8\"\?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1\.0 Transitional//EN\" \"http://www\.w3\.org/TR/xhtml1/DTD/xhtml1-transitional\.dtd\">\n<html xmlns=\"http://www\.w3\.org/1999/xhtml\" xmlns:v=\"urn:schemas-microsoft-com:vml\" xml:lang=\"en\" lang=\"en\">\n  <head>\n    <!--\n    ShellInABox - Make command line applications available as AJAX web applications\n
+HTTP/1\.0 200 OK\r\nServer: UOS\r\n.*<title>TippingPoint Log On</title>\n<meta http-equiv=\"Cache-Control\" content=\"no-store\" />.*<!--\n////////////////////////////////////////////\n// Copyright TippingPoint 2002, 2003, 2004 and 2005\n
+HTTP/1\.0 200 OK\r\nPragma: no-cache\r\n.*\n<html>\n<title>NETGEAR Web Smart Switch</title>
+HTTP/1\.0 200 Document follows\nMIME-Version: 1\.0\nServer: Java Cell Server\n.*<title>dCache service</title>
+HTTP/1\.1 403 Forbidden\r\nContent-Type: text/xml\r\n\r\n<\?xml version='1\.0' encoding='UTF-8' \?><autnresponse><action>NONE</action><response>The action you attempted is forbidden by your client</response></autnresponse>
+HTTP/1\.1 500 Internal Server Error\r\nContent-Type: text/plain; charset=UTF-8\r\n\r\nFailure: 500 Internal Server Error\r\n
+HTTP/1\.1 200 OK\r\nConnection: Close\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.1 404 Not Found\r\nContent-Length: 0\r\nDate: .*\r\nConnection: close\r\nServer: Google Search Appliance\r\n\r\n
+HTTP/1\.0 200 OK\r\nConnection: close\r\n.*<link rel=\"stylesheet\" type=\"text/css\" href=\"/dude/style\.css\" />
+HTTP/1\.1 200 OK\r\nServer: Embedded Web Server\r\n.*<TITLE>Enterasys Login</TITLE>
+HTTP/1\.1 401\r\nConnection: close\r\nContent-Type: text/plain\r\nWWW-Authenticate: Basic Realm=\"Vibe Streamer\"\r\n\r\n\r\nAccess denied
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<!---CAS:0003--><HTML><HEAD>\n<TITLE>I-O DATA Broadband Router ETX-R</TITLE>
+HTTP/1\.1 200 OK\r\nPragma: no-cache\r\nConnection: close\r\nCache-Control: no-cache\r\nExpires: Thu,01 Jan 1970 00:00:00 GMT\r\nContent-Type: text/html\r\n\r\n<html><head><meta http-equiv=\"refresh\" content=\"0;url=/_top\.html\">\n<title></title></head><body></body></html>\0
+HTTP/1\.1 200 OK\r\n.*<TITLE>&nbsp; &nbsp; &nbsp; ETHM-1 &nbsp; &nbsp; &nbsp; </TITLE>
+HTTP/1\.1 400 Bad Request\r\nDate: .*\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.1 501 Method Not Implemented\r\nServer: qhttpd\r\n
+HTTP/1\.1 202 Accepted\r\nContent-Type: text/html;charset=UTF-8\r\n.*<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1\.0 Strict//EN\" \"http://www\.w3\.org/TR/xhtml1/DTD/xhtml1-strict\.dtd\">\r\n<html xmlns=\"http://www\.w3\.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\r\n<head>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />\r\n<title>GlassFish Administration Console - Installation in Progress\.\.\.</title>
+HTTP/1\.1 200 OK\r\n.*<title>Colloquy</title>
+HTTP/1\.1 401 N/A\r\nServer: TP-LINK Router\r\nConnection: close\r\nWWW-Authenticate: Basic realm=\"Web Smart Switch\"
+HTTP/1\.0 200 OK\r\nServer: Apache\r\n.*<title>HTML-Konfiguration</title>.*<style type=\"text/css\">\r\n#startseite
+HTTP/1\.0 500 Internal Server Error\r\nConnection: Close\r\nContent-Type: text/html\r\n.*<p>java\.lang\.Exception: Invalid request: HELP</p>
+HTTP/1\.0 200 OK\r\n.*<meta http-equiv=\"refresh\" content=\"0; URL=/cgi-bin/status\.sh\" />\n\t\t<title>La Fonera</title>
+HTTP/1\.1 200\r\n.*<!--SELECTserver Full Page Header-->\r\n<html>\r\n\r\n<head>\r\n<title>\r\nSELECTserver: License Manager\r\n</title>
+HTTP/1\.0 200 OK\r\nServer: U S Software Web Server\r\n.*<html>\n<head>\n<title>StorageLoader</title>\n
+<html>\n<head>\n<title>Touchstone Status</title>\n<META HTTP-EQUIV=\"Pragma\"
+HTTP/1\.0 404 Not Found\r\nConnection: close\r\nContent-Type: text/html\r\nContent-Length: 47\r\n\r\n<html><body><p>File not found</p></body></html>
+HTTP/1\.1 200 OK.*\nServer: HPSMH\n.*\n<title>System Management Homepage</TITLE>
+HTTP/1\.0 400\r\nContent-Type: text/html\r\n\r\n<html><head><title>Error</title></head><body>\r\n<h2>ERROR: 400</h2>\r\nHost name unspecified\.\n<br>\r\n</body></html>\r\n
+HTTP/1\.0 404 no application for: /\r\nServer: HttpServer\r\n\r\n
+HTTP/1\.0 301 Moved Permanently\r\nLocation: printer/index\.html\r\nConnection: close\r\nContent-Type: text/html\r\nContent-Length: 149\r\n\r\n<BODY><H1>Error 301 Moved Permanently<hr><p>Please use this link instead:</p><p><a href='printer/index\.html'>printer/index\.html</a></p></H1></BODY>\r\n
+HTTP/1\.1 401 Unauthorized\r\nServer: micro_httpd\r\nCache-Control: no-cache\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"U\.S\. Robotics ADSL Router\"\r\n
+HTTP/1\.0 200 OK\r\nServer: U S Software Web Server\r\n.*<html>\r\n<head>\r\n<title>StorageLoader</title>\r\n
+<html>\r\n<head><title>400 Bad Request</title></head>\r\n<body bgcolor=\"white\">\r\n<center><h1>400 Bad Request</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n
+HTTP/1\.1 200 OK\r\nConnection: close\r\nCache-Control: no-cache\r\nContent-Type: text/html; charset=utf-8\r\n\r\n<html><head><title>Axon</title>
+HTTP/1\.1 401 Authorization Required\r\nDate: .*\r\nServer: KGet\r\nWWW-Authenticate: Basic realm=\"KGet Webinterface Authorization\"\r\n
+HTTP/1\.0 405 Method Not Allowed\r\nAllow: GET, HEAD\r\n\r\n405 Method Not Allowed\r\n\r\n| p|D-Link printer/webcam http config
+HTTP/1\.0 200 OK\r\nContent-Type: text/html\r\n.*<title>Icecast Streaming Media Server</title>\n
+HTTP/1\.1 200 Reply from server\r\nServer: MERCUR Messaging 2005\r\n
+HTTP/1\.1 200\r\n.*<TITLE>ProjectorView Control System</TITLE>.*CODE=com\.mitsubishi\.x500u\.X500UApplet\.class\r\n
+HTTP/1\.1 200 OK\r\naccept-ranges: none\r\ncache-control: no-cache\r\ncontent-type: text/html; charset=utf-8\r\ndate: .*\r\nexpires: 0\r\nserver: Ocsigen\r\n\r\n
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n.*<title>\n  Authentication Form.*Client Authentication Remote \nService</font>.*FireWall-1 message: User: <p> <P>\n
+HTTP/1\.0 200 OK\r\nServer: Apache/0\.6\.5\r\n.*var PM="BBR-4MG";\n
+HTTP/1\.0 302 Redirect\r\n.*\r\nServer: GoAhead-Webs\r\nDate: .*\r\nPragma: no-cache\r\nCache-Control: no-cache\r\nContent-Type: text/html\r\nLocation: http://Device/config/log_off_page\.htm\r\n\r\n
+HTTP/1\.0 200 OK\r\nConnection: close\r\nContent-type: text/html; charset:UTF-8\r\n\r\n.*<TITLE>SQLite Book</TITLE>
+HTTP/1\.0 302 Object Moved\r\nContent-Type:text/html\r\nContent-Length: 0\r\nConnection: close\r\nLocation: /Default\.mwsl\r\n\r\n
+HTTP/1\.0 200 OK\r\nServer: IVC Enterprise Video Server\r\n
+HTTP/1\.1 404 Not Found\r\n\r\n404 Not Found: \[/nice ports,/Trinity\.txt\.bak\]
+401 Access denied\r\nWWW-Authenticate: Negotiate \r\nContent-length: 0\r\n\r\n
+HTTP/1\.1 401 Unauthorized\r\nDate: .*\r\nWWW-Authenticate: basic realm=IRC Services\r\nContent-Type: text/html\r\nContent-Length: 14\r\n\r\nAccess denied\.
+HTTP/1\.0 401 Unauthorized\.\r\nWWW-Authenticate: Basic realm=\"GAI-Tronics\"\r\nContent-Type: text/html\r\n\r\n<HTML><HEAD><TITLE>401 Unauthorized\.</TITLE>\r\n</HEAD><BODY>\r\n<H1>401 Unauthorized</H1>The requested URL / requires authorization\.<P>\r\n<HR>\r\n</BODY></HTML>\r\n
+HTTP/1\.1 404 Not Found\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<html>\n  <head>\n    <title>Sipura SPA Configuration</title>\r\n  </head>\n  <body>\n        <p><font size=\"5\" color=\"#990000\">404 Not Found\r\n!</p>\n</body>\n</head></html>\n
+HTTP/1\.0 200 Ok\r\nServer: DivaWebConfig\r\n.*<title>Dialogic&reg; Diva&reg; Configuration</title>
+HTTP/1\.0 404 Not found\r\n.*<title>Error 404</title>.*<a href=\"http://www\.videolan\.org\">VideoLAN</a>
+HTTP/1\.0 302 Moved Temporarily\r\nContent-Length: 169\r\nContent-Type: text/html\r\nLocation: /Volumes/\r\n\r\n<head><title>Moved Temporarily</title></head>\r\n<body><h2>Moved Temporarily!</h2>\r\n<p>The requested resource has been temporarily movedto a new location\.\r\n</p>\r\n</body>\r\n
+HTTP/1\.1 200 OK\r\n.*<title>XBMC</title> \n<link type=\"text/css\" rel=\"stylesheet\" href=\"basic\.css\">\n</head>\n<body>\n<h1>XBMC Webinterface</h1>
+HTTP/1\.1 401 BAD\r\nWWW-Authenticate: Basic realm=\"Azureus - Swing Web Interface\"\r\n\r\nAccess Denied\r\n
+HTTP/1\.1 200 OK\r\n.*<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 3\.2 Final//EN\">\n\n<HTML>\n\n    <META HTTP-EQUIV=\"Refresh\" CONTENT=\"\.03; URL=perl/initial\.pl\"></META>\n    <HEAD><TITLE>OPNET AppSQL Xpert Management Console</TITLE></HEAD>\n\n<BODY BGCOLOR=\"#A8D5FE\">\n\n</HTML>\n
+HTTP/1\.0 200 OK\nDATE: .*\nPragma: no-cache\nServer: Delta UPSentry\n
+HTTP/1\.0 401 Unauthorized\r\nDate: .*\r\nContent-type: text/html\r\nExpires: .*\r\nWWW-Authenticate: Basic realm=\"access\"\r\n\r\n<HEAD><TITLE>Authorization Required</TITLE>.*Browser not authentication-capable or authentication failed|s p|Cisco switch/router http config
+HTTP/1\.0 404 Not Found\r\nConnection: close\r\nContent-Type: text/html; charset=utf-8\r\nContent-Length: 334\r\n\r\n<\?xml version='1\.0'\?>\n<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1\.0 Transitional//EN\" \"http://www\.w3\.org/TR/xhtml1/DTD/xhtml1-transitional\.dtd\">\n<html xmlns=\"http://www\.w3\.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\"><head><meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\"/></head><body><h1>404 Not Found</h1></body></html>
+HTTP/1\.1 403 Forbidden\nContent-Type: text/xml\n\n<ACTION>GETSTATUS</ACTION><RESPONSE>The action you attempted is forbidden by your client</RESPONSE>
+HTTP/1\.1 501 Not Implemented\r\nCIMError: Only POST and M-POST are implemented\r\n\r\n
+HTTP/1\.1 500 Internal server error\r\nContent-Length: 7\r\n\r\nBummah\.
+HTTP/1\.0 400 Malformed Header in \r\nContent-Type: text/html\r\n\r\n
+HTTP/1\.0 200 Ok\rServer: httpd\r.*\t\r\r<TITLE>3Com - OfficeConnect Wireless Cable/DSL Router</TITLE>
+HTTP/1\.0 400 Bad Request\r\nServer: Web Sharing\r\nContent-type: text/html\r\n\r\n<HTML><TITLE>400 Bad Request</TITLE>The URL you requested could not be understood by the server\.  Do not include double slashes or colon characters in the URL\.</HTML>\r\n\r\n
+HTTP/1\.1 200 Ok\r\n.*Copyright 2001,2003 Hewlett-Packard Development Company.*<title>\r\nData Frame - Browser not HTTP 1\.1 compatible\r\n</title>
+HTTP/1\.1 401 Unauthorized\r\nServer: Aragorn\r\nWWW-Authenticate: Basic realm=\"Please enter User name and password\"\r\n
+HTTP/1\.1 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"Remote-Motion CCD Network Camera\"\r\nContent-Type: text/html\r\nServer: Vivotek Network Camera\r\n\r\n<HTML>\n<HEAD>\n<TITLE>Protected Object</TITLE></HEAD><BODY>\n<H1>Protected Object</H1>This object on the server is protected\.<P>\n</BODY></HTML>
+HTTP/1\.1 506 \r\nContent-Type: text/html\r\nServer: JavaWeb/0\r\n\r\n<html><body><h1>506 - IO Error</h1></body></html>
+HTTP/1\.0 200 OK\r\nCache-Control: no-cache\r\nExpires: -1\r\nContent-Type: text/html\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.01 Transitional//EN\" \"http://www\.w3\.org/TR/html4/loose\.dtd\">\r\n<html>\r\n<head>\r\n  <title>Thomson Gateway - Startseite</title>
+HTTP/1\.0 501 R\r\nContent-Type: text/html\r\n\r\nNot Implemented| p|D-Link router/Airlink NAS http config
+HTTP/1\.0 401 Unauthorized\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"\"\r\n\r\n
+HTTP/1\.0 404 Not Found\r\nContent-Type: text/html\r\nContent-Length: 79\r\n\r\n<html><head><title>Page Not Found</title></head><body>Not here :\(</body></html>
+HTTP/1\.0 302 Found\r\nCache-Control: no-cache\r\nConnection: Close\r\nContent-Length: 0\r\nContent-Type: application/octet-stream\r\nDate: .*\r\nLocation: /nonauth/login\.php\r\nPragma: no-cache\r\nServer: Kerio WinRoute Firewall Embedded Web Server\r\n\r\n
+HTTP/1\.1 500 \( The server denied the specified Uniform Resource Locator \(URL\)\. Contact the server administrator\.  \)
+HTTP/1\.0 200 OK\r\nServer: DCLK-HttpSvr\r\n
+HTTP/1\.1 401 Authorization Required\nDate: .*\r\nWWW-Authenticate: Basic realm=\"AddPac\"\nContent-Length: 72\n\n<HTML><BODY>You must be authenticated to use this service</BODY></HTML>\n
+UNKNOWN 400 Bad Request\r\nServer: thttpd\r\n.*<HTML>\n\t<HEAD><TITLE>Error</TITLE><LINK REL=\"stylesheet\" TYPE=\"text/css\" HREF=\"/std\.css\">.*Your request has bad syntax or is inherently impossible to satisfy
+HTTP/1\.1 406 Not Acceptable\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nContent-Type: text/html; charset=utf-8\r\nConnection: close\r\nContent-Length: 616\r\n\r\n<HTML><HEAD>\n<TITLE>Request Error</TITLE>
+HTTP/1\.0 401 Unauthorized\n.*\r\nWWW-Authenticate: Basic realm=\"3Com AirProtect Sentry\"\r\n
+HTTP/1\.1 302 Moved Temporarily\r\nDate: .*\r\nLocation: /webct/entryPageIns\.dowebct\r\n
+HTTP/1\.1 400 Bad Request\r\nContent-Type: text/html\r\nContent-Length: 2\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: Close\r\n\r\n5\0
+HTTP/1\.0 404 Not Found\r\nDate: .*\r\nServer: BWS/1\.0b3\r\n\r\n
+HTTP/1\.0 401 Unauthorized\r\nServer: CAMEO-httpd\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"802\.11g WLAN Login\"\r\n
+HTTP/1\.1 404 ERROR\r\n\r\nERROR 404\r\n
+HTTP/1\.1 400 Bad Request\r\nContent-Type: text/plain\r\nContent-Length: 51\r\nConnection: close\r\n\r\nError 400: Bad Request\nCan not parse request: \[\r\n\r\]
+HTTP/1\.1 200 OK\nConnection: close\nContent-type: image/gif\nPragma: no-cache\nContent-Length: 22528\n\nMZ
+HTTP/1\.0 401 Unauthorized\r\nContent-type: text/html\r\nWWW-Authenticate: Basic realm=\"CISCO_WEB\"\r\n
+HTTP/1\.1 200 OK\r\nDate: .*\r\nContent-Language: en-US\r\nContent-Type: text/html;charset=ISO-8859-1\r\n.*<title>F-Secure Policy Manager Server</title>
+HTTP/1\.1 200 OK\r\nContent-Type: text/html; charset=utf-8\r\n\r\n<html><head><title>Welcome to Keter</title></head><body><h1>Welcome to Keter</h1><p>You did not provide a virtual hostname for this request\.</p></body></html>
+HTTP/1\.0 200 OK\r\nConneccept-Ranges: none\r\n.*<title>Citrix Access Portal</title>
+HTTP/1\.1 200 OK\r\nConnection: close\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.1 403 Forbidden\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.0 401 Login failed!\r\nServer: micro_httpd\r\n.*WWW-Authenticate: Basic realm=\"WRT54GX4\"\r\n
+HTTP/1\.0 403 Forbidden\r\n.*\r\n<title>Abilis CPX - 403 forbidden</title>
+HTTP/1\.0 200 OK\r\nServer: HellBot\r\n
+HTTP/1\.1 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"esecsrva\"\r\n\r\n
+HTTP/1\.1 200 OK\n.*<TITLE>IOGEAR MF Print Server</TITLE>
+HTTP/1\.0 200 Ok\r\nSet-Cookie: PostX_Level=0\r\nRefresh: 0;url=/login\.php\r\n\r\n
+ERROR: Malformed startup string
+HTTP/1\.0 401 Unauthorized\r\nDate: .*\r\nServer: GoAhead-Webs\r\nConnection: close\r\nWWW-Authenticate: Basic realm=\"CameraServer\"\r\n
+HTTP/1\.1 505 HTTP Version Not Supported\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.1 200 OK\r\nConnection: close\r\nPragma: no-cache\r\n.*<title>POPFile Control Center</title>\n
+HTTP/1\.1 200 OK\r\nServer: WoWEmu\r\n
+HTTP/1\.1 400 Bad Request\r\nDate: .*\r\nConnection: close\r\n\r\n
+HTTP/1\.1 200 Success\r\nServer: Messaging\r\ntransfer-encoding: chunked\r\n\r\n0\r\n\r\n
+HTTP/1\.0 302 Found\r\nLocation: /control/userimage.html\r\n
+HTTP/1\.0 404 File Not Found\r\nContent-Type: text/html\r\n\r\n<b>The file you requested could not be found</b>\r\n
+HTTP/1\.0 200 Output Follows\nServer: Apache Embedded Server\nDate: .......\n.*<title>NewCS Management Console\.\.</title>
+HTTP/1\.0 200\r\nContent-type: text/html\r\n\r\n<HTML>\r\n<HEAD><TITLE>WJ-NT104 MAIN PAGE</TITLE></HEAD>\r\n
+HTTP/1\.0 401 Unauthorized\r\nServer: http\r\n.*\r\nConnection: close\r\nWWW-Authenticate: Basic realm=\"Login to Vigor 3300\"\r\n\r\n
+HTTP/1\.1 501 Not Implemented\r\nDate: .*\r\nServer: HTTPsrv\r\nConnection: close\r\nContent-Type: text/html; charset=ISO-8859-1\r\n\r\n<HTML><HEAD><TITLE>501 Not Implemented</TITLE></HEAD>\n<BODY><H1>501 Not Implemented</H1>\nPOST to non-script is not supported\.\n</BODY></HTML>\n
+HTTP/1\.1 302 Moved Temporarily\r\ndate: .*This is a WebSEAL error message template file\.
+HTTP/1\.1 400 Bad Request\r\nDate: .*\r\nConnection: close\r\nContent-Type: text/html\r\nContent-Length: 50\r\n\r\n<HTML><BODY><H1>400 Bad Request</H1></BODY></HTML>
+HTTP/1\.1 401 Unauthorized\r\nConnection: close\r\nWWW-Authenticate: Basic realm=\"uTorrent\"\r\n\r\n
+HTTP/1\.0 200 OK\r\nCache-control: no-cache\r\nConnection: Close\r\n\r\n<html>\r\n<head>\r\n\r\n<script type=\"text/javascript\" src=\"LocalizeString30\.js\"></script>\r\n\r\n<script type=\"text/javascript\">\r\n
+HTTP/1\.1 401 Unauthorized\r\nServer: GoAhead-Webs\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"Wireless Access Point\"\r\n.*\r\n<html><head><title>Document Error: Unauthorized</title></head>\r\n\t\t<body><h2>Access Error: Unauthorized</h2>\r\n\t\twhen trying to obtain <b>/</b><br><p>Access to this document requires a User ID</p></body></html>\r\n\r\n
+HTTP/1\.0 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"Serverdoc Remote\"\r\nConnection: close\r\n\r\n\r\n
+HTTP/1\.0 401 Access Denied\r\nWWW-Authenticate: NTLM\r\nContent-Length: 24\r\nContent-Type: text/html\r\n\r\nError: Access is Denied\.
+HTTP/1\.0 200 Ok.*<IMG SRC=\"compaq\.gif\" ALT=\"COMPAQ\"><BR>\r\n<H3>Remote Insight Lights-Out Edition<BR></H3>|s p|HP/Compaq Integrated Lights-Out http config
+HTTP/1\.0 401 Unauthorized\r\nServer: micro_httpd\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"ZyXEL\"\r\n
+HTTP/1\.0 200 OK\r\nServer: NETGEAR Firewall\r\n
+HTTP/1\.0 200 OK\r\nPragma: no-cache\r\nExpires: Mon, 01 Jan 1990 01:00:00 GMT\r\nContent-Type: text/html\r\n\r\n<html>\n<head>\n</head>\n<body onload=\"top\.location='/cab/top\.shtml'\">\n</body>\n</html>\n
+HTTP/1\.0 200 OK\r\nCache-control: no-cache\r\nContent-Type: application/octet-stream\r\nConnection: close\r\nHTTP/1\.0 200 OK\r\nConnection: close\r\nContent-Length: 181\r\nContent-Type: text/html\r\n\r\n<html><body>This site is running <a href='http://www\.TeamViewer\.com'>TeamViewer</a>\.
+HTTP/1\.0 405 Method Not Allowed\r\nContent-Type: text/html\r\nCache-Control: public\r\nPragma: cache\r\n.*<html>\n<head>\n  <title>405 Method Not Allowed</title>\n</head>\n<body bgcolor=\"ffffff\">\n  <h2>405 Method Not Allowed<h2>\n  <p>\n  \n</body>\n</html>\n
+HTTP/1\.1 200 Ok\r\nDate: .* GMT\r\nContent-Type: text/html\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.01 Frameset//EN\" \"http://www\.w3\.org/TR/html4/frameset\.dtd\">\r\n<html>\r\n\t<head>\r\n\t\t<TITLE>Web Application Manager</TITLE>\r\n
+HTTP/1\.0 401 Unauthorized\r\nServer: httpd\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"Shared Storage Drive\"\r\n
+HTTP/1\.0 200 OK\r\nServer: Polycom-GAB\r\nContent-type: text/html\r\nPragma: no-cache\r\n\r\n
+HTTP/1\.0 200 OK\r\nExpires: 0\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<html>\n<title>Login</title>\n.*<font class=tdBigTitle>Connect to 192\.168\.0\.200</font>\n
+HTTP/1\.1 200 OK\r\nCache-Control: private, max-age=0, no-cache\r\nContent-Length: 188\r\nContent-Type: text/html\r\n\r\n<P align=\"center\"><STRONG><FONT color=\"#ff3333\">GSCSERVER DEFAULT HANDLER - FILE NOT FOUND</P><BR><P align=\"center\">REQUESTED FILE = nice%20ports%2C/tri%6eity\.txt%2ebak</FONT></STRONG></P>
+HTTP/1\.1 300 ERROR\r\nConnection: keep-alive\r\nContent-Length: 15\r\nContent-Type: text/html\r\n\r\ninvalid request
+HTTP/1\.1 505 HTTP Version not supported\r\nContent-Length: 0\r\nDate: .*\r\nAccept-Ranges: bytes\r\n\r\n
+HTTP/1\.1 401 Authorization Required\r\nWWW-Authenticate: Basic realm=\"CCcam Server\"\r\n.*<TITLE>CCcam info pages</TITLE>
+HTTP/1\.1 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"Network Camera\"\r\nContent-Type: text/html\r\nServer: Network Camera\r\n\r\n<HTML>\n<HEAD>\n<TITLE>Protected Object</TITLE></HEAD><BODY>\n<H1>Protected Object</H1>This object is protected\.<P>\n</BODY></HTML>
+HTTP/1\.0 403 Not Authorized\r\nContent-Type: text/html\r\nContent-Length: 379\r\n\r\n<\?xml version=\"1\.0\" encoding=\"US-ASCII\"\?>.*<p>Will not send listings for this directory\.</p>\r\n</body>\r\n</html>\r\n
+HTTP/1\.0 200 OK\r\nDate: .*\r\n\r\n<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4\.0 Transitional//EN\"><html><body bgcolor=\"#C0C0C0\" text=\"#000000\" vlink=\"#800080\" link=\"#0000FF\"><P><h1>TempTrax Digital Thermometer</h1>
+HTTP/1\.1 400 Page not found\r\nServer: GoAhead-Webs\r\nDate: .*\r\nPragma: no-cache\r\nCache-Control: no-cache\r\nContent-Type: text/html; charset=iso-8859-1;\r\n\r\n<html><head><title>Document Error: Page not found</title></head>\r\n        <body><h2>Access Error: Page not found</h2>\r\n        <p>Bad request type</p></body></html>\r\n\r\n
+HTTP/1\.1 200 OK\r\nContent-Type: text/html\r\nCache-Control: no-cache\r\nConnection: close\r\n\r\n<html><head><title>WiFi ADSL2/2\+ Combo IAD</title>
+HTTP/1\.0 401 Unauthorized\r\nServer: \r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"Linksys WAG200G \"\r\n
+HTTP/1\.0 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"Topfield PVR Web Server\"\r\n\r\n
+HTTP/1\.1 200 OK\r\n.*location\.href=\"DE1100u\.html\";\r\n
+HTTP/1\.1 204 No Content\nServer: PRS\nDate: .*\n\n
+HTTP/1\.0 302 Moved Temporarily\r\nDate: .*\r\nServer: SMSSMTPHTTP\r\n
+HTTP/1\.0 200 OK\nContent-type: text/plain\n\n\nConnection refused\.\nInvalid IP Address\n
+HTTP/1\.1 200 OK\r\nContent-Length: 134\r\nExpires: .*\r\nContent-Type: text/html\r\nDate: .*\r\n\r\n<html>\n<head>\n<title>XBMC Web Media Manager</title> \n<meta HTTP-EQUIV=\"REFRESH\" content=\"0; url=\./movies/index\.html\">\n</head>\n</html>\n
+HTTP/1\.0 200 OK\r\nServer: Apache/0\.6\.5\r\n.*src="top\.stm\?pn1=ho3\.gif&pn2=ad1\.gif"
+HTTP/1\.1 .*<p:Type>GatewayWithWiFi</p:Type><p:DeviceName>D-Link DGL-4300</p:DeviceName>
+HTTP/1\.0 200 OK\r\nPragma: no-cache\r\nContent-Type: text/html\r\n\r\n.*<title>OfficeConnect Wireless 11g Cable/DSL Gateway</title>\n
+HTTP/1\.1 200 OK\r\n.*<title>Grandstream Device Configuration</title>\r\n.*<form action=\"dologin\.htm\" method=\"post\" name=\"loginForm\">
+HTTP/1\.0 200 OK\r\nServer: UOS\r\n.*<title>TippingPoint Log On</title>\r\n<meta http-equiv=\"Cache-Control\" content=\"no-store\" />.*<!--\r\n////////////////////////////////////////////\r\n// Copyright TippingPoint 2002, 2003, 2004 and 2005\r\n
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\n\r\n<HTML>\r\n<HEAD>\r\n<TITLE>NETGEAR Web Smart Switch</TITLE>\r\n
+HTTP/1\.1 404 Not Found\r\nServer: servermgrd\r\nConnection: close\r\nContentType: text/html\r\n
+HTTP/1\.0 401 Authorization Required\r\nWWW-Authenticate: Basic realm=\"SWAT\"\r\n
+HTTP/1\.0 400 Bad Request\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.0 200 OK\nMIME-version: 1\.0\nContent-type: text/html\n\n<html>\n<head><title> XTide Tide Prediction Server </title>
+HTTP/1\.1 400 Bad Request\r\nServer: Alphanetworks,Inc\.\r\nDate: .* GMT\r\nCache-Control: no-cache,no-store\r\nContent-Type: text/html; charset=utf-8\r\nConnection: close\r\n\r\n
+HTTP/1\.1 302 Found\r\nConnection: close\r\nContent-type: text/html\r\nLocation: /index\.html\r\nContent-length: 144\r\n\r\n<HEAD><TITLE>302 Found</TITLE></HEAD>\r\n<BODY><H1>302 Found</H1>\r\n<P>Click <A HREF=\"/index\.html\">here</A> if you are not redirected\.</P></BODY>\r\n
+HTTP/1\.0 404 Not Available\r\nContent-Type: text/html\r\n\r\n<b>Could not parse XSLT file</b>\r\n
+HTTP/1\.1 200 OK\r\n\r\n<html><head><title>File Share</title></head><body><a href=\"/folder/0\">Public</a><br/></body></html>
+HTTP/1\.1 302 Moved Temporarily\r\nLocation: /login\r\n\r\n
+<head><title>400 Bad Request</title></head>\r\n<h1>400 Bad Request</h1>\r\n\r\n
+HTTP/1\.0 200 OK\r\nServer: UOS\r\n.*<title>3Com Log On</title>
+HTTP/1\.0 200 OK\r\nConnection: close\r\nAccept-Ranges: none\r\n.*<title>Citrix Access Gateway</title>
+HTTP/1\.1 200 OK\r\nServer: Mango DSP HTTP Stack\r\n.*<title>Mango IP Node Configuration</title>
+HTTP/1\.0 302 Found\r\nConnection: Close\r\nLocation: /search\?site=default_collection&client=default_frontend&output=xml_no_dtd&proxystylesheet=default_frontend&proxycustom=<HOME/>\r\nContent-Type: text/html\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.1 404 not found\r\nContent-Length: 13\r\n\r\n404 not found
+HTTP/1\.0 401 Unauthorized\r\nServer: \r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"Linksys RVS4000\n \"
+<html>\n   <head>\n      <meta HTTP-EQUIV='Pragma' CONTENT='no-cache'>\n      <script language=\"javascript\">\n</script>\n   </head>\n   <body>\n   \t<center> \n<table align=center style=\"margin:25px;width:480px\" cellspacing=0 cellpadding=0 border=0> \n \n    <tr> \n        <td align=center><span style=\"font-size:1\.2em\"> VoIP Router</span> \n
+HTTP/1\.1 200 OK\r \nContent-type: text/html\r\n.*<html xmlns=\"http://www\.w3\.org/1999/xhtml\" xml:lang=\"en\" lang=\"en\">\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />\n<title>Chumby FM Radio</title>
+HTTP/1\.0 200 OK\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\nPragma: no-cache\r\nExpires: 0\r\n\r\n<!-----!GS-1124C!-->\n
+HTTP/1\.1 200 OK\r\nDate: .*\r\nServer: \r\n.*ACTION=\"/cgi-bin/cgi_authenticate\">\n<P ALIGN=\"left\"><B><FONT SIZE=\"5\" face=\"Tahoma\">User Firewall Authentication
+<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML 2\.0//EN\">\n<html><head>\n<title>302 Found</title>\n</head><body>\n<h1>Found</h1>\n<p>The document has moved <a href=\"/red2301\.html\?RedirectUrl=/\">here</a>\.</p>\n<p>Additionally, a 302 Found\nerror was encountered while trying to use an ErrorDocument to handle the request\.</p>\n</body></html>\n
+HTTP/1\.0 200 OK\r\nContent-type: text/html\r\nConnection: close\r\n\r\n<html><head><link rel=stylesheet type=text/css href=indexStyle\.css><title>Webrelay Quad</title>
+HTTP/1\.1 200 OK\r\nContent-Length: 155\r\nConnection: close\r\n.*<title><FortiClient Download Portal</title>
+HTTP/1\.1 200 OK\r\n.*<title>BitTorrent Download Manager</title>\r\n
+HTTP/1\.1 200 OK\r\n.*\n\n\t\t<title>PGP Universal - Page Not Found</title>\n
+HTTP/1\.0 301 OK\r\nConnection: close\r\nLocation: /AgentManager/get/html/home\.html\r\nContent-Type: text/html\r\n\r\n<HTML><HEAD><TITLE>redirecting to url</TITLE></HEAD><BODY><H1>redirecting to url</H1><A HREF=\"/AgentManager/get/html/home\.html\"></A><p></BODY></HTML>\r\n\r\n
+HTTP/1\.1 200 OK\r\nConnection: close\r\nDate: Sat, 01 Jan 2000 00:37:25 GMT\r\nLast-Modified: Sat, 01 Jan 2000 00:01:28 GMT\r\nContent-Type: text/html\r\nContent-Length: 635\r\n.*<title>VoIP Gateway</title>
+HTTP/1\.1 200 OK\r\n.*<title>Ethernetov\xfd teplom\xecr TME od Papouch s\.r\.o\.</title>
+HTTP/1\.0 200 OK\nContent-type: text/html\r\n.*/\* f\*cking IE doesn't support web standard \*/\n
+HTTP/1\.0 302 Document Follows\r\nLocation: http:///index\.html\r\nConnection: close\r\n\r\n
+HTTP/1\.0 200 OK\r\nDate: .*\r\nServer: Embedded HTTP Server\.\r\n.*<meta http-equiv=\"refresh\" content=\"0; URL=/scgi-bin/platform\.cgi\">
+HTTP/1\.0 200 OK\r\n.*<title>LaCie Network Space NAS</title>.*<meta http-equiv=\"refresh\" content=\"0;url=/cgi-bin/public/login\">
+HTTP/1\.0 200 OK\r\nPragma:no-cache\r\n.*<title>IBM NPS 540\+/542\+; IP address:|s p|IBM NPS 540+/542+ print server http config
+HTTP/1\.1 400 Bad Request\r\nContent-Type: text/html.*\n<meta name=robots content=\"none\">\n<title>Sign&#32;in&#32;to&#32;begin&#32;\xf92\0\0\xa8o\xee\"\xa8o\xee\"sion&#46;</title>\n\n
+HTTP/1\.0 302 Temporary moved\r\nContent-Length: 0\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: Close\r\nDate: .*\r\nLocation: https:///\r\n\r\n
+HTTP/1\.0 200 OK\nContent-type: text/plain\n\nTable: Links\nLocal IP\tRemote IP\tHyst\.\tLQ\tNLQ\tCost\n[\w._-]+\t[\w._-]+\t[\d.]+\t[\d.]+\t[\d.]+\t[\d.]+\t\n
+<!DOCTYPE HTML PUBLIC \"-//IETF//DTD HTML//EN\">\n<html>\n  <head>\n    <title>404 Entity Not Found</title>\n.*The requested file or stream was not found on this server\.
+HTTP/1\.0 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"Arecont Vision\"\r\n\r\n
+HTTP/1\.0 200 OK\r\n.*<TITLE>Network Camera</TITLE>.*<META HTTP-EQUIV=\"Refresh\" CONTENT=\"1;URL=CgiStart\">
+HTTP/1\.1 400 Bad Request\r\nContent-Length: 85\r\nContent-Type: text/plain\r\n\r\nThe client sent a plain HTTP request, but this server only speaks HTTPS on this port\.
+HTTP/1\.0 200 OK\r\nConnection: close\r\nContent-Type: text/html; Charset=UTF-8;\r\n\r\n<html><title>Installed templates</title>.*<a href=\"/foobar2000controller/index\.html\">foobar2000controller</a>
+HTTP/1\.0 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"HostMonitor's Web Service\"\r\n\r\n
+HTTP/1\.0 200 OK\r\nConnection: close\r\nContent-Type: text/html; charset=UTF-8\r\nPragma: no-cache\r\nCache-Control: no-cache\r\nExpires: 0\r\nDate: .* GMT\r\n\r\n<!DOCTYPE html PUBLIC \"-//W3C//DTD HTML 4\.01 Transitional//EN\">\n<html>\n<head>\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\n<link href=\"/manimg/sirius/main\.css
+HTTP/1\.1 401 Unauthorized\nWWW-Authenticate: Basic realm='unRAID SMU'\n
+HTTP/1\.0 200 OK\r\n.*\r\n<TITLE>bric_web_gui</TITLE>\r\n</HEAD>\r\n<BODY bgcolor=\"#555577\">\r\n<!-- URL's used in the movie-->\r\n<!-- text used in the movie-->
+HTTP/1\.0 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"Web Server\"\r\nContent-type: text/html\r\n\r\n<html>\r\n<body><h1>401 Unauthorized</h1></body></html>\r\n
+HTTP/1\.0 200 Ok\r\nContent-Type: text/html; charset=\"utf-8\"\r\n\r\n<HTTP>\r\n<HEAD>\r\n  <TITLE>MythTV Status</TITLE>
+HTTP/1\.0 400 Bad Request\r\nServer: AkamaiGHost\r\n| p/AkamaiGHost/ i|Akamai's HTTP Acceleration/Mirror service
+HTTP/1\.0 400 Bad Request\r\nServer: CloudFront\r\n
+HTTP/1\.0 200 OK\r\nConnection: close\r\nContent-Encoding: gzip\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\n\x1f\x8b\x08\0\0\0\0\0\x02\x03\xa5\x93Mo
+HTTP/1\.1 200 OK\r\n.*<title>XBMC</title>\r\n\t\t<meta http-equiv=\"Content-Language\" content=\"EN\" />.*<!-- <link rel=\"search\" href=\"/provider\.xml\" type=\"application/opensearchdescription\+xml\" title=\"XBMC Library\" /> -->
+HTTP/1\.0 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"Wusage\"\r\n
+HTTP/1\.1 302 Redirect\r\nServer: GoAhead-Webs\r\n.*Location: https://Device/config/log_off_page\.htm\r\n
+HTTP/1\.0 200 OK\r\nExpires: 0\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n<html>\n<title>Login</title>\n<link rel=stylesheet href=\"login\.css\" type=\"text/css\" />\n<script src=\"form\.js\" type=\"text/javascript\"></script>
+HTTP/1\.0 200 OK\r\nHTTP/1\.0 200 OK\r\nServer: ap\r\n.*<title>NetGear Remote Bridge Setup</title>
+HTTP/1\.0 400 Bad Request\r\nServer: IngrianManagementConsole\r\n
+HTTP/1\.1 200 OK.*\r\nServer: Web Server\r\n.*<TITLE>NetGear FSM7352S</TITLE>
+HTTP/1\.0 200 Ok\r\nContent-type: text/html; charset=\"UTF-8\"\r\nConnection: close\r\nAccept-Ranges: none\r\nServer: Sockso\r\nCache-Control: private\r\n
+HTTP/1\.0 302 Found\r\nLocation: http://xbtt\.sourceforge\.net/\r\n\r\n
+HTTP/1\.0 200\r\nContent-type: text/html\r\n\r\nInvalid request
+HTTP/1\.0 404 File not found\r\nServer: HttpServer\r\n\r\n
+HTTP/1\.0 400 Bad Request\r\nContent-type: text/html; charset=iso-8859-1\r\nAccept-Ranges: bytes\r\nConnection: close\r\n\r\n<HTML><HEAD><TITLE>400 Bad Request</TITLE></HEAD>\n<BODY BGCOLOR=\"#cc9999\"><H2>400 Bad Request</H2>\n<HR>\nYour request has bad syntax or is inherently impossible to satisfy\.\n</BODY></HTML>\n
+Language received from client: .*\nSetlocale: .*\n
+HTTP/1\.1 200 Okay\r\n.*\r\nServer: PLT Scheme\r\n
+HTTP/1\.0 302 Found\r\nConnection: Close\r\nLocation: /iw-cc/command/iw\.base\.show_done_page
+HTTP/1\.0 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"NETWORK\"\r\nContent-Type: text/html\r\nServer: Lancam Server\r\n\r\n
+HTTP/1\.0 200 OK\r\nServer: \r\nContent-Type: text/html; charset=iso-8859-1\r\nDate:.*//inserted by Edward on 2004/01/07 for user pressing \"Enter\" to login if \"Username\" and \"Password\" are right
+HTTP/1\.0 404 NO_STREAM_FOUND\r\nConnection: close\r\n\r\n
+HTTP/1\.0 302 Found\r\nLocation: /index\.htm\r\n\r\n
+<html>\r\n<head>\r\n<meta http-equiv=\"Content-Language\" content=\"it\">\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-1252\">\r\n<meta http-equiv=\"Refresh\" content=\"10\">\r\n<title>UPS web page</title>\r\n
+HTTP/1\.0 200 Ok\r\nServer: CAMEO-httpd\r\n.*<title>D-LINK SYSTEMS, INC\. \| WIRELESS AP : LOGIN</title>
+HTTP/1\.1 401 Unauthorized\r\nWWW-Authenticate: Basic realm=\"DM602 \"\r\nContent-type: text/html\r\nContent-length: 0\r\n\r\n/\"\r\nContent-type: text/html\r\nContent-length: 0\r\n\r\n
+HTTP/1\.0 404 NOT FOUND\r\nContent-Type:text/html\r\n.*<TITLE>\r\n      MiniWeb Client Workbench\r\n    </TITLE>\r\n  </HEAD>\r\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"/CSS/MiniWeb\.css\">\r\n
+HTTP/1\.0 500 Internal Server Error\r\nContent-type: text/html; charset=UTF-8\r\n\r\n<html><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=UTF-8\"><body>\r\nInternal Server Error</body>\r\n</html>\r\n| p|BMC/Marimba Management http config
+HTTP/1\.1 200 Ok\r\nServer: micro_httpd\r\n.*<title>3Com - OfficeConnect ADSL Wireless 108Mbps 11g Firewall Router</title>
+HTTP/1\.1 200 OK\r\nServer: SMC Internet Update Manager\r\nConnection: Keep-Alive\r\nContent-Type: text\r\nDate: .*\r\nContent-Length: 61\r\n\r\n<HTML>Avira Internet Update Manager ist betriebsbereit</HTML>
+HTTP/1\.0 200 OK\r\nLast-Modified: .*\n<HTML><HEAD><TITLE>Gopher</TITLE></HEAD><BODY>Welcome to Gopherspace!  You are browsing Gopher through\na Web interface right now\.
+HTTP/1\.0 501 Not Implemented\r\nDate: .*<H1>501 Not Implemented</H1>\nPOST to non-script is not supported in Boa\.\n</BODY></HTML>\n
+HTTP/1\.0 401 Unauthorized\r\nServer: Transmission\r\nContent-Type: text/html; charset=ISO-8859-1\r\n
+HTTP/1\.0 302 Found\nServer: Alpha_webserv\nDate: .*\r\nContent-Type: text/html\nAccept-Ranges: bytes\nLocation: /public/login\.htm\nX-Pad: avoid browser bug\n\n
+HTTP/1\.0 401 Login failed!\r\nServer: micro_httpd\r\nDate: .*\r\nWWW-Authenticate: Basic realm=\"WRT54GXv2\"\r\n

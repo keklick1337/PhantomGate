@@ -1,0 +1,3 @@
+<stream:error>Invalid XML</stream:error></stream:stream>
+<stream:error>Invalid XML</stream:error>
+<stream:error><invalid-xml xmlns='urn:ietf:params:xml:ns:xmpp-streams'/><text xmlns='urn:ietf:params:xml:ns:xmpp-streams' xml:lang='en'>Invalid XML</text></stream:error>

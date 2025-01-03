@@ -1,0 +1,6 @@
+Unknown command: `pserver'\n\nCVS commands are:\n
+no repository configured in /
+cvs-pserver \[pserver aborted\]: bad auth protocol start: HELP\r\n\n
+cvs \[server aborted\]: bad auth protocol start: HELP\r\nerror  \n
+cvs \[server aborted\]: bad auth protocol start: HELP\r\n
+-f \[pserver aborted\]: bad auth protocol start: HELP\r\n\n

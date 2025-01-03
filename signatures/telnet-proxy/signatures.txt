@@ -1,0 +1,3 @@
+\xff\xfb\x01\xff\xfb\x03Telnet Gateway ready=enter computer name to connect to\.\\x0d\\x0a\\xd\\xahost\[:port\]: \r\n
+\r\n\r\nEnter computer name to connect to\.\r\ne\.g\. \"NetCom\.com\"<CR>
+\xff\xfb\x01\xff\xfb\x03Blue Coat Shell proxy\r\nShell-proxy>

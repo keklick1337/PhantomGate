@@ -1,0 +1,1 @@
+HTTP/1\.0 302 Found\r\nConnection: Close\r\nDate: .*\r\nLocation: /ui/core/index\.html\r\n\r\n

@@ -1,0 +1,1 @@
+READY \r\nERROR 10000 \"Unknown command\. Write HELP to get help\.\" \[Unknown\]\r\nERROR 10000 \"Unknown command\. Write HELP to get help\.\" \[Unknown\]\r\n

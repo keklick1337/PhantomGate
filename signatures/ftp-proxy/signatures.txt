@@ -1,0 +1,17 @@
+220 webshield2 FTP proxy ready\.\r\n
+500 WinGate Engine Access Denied\r\n
+220-\r\x0a220-Sidewinder ftp proxy
+220 Service Ready\r\n502 Command Not implemented\r\n
+220 Frox transparent ftp proxy\. Login with username\[@host\[:port\]\]\r\n
+220 Secure Gateway FTP server
+220 FTP Gateway at Jana Server ready\r\n
+220 ezProxy FTP Proxy Server Ready \r\n
+220 IWSS FTP proxy ready\r\n
+220-Sidewinder ftp proxy\.  You must login to the proxy first
+220 Proxy602 Gateway ready, enter user@host\[:port\]\r\n
+220-CCProxy FTP Service\r\n220-you need to input userid@site as login name\.\r\n220 Example: user anonymous@ftp\.netscape\.com\r\n
+220 CoolProxy FTP server & firewall\r\n
+220 WinProxy FTP Gateway ready, enter username@host\[:port\]\r\n
+220 Ftp service of Jana-Server ready\r\n
+220 Finjan SurfinGate Proxy - Server Ready\.\r\n
+501 Proxy unable to contact ftp server\r\n

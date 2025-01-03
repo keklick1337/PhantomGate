@@ -1,0 +1,1 @@
+\xff\xfd\x01\xff\xfe\x01\xff\xfb\x01\x1b\[2J\[ M113 \]  B-02\.54  VIP113  V-([\w._-]+)  VB\r\nDate/time: \d+\.\d+\.\d+/\d+:\d+:\d+\.\d+\r\nSNumber: (M113-\d+)\r\n\r\nVB login:

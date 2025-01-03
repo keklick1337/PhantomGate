@@ -1,0 +1,1 @@
+{\"result\":\"error\",\"error\":\"Incorrect\. Socket requests are in the format PAGE\?ARGUMENTS\. For example, \\/api\\/subscribe\?source=\.\.\.\.\",\"source\":\"\"}\r\n{\"result\":\"error\",\"error\":\"Incorrect\. Socket requests are in the format PAGE\?ARGUMENTS\. For example, \\/api\\/subscribe\?source=\.\.\.\.\",\"source\":\"\"}\r\n

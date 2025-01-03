@@ -1,0 +1,1 @@
+ERROR\nmessage:Unknown STOMP action:.+ org\.apache\.activemq\.

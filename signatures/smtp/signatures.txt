@@ -1,0 +1,55 @@
+220.*214 See http\:\/\/www\.messagelabs\.com\/support
+220 HMailServer ESMTP\r\n
+421 Service not available, closing transmission channel \r\n
+220 imss-2 ESMTP ready at .*\r\n
+Permission denied - do not try again\.\r\n
+220 LiteMail SMTP Server Ready\.\r\n
+220 WebMail ESMTP\r\n502 negative vibes\r\n
+421 Service not available, closing transmission channel\r\n
+220 Mail Server\r\n211 Help:->Supported Commands: HELO,EHLO,QUIT,HELP,RCPT,MAIL,DATA,RSET,NOOP\r\n
+220 .* SMTP ready at .*\r\n501 Command \"EHLO\" requires an argument\r\n
+500 Permission denied - closing connection\.\r\n
+554 Please check that your outgoing mail server settings are correct\. Contact your service provider's technical support for assistance\.\n
+220 .*\r\n502 Error: command not implemented\r\n
+220 Simple Mail Tranfer Service Ready \r\n502 Commande not implement \r\n
+220 ESMTP Postfix\r\n501 Syntax: EHLO hostname\r\n
+220 Welcome to the Advanced SMTP Server\r\n
+220 network-box ESMTP\r\n
+220 Welcome to the mail server\.\r\n211 DATA EXPN HELO MAIL NOOP QUIT RCPT RSET SAML SEND SOML TURN VRFY\r\n
+554 SMTP synchronization error\r\n
+572 Relay not authorized\r\n
+554 SMTP service not available\r\n
+220  DP-3510\r\n
+220 CheckPoint FireWall-1 secure SMTP server\r\n
+421 Unexpected log failure, please try later\r\n
+220.*?\r?\n214-Commands supported:\r\n214 AUTH STARTTLS HELO EHLO MAIL RCPT DATA NOOP QUIT RSET HELP VRFY\r\n
+220 Ready to receive mail2 -=- ESMTP\r\n502 unknown command\.\r\n
+220 ShareMailPro SMTP Server Ready \r\n
+220 \r\n501 \r\n
+220 shttp\.srv Simple Mail Transfer Service Ready\r\n
+220 SPAM, we hates it.\r\n
+220 rblsmtpd\.local\r\n
+220  ESMTP Lyris service ready\r\n
+220 SMTP Server RoiMailServer ready\.\r\n
+220 Welcome to the INDY SMTP Server\r\n
+220 DP-1820E\r\n
+220 .*\r\n221 2\.7\.0 Error: I can break rules, too\. Goodbye\.\r\n
+220 mailmatrix SMTP Server \(Mail Matrix Server\) ready
+220 Welcome to Nemesis ESMTP server on \S+
+553 Requested action not taken; No permission\.\r\n
+220 Jana-Server Simple Mail Transfer Service ready\r\n
+220 ESMTP service ready\r\n250\x20ok\r\n
+220 ESMTP Service ready\r\n500 Command unrecognized\r\n
+220  ESMTP Lyris ListManager service ready\r\n
+relaylock: Error: PRODUCT_ROOT_D not defined\nrelaylock: Error: PRODUCT_ROOT_D not defined\n1\n
+421 4\.3\.2 Service not available\r\n
+220 Merak MAILSRV\r\n
+220.*214 SMTP server comments and bug reports to: \<zmhacks\@nic.funet.fi\>
+220 CheckPoint FireWall-1 secure ESMTP server\r\n
+220 jMailer SMTP Server\r\n
+220.*500 Unknown or unimplemented command
+220  ESMTP\r\n214-The following commands are recognized\r\n214-\tauth\tdata\tehlo\thelo\r\n214-\thelp\tmail\tnoop\tquit\r\n214 \trcpt\trset\tvrfy\r\n| p|Eserv/4 smtpd
+520 Connection not authorised from this address\.\r\n
+220 localhost Dumbster SMTP service ready\r\n
+220 ESMTP Service ready at .*\r\n214-Enter one of the following commands:\r\n214-HELO EHLO MAIL RCPT DATA RSET NOOP QUIT\r\n214 HELP \r\n
+421 4\.3\.2 Connection rate limit exceeded\.\r\n

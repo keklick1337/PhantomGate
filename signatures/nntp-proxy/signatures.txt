@@ -1,0 +1,2 @@
+200 CCProxy NNTP Service\r\n
+200 avast! NNTP proxy ready\.\r\n

@@ -1,0 +1,35 @@
+\+OK Welcome to the Atmail POP3 server - Login with user@domain\.\r\n
+\+OK POP3\r\n-ERR Invalid command in current state\.\r\n
+\+OK DBMAIL pop3 server ready to rock <
+\+OK XXX Private Mail server\r\n-ERR Invalid command in current state\.\r\n
+\+OK Solid POP3 server ready\r\n
+\+OK VPOP3 Server Ready <.*>\r\n
+\+OK POP3 Server ready\r\n
+\+OK Dovecot DA ready\.\r\n
+\+OK POP3 server ready <Jana-Server>\r\n
+\+OK Atmail IMAP/POP3 server ready\r\n
+\+OK Welcome to Arvixe POP3 server\.\r\n
+\+OK Microsoft Exchange Server 2007 POP3 service ready\r\n
+\+OK Solid POP3 server ready\r\n-ERR unknown command\r\n-ERR unknown command\r\n
+-ERR Invalid command\.\r\n-ERR Invalid command\.\r\n
+\+OK POP3 thats cool man\r\n
+\+OK Hello there\.\r\n
+\+OK GroupWise POP3 server ready\r\n
+\+OK Dovecot ready -
+\+OK The Microsoft Exchange POP3 service is ready\.\r\n
+\+OK WinGate Engine POP3 Gateway ready\r\n
+\+OK Pop3 ready\.\r\n
+\+OK Quick 'n Easy Mail Server ready\r\n
+-ERR Permission denied - closing connection\.\r\n
+\+OK pop server ready\r\n
+\+OK Internet Rex POP3 server ready <
+\+OK\r\n
+\+OK POP3 ready\r\n-ERR invalid command\r\n
+\+OK Microsoft Windows POP3 Service Version 1.0 <
+\+OK \]-:\^:-\[ \]-:\^:-\[ POP3
+\+OK POP3 FTGate4 server ready
+\+OK POP3 server ready\r\n
+Unable to open trace file \"/var/spool/popper/
+\+OK InterMail POP3 server ready\.\r\n
+\+OK Server Ready\r\n
+\+OK E-POST POP3 Server \(([^\)]+)

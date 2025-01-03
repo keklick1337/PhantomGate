@@ -1,0 +1,2 @@
+\r\nCEN-IDOC Control Console\r\n\r\nCEN-IDOC>
+\r\nMC2E Control Console\r\n

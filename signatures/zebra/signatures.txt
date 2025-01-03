@@ -1,0 +1,1 @@
+Vty password is not set\.\r\n

@@ -1,0 +1,1 @@
+This is MoneyWorks; Server is on Windows\n

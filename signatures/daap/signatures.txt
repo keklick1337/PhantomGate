@@ -1,0 +1,2 @@
+HTTP/1\.0 404 Not Found\r\nDate: .*\r\nContent-Length: 0\r\n\r\n
+HTTP/1\.1 404 Not Found\r\nConnection: close\r\nDate: .*\r\nContent-Length: 24\r\n\r\nCommand not implemented\.

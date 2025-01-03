@@ -1,0 +1,3 @@
+\xff\0\x0eProtocol error
+\xff\0\x17Took too long to log in
+\xff\0\x0e\0P\0r\0o\0t\0o\0c\0o\0l\0 \0e\0r\0r\0o\0r

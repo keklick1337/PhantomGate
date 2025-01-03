@@ -1,0 +1,6 @@
+200 poppassd v([\w.]+) for Digital Unix with C2 security Hello, who are you\?\r\n
+200 poppassd hello, who are you\?\r\n
+200 hello there, please tell me who you are\r\n
+200 hello there, who are you\?\r\n
+200 MERCUR Password service for Windows NT ready\r\n
+200 hello\r\n

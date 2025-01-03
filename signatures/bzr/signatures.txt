@@ -1,0 +1,1 @@
+error\x01Generic bzr smart protocol error: bad request '\\r'\n

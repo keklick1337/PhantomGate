@@ -1,0 +1,2 @@
+Enter port cpu supported card port number and hit Enter\. For example \"3 4\"\r\n
+\r\nWelcome to the Ixia Socket/Serial TCL Server\r\nPress Ctrl-C to reset Tcl Session\r\nIxia>

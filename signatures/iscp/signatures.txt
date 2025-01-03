@@ -1,0 +1,1 @@
+ISCP\0\0\0\x10\0\0\0\n\x01\0\0\0!1SLP06\x1a\r\nISCP\0\0\0\x10\0\0\0\x1e\x01\0\0\0!1NLT0222000000000000000200\x1a\r\nISCP\0\0\0\x10\0\0\0\x0b\x01\0\0\0!1NLSC-P\x1a\r\nISCP\0\0\0\x10\0\0\0\x13\x01\0\0\0!1NTM\d\d:\d\d/--:--\x1a\r\n| p|Onkyo A/V receiver ISCP

@@ -1,0 +1,1 @@
+\0Server string for PARC version 1 Wire Encryption version 1\0

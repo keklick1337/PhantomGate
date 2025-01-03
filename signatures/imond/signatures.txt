@@ -1,0 +1,2 @@
+ERR\r\nERR\r\n
+ERR password required\r\nERR password required\r\n

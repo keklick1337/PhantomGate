@@ -1,0 +1,3 @@
+\x01krshd: Kerberos Authentication Failed\.\r\n
+\x01krshd: Echec de l'authentification Kerberos\.\r\n\0
+\x01remshd: connect: Connection refused\n

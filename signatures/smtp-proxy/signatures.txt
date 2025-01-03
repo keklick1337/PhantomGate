@@ -1,0 +1,20 @@
+421 <ASSP\.nospam> service temporarily unavailable, closing transmission\r\n
+220 SMTP ESMTP ready at .*0\r\n214-\r\n214 End of HELP info\r\n
+220 SMTP Proxy Server Ready\r\n250 \+OK entry follows, ends in \.\r\n
+421 proxyplus\.universe SMTP server\. Insecure access - terminating\.\r\n
+220 Welcome to the 1st SMTP Server\r\n
+220 YahooPOPs! Simple Mail Transfer Service Ready\r\n
+220 WebShield SMTP MR2\r\n
+220 Ready to receive mail -=- ESMTP\r\n250-Ready to receive mail -=-\r\n250-AUTH LOGIN PLAIN\r\n250-AUTH=LOGIN PLAIN\r\n250-PIPELINING\r\n250 8BITMIME\r\n
+NoSpamToday! SMTP Proxy Monitoring Service Ready\.\r\n
+220 ready\r\n214-Commands:\r\n214-    HELO    MAIL    RCPT    DATA\r\n214-    RSET    NOOP    QUIT    HELP\r\n214-    VRFY    EXPN\r\n214-For more info use HELP <topic>\r\n214 End of HELP info\r\n
+220 UserGate: SMTP service ready\r\n
+220-TrendMicro IMSS SMTP proxy\r\n
+220 Alligate Greylisting Server ready\r\n
+220 SMTP SDC Ready\r\n250 \+OK entry follows, ends in \.\r\n
+554 You are not allowed to connect\.\r\n
+220 SMTP service ready\r\n214-Commands:\r\n214-\tDATA\tRCPT\tMAIL\tQUIT\tRSET\r\n214 \tHELO\tVRFY\tEXPN\tHELP\tNOOP\r\n
+220 arkoon Sendmail ready\. \r\n
+503 Synchronization error\r\n
+220 Net at Work Mail Gateway ready\r\n
+421 too many connections\r\n

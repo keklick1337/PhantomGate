@@ -1,0 +1,3 @@
+INVALID_COMMAND\r
+Crestron Terminal Protocol Console opened\r\n
+\r\nCrestron Terminal Protocol Console Opened\r\n\r\n

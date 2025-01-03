@@ -1,0 +1,1 @@
+\+ read portFile\n\+ head -1\n\+ find /var/websm/

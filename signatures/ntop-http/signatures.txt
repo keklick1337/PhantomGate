@@ -1,0 +1,1 @@
+HTTP/1\.0 401 Unauthorized to access the document\nWWW-Authenticate: Basic realm=\"ntop HTTP server\"\n

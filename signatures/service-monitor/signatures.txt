@@ -1,0 +1,1 @@
+550 Bad syntax\. Go away\.\n

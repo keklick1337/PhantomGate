@@ -1,0 +1,1 @@
+\0\x19\x02\0\x02\0\x07\0Protocol version mismatch\0

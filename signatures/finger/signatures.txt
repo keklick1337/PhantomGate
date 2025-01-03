@@ -1,0 +1,22 @@
+This is finger server\r\n\r\nPlease use username@domain format\.\r\n
+OpenLDAP Finger Service\.\.\.\r\n
+Login name: HTTP/1\.0       In real life: \?\?\?\r\n
+finger: GET: no such user.\r\nfinger: /: no such user.\r\nfinger: HTTP/1.0: no such user.\r\n
+finger: /var/adm/lastlog open error\nLogin       Name
+Username Real name                      Idletime TTY Remote console location\n
+No such user No such user N\n
+Login name: /         \t\t\tIn real life: \?\?\?\r\n\r\nLogin name: GET       \t\t\tIn real life: \?\?\?\r\n\r\nLogin name: HTTP/1\.0  \t\t\tIn real life: \?\?\?\r\n
+Login     Name       Tty      Idle  Login Time   Office     Office Phone\r\n
+Login       Name               TTY         Idle    When    Where\r\nGET                   \?\?\?\r\n/                     \?\?\?\r\nHTTP/1\.0              \?\?\?\r\n
+Information for user 'GET\+20\+2F\+20HTTP\+2F1\.0':\r\nUnknown user\.\r\n
+Gathering system data\.\.\.\nUsername Real name                      Idletime TTY Remote console location\n
+finger: sorry, no such user\.\n
+User not found\r\n
+No such activity\.\r\n
+No such user\n
+That user does not want to be fingered\.\n
+\r\nPrinter Type: Lexmark Optra LaserPrinter\r\n
+\r\nIntegrated port\r\nPrinter Type: Lexmark T642\r\nPrint Job Status:
+No information available\r\n
+finger: /var/adm/lastlog open error\nNo one logged on\r\n
+Finger online user list request denied\.\r\n

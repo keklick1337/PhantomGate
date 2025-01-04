@@ -1,5 +1,7 @@
 # PhantomGate
 
+( **_PYTHON VERSION [current]_** | **[C99 VERSION](https://github.com/keklick1337/PhantomGateC99)** )
+
 **PhantomGate** is a minimalistic port-spoofer written in Python, designed to confuse and mislead port scanners by responding with fake or randomized signatures. Inspired by the approach of portspoof-like tools, **PhantomGate** uses a simple signature file to dynamically emulate different services.
 
 > Created by **Vladislav Tislenko (aka keklick1337)**

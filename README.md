@@ -1,4 +1,4 @@
-# PhantomGate
+# PhantomGate (Python)
 
 ( **_PYTHON VERSION [current]_** | **[C99 VERSION](https://github.com/keklick1337/PhantomGateC99)** )
 

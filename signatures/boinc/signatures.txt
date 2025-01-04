@@ -2,4 +2,3 @@
 <unrecognized/>\n\x03
 <boinc_gui_rpc_reply>\n<error>unrecognized op: \r\n\r</error>\n</boinc_gui_rpc_reply>\n\x03
 <boinc_gui_rpc_reply>\n<unauthorized/>\n</boinc_gui_rpc_reply>\n\x03
-<boinc_gui_rpc_reply>\n<error>unrecognized op</error>\n</boinc_gui_rpc_reply>\n\x03

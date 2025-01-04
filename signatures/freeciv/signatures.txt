@@ -1,3 +1,4 @@
 \0\x03X\0.\x01\0\0\0\0Votre client est trop vieux\. Pour utiliser ce serveur veuillez mettre votre client \xc3\xa0 jour avec une version Freeciv 2\.2 ou ult\xc3\xa9rieure\.\0\0\0\x03\0\0\x03\x01
 \0\x03X\0.\x01\0\0\0\0Your client is too old\. To use this server please upgrade your client to a CVS version later than 2003-11-28 or Freeciv 1\.15\.0 or later\.\0\0\0\x03\0\0\x03\x01
+\0\x03X\0.\x01\0\0\0\0Tw\xc3\xb3j klient jest zbyt stary\. Aby wej\xc5\x9b\xc4\x87 na ten serwer musisz u\xc5\xbcywa\xc4\x87 klienta w wersji co najmniej 1\.15\.0\. \(Lub z CVS'a po 18\.11\.2003\)\.\0\0\0\x03\0\0\x03\x01
 \0\x03\x02\0\.\x01\0\0\0\0Invalid name ''\0\+1\.14\.0 conn_info team\0\0\x03\x03

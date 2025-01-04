@@ -1,1 +1,2 @@
 HTTP/1\.0 503 Directory busy, try again later\r\n\r\n
+HTTP/1\.0 \d\d\d .*\r\nContent-Encoding: identity\r\n.*signed-directory\npublished .*\nrecommended-software

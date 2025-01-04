@@ -1,0 +1,3 @@
+..\0\0\x04\0\0\0\"\0..\(DESCRIPTION=\(ERR=12504\)\)\0
+\0.\0\0[\x02\x04]\0\0\0.*TNSLSNR for ([-.+/ \w]{2,24}): Version ([-\d.]+) - Production
+\0.\0\0\x02\0\0\0.*\(IAGENT = \(AGENT_VERSION = ([\d.]+)\)\(RPC_VERSION = ([\d.]+)\)\)

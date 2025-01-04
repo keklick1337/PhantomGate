@@ -1,3 +1,4 @@
 \x01krshd: Kerberos Authentication Failed\.\r\n
 \x01krshd: Echec de l'authentification Kerberos\.\r\n\0
-\x01remshd: connect: Connection refused\n
+\x01rshd: [-\d]+ The remote user login is not correct\.\n
+\x01[kr]shd: Authentication failed: Bad sendauth version was sent\n

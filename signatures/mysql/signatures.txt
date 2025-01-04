@@ -1,4 +1,9 @@
 .\0\0\0\xff.\x04Too many connections
+.\0\0\0\xff.*Host .* is not allowed to connect to this MySQL server
+.\0\0\0...Servidor '[-.\w]+' est\xe1 bloqueado por muchos errores de conexi\xf3n\.  Desbloquear con 'mysqladmin flush-hosts'
+.\0\0\0\xff.\x04Le h\xf4te '[-.\w]+' n'est pas authoris\xe9 \xe0 se connecter \xe0 ce serveur MySQL
 \x10\0\0\x01\xff\x13\x04Bad handshake
 .\0\0\0\xffj\x04Host hat keine Berechtigung, eine Verbindung zu diesem MySQL Server herzustellen\.
+.\0\0\0...'Host' '[-.\w]+' n\xe3o tem permiss\xe3o para se conectar com este servidor MySQL
+.\0\0\0\xffj\x04'[\d.]+' .* MySQL
 .\0\0\0\xff.\x04Host '[-.\w]+' is blocked because of many connection errors; unblock with 'mysqladmin flush-hosts'

@@ -1,2 +1,4 @@
+\r\nPRO2 Control Console\r\n
 \r\nCEN-IDOC Control Console\r\n\r\nCEN-IDOC>
+Password\? \r\n
 \r\nMC2E Control Console\r\n

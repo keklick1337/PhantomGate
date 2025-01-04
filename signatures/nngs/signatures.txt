@@ -1,0 +1,1 @@
+>>messages/login\r\n----- Welcome to the No Name Go Server \(NNGS\) -----\r\n\r\n

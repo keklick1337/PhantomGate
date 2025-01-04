@@ -1,1 +1,1 @@
-\xff\xfd\x01\xff\xfe\x01\xff\xfb\x01\x1b\[2J\[ M113 \]  B-02\.54  VIP113  V-([\w._-]+)  VB\r\nDate/time: \d+\.\d+\.\d+/\d+:\d+:\d+\.\d+\r\nSNumber: (M113-\d+)\r\n\r\nVB login:
+\x1b\[2J\x1b\[1;1fATOS Telnet Server\r\n\r\nCTRL\+d to exit\n\r\n\xff\xfb\x01\xff\xfb\x03\xff\xfd\x03Init Command Line Interface\.\. \n\rBoot Version: [\d.]+\n\rBoot Date: [\d :/]+\n\rATOS Version: ([\d.]+)  \([^)]+\)\n\rATOS Date: [\d :/]+\n\rHardware: \w+\n\rProduct Code  : \d+\n\rSerial Number : (\d+)\n\rStarVoice version: ([\d.]+)\n\rStarVoice model: (\w+)\n\rLes version: [\d.]+\n\r\n\rUser name :

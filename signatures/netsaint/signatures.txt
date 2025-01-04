@@ -1,4 +1,3 @@
 Unknown command\n
-ERROR: Unknown request number\.
 ERROR No function requested from client\.
 ERROR Client is not among hosts allowed to connect\.

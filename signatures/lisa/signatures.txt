@@ -1,1 +1,2 @@
+\d+ .*\n\x000 succeeded\n\0
 0 succeeded\n\0

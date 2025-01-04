@@ -1,24 +1,51 @@
-\xff\xfb\x01\xff\xfb\x03\r\0\nMAC address (\w+)\n\r\0Software version V([\w._-]+ \(\d+\)) M100\r\0
+220 LP-8900-[0-9A-F]+ FTP server \(OEM FTPD version ([\d.]+)\) ready\.\r\n
 \xcb\0\0\0\xd5\xbfG\xee:0\0\0\x01\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\x01\0\0\0\xa7\0\0\0\x01uptime\0\0\0\0\0\0 `@\x03globalLock\09\0\0\0\x01totalTime\0\0\0\0\x7c\xf0\x9a\x9eA\x01lockTime\0\0\0\0\0\0\xac\x9e@\x01ratio\0!\xc6\$G\xeb\x08\xf0>\0\x03mem\0<\0\0\0\x10resident\0\x03\0\0\0\x10virtual\0\xa2\0\0\0\x08supported\0\x01\x12mapped\0\0\0\0\0\0\0\0\0\0\x01ok\0\0\0\0\0\0\0\xf0\?\0
-\x01\0\0\0\0\0\0\0T\x03\0\0\0\0\0\x01\x1e\0\0\0\0\0\0;\0\0\0\0\0\0\0\0Error: incompatible with administration server \(version (\d[-.\w ]*)\)\nc\0\0\0\0\0\0\0\0\0\0\x01\0\0\0\0
-..\0\x06\x85\0\0\x01\0\x01\0\x01\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\0...[\w._-]+-RedHat-([\w._-]+\.el5_[\w._-]+)\xc0\x0c\0\x02\0\x03\0\0\0\0\0\x02\xc0\x0c
-220-AVG daemon mode scanner \((?:AVG|SMTP)\)\r\n220-Program version ([\w._-]+)\r\n220-Virus Database: Version ([\w._/ -]+)\r\n220 Ready\r\n
-\x07version\x04bind\0.*Microsoft DNS ([-\w_.]+) \(
-\0\x06\x05\0\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x01X\x02\0\0\0..Microsoft DNS (.*)
-....\x85\x80\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\0...dnsmasq-([\w._-]+)
-..\0\x06\x81\x80\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\0\0\x0e.unbound ([\w._-]+)
-\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\0\0\x1b\x1arbldnsd ([\d.]+)
-..\0\x06\x85\0\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0.\xc0\x0c\0\x10\0\x01\0\0\0\x05\0..Served by POWERDNS (\d[-.\w]+)
-\+OK [-\w_.]+ PopMax version ([\d. ]+) POP3 Mail Server Ready, Willing, and Waiting\r\n
-\0\x06\x81\x80\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\0\0\x0e.unbound ([\w._-]+)
-\0\x06\x81\x80\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03......PowerDNS Recursor ([\w._-]+) (\$Id: pdns_recursor\.cc .*?\$)
-..*\x07version\x04bind.*Incognito DNS \w+ ([\d.]+) \(
+\0\x01\0\0\0\x01\0\0STAT pid \d+\r\nSTAT uptime \d+\r\nSTAT time \d+\r\nSTAT version ([.\d]+)\r\n
+\xff\xfb\x01\xff\xfb\x03\xff\xfe\x01\n\rTerminal shell v1\.0\n\r\rCopyright \xa9\d+ Netopia, Inc\.  All rights reserved\.\n\r\rNetopia Model ([\w-]+) Wireless DSL Ethernet Switch\n\rRunning Netopia SOC OS version ([\d.]+ \(build \w+\))\n
+\xff\xfb\x01\xff\xfb\x03\r\nScarlet One\r\nFirmware version: ([-\w_.]+)\r\nScarlet\r\n\r\nPlease login:
+\+OK Le serveur POP3 Microsoft Exchange version ([\d.]+) est pr\xeat\r\n
+220 JetDirect GGW server \(version (\d[\d.]+)\) ready\r\n
+HTTP/1\.1 200 OK\r\nConnection: Keep-Alive\r\nAccept-Ranges: bytes\r\nKeep-Alive: timeout=15, max=100\r\nContent-Type: text/html\r\nExpires: 0\r\n\r\n\n<html>\n<title>Apt-cacher version ([\d.]+)\n| p|apt-cache/apt-proxy httpd
+\+OK Microsoft Exchange POP3 server version ([\d.]+) ready  <[\d.]+@([-\w_.]+)>\r\n
+220 ([-\w_.]+) Mailmax version ([\d. ]+) ESMTP Mail Server Ready \r\n
+220 AXIS 205 version ([\d.]+) \(.*\) ready\.\r\n
+HTTP/1\.0 200 OK\r\nServer: RapidLogic/([\w._-]+)\r\nMIME-version: [\d.]+\r\n.*md5\(document\.logonForm\.username\.value \+ \":\" \+ document\.logonForm\.password\.value \+ \":\" \+ \"\w+\"\);  // sets the hidden field value to whatever md5 returns\.\r\n
+\xff\xfb\x01\xff\xfb\x03\r\0\nMAC address (\w+)\n\r\0Software version V([\d.]+ \(\d+\)) XPTEXE\r\0
+\xff\xfd\x03\xff\xfb\x01\r\n\r\n\t\tWelcome to P333R\r\n\t\tSW version ([\d.]+)\r\n\r\n\r\nLogin:
+HTTP/1\.0 200 OK\r\nDate: .*\r\nServer: VykTor XML WinAmp Server/([\d.]+)\r\nMIME-version: [\d.]+\r\n.*<title>Snow Crash</title>\r\n
+HTTP/1\.0 \d\d\d .*\nDate: .*\nMIME-version: [\d.]+\nServer: Micro-HTTP/([\d.]+)\nContent-type: text/html\n.*Copyright Tektronix, Inc\.|s p/Tektronix printer httpd/ i|Micro-HTTP/$1
+\d+:d7:smethod,6:shello,8:soptions,\d+:d10:shttp_port,\d+:i\d+,10:ssync_port,\d+:i\d+,10:stimestamp,\d+:f\d+(?:\.\d+),8:sversion,\d+:s([\w._-]+),\d+:syour_address,\d+:a\d+:s[\w._-]+,\d+:i\d+,,,,
+TELNET server version ([\d.]+) ready at \r\n\r\r\npassword: \xff\xfc\x01
+\* OK La version ([\d.]+) \(([-\w_.]+)\) du serveur IMAP4rev1 Microsoft Exchange est pr\xeate\r\n
+<boinc_gui_rpc_reply>\n<client_version>(\d+)</client_version>\n<error>unrecognized op</error>\n</boinc_gui_rpc_reply>\n
+220 FTP version ([\w.]+)\r\n
+HTTP/1\.0 \d\d\d .*\r\nContent-Length: \d+\r\n.*<TITLE>Live view / - AXIS 205(?: Network Camera)? version ([\d.]+)</TITLE>\n
+<\?xml version=\"1\.0\" encoding=\"UTF-8\"\?>\n<NETPATH_PROBE version=\"[\w._-]+\">\n\t<SOURCE device_type=\"HOST\">\n\t\t<DNS>([\w._-]+)</DNS>\n\t\t<IP_OUT>[\d.]+</IP_OUT>\n\t</SOURCE>\n\t<DESTINATION name=\"\" arguments=\"\">\n\t\t<ERROR code=\"3\">\n\t\t\t<MESSAGE>No destination specified</MESSAGE>\n\t\t</ERROR>\n\t</DESTINATION>\n</NETPATH_PROBE>\n\n
+<boinc_gui_rpc_reply>\n<client_version>(\d+)</client_version>\n<unauthorized/>\n</boinc_gui_rpc_reply>\n
+\$\d+\r\nredis_version:([.\d]+)\r\n
+\xff\xfb\x01\xff\xfb\x03\xff\xfe\x01\n\rTerminal shell v1\.0\n\r\rCopyright \xa92008 Motorola, Inc\.  All rights reserved\.\n\r\rNetopia Model ([\d-]+)(?: AnnexA)? High-Power Wireless DSL Ethernet Managed Switch\n\rRunning Netopia SOC OS version ([\w.-]+ \(build \w+\))\n
+\xff\xfb\x03\xff\xfb\x01\r\nRSC version ([\d.]+) \(([\w._-]+)\)\r\n\r\nPlease login:
+<monopd><server version=\"([\d.]+)\"/>.*</monopd>\n
+\x07version\x04bind.*[\x03-\x14]BIND ([-\w._]{3,20})
+\x1b\[0;37;40m\x1b\[2J\x1b\[0;37;40m\x1b\[1m\x1b\[15;22HAT-(\w+), version ([\d.]+)\x1b
+\0\0\0.\0\0\0\x1f\x02version\0\x04([\d.]+)\0\0\x02mustlogin\0\x05\x01\0
+HTTP/1\.1 200 Success\r\n.*Server: LightSpeedServer/([\w._-]+)  client_version/([\w._-]+) rest_protocol/([\w._-]+)\r\n
+STAT pid \d+\r\nSTAT uptime \d+\r\nSTAT time \d+\r\nSTAT version ([.\d]+)\r\n
 HTTP/1\.0 200 OK\nContent-type: text/html\r\n.*<title>DVR WebViewer</title>\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=euc-kr\">\r\n.*<OBJECT\r\n\t  classid=\"clsid:EE479A40-C128-40DD-93DA-000556AF9607\"\r\n\t  codebase=\"CtrWeb\.cab#version=1,1,1,1\"\r\n\t  width=(\d+)\r\n\t  height=(\d+)\r\n\t  align=center\r\n\t  hspace=0\r\n\t  vspace=0\r\n>\r\n<param name=\"CmdPort\" value=\"(\d+)\">\r\n<param name=\"StreamPort\" value=\"(\d+)\">
-..\0\x06\x81\x80\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\0\0..Nominum Vantio ([\w._-]+)
-\x07version\x04bind\0\0\x10\0\x03\x07VERSION\x04BIND\0\0\x10\0\x03\0\0\0\0\0\)\(Meta IP DNS - BIND V([\d.]+)-REL \(Build (\d+)\)
-\x07version\x04bind\0\0\x10\0.\xc0\x0c\0\x10\0\x01\0\0\0\x05\0..Served by POWERDNS ([\d.]+)
-220 FTP version ([\w.]+)\r\n331 Enter PASS command\r\n
-\x1b\[2J\x1b\[1;1fATOS Telnet Server\r\n\r\nCTRL\+d to exit\n\r\n\xff\xfb\x01\xff\xfb\x03\xff\xfd\x03Init Command Line Interface\.\. \r\nBoot Version: [\d.]+\r\nBoot Date: [\d :/]+\r\nATOS Version: ([\d.]+)  \([^)]+\)\r\nATOS Date: [\d :/]+\r\nHardware: \w+\r\nProduct Code  : \d+\r\nSerial Number : (\d+)\r\nLAN0 MAC Address : ([A-F0-9:]+)\r\nADSL Modem SW version: [\w._-]+ *\r\nADSL Modem API version: \d+\r\nADSL Driver version: [\w._-]+\r\n([\w._-]+) release: ([\w._-]+)+\r\nHW encryption not supported\r\nVinetic fw version : [\w._-]+\r\n\r\nUser name :
-\0\x06\x81\x80\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03.......PowerDNS Recursor ([\w._-]+) (\$Id: pdns_recursor\.cc .*?\$)
-\0\x06\x85[\x00\x80]\0\x01\0\x01\0\0\0\0\x07version\x04bind\0\0\x10\0\x03\xc0\x0c\0\x10\0\x03\0\0\0\x05\0..Served by POWERDNS ([\w._-]+) (\$Id: packethandler\.cc .*?\$)
-214-2\.0\.0 This is sendmail version (\S+)\r?\n214-2\.0\.0 Topics:
+welcome to the pioneers-meta-server version ([\d.]+)\n
+220-Welcome to XBOX FileZilla(?: \(XBMC\)|)\r\n220-version: XBMC:FileZilla version ([\d.]+), \(based on FileZilla Server ([\d.]+)\)\r\n220 http://sourceforge\.net/projects/xbfilezilla\r\n
+com\.sqribe\.null\0java\.lang\.String\0com\.sqribe\.transformer\.TransformerException\0java\.lang\.String\0TRCP version mismatch: Current version: (\d+) Client version: unknown\0
+\xff\xfd\"\xff\xfb\x01SSE version ([\d.]+)\r\nCopyright [\d, ]+ by Motorola\r\nUsername:
+HTTP/1\.[01] \d\d\d .*\r\nServer: Twisted/([-\w_.+]+) TwistedWeb/\[twisted\.web\d+, version ([^]]+)\]\r\n
+\r\n\r\nWelcome to the SoundBridge Shell version ([\d.]+) Release\r\nType '\?' for help or 'help <command>' for help on <command>\.\r\n\r\nSoundBridge>
+HTTP/1\.0 200 OK\n.*Server: uClinux-httpd ([\w._-]+)\nExpires: 0\n\n.*<title>DxClient NetViewer</title>.*<OBJECT\r\n\tclassid=\"clsid:EF34051A-402A-4ABE-AA20-04E1B4422BD9\"\r\n\tcodebase=\"DxClient_NetViewer\.cab#version=([\d,]+)\"\r\n
+220 DrayTek FTP version ([\d.]+)\r\n
+\+OK Le serveur POP3 Microsoft Exchange Server 2003 version ([\d.]+) \(([-\w_.]+)\) est pr\xeat\.\r\n
+\xff\xfd\x03\xff\xfb\x01\r\n\r\n\t\tWelcome to X330WAN-2DS1\r\n\t\tSW version ([\d.]+)\r\n\r\n\r\nLogin:
+\* OK Microsoft Exchange 2000 IMAP4rev1 server version (\d[-.\w]+) \([-.\w]+\) ready\.\r\n
+\+OK Lotus Notes POP3 server version ([-.\w]+) ready .* on ([^/]+)/([^\.]+)\.\r\n
+HTTP/1\.0 \d\d\d .*\r\nServer: RapidLogic/([\d.]+)\r\nMIME-version: [\d.]+\r\nContent-type: text/html\r\nDate: .*<META NAME=\"GENERATOR\" Content=\"Visual Page 2\.0 for Windows\">\r\n
+220 ([-\w_.]+) ESMTP MTA\r\n214-This is Sendmail version AIX([\d.]+)/([\w.]+)\r\n
+<boinc_gui_rpc_reply>\n<major_version>(\d+)</major_version>\n<minor_version>(\d+)</minor_version>\n<release>(\d+)</release>
+220  \(WJ-HD220 FTP Server version ([\w._-]+) Ready\)\r\n
+220-Welcome to XBOX FileZilla(?: \(XBMC\)|)\r\n220-version: XBFileZilla version ([\d.]+), \(based on FileZilla Server ([\d.]+)\)\r\n220 http://sourceforge\.net/projects/xbfilezilla\r\n

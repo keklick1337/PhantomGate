@@ -1,4 +1,3 @@
-\x01eklogin: Kerberos authentication failed\.\r\n
 \x01eklogind: Kerberos authentication failed\.\r\n
 \x01klogind: Kerberos authentication failed\.\r\n
 \x01rlogind: Kerberos authentication failed, exiting\.\r\n

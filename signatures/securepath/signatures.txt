@@ -1,0 +1,2 @@
+GENERAL: \d+ \d+<EoM>\n
+Unauthorized client; connection refused<EoM>\n

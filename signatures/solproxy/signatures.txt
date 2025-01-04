@@ -1,0 +1,1 @@
+The solproxy is used by [\d.]+\n\rThe client is closed!\n\r

@@ -1,286 +1,507 @@
 \xff\xfd\x1f\n\n\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\n\n                         Welcome to MLdonkey          \n
 Connected\r\nUse log command to LOGON\r\n
+\xff\xfb\x01\xff\xfb\x03\r\0\nMAC address (\w+)\n\r\0Software version V([\w._-]+ \(\d+\)) M100\r\0
 \xff\xfb\x01\xff\xfb\x03Welcome to Network Camera telnet daemon\r\n\r\nPassword:
-Port's device already in use\n\r
 \xff\xfb\x03\xff\xfb\x01\rLogin:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nWelcome to Linux \(ZEM500\) for MIPS\r\n\rKernel ([\w._-]+) \w+ on an MIPS\r\n\rZEM500 login:
+Port's device already in use\n\r
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03ADSL Router\r\nLogin (?:user|name):
+\xff\xfb\x01\xff\xfb\x03\nGestetner Maintenance Shell\.   \n\rUser access verification\.\n\rPassword:
 \xff\xfb\x01\xff\xfd\x1f\xff\xfb\x03\r\n.*KpyM Telnet/SSH Server - fully functional unregistered version\.\r\n
+\xff\xfb\x01\r\n\r\nWelcome to KONICA MINOLTA (bizhub [\w._-]+)\r\nIP : [\d.]+\r\nHost Name : ([\w._-]+)\r\n\r\nEnter Password:
+\xff\xfb\x03\xff\xfb\x01\r\n\n\*+\r\n\*  Welcome to D-Link Print Server  \*\r\n\* +Telnet Console +\*\r\n\*+\r\n\r\nServer Name    :  ([\w._-]+)\0+\r\nServer Model   :  ([\w_.+-]+)\0
 \xff\xfc\x01\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfb\x18\xff\xfd\x1f\xff\xfb\x1f\xff\xfb\"\xff\xfb\x05Username:
-\xff\xfb\x03\xff\xfb\x01\r\n\*\*\* IPCOM \*\*\*\r\nlogin:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\x1b\[H\x1b\[J\r\nWireless Router Manager Console , Version : ([\w._-]+)\r\nPlease enter your password :
+\xff\xfb\x01\xff\xfb\x03\r\n\((FSM\w+)\) \r\nUser:
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03Xcelerator IP \r\nLogin:
+\xff\xfb\x03\xff\xfb\x01\r\n\*\*\* IPCOM \*\*\*\r\nlogin:
+\xff\xfb\x01\xff\xfb\x01\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\*{80}\r\n\*  Copyright\(c\) 2004-2009 3Com Corp\. and its licensors\. All rights reserved\.   \*\r\n\*  Without the owner's prior written consent,                                  \*\r\n\*  no decompiling or reverse-engineering shall be allowed\.
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nWelcome to Linux \(ZEM200\) for arca\r\n\rKernel ([-\w_.]+) on an arca \r\n\rZEM200 login:
+\xff\xfb\x01\xff\xfb\x03\r\n\(Cisco Controller\) \r\nUser:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n(FVS\w+) login:
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03Access DENIED\.\r\n
-\xff\xfb\x01\xff\xfd\x01\xff\xfb\x03\xff\xfd\x03\xff\xfb\x05\xff\xfd\x05\x1b\[0m\x1b\[2J\x1b\[03;33HWelcome to the\x1b\[05;01H8 10/100TX \+ 2 10/100/1000T/ Mini-GBIC Combo w/ 8 PoE Injector Managed Industrial Switch\x1b\[13;40H\x1b\[15;27HUser Name :\x1b\[17;27HPassword  :\x1b\[15;39H
-\x1b\[2J\x1b\(0\x1b\[01;00Hlqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqk\x1b
+\xff\xfb\x01\r\n\r\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\n\r\r\* Bay Networks,Inc\..*(Accelar [-.+\w]+).*Software Release (\d[-.\w]+)
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03 login:
-\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\nCNU-550pro login:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n\r\nBusyBox v([-\w_.]+) \([^)]+\) Built-in shell \(ash\)\r\nEnter 'help' for a list of built-in commands\.\r\n\r\nroot@H:/#
+\xff\xfb\x01SOYO_SIP V([\w._-]+) settings\r\nPassword:
 \xff\xfc\"\xff\xfb\x01\r\nPassword: \r\nbad password\r\n| p|Campbell Scientific NL-100/105 Ethernet-to-serial bridge telnetd
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\nCNU-550pro login:
 \xff\xfb\x03\xff\xfd\x01\xff\xfd\x1f\xff\xfb\x05
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nRead /disclaimer\.txt and have fun with yadi on your Nokia D-BOX2 - Kernel ([-\w_.]+) \(
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03Grandstream ([\w-]+)  V([\w.]+) Command Shell
 \r\nPress return:\*\*\*\*\r\nEnter Password:
 \xff\xfb\x03\xff\xfb\x01\r\n \*{73}\r\n  This is a private system\. \r\n  Do not attempt to login unless you are an authorized user\.  \r\n  Any authorized or unauthorized access or use may be monitored and can\r\n  result in criminal or civil prosecution under applicable law\.\r\n \*{73}\r\n\r\nMP login:
-\xff\xfb\x01\xff\xfb\x03\r\nUser Access Verification\r\n\r\nPlease Enter Password:
 \xff\xfb\x01\xff\xfd\x18\xff\xfb\x03\xff\xfd\x1f
 \xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\nRouter>
+\xff\xfb\x01\xff\xfb\x03\r\nUser Access Verification\r\n\r\nPlease Enter Password:
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03U\.S\. Robotics Wireless MAXg ADSL Gateway\r\nLogin:
-\xff\xfd\x18\xff\xfd \xff\xfd#\xff\xfd'\xff\xfd\$\xff\xfd!
-\xff\xfb\x03\xff\xfb\x01\r\n\r\nComOS - Livingston PortMaster\r\n\r\nlogin:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\x1b\[2J\x1b\[H\x1b\[2J\x1b\[H ------------------------------------------------------------------------------\r\r\n                                D A T A C O M\r\r\n +(DM\w+) - G\.SHDSL 2 Wire Modem Router\r\r\n
+\xff\xfb\x03\xff\xfb\x01\r\nZyXEL Corporation Embedded Telnet Server \(c\) 2000-2003\r\n
 \xff\xfb\x01\xff\xfd\x03\xff\xfb\x03\r\nBNT Layer 2/3 Copper Gigabit Ethernet Switch Module for IBM BladeCenter\.\r\n\r\n\r\nEnter password: | p|Nortel Layer 2/3 Gigabit Ethernet switch for IBM BladeCenter
-\x1b\[0m\x1b\[2J\x1b\[01;24HHUAWEI TECHNOLOGIES,CO\.,LTD\.\x1b\[02;19H ACCESS RUNNER ADSL CONSOLE PORT\x1b
-\xff\xfb\x01\xff\xfb\x03\xff\xfd\x03\n\rUser Name : | p/APC telnetd/ i|Power/UPS device
+\xff\xfb\x01\xff\xfb\x03\n\r\0\*\*\* Mitsubishi ProjectorView Server \*\*\*\r\0\nMAC address (\w+)\n\r\0Software version V([\w._-]+) \((\d+)\) MELCO\r\0\n\n\r\0Press Enter for Setup Mode \n\r\0
+\xff\xfb\x03\xff\xfb\x01\r\n\r\nComOS - Livingston PortMaster\r\n\r\nlogin:
 \xff\xfd%\xff\xfb\x01\xff\xfd\x03\xff\xfd\x1f\xff\xfd\0\xff\xfb\0
+\xff\xfd\x18\xff\xfb\x01\xff\xfb\x03\xff\xfe\"Connected to Dynamips VM \"R1\" \(ID 0, type c2691\) - Console port\r\nPress ENTER to get the prompt\.\r\n
 \xff\xfb\x03\xff\xfd\x01\xff\xfd\x1f\xff\xfb\x05\xff\xfd!
+\xff\xfb\x01\xff\xfb\x03\r\nMSDOS [\d.]+ Windows [\d.]+ \([\d.]+\) \(ttyp\d\)\r\n\r\nlogin:
 \xff\xfb\x01\x1b\[2J\x1b\[56184256;1H\x1b\[0m\x1b\[1;1H \*\*\*\*\*      \*\*\*     \*     \*    \*\*\*\*\*   \*\*\*\*\*\*\*\*\*     \*\*\*
-\xff\xfd\x03\xff\xfb\x03\xff\xfd\x01\xff\xfb\x01\r\n\r\x1b\[2J\x1b\[0;0H\x1b\[K\x1b\[1;0H\x1b\[K\x1b\[2;0H\x1b\[K\x1b\[3;0H\x1b\[K\x1b\[4;0H\x1b\[K\x1b\[5;0H\x1b\[K\x1b\[6;0H\x1b\[K\x1b\[7;0H\x1b\[K\x1b\[8;0H\x1b\[K\x1b\[9;0H\x1b\[K\x1b\[10;0H\x1b\[K\x1b\[11;0H\x1b\[K\x1b\[12;0H\x1b\[K\x1b\[13;0H\x1b\[K\x1b\[14;0H\x1b\[K\x1b\[15;0H\x1b\[K\x1b\[16;0H\x1b\[K\x1b\[17;0H\x1b\[K\x1b\[18;0H\x1b\[K\x1b\[19;0H\x1b\[K\x1b\[20;0H\x1b\[K\x1b\[21;0H\x1b\[K\x1b\[22;0H\x1b\[K\x1b\[23;0HArrowKey/TAB/BACK=Move  SPACE=Toggle  ENTER=Select  ESC=Back
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03===Actiontec xDSL Router===\r\nLogin:
-NAK COMMAND\r\n
+\xff\xfb\x03\xff\xfb\x01\r\n\n\*+\r\n\*     Welcome to Telnet Console     \*\r\n\*+\r\n\r\nServer Name      : [^\0]+\0\0\0\0\0\0\0\0\0\r\nModel +: DP-([\d.]+)\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\r\nFirmware Version : ([\d.]+)  \0\0\0\0\r\nMAC Address      : ([\w ]+)\r\nUp Time          : ([^\r\n]+)\r\n
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nOpenDreambox ([-\w_.]+) (dm\w+)\r\n
 \xff\xfb\x01\xff\xfd\x03\xff\xfb\x03.*?ES-1000\x20Fast\x20Ethernet\x20Switch\x20Console
-\xff\xfc\x01\r\nHP JetDirect\r\n\r\nPlease type \"?\" for HELP, or \"/\" for current settings\r\n>
-\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nWelcome to \r\n\r\r\n\r       ###### .*Have a good time !! ;-\)\r\n\rCyberVia login:
+\xff\xfb\x01\n\r.*Welcome to the Xylan PizzaSwitch! Version (\d[-.\w]+)\n\rlogin   :
+NAK COMMAND\r\n
+\xff\xfb\x01\xff\xfb\x03\r\n\r\n Welcome to OpenVMS \(TM\) Alpha Operating System, Version V([\w._-]+)  \r\n\r\n\rUsername:
 \xff\xfd\x01\xff\xfd\x1f\xff\xfb\x01\xff\xfb\x03\r\r\nWelcome to Vyatta\r\n\rvyatta login:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\*+\r\n\r\* +\*\r\n\r\* +The Gemini Project (v[\w. ]+) +\*\r\n\r\* +XD mod, date: (?:[\d.]+) +\*\r\n\r\* +!!! WITHOUT BOMB !!! +\*\r\n\r\* +\*\r\n\r\*+\r\n\r\r\n\rwelcome on your dreambox! - Kernel ([\w._-]+)
+\xff\xfb\x01\xff\xfb\x03\r\n\r\n#\r\n\| LANCOM ([\w._+-]+) ADSL/ISDN\r\n\| Ver\. ([\d.]+) /
 \xff\xfb\x03\xff\xfb\x01\x07HP JetDirect\r\n\r\nEnter username:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nWelcome to \r\n\r\r\n\r       ###### .*Have a good time !! ;-\)\r\n\rCyberVia login:
+\xff\xfb\x01\xff\xfb\x03\r\0\n\*\*\* TemPageR (\w+) Settings \*\*\*\r\0\nMAC address ([0-9A-F]{12})\n\r\0Software version V([^\r]*)\r\0\nPassword :
 \xff\xfb\x01\r\n\"D-Link Access Point - AVC\" login:
-\xff\xfd\x03\xff\xfb\x03\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfa\x18\x01\xff\xf0\xff\xfb\x01\xff\xfb\x03\x1b\[0m\x1b\[1;1H\x1b\[2J\x1b\[\?3l\x1b\[0m\x1b\[1;1H\x1b\[2J\x1b\[1;18H\x1b\[1mOlicom CrossFire Token-Ring Switch Manager\x1b\[0m\x1b\[1;80H
+\xff\xfb\x01\r\n\r\n#\r\n\| ELSA LANCOM DSL/I-10 Office\r\n\| Ver\. ([\d.]+) / [\d.]+\r\n\| SN\.  (\d+)\r\n
+\xff\xfb\x03\xff\xfb\x01\x1b\[2J\x1b\[0;0H\x1b<\r\n          \x1b\[7m +\x1b\[0m +\r\n +\x1b\[7m +Welcome to Management Blade ([\d.]+)
+\xff\xfb\x01\xff\xfb\x03\n\r\n\r\n\r  Huawei HONET UA5000 Universal Access Unit\.\n\r  Copyright\(C\) 1998-2005 by Huawei Technologies Co\., Ltd\.\n\r\r\n>>User name:
+\r\nRaptor Firewall Secure Gateway\.\r\n
 \xff\xfd\x03\xff\xfb\x03\xff\xfb\x01| i|Usually a Cisco/3com switch
-\r\nSorry, this system is engaged\.\r\n
-\xff\xfb\x01\xff\xfb\x03\xff\xfd\x1f\r\n\x1b\[34;1m   \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\* \r\n\x1b\[34;1m
 \xff\xfb\x01\xff\xfb\x03\nRICOH Maintenance Shell\.   \n\rUser access verification\.\n\r
 Start Telnet Server:\r\n
+\xff\xfb\x01\r\n\r\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\n\r\r\* Nortel Networks,Inc\..*\n\r\r\* Passport ([-.\w]+) .*\r\* Software Release (\d[-.\w]+)
+\xff\xfb\x01\xff\xfb\x03\r\n\r\n\r\n\r\n\*{76}\r\n\r\n +Minolta Network Configuration Utility\r\n +Minolta\r\n +Version ([\w.]+)\r\n
+\xff\xfb\x01\xff\xfb\x03RemoteX Telnet Server V([\d.]+)\n\r\n\rc:\\>
 \xff\xfb\x01\r\n\r\nEscape Character is usually 'CTRL\+\]'\r\n\r\n\r\ni\.LON login:
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\r\n\r\r\n\r           Welcome to the WRT54G Shell Box\r\n\r\r\n\rFirmware version: Wifi-box\.net ([\d.]+)\.wfb \d\d/\d\d/\d\d\r\n
+\xff\xfb\x01\xff\xfb\x03\r\n(NE[-\d]+) NetEngine IAD ([\d.]+) \r\nSerial num : Ethernet Address : ([-\w]+)\r\r\n\r\nPress any key to continue\.\.\.
 \xff\xfb\x03\xff\xfb\x01\r\n\r\nPassword :
-\xff\xfb\x01\xff\xfd\x18\xff\xfb\x03
 \xff\xfb\x01\r\nAP11G login: \r\n\r\nPassword:
+\xff\xfb\x01\xff\xfb\x03 \r\n \r\n \r\n\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\r\n      \r\n      \r\n      \r\n     \r\n \r\n\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\r\n\r\n\r\n\r\nWelcome to use ISOS ([\w._-]+ SR[\w._-]+)\r\n\r\nLogin:
+\xff\xfb\x01\xff\xfd\x18\xff\xfb\x03
+\xff\xfb\x01\xff\xfb\x01\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\*{57}\r\n\*          All rights reserved \(1997-2005\)              \*\r\n\*      Without the owner's prior written consent,       \*\r\n\*no decompiling or reverse-engineering shall be allowed\.\*\r\n
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03Dynalink ADSL2\+ Router RTA1320NZ .*\r\nSoftware Version: ([-\w_.]+)\r\n
 \xff\xfb\x01\xff\xfb\x03
+\xff\xfb\x01Select access level \(read, write, administer\):
+\xff\xfb\x01\xff\xfb\x03Welcome to the Windows CE Telnet service on ([-\w_.]+)\r\n\r\nlogin: \n\r\nPassword:
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03login:
-\xff\xfb\x01\r\n\r\nlogin: \r\n\r\n\r\r\npassword:
+\xff\xfb\x01\xff\xfb\x03\r\n     ____  _  _  _            _      ____          _\r\n    / _  \|\| \|\| \|\(_\)  ___   __\| \|    \|  _ \\   __ _ \| \|_  __ _\r\n
 \xff\xfb\x03\xff\xfb\x01SB5100MoD by ToM - Embedded Telnet Server\r\n\r\n
+\xff\xfb\x01\xff\xfb\x03\r\n------------------------------------------------------------------------------\r\n  Product      : (iMG\w+)\r\n  Hw Revision  : S\r\n  Sw Version   : ([^\r]+)\r\n  Build        : iMG\w+\r\n  MAC          : ([0-9a-f:]+)\r\n  Copyright \(c\) \d+ by Allied Telesis Holdings K\.K\.\r\n------------------------------------------------------------------------------\r\n------------------------------------------------------------------------------\r\n\r\nLogin:
+\xff\xfb\x01\r\n\r\nlogin: \r\n\r\n\r\r\npassword:
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03U\.S\. Robotics ADSL 4-Port Router\r\nLogin:
+\xff\xfb\x03\xff\xfb\x01\r\n\n\*+\r\n\*  Welcome to Print Server  \*\r\n\*     Telnet Console        \*\r\n\*+\r\n\r\nServer Name    :  ([-\w_.]+)\0*\r\nServer Model   :  3Port Print Server\0\0\0\0\0\0\0\0\0\0\0\0\0\0\r\nF/W Version    :  ([-\w_.]+)  \0*\r\nMAC Address    :  ([\w ]+)\r\nUptime         :  ([^\r\n]+)\r\n\nPlease Enter Password:
 \r\nICTNET>
+\xff\xfb\x01\r\n\rPassword: $| p|ZyXEL Prestige/Efficient Speedstream adsl router telnetd
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03.*\r\n([-\w_.]+) login:
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03Login:
-\xff\xfb\x01\xff\xfb\x03\r\n\r\n\x1b\[H\x1b\[JWelcome at ActiveFax Server\.\r\n\r\n
-\xff\xfb\x01\r\nD-Link Access Point login:
+\xff\xfb\x01\xff\xfb\x03\x1b\[2J\x1b\[0;0H\x1b\[K\x1b\[7mTelnet configuration                          RELEASE ([\d.]+)\x1b
+\xff\xfb\x03\xff\xfb\x01\r\n\n\*+\r\n\*  Welcome to Print Server  \*\r\n\*     Telnet Console        \*\r\n\*+\r\n\r\nServer Name    :  ([\w._ -]+)\0\r\nServer Model   :  APSUSB1\0+\r\nF/W Version    :  ([\w._-]+)  \0\0\0\0\r\nMAC Address    :  ([\w ]+)\r\nUptime         :  ([^\r\n]+)\r\n
 \xff\xfd\x03\xff\xfb\x03\xff\xfd\x01\xff\xfb\x01\r\n\r\r\nUserName:
-\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03                        =======================\r\n                               DSL-500B       \r\n                        =======================\r\nLogin:
-\x1b\[2J\x1b\[1;1f\xff\xfb\x01\xff\xfb\x03\xff\xfd\x03| p|Brother/HP printer telnetd
+\xff\xfb\x03\xff\xfb\x01\r\n\r\n\*+\r\n\*  Welcome to D-Link Print Server  \*\r\n\*.*\r\nServer Name    :  ([\w._-]+)\0+\r\nServer Model   :  ([\w._+-]+)\0
+\xff\xfb\x01\r\nD-Link Access Point login:
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\nBusyBox on dslmodem login:
-\xff\xfd'\xff\xfd\x18$| p|IBM OS/400 telnetd| o|OS/400
 \xff\xfb\x01\r\n\r\nVxWorks login:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n([-\w_.]+) login: | p|NASLite-SMB/Sveasoft Alchemy firmware telnetd
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03                        =======================\r\n                               DSL-500B       \r\n                        =======================\r\nLogin:
+\xff\xfb\x03\xff\xfb\x01\r\n\r\n\x07HP (\w+)  Ethernet SNMP Module\r\n ROM B\.([\d.]+)\r\n EEPROM A\.([\d.]+)\r\n HW B\.([\d.]+)\r\n\r\nEnter password:
+\xff\xfd'\xff\xfd\x18$| p|IBM OS/400 telnetd| o|OS/400
+\xff\xfb\x01\0\xff\xfd\x03\0\r\n\r\nHi, my name is :\s*([\w._-]+) NBTX\r\n\r\nSerial Number:\s*(\w+)\r\nBrand:\s*Polycom\r\nSoftware Version:\s*Release ([\w._ -]+)\r\nModel:\s*VS\r\nNetwork Interface:\s*ISDN_UNKNOWN\r\nMP Enabled:\s*No\r\nIP Address:\s*[\d.]+\r\nGMT:\s*\w+ \w+ \d+ \d+:\d+:\d+ \d+\r\nTime In Last Call:\s*\d+:\d+:\d+\r\nTotal Time In Calls:\s*\d+:\d+:\d+\r\nTotal Calls:\s*\d+\r\nSwitch Type:\s*NI-1\r\nCountry Code:\s*(\d+)\r\nArea Code:\s*(\d+)\r\n
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03Actiontec DSL Gateway\r\nLogin:
-\xff\xfb\x01\xff\xfb\x03\nNRG Maintenance Shell\.   \n\rUser access verification\.\n\rlogin:
+\xff\xfb\x01\x1b\[0m\x1b\[2J\x1b\[0m\x1b\[9;20HCopyright\(C\) 1995-99 D-Link Systems Inc\.\x1b\[13;30HUser Name\x1b\[14;30HPassword\x1b\[23;10HMAC Address:\x1b\[8;29H([-.\w]+) Console Program\x1b\[13;41H
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\n\rError: \r\n\rTelnet has NOT been enabled on your target VTrak 15100 system\r\n
-\xff\xfb\x01\n\r\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08                           \x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08\x08
 Access not permitted\. Closing connection\.\.\.\n
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\nBusyBox on \(none\) login:
+\xff\xfb\x03\xff\xfb\x01\r\n\r\n\*+\r\n\*  Welcome to D-Link Wireless Print Server  \*\r\n\* +Telnet Console +\*\r\n\*+\r\n\r\nServer Name    :  ([\w._-]+)\0+\r\nServer Model   :  ([\w._+-]+)\0+\r\nF/W Version    :  ([\w._-]+)\0.\0+\r\nMAC Address    :  ([\w ]+)
 \xff\xfb\x01\xff\xfb\x03\*{60}\r\n\* WARNING ALERT: AUTHORIZED USERS ONLY! +\*\r\n\* +\*\r\n\* All activities conducted on this system may be monitored \*\r\n\* and recorded\. If you are not an authorized user, log off \*\r\n\* immediately\.  Illegal entry, misuse, and / or criminal   \*\r\n\* activity will be documented and prosecuted to the full   \*\r\n\* extend of the law\. +\*\r\n\*{60}\r\n\r\n\r\nPress <Enter> to accept and continue the login process\.\.\.\.\r\n
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\n\r\nBusyBox v([-\w_.]+) \(
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03Huawei (SmartAX \w+)\r\nLogin:
 \xff\xfb\x01\xff\xfd\"\r\n#####   ####  ##   ##  ####   #####\r\n##  ## ##  ## ## # ## ##  ## ##\r\n##  ## ###### ####### ##      #####\r\n##  ## ##     ####### ##  ##      ##\r\n##  ##  #####  ## ##   ####  ######\r\n     A Butter Team Creation\r\n\r\nPassword :
 \xff\xfb\x01\r\npassword:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfb\x01\xff\xfb\x03\r\r\n([\w._-]+) login:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfb\x01\xff\xfb\x03\r\r\ndreamelite ([\w._-]+) (dm\w+)\r\n
 \xff\xfb\x01OPTIBASE MGW5100 COMMAND LINE INTERFACE\r\n
 login: \xff\xfd\x03\xff\xfb\x03\xff\xfb\x01
-\xff\xfb\x01\xff\xfd\x03\xff\xfb\x03\x1b\[0m\x1b\[2J\x1b\[0m\x1b\[2J\x1b\[1;1H\x1b\[0m-.*Enter case-sensitive username\. No username is assigned by default\.
 \xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\nExterior router [-\w_.]+\r\nType: Cisco 2651\r\nModule: E3/T3 interface\r\n\r\n
+\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f
+\xff\xfb\x01\r\n-> \*\*\*  EPSON Network Print Server \(([^)]+)\)  \*
 Please wait \.\.\. Connecting \.\.\.
-\xff\xfb\x01\x1b\[2J\x1b\[0m\x1b\[1;1H\x1b\[2K \*\*\*\*\*      \*\*\*     \*     \*    \*\*\*\*\*   \*\*\*\*\*\*\*\*\*     \*\*\*       \*\*\*\*\*  \*      \*\x1b\[2;1H\x1b\[2K \*    \*    \*   \*    \*     \*   \*            \*        \*   \*     \*       \*      \*\x1b\[3;1H\x1b\[2K
 \xff\xfb\x01\r\r\nUser Access Verification\r\r\n\r\r\nUsername:
-\r\n\r\nBackup Server Telnet Session\r\n\r\nUser:
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03login as:
+\xff\xfb\x01\xff\xfb\x03\r\n\r\n#\r\n\| LANCOM ([\w._+-]+)\r\n\| Ver\. ([\w._-]+ / \d\d\.\d\d\.\d\d\d\d)\r\n\| SN\.  (\d+)\r\n\| Copyright \(c\) LANCOM Systems\r\n\r\nLC\w+, Connection No\.: \d+ \(WAN\)\r\n\r\nUsername:
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03                        =======================\r\n                        Welcome to (ZXDSL [\w._-]+)\r\n                        =======================\r\nLogin:
+\xff\xfb\x01\x1b\[2J\x1b\[0m\x1b\[1;1H\x1b\[2K \*\*\*\*\*      \*\*\*     \*     \*    \*\*\*\*\*   \*\*\*\*\*\*\*\*\*     \*\*\*       \*\*\*\*\*  \*      \*\x1b\[2;1H\x1b\[2K \*    \*    \*   \*    \*     \*   \*            \*        \*   \*     \*       \*      \*\x1b\[3;1H\x1b\[2K
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03ROTAL Wireless ADSL2\+ Router RTA1025W \r\nSoftware Version: ([\w._-]+)\r\nLogin name:
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n login:
-\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03ASUS500ROUTER login:
+\xff\xfb\x01Hummingbird Communications Ltd\., Windows NT, Telnetd Version ([\d.]+) \(([-\w_.]+)\)\r\n\r\n login:
+\r\n\r\nBackup Server Telnet Session\r\n\r\nUser:
+\xff\xfb\x01Comau (\w+) Telnet \(Version:([\w._ -]+)\) (\d\d-\d\d-\d\d) ready\.\r\n\nUser:
+\xff\xfb\x01\xff\xfb\x03ssss   ssss sss     s         ss           sss   sss   sss  sssss \r\n s  s s   s  s                 s          s   s s  s  s   s  s   \r\n s  s s      s                 s          s   s s     s   s  s  \r\n s  s  ss    s     ss   ssss   s sss         s  ssss  s   s  sss  \r\n s  s    s   s      s    s  s  s s          s   s   s s   s  s   \r\n s  s     s  s      s    s  s  sss         s    s   s s   s  s    \r\n s  s s   s  s   s  s    s  s  s  s       s     s   s s   s  s   \r\nssss  ssss  ssssss sss  sss sssss ss      sssss  sss   sss  sssss\r\nLogin:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd\x21\xff\xfb\x01\xff\xfb\x03Fritz!Box web password:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n\r\r\n\rWelcome in Online\.PL/APPro/APLite\r\n\rRunning on Realtek 8181/8186  SOC\r\n\r\r\n\r            more info: \r\n\r            http://wifi\.online\.pl       \r\n\r\r\n\r\r\n\r([\w._-]+) login:
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\(none\) login:
+\xff\xfb\x01\n\r-> \x08\x08\x08\x08        \*\*\*  EPSON Network Print Server \(([^)]+)\)  \*\*\*\n\r\n\r\x08\x08\x08\x08        \n\rPassword:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nWelcome to Linux \(ZEM300\) for MIPS\r\n\rKernel ([\w._-]+) ([\w._-]+) on an MIPS\r\n
 \xff\xfb\x01\xff\xfb\x03\r\nOK\r\n
-\xff\xfb\x01\xff\xfb\x03\nSAVIN Maintenance Shell\.   \n\rUser access verification\.\n\r
+\xff\xfb\x01\xff\xfd\.\r\n\r\nWelcome to the SX-2000 \(vxTarget\)\r\n\r\nlogin: \0
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03ASUS500ROUTER login:
+\xff\xfb\x01\xff\xfb\x03\r\0\r\n\*\*\* Lantronix Universal Device Server \*\*\*\r\n\r\0Serial Number (\d+)  MAC address ([\w:]+)\r\n\r\0Software Version V([\d.]+) \((\d+)\)\r\0\r\n\r\n\r\0Press Enter to go into Setup Mode \r\n\r\0
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03                ===========================\r\n                  Welcome to ZXDSL  ([\w._-]+)\r\n                ===========================\r\n\r\nZTE Inc\., Software Release ZXDSL 831CIIV([\w._-]+)\r\n\r\nLogin name:
 \xff\xfb\x01\n\rno data rcvd for version string\n\rrecv version id unsuccessful\n\rSSH Session task 0x\w+: Version Exchange Failed\n\r
+\xff\xfb\x01\n\r-> \x08\x08\x08\x08        \*\*\*  EPSON Network Scanner Server \((.*)\)  \*\*\*\n\r\n\r\x08\x08\x08\x08        \n\r
+\xff\xfd\x01\xff\xfd\x1f\xff\xfb\x01\xff\xfb\x03\[NB6-SER-r0\]\[NB6-MAIN-R([\w._-]+)\]\[NB6-ADSL-\w+\]\r\nnb6 login:
 connesso,1\n
+\xff\xfb\x01\r\nWelcome to NetLinx v([\d.]+) Copyright AMX Corp\. \d+-\d+\r\n>
+\xff\xfd\x01\xff\xfd\x1f\xff\xfb\x01\xff\xfb\x03\r\r\nVuplus ([\w._-]+) \+ BlackHole ([\w._-]+) vusolo2\r\n\r\r\n\rvusolo2 login:
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\n               Welcome to Zhone Technologies\r\n               Model: ZNID-GPON-([\w._-]+) Router\r\n               Release: S([\w._-]+)\r\n\r\nCopyright \(C\) \d+-\d+ by Zhone Technologies\.  All Rights Reserved\.\r\nConfidential, Unpublished Property of Zhone Technologies\.\r\nRights Reserved Under the Copyright Laws of the United States\.\r\n\r\nLogin:
 \xff\xfb\x01\xff\xfb\x03\r\nUser Access Verification\r\n\r\nPlease Enter Login Name:
-\xff\xfb\x01\xff\xfe\"\n\r\tNetDSL Copyright by ARESCOM 2003\n\r\n\r\n\rUsername:GET / HTTP/1\.0\r\n\n\rPassword:\r\n\n\rUsername:
 \xff\xfb\x01\xff\xfd\x03\xff\xfb\x03\xff\xfd\x1f\xff\xfd\x18
-\xff\xfb\x01\r\nD-link Corp\. Access Point login:
+\xff\xfb\x01\xff\xfe\"\n\r\tNetDSL Copyright by ARESCOM 2003\n\r\n\r\n\rUsername:GET / HTTP/1\.0\r\n\n\rPassword:\r\n\n\rUsername:
 \xff\xfb\x01\xff\xfb\x03\xff\xfb\0\xff\xfd\0Username: data_error\r\r\n\(rdata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\n\|
-\xff\xfb\x01\xff\xfb\x03\r\n                ,vvvdP9P\?\?\?\^   ,,,\r\n              vvd###P\^`\^         vvvvv v\r\n         vv#####\?\^                  \?\?\?\?####vv,\r\n      vv####\?\?     ,vvvdP\?\?\?\^  ,,,        \?\?##\^\r\n     v#####\?    ,vvd##P\?\^        #\?#v#vvv\r\n   v#####\?    v###P\^    ,vvv,        '\?#\?,\r\n  ######\?   ####\?\^ ,vd#P\?\^     `\?\?\?##\r\n  #####\?   v####  ,d##P\^           ''\r\n ######   v####  \]###L                   _   _          _                  ___\r\n #####\?   v####  \]##L                   /   / \\  \|\\ \|  \|_  \\/   /\\   \|\\ \|   \|\r\n ######    ####  \]###L                  \\_  \\_/  \| \\\|  \|_  /\\  /--\\  \| \\\|   \|\r\n
+\xff\xfb\x01\xff\xfb\x01\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\*+\r\n\* Copyright\(c\) 1998-2008 Huawei Technologies Co\., Ltd\.                      \*\r\n\* Without the owner's prior written consent,
 \xff\xfb\x01Password\? \r\n500 Configuration error\. Disconnecting!\n
+\n\r\n\rTHIS IS A MUD BASED ON\.\.\.\.\.\n\r\n\r                                ROM Version (.*)\n
 \xff\xfb\x03\xff\xfa\x18\x01\xff\xf0
+\xff\xfb\x01\r\nWelcome to DXLINK-HDMI-RX v([\w._-]+) Copyright AMX LLC \d\d\d\d\r\n\r\n>
+\xff\xfb\x01\r\nD-link Corp\. Access Point login:
+\xff\xfb\x03\xff\xfb\x01\r\n\r\n\r\nAG 5000\r\n\r\n\r\nLogin:
+\xff\xfb\x01\xff\xfb\x03\r\n                ,vvvdP9P\?\?\?\^   ,,,\r\n              vvd###P\^`\^         vvvvv v\r\n         vv#####\?\^                  \?\?\?\?####vv,\r\n      vv####\?\?     ,vvvdP\?\?\?\^  ,,,        \?\?##\^\r\n     v#####\?    ,vvd##P\?\^        #\?#v#vvv\r\n   v#####\?    v###P\^    ,vvv,        '\?#\?,\r\n  ######\?   ####\?\^ ,vd#P\?\^     `\?\?\?##\r\n  #####\?   v####  ,d##P\^           ''\r\n ######   v####  \]###L                   _   _          _                  ___\r\n #####\?   v####  \]##L                   /   / \\  \|\\ \|  \|_  \\/   /\\   \|\\ \|   \|\r\n ######    ####  \]###L                  \\_  \\_/  \| \\\|  \|_  /\\  /--\\  \| \\\|   \|\r\n
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\nBusyBox on ([-\w_.]+) login:
+\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f.*User Access Verification\r\n\r\n(?:Username|Password):
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03TrioLink \(ADSL IAD\)\r\nLogin:
 \xff\xfb\x03\xff\xfb\x01\r\x1bmbedded Telnet Server \r\n\r\nWARNING:  Access allowed by authorized users only\.\r\n\r\n
 \xff\xfd\x03\xff\xfb\x03\xff\xfd\x01\xff\xfb\x01\r\n\r\r\nUser Name:
-\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18    \x1bc\x1b\[2J\x1b\[1;1HTelnet\r\n\x1b\[3;1H                     CF8720 Olicom Fast Ethernet L3 Switch
+\xff\xfb\x01\xff\xfb\x03login:
 \r\n%connection closed by remote host!\0
 \xff\xfb\x01\xff\xfb\x03\xff\xfb\x18\n\rWelcome Visiting Huawei  Home Gateway\n\rCopyright by Huawei Technologies Co\., Ltd\.\n\rLogin:
-\xff\xfb\x01\n\r-> \n\r-> \n\r->
+\xff\xfb\x03\xff\xfb\x01\r\n\r\n\*+\r\n\*  Welcome to D-Link Print Server  \*\r\n\* +Telnet Console +\*\r\n\*+\r\n\r\nServer Name    :  ([\w._-]+)\0+\r\nServer Model   :  ([\w_.+-]+)\0+\r\nF/W Version    :  ([\w._-]+) *\0.\0+\r\nMAC Address    :  ([\w ]+)\r\nUptime         :  ([^\r\n]+)\r\n\n
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n<< Command Line Interface V ([\w._-]+) >>\r\n\r\nUser:
 \r\n\r\nThis is a FirstClass system, from Open Text Corporation\.\r\n\r\n\r\nFirstClass is an e-mail and conferencing system with a graphical user interface\.\r\n\r\n\r\nThe Command Line Interface is not available on this sy
+\xff\xfd\x01\xff\xfd\x1f\xff\xfb\x01\xff\xfb\x03 === IMPORTANT ============================\r\n  Use 'passwd' to set your login password\r\n  this will disable telnet and enable SSH\r\n ------------------------------------------\r\n\r\n\r\nBusyBox v(.*) built-in shell \(ash\)\r\n.*\r\n ATTITUDE ADJUSTMENT \(bleeding edge, (r\d+)\)
 Horizon Control Remote Connection\r\nCopyright 2006-2009 Horizon Control Inc\. All Rights Reserved\r\n    local commands: echo, noecho, prompt, noprompt, help, exit\r\n<tab><enter> at the start of a line will re-run the previous command\r\nHC>
+\xff\xfb\x01\n\r-> \n\r-> \n\r->
 \xff\xfb\x01\xff\xfb\x03\r\nLexmark International Telnet\r\n\r\nlogin:
-\xff\xfb\x01\x1b\[2J\x1b\[0m\x1b\[1;1H \*\*\*\*\*      \*\*\*     \*     \*    \*\*\*\*\*   \*\*\*\*\*\*\*\*\*     \*\*\*
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n === IMPORTANT ============================\r\n  Use 'passwd' to set your login password\r\n  this will disable telnet and enable SSH\r\n ------------------------------------------\r\n\r\n\r\nBusyBox v(.*) built-in shell \(ash\)\r\nEnter 'help' for a list of built-in commands\.\r\n\r\n ___        ___  ___                                                 \r\n\(  _`\\  _ /'___\)'___\)      Bifferboard mini-distribution v([\w._-]+)\r\n
+\xff\xfb\x03\xff\xfb\x01\x1b\[\?25h\x1b\[2J\x1b\[0;0H\x1b<\r\nRemote Access Controller/Modular Chassis \(DRAC/MC\)\r\nCopyright \(C\) 2000-200[4457] Dell Inc\.| p|Dell DRAC/MC telnetd
+\xff\xfb\x03\xff\xfb\x01\r\n\r\n\x07HP ([\w+]+) AdvanceStack 10BT Switching Hub Management Module\r\n
+\r\nSystem unavailable\.  Please try later\.\r\n
 13C1........\r\n>
 \xff\xfb\x01\n\r\rTelnet session\n\r\r\n\r\r\r\nCarrier Access - Adit 600\n\r\n\r[\d: /]+\n\r\n\r Login:
-\r\nSystem unavailable\.  Please try later\.\r\n
+\xff\xfb\x01\x1b\[2J\x1b\[0m\x1b\[1;1H \*\*\*\*\*      \*\*\*     \*     \*    \*\*\*\*\*   \*\*\*\*\*\*\*\*\*     \*\*\*
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03DD-WRT (v[^\r\n]+)\r\n
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03(BCM[\w._-]+) xDSL Router\r\nLogin:
+\xff\xfb\x01\(Enable\) Password\?
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03Dynalink Wireless ADSL2\+ Router (\w+) \r\nSoftware Version: ([\w._-]+)\r\nLogin name:
+\xff\xfb\x03\xff\xfb\x01\r\n\r\n\*+\r\n\*  Welcome to TRENDnet Print Server  \*\r\n\*          Telnet Console            \*\r\n\*+\r\n\r\nServer Name    : *([\w._-]+) *\0\0\0\0\0\0\r\nServer Model   : *([\w._-]+) *\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\r\nF/W Version    : *([\w._-]+) *\0\0\0\0\r\nMAC Address    : *([0-9A-F ]+) *\r\nUptime         : *([^\r\n]*)\r\n\nPlease Enter Password:
 \xff\xfc\x01\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfb\x18\xff\xfd\x1f\xff\xfb\x1f\xff\xfb\"\xff\xfb\x05Login:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nPassword:
 \xff\xfb\x01\xff\xfd\x03\xff\xfb\x03\r\nHP ProLiant BL p-Class C-GbE2 Interconnect Switch B\r\n
+\r\nFlowPoint/(.*) Ready\r\n.*\xff\xfb\x01\xff\xfb
 Check Point FireWall-1 authenticated Telnet server running on
+\r\n\r\nPassword required, but none set\r\n
 \xff\xfd\x18\xff\xfb\x01\xff\xfb\x03
-CCProxy Telnet>CCProxy Telnet Service Ready\.\r\nCCProxy Telnet>
 \xff\xfe\x01Login to server\. \r\nUsername: ET / HTTP/1\.0\r\nPassword: \r\nLogin to server\. \r\nUsername:
+\xff\xfb\x01\xff\xfb\x03\nRICOH Maintenance Shell\.   ([\w:]+)\n\rUser access verification\.\n\rPassword:
+\xff\xfb\x01\xff\xfb\x01\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\*+\r\n\*  Copyright\(c\) 2004-2006 3Com Corp\. and its licensors\.
 \xff\xfb\x01\r\n\r\n\*\*\* ADTRAN TSU ESP \*\*\*\r\n\r\n   ENTER PASSWORD -> \xff\xfd\x03\xff\xfb\x03
 \xff\xfb\x01\xff\xfb\x03\xff\xfd\x01\r\n\r\nCisco Systems Console\r\n
-\xff\xfb\x01\x1b\[2J\x1b\[0m\x1b\[1;1H\n\r\x1b\[2;1H\n\r\x1b\[3;1H\n\r\x1b\[4;1H\n\r\x1b\[5;1H\n\r\x1b\[6;1H\n\r\x1b\[7;1H\n\r\x1b\[8;1H\n\r\x1b\[9;1H\n\r\x1b\[10;1H\n\r\x1b\[11;1H\n\r\x1b\[12;1H\n\r\x1b\[13;1H\n\r\x1b\[14;1H\n\r\x1b\[15;1H\n\r\x1b\[16;1HEnter Ctrl-Y to begin\.\x1b\[18;3H\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\x1b\[19;3H\*\*\* Ethernet Switch 460-24T-PWR
-login: Login incorrect\nlogin: Login incorrect\nlogin: Login incorrect\nlogin: Login incorrect\nlogin: Login incorrect\n
 \xff\xfb\x01\xff\xfb\x03Password:
-\xff\xfb\x01\x1b\[2J\x1b\[H\x1b\[2J\x1b\[H\x1b\[1;12H----------------------------------------------------------\x1b\[2;11H\|\x1b\[16CCisco VG248 \(
+login: Login incorrect\nlogin: Login incorrect\nlogin: Login incorrect\nlogin: Login incorrect\nlogin: Login incorrect\n
+\xff\xfb\x01\x1b\[2J\x1b\[0m\x1b\[1;1H\n\r\x1b\[2;1H\n\r\x1b\[3;1H\n\r\x1b\[4;1H\n\r\x1b\[5;1H\n\r\x1b\[6;1H\n\r\x1b\[7;1H\n\r\x1b\[8;1H\n\r\x1b\[9;1H\n\r\x1b\[10;1H\n\r\x1b\[11;1H\n\r\x1b\[12;1H\n\r\x1b\[13;1H\n\r\x1b\[14;1H\n\r\x1b\[15;1H\n\r\x1b\[16;1HEnter Ctrl-Y to begin\.\x1b\[18;3H\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\x1b\[19;3H\*\*\* Ethernet Switch 460-24T-PWR
+\xff\xfb\x01\xff\xfb\x03\r\n\r\nCopyright \(c\) 2005 - 2008 Enterasys, Inc\. All rights reserved\.\r\n\n\r\n\r\n\r\0Username:
+\xff\xfb\x01\xff\xfb\x03\r\n\r\n#\r\n\| ELSA LANCOM DSL/([\w._-]+) Office\r\n\| Ver\. ([\w._-]+) / ([\w._-]+)\r\n\| SN\.  (\w+)\r\n\| Copyright \(c\) ELSA AG, Aachen\r\n\r\n
+\xff\xfb\x01\xff\xfb\x03\r\0\nMAC address (\w+)\n\r\0Software version ([\w._-]+ \(\d+\)) XPTEXE\r\0\n\n\r\0Press Enter to go into Setup Mode \n\r\0
+\xff\xfb\x01\xff\xfb\x03\r\nCopperJet ([\w._-]+) Router VoATM\r\nFirmware version: ([\w._-]+)\r\nAllied Data Technologies\r\n\r\nPlease login:
 \xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\r\nUser Access Verification\r\n\r\nlogin:
-\xff\xfb\x01\xff\xfb\x03\xff\xfb\0\xff\xfd\0Log level 3\r\r\nUsername: data_error\r\r\n\(rdata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\n\|
+\xff\xfb\x01\xff\xfb\x03\r\nWelcome to Oqus Command Interface\n\r\n\r\r\nlogin: \r\nWelcome to Oqus Command Interface\n\r\n\r\r\nlogin:
+\xff\xfb\x01\r\n\r\nWelcome to Trango Broadband Wireless (\w+)-AP \w+\r\nPassword:
+\xff\xfb\x01\x1b\[2J\x1b\[H\x1b\[2J\x1b\[H\x1b\[1;12H----------------------------------------------------------\x1b\[2;11H\|\x1b\[16CCisco VG248 \(
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n\r\nBusyBox v(.*) Built-in shell \(ash\)\r\n
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03                =============================================\r\n                  Welcome to ZXDSL  ([\w._-]+) : chipset BCM\w+\r\n                =============================================\r\n\r\nZTE Inc\., Software Release ZXDSL [\w._-]+V([\w._-]+)\r\n\r\nRelease Date: ([\w/]+)\r\n\r\nLogin:
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nFritz!Box web password:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\(none\) login:
+\xff\xfb\x01\xff\xfb\x03\xff\xfb\0\xff\xfd\0Log level 3\r\r\nUsername: data_error\r\r\n\(rdata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\ndata_error\r\r\n\|
+\xff\xfb\x01\r\n([-\w_.]+) wireless  login:
 login: \xff\xfb\x01\xff\xfb\x03| p|USRobotics/Sagem router telnetd
 Console is locked by another telnet/SSH application!\n
 \n\r\n\rHi! I am your Net Tamagotchi! I love you!!
+\xff\xfb\x01\n?\r\n\r?VxWorks login:
 \xff\xfb\x01\r\nMGI Login: GET / HTTP/1\.0\r\n\r\nPassword: \r\nLogin incorrect\r\n\r\nMGI Login:
 \xff\xfc\x01\r\nPlease type \[Return\] two times, to initialize telnet configuration\r\nFor HELP type \"\?\"\r\n>
-\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\x1b\[\?3l\x1b\[2JPlease enter your user name and password!! \r\n\r\nLogin:
-\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n[-\w_.]+>%
-\xff\xfb\x01\xff\xfb\x03\x1b\[2J\x1b\[0;0H\x1b\[1;32m                    \.-------------\.
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n\rEXFO (BV[\w._-]+)\r\n\r\r\n\rWARNING: This system is for use by authorized users only!\r\n\r\r\n\rPassword:
+\xff\xfb\x01\xff\xfb\x03\r\n\r\n\[ORiNOCO-AP-(\d+)[-\d]*\]> Please enter password:
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03Siemens ADSL SL2-141-I HSN2 \r\nSoftware Version: ([\w._-]+)\r\nLogin name:
+\xff\xfb\x01\r\nWelcome to Ring v([\d.]+) Copyright \(C\) AMX Corp\. 2002-2003\r\n
+\xff\xfb\x01\xff\xfb\x03BR-telnet@(FES\w+) Router>
 \xff\xfe%\xff\xfd\x18
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\x1b\[\?3l\x1b\[2JPlease enter your user name and password!! \r\n\r\nLogin:
+\xff\xfb\x01AMBIT VoIP TRIO, ([\w._/]+), MAC:([0-9A-F]{12}),VOIP FLG=1\n\r\n\rInternational numbers routed to VoIP\.\n\r\n\rLogin:
+\xff\xfb\x01\xff\xfb\x03\x1b\[2J\x1b\[0;0H\x1b\[1;32m                    \.-------------\.
 \xff\xfb\x01\xff\xfd\"\[game001\] remote control session\.\r\nPassword:\0
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\nGO Networks MBW System - WLP\r\nSW Version: ([-\w_.]+)\r\n\r\nUser Name:
+\xff\xfb\x01\r\r\n\*+\r\n\r\* Copyright \(c\) 2010 Avaya, Inc\. +\r\n\r\* All Rights Reserved +\r\n\r\* Ethernet Routing Switch ([\w._-]+) +\r\n\r\* Software Release ([\w._-]+)
 \xff\xfb\x01\xff\xfb\x03\nNRG Maintenance Shell\.   \n\rUser access verification\.\n\rPassword:
-\xff\xfb\x01\xff\xfe\"\r\n\*
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nPhilips D-BOX2 - Kernel ([\w._-]+) \(
 \xff\xfd\x1f\n\x1b\[34mWelcome on mldonkey command-line\x1b\[2;37;0m\n\nUse \x1b\[31m\?\x1b\[2;37;0m for help\n\n\x1b\[7mMLdonkey command-line:\x1b\[2;37;0m\n>
+\xff\xfb\x01\xff\xfe\"\r\n\*
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nPLi dm7000 Helenite \d+ \(based on [-\w_.]+\)\r\n\rwelcome on your dreambox! - Kernel ([-\w_.]+)
+\xff\xfb\x01\xff\xfb\x03\*\*\* Lantronix ([\w._-]+) Device Server \*\*\*\r\0\nMAC address (\w+)\n\r\0Software version V([\w._-]+) \((\d+)\) \r\0\n
 Welcome to NutOS Telnet\.\r\n----------------------------\r\n| p|Nut/OS Demo telnetd| o|Nut/OS
-\x1b\[0m\x1b\[2J\x1b\[01;28HCONEXANT SYSTEMS, INC\.\x1b\[02;14HATU-R ACCESS RUNNER ADSL TERMINAL\x1b\[24;01HENTER CHOICE-->
+\xff\xfd\x01\xff\xfd\x1f\xff\xfb\x01\xff\xfb\x03\r\r\n\*+\r\n\r\* +\*\r\n\r\*   The Gemini Project   \*\r\n\r\* +\*\r\n\r\*+\r\n\r\r\n\rOpenDreambox ([\w._-]+) (\w+)\r\n
+\xff\xfb\x01\xff\xfb\x03(SI[\w._-]+ Callisto[\w._+-]+) Router \(version ([\w._-]+)\)\r\n
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03Netgear DM111 ADSL2\+ Modem \r\nSoftware Version: ([-\w_.]+)\r\nLogin name:
 \xff\xfb\x01\xff\xfb\x03\r\n\r\n#\r\n\| LANCOM L-54g Wireless\r\n\|
 \xff\xfb\x03\xff\xfb\x01\r\nWelcome to the WhatRoute TELNET Server\.\r\n
+\xff\xfb\x03\xff\xfb\x01\r\n +Welcome to Media Gateway Processor\r\n +FW version ([-\w_.]+)\r\n\r\nLogin:
+\xff\xfb\x01\xff\xfb\x03\xff\xfd\x03\xff\xfb\x05\xff\xfd\x18\xff\xfd\x1f\xff\xfd \xff\xfd!\xff\xfe\"\xff\xfc\"Username Access Verification\r\n\r\nLogin :
+\xff\xfb\x03\xff\xfd\x03\xff\xfb\x01Welcome to VCSCDCS2\r\r\nTANDBERG Codec Release L([\d.]+)\r\r\n
+\xff\xfd\x03\xff\xfb\x03\xff\xfd'\xff\xfd\x18\xff\xfb\0\xff\xfd\0\xff\xfb\x01\xff\xfe\x01GUI START\n
 \xff\xfb\x01\xff\xfb\x03\r\n\r\nLogin: \r\n\r\nYou must supply a username\r\n\r\nLogin: \r\n\r\nYou must supply a username\r\n\r\nLogin:
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03Login failed\.\r\n
-bad password\r\n
+\xff\xfb\x01\r\nNetportExpress\(tm\) ([-/.+\w]+)\r\n.*\r\n\r\nlogin:
 Password:\xff\xfb\x01\n\rTry again, you polio:\n\n\rTry again, you polio:\n
+bad password\r\n
+\xff\xfb\x01\xff\xfb\x03Welcome to (DCS-\w+) telnet daemon\r\n\r\nPassword:
 \xff\xfb\x01\r\n3Com Access Point 7760 login:
 \xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\r\n                 Welcome to Quidway A8010 Expert Multiservice Access Switch\r\n
-\xff\xfb\x01\xff\xfb\x03\r\nUsername:
-\xff\xfb\x01\xff\xfb\x03\r\n\r\nYou are connected to configuration tool\r\nEnter the password:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03DD-WRT (v\d+)[^\r\n]*\r\nRelease: ([^\r\n]+)\r\n\xff\r\ngateway login:
 \xff\xfb\x01\xff\xfb\x03\r\n\x1b\[1;1H\x1b\[2J\r\n\r\nObeh\xf6riga \xe4ga ej tilltr\xe4de\r\n\r\n\xf6vertr\xe4delse beivras\.\r\n\r\n\rUsername:
+\xff\xfb\x01\xff\xfb\x03\r\n\r\n Welcome to OpenVMS \(TM\) Alpha Operating System, Version V([\d.]+)    \r\n\r\n\rUsername:
+\xff\xfb\x01\xff\xfb\x03\r\n\r\nYou are connected to configuration tool\r\nEnter the password:
+\xff\xfb\x01\xff\xfb\x03\r\0\n\*\*\* Lantronix Universal Device Server \*\*\*\r\0\nSerial Number (\d+)  MAC address ([\w:]+)\n\r\0Software version V?0*([\d.]+) \((\d+)\)\r\0\n
+\xff\xfb\x01\xff\xfb\x03\r\nUsername:
 \xff\xfb\x01Login: \r\nLogin: \r\nLogin:
+\xff\xfb\x01\xff\xfb\x03\r\n\r\nWelcome to VIP-X ([\w._-]+) from [\w._-]+\r\nTLS invalid record length\r\n\r\n\r\n\r\ninvalid username\r\n\r\nTLS version 0300 not supported\r\nenter username  ->
+\xff\xfb\x01VPAD01 V([\d.]+) settings\r\nPassword:
 \r\n\r\nUser Access Verification\r\nPassword:\xff\xfb\x01
-\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nPLi\xae openpli dm600pvr\r\n\r\r\n\rdm600pvr login:
 \r\nRaptor Firewall Secure Gateway\.\r\n\r\nAccess denied\.\r\n
-\xff\xfb\x01\xff\xfd\x18\nTelnet Service on the PrintServer\n\n\rPassword: | p|Hawking/TRENDnet Print Server telnetd
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nPLi\xae openpli dm600pvr\r\n\r\r\n\rdm600pvr login:
+\xff\xfb\x01\xff\xfb\x01\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\*+\r\n\* Copyright \(c\) \d+-\d+ Hangzhou H3C Tech\. Co\., Ltd\. All rights reserved\.  \*\r\n\* Without the owner's prior written consent,
+\xff\xfb\x01AN-30 Ver\. ([\d.]+) \(c\) Copyright 2000-2002 Redline Communications Inc\.\r\n\r\nUsername:\0
+BAD_COMMAND\n
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nPLi\xae jade dm7020si\r\n\r\r\n\rdm7020si login:
+\xff\xfb\x01\r\n-> 115260:51\.665 \(nEcho\): Log: \[NON_FATAL\] Num:\[0\], Mod:\[tcpEchoBytes\], EOF\r\n
+\xff\xfb\x01\r\nVoIP Phone V([-\w_.]+) settings\r\nPassword:
+\xff\xfb\x01\xff\xfb\x01\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\*{78}\r\n\* Copyright \(c\) 2004-2010 3Com Corp\. and its licensors\. All rights reserved\. \*\r\n\* This software is protected by copyright law and international treaties\.    \*\r\n\* Without the prior written permission of 3Com Corporation and its licensors,\*\r\n
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\nHGW EC506 login:
-\xff\xfd\x18\xff\xfd \xff\xfd'\xff\xfd#
+\xff\xfb\x01   IP PHONE 2 V([\d.]+)
 \xff\xfb\x01\xff\xfb\x03\x1b\[2J\x1b\[0m\x1b\[1;1H\x1b\[2;1H\x1b\[3;1H\x1b\[4;1H ###      ###  ###########   ##########  ############# ########### ###\x1b\[5;1H ####     ### ############# ############ ############# ########### ###\x1b\[6;1H[ #]{70}\x1b\[7;1H[ #]{70}\x1b\[8;1H[ #]{70}\x1b\[9;1H[ #]{70}\x1b\[10;1H[ #]{70}\x1b\[11;1H[ #]{70}\x1b\[12;1H[ #]{78}\x1b\[13;1H[ #]{78}\x1b\[14;1H\x1b\[15;1H\x1b\[16;1HEnter Ctrl-Y to begin\.\x1b\[18;3H\*{38}
+\xff\xfd\x18\xff\xfd \xff\xfd'\xff\xfd#
+\xff\xfb\x03\xff\xfb\x01\r\n\r\nU\.S\. Robotics\r\nTotal Control \(tm\) NETServer 8/16\r\n\r\nlogin: | p|USRobotics TotalControl NetServer 8/16 telnetd
 \xff\xfb\x01\xff\xfb\x03\xff\xfb\0\xff\xfd\0\xff\xfd\x1f\r\n.*User Access Verification\r\n\r\nUsername:
 \xff\xfd\x03\xff\xfb\x03\xff\xfd\x01\xff\xfb\x01\r\n\r\r\n\r\n\r\nUser Name:
-\xff\xfb\x01\xff\xfd\x03\xff\xfb\x03\r\n\r\nWelcome to Print Server\r\n\r\nPS>
 \xff\xfb\x01\n\r\n\rWebRamp 410i    login:
-\xff\xfd\x01\xff\xfd\x1f\xff\xfb\x01\xff\xfb\x03Fritz!Box web password:
+\xff\xfb\x01\xff\xfd\x03\xff\xfb\x03\r\n\r\nWelcome to Print Server\r\n\r\nPS>
+\xff\xfb\x01\xff\xfb\x03\xff\xfd\x03\x1b.*Intel Corporation, ([-+. \w()]+)
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\(none\) login:
 \xff\xfe\x01Foxconn VoIP TRIO 3C
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\n\r\n\r\n\r\n(BCM\w+) Broadband Router\r\n
 \r\nVxWorks login: \xff\xfb\x01
+\xff\xfd\x01\xff\xfd\x1f\xff\xfb\x01\xff\xfb\x03Fritz!Box web password:
 \xff\xfb\x03\xff\xfd\x18\xff\xfb\x01\xff\xfd\x1f\xff\xfd!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nUser Access Login\r\n\r\nUsername:
+\xff\xfb\x01\xff\xfb\x03Grandstream GXV(\w+) \( Boot:([\w._-]+)  Loader:([\w._-]+)  App:([\w._-]+)  HW: ([\w._-]+) \) Command Shell\r\nPassword:
+Slirp command-line ready \(type \"help\" for help\)\.\r\nSlirp> | p|Slirp PPP/SLIP-on-terminal emulator telnetd
 \xff\xfb\x01\xff\xfb\x03                  ZebraNet PrintServer Configuration Utility\r\n\r\n Type your password\. Press Enter when finished\.\r\n\r\n Password:
+\xff\xfb\x01\xff\xfb\x03\r\0\n\*\*\* Lantronix Universal Device Server \*\*\*\r\0\nSerial Number (\d+)  MAC address (\w+)\n\r\0Software version V([\w._-]+)
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03picotux login:
+\xff\xfb\x01\xff\xfb\x01\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\*{80}\r\n\*  Copyright\(c\) 2004-2007 3Com Corp\. and its licensors\. All rights reserved\.   \*\r\n\*  Without the owner's prior written consent,                                  \*\r\n\*  no decompiling or reverse-engineering shall be allowed\.
+\xff\xfd\x1fWelcome to MLDonkey ([\d.]+)\n\x1b\[3.mWelcome on mldonkey command-line\x1b\[2;37;0m\n\nUse \x1b\[31m\?\x1b\[2;37;0m for help\n\n\x1b\[7mMLdonkey command-line:\x1b\[2;37;0m\n>
+\xff\xfb\x01\xff\xfb\x03Welcome to the Windows CE Telnet service on MP370\r\n\r\nPocket CMD v ([\w._-]+)\r\n\\> \n\r\n\\> \\>
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03Login:
-\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n\rlogin: \r\n\r\nLogin incorrect\r\n\r\nlogin:
+\xff\xfb\x01\xff\xfb\x03\r\n\r\nCopyright \(c\) 2002 - 2011 Trapeze Networks, Inc\. All rights reserved\.\r\n\n\r\n\r\n\r\0Username:
 \r\nSorry, unable to access input device\.\r\n
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03                        =======================\r\n                               ([\w._-]+) +\r\n                        =======================\r\nLogin:
+\xff\xfb\x01\xff\xfb\x03\nLANIER Maintenance Shell\.   \n\rUser access verification\.\n\rlogin:
 \xff\xfd\x18\xff\xfd \xff\xfd#\xff\xfd'
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n\r.*\xaf\xaf\xaf\xaf\xaf\r\n\r               Kernel ([\w._-]+) \(00:17:54\)\r\n\rdreambox login:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n\rlogin: \r\n\r\nLogin incorrect\r\n\r\nlogin:
 \xff\xfb\x01\n\rLogin: \n\r\n\r\n\rLogin: \n\rLogin:
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03(BCM\w+) (?:ADSL|Broadband) Router\r\n
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03FAST(\w+) ADSL Router \(Software Version:([\w._-]+)\)\r\nLogin:
+\xff\xfb\x01\xff\xfb\x03\r\n\r\n Welcome to OpenVMS Alpha OS, Version V([\d+.]+)
+\xff\xfb\x03\xff\xfb\x01\r\nSun\(tm\) Advanced Lights Out Manager (\d[-.\w]+) \(v(\d+)\)\r\n\r\nPlease login:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n.*Sagem D-BOX2 - Kernel ([-\w_.]+)
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nWireless AP Manager Console [^\r\n]+\r\n please enter your password:
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03TP-LINK Wireless ADSL2\+ Router\r\nLogin:
+\xff\xfb\x01\r\nSURPASS (RG\w+) SCE Revision ([\w._-]+)\r\nCopyright \(c\) 2006 Siemens AG\r\n([\w._-]+) login:
 \xff\xfb\x01\x1b\[2J\x1b\[32897132;1H\x1b\[0m\x1b\[1;1H \*\*\*\*\*      \*\*\*     \*     \*    \*\*\*\*\*   \*\*\*\*\*\*\*\*\*     \*\*\*       \*\*\*\*\*  \*      \*\x1b\[2;1H \*    \*    \*   \*    \*     \*   \*            \*        \*   \*     \*       \*      \*\x1b\[3;1H
-\xff\xfd\x03\xff\xfb\x03\xff\xfd\x01\xff\xfb\x01\r\n\r\x1b\[2J\x1b\[0;0H\x1b\[K\x1b\[1;0H\x1b\[K\x1b\[2;0H\x1b\[K\x1b\[3;0H\x1b\[K\x1b\[4;0H\x1b\[K\x1b\[5;0H\x1b\[K\x1b\[6;0H\x1b\[K\x1b\[7;0H\x1b\[K\x1b\[8;0H\x1b\[K\x1b\[9;0H\x1b\[K\x1b\[10;0H\x1b\[K\x1b\[11;0H\x1b\[K\x1b\[12;0H\x1b\[K\x1b\[13;0H\x1b\[K\x1b\[14;0H\x1b\[K\x1b\[15;0H\x1b\[K\x1b\[16;0H\x1b\[K\x1b\[17;0H\x1b\[K\x1b\[18;0H\x1b\[K\x1b\[19;0H\x1b\[K\x1b\[20;0H\x1b\[K\x1b\[21;0H\x1b\[K\x1b\[22;0H\x1b\[K\x1b\[0;0H\x1b\[K\x1b\[1;0H\x1b\[K\x1b\[2;0H\x1b\[K\x1b\[3;0H\x1b\[K\x1b\[4;0H\x1b\[K\x1b\[5;0H\x1b\[K\x1b\[6;0H\x1b\[K\x1b\[7;0H\x1b\[K\x1b\[8;0H\x1b\[K\x1b\[9;0H\x1b\[K\x1b\[10;0H\x1b\[K\x1b\[11;0H\x1b\[K\x1b\[12;0H\x1b\[K\x1b\[13;0H\x1b\[K\x1b\[14;0H\x1b\[K\x1b\[15;0H\x1b\[K\x1b\[16;0H\x1b\[K\x1b\[17;0H\x1b\[K\x1b\[18;0H\x1b\[K\x1b\[19;0H\x1b\[K\x1b\[20;0H\x1b\[K\x1b\[3;27H            \x1b\[3;27HLogin Screen\x1b\[4;27H            \x1b\[4;27H============\x1b\[7;24H          \x1b\[7;24HUser Name:\x1b\[9;24H         \x1b\[9;24HPassword:\x1b\[7m\x1b\[7;36H                    \x1b\[7;36H                     \x1b\[7;36H\x1b\[7;36H
-\xff\xfb\x01Welcome to the DataStage Telnet Server\.\r\0\r\nEnter user name:
-\xff\xfb\x03\xff\xfb\x01.*ForeRunner ES-3810.*Enter Username:
 \xff\xfb\x03\xff\xfb\x01\r\nPassword:
-\xff\xfb\x01\xff\xfd\x03\xff\xfb\x03Telnet access disabled\. Enable in switch CLI\r\n
 \xff\xfb\x03\xff\xfb\x01\r\n Disconnecting\.\.\.\r\n\n
+\xff\xfb\x03\xff\xfb\x01\n\r\n\r             Copyright \(C\) \d+ Multi-Tech Systems, Inc\.,\n\r                      Multi-Tech Systems, Inc\.,\n\r                   2205 Woodale Drive, Mounds View,\n\r                        Minnesota 55112, USA\.\n\r\n\r                       MultiVOIP Version ([\d.]+)\n\r
+\xff\xfb\x03\xff\xfb\x01.*ForeRunner ES-3810.*Enter Username:
+\xff\xfb\x01\xff\xfd\x03\xff\xfb\x03Telnet access disabled\. Enable in switch CLI\r\n
+\r\n\r\n\r\n\r\n<<<<<  NetProbe Lite Setup Program >>>>>\r\n\r\n       Mega System Technologies Inc\.\r\n       Copyright\(c\) 2000\.  All Rights Reserved\.\r\n<<<<<--------------------------------------------->>>>>\r\n       Press any key to continue \.\.\.\.\.\.\.
+Welcome to LDK-300 system\. Press enter\.\r\nYour address is
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n\r\r\n\rWelcome to DreamBox\.\r\n\rRunning under Kernel ([\w._-]+) \.\r\n\rBased on (Gemini [\w._-]+ GUI)\.\r\n\rKernel and utilities compiled by SatDream\.\r\n\r\r\n\r\r\n\rhttp://www\.satderam\.ru , info@satdream\.ru , dreambox@satdream\.ru\r\n
 \xff\xfb\x03\xff\xfb\x01\n\r\n\r\n\rWelcome to the SIA2410R\n\r
+\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\nReload scheduled for .* \(in .*\)\r\nRouter>
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03USR ADSL Gateway\r\nLogin:
-\xff\xfb\x01\n\rUser Name :
 \xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\r\nPassword required, but none set\r\n
+\xff\xfb\x01\xff\xfb\x03\r\nWelcome to IFBD-HE05/06 TELNET Utility\.\r\nCopyright\(C\) 2005 Star Micronics co\., Ltd\.\r\n\r\n<< Connected Device >>\r\n    Device Model: (\w+) \(STR_T-001\)\r\n    NIC Product : IFBD-HE05/06\r\n    MAC Address : ([0-9A-F:]+)\r\n\r\n\r \r\nlogin: \r\n
+\xff\xfb\x01Symbol Access Point User/Admin password:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nSportster Pro ([\d.]+) Image Sagem D-BOX2 - Kernel ([-\w_.]+)
+\xff\xfb\x01\n\rUser Name :
+\xff\xfd\x01\xff\xfd\x1f\xff\xfb\x01\xff\xfb\x03\r\r\nGET / HTTP/1\.0\r\n\r\n\r\nPartedMagic login: login: loginprompt\.c:164: login_prompt: Assertion `wlen == \(int\) len -1' failed\.\r\n
+\xff\xfc\x01\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfb\x18\xff\xfd\x1f\xff\xfb\x1f\xff\xfb\"\xff\xfb\x05\r\nCLI access not allowed until the SCC is active\.\r\n\r\n
+\xff\xfb\x01\n\r\n.*Bay Networks (Bay[-.: \w]+)\n\r
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03 ADSL Router\r\nLogin name:
-\xff\xfb\x01\xff\xfb\x03\xff\xfd\x03\r\0\n\r\0\n\r\0\n\r\0\n- NetQue AppleTalk/NetWare/TCP/LAT Printer Server
-\xff\xfb\x01login:\x20
+\xff\xfd\"\r\nLinuxNode v([\d.]+) \(([-\w_.]+)\)\r\n\r\nlogin:
 \xff\xfb\x01\xff\xfb\x03\r\n\r\nWelcome to Dinion-IP-NWC [\d.]+ from [\d.]+\r\n
+\xff\xfb\x01login:\x20
+\xff\xfb\x01\xff\xfb\x01\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\*+\r\n\* Copyright \(c\) 1998-2006 Huawei Technologies Co\., Ltd\. All rights reserved \*\r\n\*
+\xff\xfb\x01\xff\xfb\x03\xff\xfd\x03\r\0\n\r\0\n\r\0\n\r\0\n- NetQue AppleTalk/NetWare/TCP/LAT Printer Server
+\xff\xfb\x01\xff\xfb\x03Welcome to the Agilent PNA Network Analyzer at ([\w._-]+)\r\n\r\nSCPI>
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\n\r\nBusyBox v([-\w_.]+) \(2006\.02\.15-21:18\+0000\) Built-in shell \(msh\)\r\nEnter 'help' for a list of built-in commands\.\r\n\r\n#
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nPLi dm500 Jade \d+ \(based on ([\w._-]+)\)\r\n\rwelcome on your dreambox! - Kernel ([\w._-]+) \([\d:]+\)\.\r\n\rdm500 login:
 \r\n\r\nUser Access Verification\r\n\r\nPassword: \r\nPassword: \r\nPassword: \r\n% Bad passwords\r\n
-\xff\xfb\x03\xff\xfd\x18\xff\xfb\x01\xff\xfd\x1f\xff\xfd!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nUser Access Login\r\n\r\nPassword:
-\xff\xfb\x01\x1b\[1;1H\x1b\[2K\x1b\[2;1H\x1b\[2K\x1b\[3;1H\x1b\[2K\x1b\[4;1H\x1b\[2K\x1b\[5;1H\x1b\[2K\x1b\[6;1H\x1b.*BayStack 420
+Telnet server disabled\r\n
+refused in\.telnetd from [-\w_.]+ logged\n
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03Siemens ADSL (SL[\w._-]+) IS \r\nSoftware Version: ([\w._-]+)\r\nLogin name:
 \xff\xfb\x01\r\nUser Name : \r\nUser Name : \r\nUser Name :
+\xff\xfb\x01\r\nConfiguration Login: \r\n\r\n\r\nConfiguration Login: \r\nConfiguration Login:
+\xff\xfb\x03\xff\xfb\x01\r\nCopyright \d+ Sun Microsystems, Inc\.  All rights reserved\.\r\nUse is subject to license terms\.\r\n\r\n\r\nSun\(tm\) Advanced Lights Out Manager ([\d.]+) \(([\w._-]+)\)\r\n\r\nPlease login:
+\xff\xfb\x03\xff\xfd\x18\xff\xfb\x01\xff\xfd\x1f\xff\xfd!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nUser Access Login\r\n\r\nPassword:
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nLogin:
 \xff\xfb\"\xff\xfb\x03\xff\xfb\x01\xff\xfb\0\xff\xfd\0\n\r\nWelcome to the PDP-10 simulator\r\n\n
-\xff\xfb\x01\r\nConfiguration Login: \r\n\r\n\r\nConfiguration Login: \r\nConfiguration Login:
 \xff\xfb\x01\xff\xfd\x03\xff\xfb\x03\r\nHP ProLiant BL p-Class C-GbE2 Interconnect Switch A\.\r\n
-\xff\xfb\x03\xff\xfb\x01\x07HP JetDirect\r\nPassword is not set\r\n
 \xff\xfe\0\xff\xfc\0\xff\xfe\x01\xff\xfb\x01\xff\xfd\x03\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f
+\xff\xfb\x03\xff\xfb\x01\x07HP JetDirect\r\nPassword is not set\r\n
+\xff\xfb\x01\r\n\r\n#\r\n\| ELSA, MicroLink Cable\r\n\| Ver\. ([\d.]+) / [\d.]+ \d\d:\d\d .*\r\n\| SN\.  \d+\r\n\| Copyright \(c\) ELSA AG, Aachen \(Germany\)\r\n\r\ncm2, Connection No\.: \d+ \(LAN\) \(read-only connection\)\r\n\r\nPassword:
+\xff\xfb\x01\xff\xfb\x03\x1b\[2J\x1b\[00H\+----------------------------------------------------------------------\+\r\0\r\n.*\| Motorola (PTP \d+) Lite Console Application +\|\r\0\r\n.*\| Software Version: ([\w._-]+) +\|\r\0\r\n\| Hardware Version: ([\w._-]+) +\|\r\0\r\n
 \xff\xfd%
+\xff\xfc\x01PCS-(\w+) Telnet2? Server\r\nlogin:
 \xff\xfb\x01\r\n#-+\r\n# Tasman Networks Inc\. Telnet Login\r\n#
-\xff\xfb\x01\xff\xfb\x03\r\n\r \r\nlogin: \r\n
 \xff\xfb\x01\xff\xfb\x03XMR-2:  Console access 2047\r\n\r\nUsername:
-\xff\xfb\x01\r\n-> GET / HTTP/1\.0\r\nGET / HTTP/1\.0\r\nundefined symbol: GET\r\n-> \r\n->
+\xff\xfb\x01\xff\xfb\x03\r\n\r \r\nlogin: \r\n
 Sorry, telnet is not allowed on this port!
+\xff\xfb\x01\xff\xfb\x03\xff\xfd!\r\n\r\n\d+:\d+:\d+  \d+ \w+ \d+\r\nEnter your user id: \x07
+\xff\xfb\x01\r\n-> GET / HTTP/1\.0\r\nGET / HTTP/1\.0\r\nundefined symbol: GET\r\n-> \r\n->
+\xff\xfb\x01\xff\xfb\x03\xff\xfd'\xff\xfd\x1f\xff\xfd\0\xff\xfb\0Welcome to Microsoft Telnet Service \r\n
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\(none\) login:
+\xff\xfb\x03\xff\xfb\x01password:
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\nnameDRAC login:
 \xff\xfb\x01\xff\xfb\x03\r\n.*HM410dp ADSL2\+ Router\r\n\r\nLogin:
-\xff\xfb\x03\xff\xfb\x01password:
+Halt! Who goes there\?\n[\w/+]+\n
 \xff\xfb\x01\xff\xfb\x03\xff\xfb\x01\xff\xfb\x03Username : | p|Alcatel/Thomson SpeedTouch DSL router admin interface
-\xff\xfb\x01\x1b\[7l\x1b\[\?1l\x1b\[0m\x1b\[2JUsername: \x1b\[7l\x1b
+\xff\xfb\x01Copyright \(C\) \d+ by Compaq Computer Corp\. \r\n\rlogin:
 \xff\xfc\x01\r\nHP JetDirect\r\n\r\nPlease type \"\?\" for HELP, or \"/\" for current settings\r\n>
+\xff\xfb\x01\x1b\[7l\x1b\[\?1l\x1b\[0m\x1b\[2JUsername: \x1b\[7l\x1b
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03Innbox Home Gateway\r\nLogin:
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03login:
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\nAmiNET\d+ login:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfb\x01\xff\xfb\x03Grandstream (HT[\w._-]+) Command Shell
+NPC Telnet permit one connection\.\r\n But One connection\(\) already keep alive\.\r\nGood Bye !! \r\n
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n(DGFV\w+) login:
+\xff\xfb\x01\xff\xfb\x03Schneider Automation, Inc\. - Modbus Bridge \((\w+ CEV \w+ \w+)\)\r\n\r\0\r\n\r\0Serial Number ([\w._-]+)  Software Version V([\w._-]+ \(\d+\))\r\0\r\n\r\0\r\nPress Enter to go into Setup Mode, wait to close\r\n\r\0
 \xff\xfb\x03\xff\xfd\x18\xff\xfb\x01\xff\xfd\x1f\xff\xfd!\r\nCadant C3 CMTS\r\n
 \xff\xfb\x01\x1b\[2J\x1b\[0m\x1b\[1;1H \n\r\x1b\[2;1H\n\r\x1b\[3;1H\n\r\x1b\[4;1H\n\r\x1b\[5;1H\n\r\x1b\[6;1H\n\r\x1b\[7;1H\n\r\x1b\[8;1H\n\r\x1b\[9;1H\n\r\x1b\[10;1H\n\r\x1b\[11;1H\n\r\x1b\[12;1H\n\r\x1b\[13;1H\n\r\x1b\[14;1H\n\r\x1b\[15;1H\n\r\x1b\[16;1HEnter Ctrl-Y to begin\.\x1b\[18;3H\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\x1b\[19;3H\*\*\* BayStack 420
 \r\nAnother telnet session is in progress\.\r\n
+\xff\xfb\x01\xff\xfb\x01\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\*+\r\n\*  Copyright\(c\) 1998-2007 Huawei Technologies Co\., Ltd\.  All rights reserved\.
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nWelcome to Linux \(([\w._-]+)\) for MIPS\r\n\rKernel ([\w._-]+) Treckle on an MIPS\r\n\r[\w._-]+ login:
 \xff\xfd\x1fWelcome to MLdonkey, visit http://mldonkey\.dyndns\.info for new Versions\n\x1b\[34mWelcome on mldonkey command-line\x1b\[2;37;0m\n\nUse \x1b\[31m\?\x1b\[2;37;0m for help\n\n\x1b\[7mMLdonkey command-line:\x1b\[2;37;0m\n>
-\xff\xfb\x01\r\nNetDVRDVS:
-\xff\xfd\$
+\xff\xfb\x01\xff\xfb\x03\n\r\0\*\*\* Siemens (\w+) \*\*\*\n\r\0\r\0\nSerial Number (\d+)  MAC address ([0-9A-F]{12})\n\r\0Software version ([^\r]+)\r\0\nPassword :
 \xff\xfb\x01\xff\xfb\x03\r\n\r\n\[ORiNOCO-AP-[-\w]+\]> Please enter password: \r\nIncorrect Password\r\n\r\n\[ORiNOCO-AP-[-\w]+\]> Please enter password: \r\n
-\xff\xfb\x03\xff\xfd\x03\xff\xfb\x01\r\nUsername: \r\nPassword: \r\nAccess Denied\r\n
-\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\w+ login:
+\xff\xfd\$
+\xff\xfb\x01\r\nNetDVRDVS:
 Sorry, new remote sessions are disallowed by current switch configuration\.
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\w+ login:
+\xff\xfb\x03\xff\xfd\x03\xff\xfb\x01\r\nUsername: \r\nPassword: \r\nAccess Denied\r\n
 \xff\xfb\x01login :
-\xff\xfb\x03\xff\xfb\x01\r\nService Processor login:
 \xff\xfb\x01\n\rSSH service name not present in rcvd msg\n\rSSH Session task 0x\w+: Version Exchange Failed\n\r\n\r\n\rSSH service name not present in rcvd msg\n\r
-\xff\xfb\x01\xff\xfb\x03\xff\xfd\x01\x1b\[0;37;40m\x1b\[2J\x1b\[0;37;40m\x1b\[1m\x1b\[5;27HVertical Horizon Stack Manager\x1b\[0;37;40m\x1b\[1m\x1b\[10;26HEnterasys Networks, Incorporated
-\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03AH4222\r\nLogin: \r\n\r\nPassword:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03(F[\w._-]+)\r\n\rLogin:
+\xff\xfb\x03\xff\xfb\x01\r\nService Processor login:
 \xff\xfb\x03\xff\xfb\x01\r\n\r\npassword:
-\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nUsername:
+\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\r\nWelcome on (.*)\r\n\r\n\r\nUsername:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n  \r\nModel name : easyRAID ([\w._+-]+)\r\nFirmware version : ([\w._-]+)\r\nBootcode version : ([\w._-]+)\r\nSerial number : (\w+)\r\nCPU type: [^\r]*\r\nInstalled memory : ([^\r]+)\r\nController type: [^\r]*\r\nDisk slot number: [^\r]*\r\nDisk state : [^\r]*\r\n  \r\n=== Welcome to CLI ([\w._-]+) ===\r\nPlease input password:
 match telnet m%\xff\xfe\x01\r\n\r\n\+============================================================================\+\r\n\|             \[ interSeptor Configuration Utility Main Menu \]                \|\r\n\+============================================================================\+\r\n\r\nEnter Password: % p/Jacarta interSeptor environmental monitor telnetd/ d/specialized/
-\r\nSorry, Access to Telnet is Denied\.\r\n
 \xff\xfb\x01\r\nPassword:\r\nLogged in as guest\r\n
+\r\nSorry, Access to Telnet is Denied\.\r\n
 \xff\xfd\x03\xff\xfb\x03\xff\xfd\x18\xff\xfd\x17Please wait\. The connection to your station is still in the process of being established\. Your last input has been discarded\.\r\nPlease wait\. The connection to your station is still in the process of being established\. Your last input has been discarded\.\r\n
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03Siemens ADSL SL-2141 IS \r\nSoftware Version: ([\w._-]+)\r\n
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nIngenic linux machine\r\n\rKernel ([\w._-]+) on an mips\r\n\r\(none\) login:
 \xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\r\0\r\0\r\n\x07# \0
-Sorry telnet connections not permitted\.\n
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03TESTING MODEL ADSL Router\r\nLogin:
-\xff\xfd\x1f[\r\n* ]+Welcome to MLdonkey          \r\n
-OMNIA\r\nd!6F'''=&%%3-%&0\)! %    , \.L\*\*\*\$ e&\"\n\rd!6B'&'\?&%%3-\$&0\)
+\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\r\nTelebit\'s NetBlazer Version (\S+)\r\n
 \xff\xfc\x01\r\nHP JetDirect\r\n\r\nPassword:
-\xff\xfd\x18\xff\xfd\x1f\xff\xfd#\xff\xfd'\xff\xfd\$
+\xff\xfb\x03\xff\xfb\x01\r\r\nUsername:\r\r\nError: Username must be non-NULL\r\r\nUsername:\r\r\nError: Username must be non-NULL\r\r\nUsername:
+\xff\xfb\x03\xff\xfb\x01\r\n\r\n\*+\r\n\*  Welcome to D-Link Print Server  \*\r\n\* +Telnet Console +\*\r\n\*+\r\n\r\nServer Name    :  ([\w._-]+)\0+\r\nServer Model   :  ([\w._+-]+)\0+\r\nF/W Version    :  ([\w._-]+) *\0.\0+\r\nMAC Address    :  ([\w ]+)
 \xff\xfb\x01\xff\xfd\x01\xff\xfb\x03\xff\xfd\x03\xff\xfb\x01\xff\xfd\x01\xff\xfb\x03\xff\xfd\x03\r\n\r\nSelect Access Level\r\n===================\r\n1 - Read-Only\r\n2 - Installer\r\n3 - Administrator\r\n13008 >>>
-\xff\xfb\x01\r\n\rType \"\?\" at the command prompt for a list of commands\.\n\r.*Command->
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03(BCM\w+) ADSL Router version ([\w._-]+ \([\w._-]+\))\r\nLogin:
+\xff\xfd\x18\xff\xfd\x1f\xff\xfd#\xff\xfd'\xff\xfd\$
+\xff\xfb\x01\xff\xfb\x03DataEngine Telnet v([\w._-]+)\r\n\r\n>
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\n\r\nBusyBox v([-\w_.]+) \([^)]+\) Built-in shell \(ash\)\r\nEnter 'help' for a list of built-in commands\.\r\n\r\n#
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03Alice Modem WLAN ([\w._-]+)\r\nAlice Software Version: ([\w._-]+)\r\nLogin:
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03#
-\xff\xfb\x01\xff\xfd\x18\xff\xfd#
+\xff\xfe\x01\xff\xfd\x03\xff\xfd\x18\xff\xfd\x1f\xff\xfb\x03\xff\xfb\x01\r\nAccount Name: \r\nPassword: \r\nThis copy of the Ataman Telnetd Server is registered as licensed to:\r\n\t(.+)\r\n\r\nLogin failed: unknown user name, password or privilege incorrect\.\r\n
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nWelcome to (OpenPhone \w+) IP\r\n\rVersion ([\w._-]+)\r\n\r\r\n\rlast reset cause: software reset \(memory controller also reset\)\r\n\r\r\n\r([\w._-]+) login:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n(FVX\w+) login:
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n\r\nBusyBox v([-\w_.]+) \([^)]+\) Built-in shell \(ash\)\r\nEnter 'help' for a list of built-in commands\.\r\n\r\n#
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nZyXEL ([\w._-]+) login:
 \xff\xfb\x03\xff\xfb\x01HGFMA-B> GET / HTTP/1\.0\r\nGET: Command not found\.\r\nHGFMA-B> \r\nHGFMA-B>
-\xff\xfb\x01\r\nAIRAYA login:
+\xff\xfb\x03\xff\xfb\x01\r\n\r\n\*+\r\n\*  Welcome to Print Server  \*\r\n\* +Telnet Console +\*\r\n\*+\r\n\r\nServer Name    :  ([\w._-]+)\0\0\0\0\0\0\r\nServer Model   :  2U1P Print Server\0+\r\nF/W Version    :  ([\w._-]+).*\r\nMAC Address    :  ([\w ]+)
+\xff\xfb\x01\xff\xfd\x18\xff\xfd#
+\xff\xfb\x01\xff\xfb\x01\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\*+\r\n\*          All rights reserved \(1997-2006\)              \*\r\n\*      Without the owner's prior written consent, +\*\r\n
 \xff\xfb\x01\xff\xfb\x03\r\nlogin:
+\xff\xfb\x01\xff\xfb\x03\r\n\r\nCopyright \(c\) 2004 - 2006 3Com Corporation\. All rights reserved\.\r\n\n\r\n\r\0Username: \n\r\0Password: \n\r\0\r\n\r\nCopyright \(c\) 2004 - 2006 3Com Corporation\. All rights reserved\.\r\n\n\r\n\r\0Username:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nDD-WRT v([-\w_+. ]+) Date:
 \xff\xfb\x01\n\rWelcome to TrueTime Network Interface\n\r\rUser name:
-\xff\xfb\x01\xff\xfb\x03\r\n\r\n\[Dell  TM 1170 AP 2\]> Please enter password:
 \xff\xfb\x01Username: \n\rPassword: \n\rUsername:
-\xff\xfb\x03\xff\xfb\x01
+\xff\xfb\x01\xff\xfb\x03\r\n\r\n\[Dell  TM 1170 AP 2\]> Please enter password:
+\xff\xfb\x01\xff\xfb\x03\r\nAXIS (\S+) TELNET
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\r\n\r\r\nWelcome to Aerohive Wireless Product\r\r\n\r\r\nlogin:
-\xff\xfb\x01\xff\xfd\x03\xff\xfb\x03\x1b\[2J\x1b\[Hname:
-\r\n\0Videolan Server Administration System\0\r\n\r\n\0\xff\xfb\x01\xff\xfb\x03\xff\xfe\"Login: \0
+\xff\xfb\x03\xff\xfb\x01
+\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\nuser: \r\npassword: \r\n\r\nuser:
+\xff\xfb\x01([\w._-]+) Ver\. ([\w._-]+) \(c\) Copyright \d+-\d+ Redline Communications Inc\.\r\n\r\nUsername:\0
 RGC011001002\r\nAST000200000000000000001111110110000\r\nR\r\nR\r\nR\r\nR\r\n
+\r\n\0Videolan Server Administration System\0\r\n\r\n\0\xff\xfb\x01\xff\xfb\x03\xff\xfe\"Login: \0
+\xff\xfb\x01\xff\xfb\x03\r\n\r\n\r\n +-+\r\n +\| Cyclades-PR4000: CyROS  V_([\d.]+)  \(.*\)     \|\r\n
+\xff\xfb\x01\r\n\r\*+\n\r\r\* Copyright \(c\) \d+ Nortel Networks, Inc\.  \*\n\r\r\* All Rights Reserved +\*\n\r\r\* Passport 8010 +\*\n\r\r\* Software Release ([\d.]+)
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\nCTRING login:
+\xff\xfb\x01\xff\xfb\x03telnet@CER(\w+)>GET / HTTP/1\.0\r\nInvalid input -> GET / HTTP/1\.0\r\nType \? for a list\r\n
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03DSL Router\.  Welcome!\r\nLogin:
+\xff\xfb\x01\r\n\r\n#\r\n\| Siemens I-Gate LAN 2\r\n\| Ver\. ([\d.]+) / [\d.]+\r\n\| SN\.  (\w+)\r\n\|
 \xff\xfb\x01\xff\xfb\x03\xff\xfb\0\xff\xfd\0login:
-\xff\xfb\x01\r\nlogin: \r\npassword: \r\nLogin incorrect!\r\n
-\xff\xfd\x03\xff\xfb\x01\xff\xfd!| p|HP MPE/iX telnetd
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03AH4021\r\nLogin:
+\xff\xfd\x18\xff\xfd \xff\xfd#\xff\xfd\x1f\xff\xfd'\xff\xfd\$
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n\r.*Procurve Wireless Access Point (\d+)\r\n
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\[([^]]*)\]\[([^]]*)\]\[([^]]*)\]\r\n
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\n\r\nBusyBox v([-\w_.]+) \([^)]+\) Built-in shell \(ash\)\r\nEnter 'help' for a list of built-in commands\.\r\n\r\n/bin #
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nBUFFALO INC\. LinkStation series HS-DHGL\(JINMU\)\r\n\rFENCHURCH login:
 \xff\xfb\x03\xff\xfd\x03\xff\xfb\x01\r\nWelcome to the Biamp Telnet server\r\n
 \r\nNo more connections are allowed to telnet server\. Please try again later\.\0
 \xff\xfb\x01\xff\xfb\x03\xff\xfd\x01\xff\xfd\x18\r\0\r\nPassword: \r\nPassword incorrect\r\n
+\xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03ADSL2\+ Wireless Router (\w+) \r\nSoftware Version: ([\w.]+)\r\nLogin name:
 \xff\xfb\x01
+Welcome to Tenor Multipath Switch Telnet Server.*Type: (\S+)
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\x1b\[2J\x1b\[H\x1b\[2J\x1b\[H ------------------------------------------------------------------------------\r\r\n                                D A T A C O M\r\r\n +(DM\w+) - Minimux Router\r\r\n
 \xff\xfb\x01\xff\xfd\x01\xff\xfb\x03\xff\xfd\x03\xff\xfb\x01\xff\xfd\x01\xff\xfb\x03\xff\xfd\x03\r\n\r\nSelect Access Level\r\n===================\r\n1 - Read-Only\r\n2 - Installer\r\n3 - Administrator\r\n
-\xff\xfb\x01\xff\xfb\x03\xff\xfb\0\xff\xfd\0Username: data_error\r\n\(rdata_error\r\ndata_error\r\ndata_error\r\ndata_error\r\ndata_error\r\ndata_error\r\ndata_error\r\ndata_error\r\ndata_error\r\n\|
 \n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r.*Broadband Satellite HN7000S VSAT
+\xff\xfb\x01\xff\xfb\x03\xff\xfb\0\xff\xfd\0Username: data_error\r\n\(rdata_error\r\ndata_error\r\ndata_error\r\ndata_error\r\ndata_error\r\ndata_error\r\ndata_error\r\ndata_error\r\ndata_error\r\n\|
+\xff\xfb\x01\xff\xfd\x03\xff\xfb\x03\xff\xfd\x1f\r\n\(Aruba800\) \r\nUser:
 \xff\xfc\x01\r\nHP JetDirect\r\n\r\nPassword:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\n\r\nBusyBox v([-\w_.]+) \([^)]+\) built-in shell \(ash\)\r\nEnter 'help' for a list of built-in commands\.\r\n\r\nermittle die aktuelle TTY\r\ntty is \"/dev/pts/0\"\r\nConsole Ausgaben auf dieses Terminal umgelenkt\r\n#
 \xff\xfd%\xff\xfb\x01\xff\xfb\x03\xff\xfd'\xff\xfd\x1f\xff\xfd\0\xff\xfb\0
-\xff\xfb\x01\xff\xfb\x03\r\nUser:\r\n\r\nUser:\r\n\r\nUser:
+\xff\xfb\x01\xff\xfb\x03\xff\xfb\0\xff\xfd\0QEMU ([\w._-]+) monitor - type 'help' for more information\r\n\(qemu\)
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\ncli ([\w._-]+)\r\nUser Name:
+\xff\xfb\x01\xff\xfb\x03\r\0\nMAC address ([0-9A-F]{12})\n\r\0Software version V([\w_.\(\) -]+) \r\0\n\n\r\0Press Enter for Setup Mode \n\r\0
+\xff\xfb\x01\xff\xfb\x03\r\n\(\w+\) \r\nUser:
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03([\w._-]+) login:
 \xff\xfb\x01@ Userid:
+\xff\xfb\x01\x1b\[m\x1b\[m\x1b\[m\x1b\[m\x1b\[m\x1b\[16;35H\x1b\[1;1H\x1b\[2J\x1b\[16;35H\x1b\[1;1HLogin Screen\x1b\[8;5HCopyright \(c\) \d+-\d+ Enterasys Networks, Inc\.  All rights reserved\x1b.*RoamAbout R2\x1b
 \xff\xfb\x01\xff\xfb\x03BR-telnet@FI_Core>
 \xff\xfb\x01\xff\xfb\x03\nTOSHIBA Maintenance Shell\.   \n\rUser access verification\.\n\rlogin:
 \xff\xfd\x03\xff\xfb\x03\xff\xfd\x01\xff\xfb\x01User Name:
-\xff\xfe\"\xff\xfb\x01\x1b\[f\x1b\[9C\x1b\[9C\x1b\[9C\x1b\[2C\x1b\[9B\x1b\[5B                      \x1b\[f\x1b\[9C\x1b\[9C\x1b\[9C\x1b\[2C\x1b\[9B\x1b\[6B                      \x1b\[f\x1b\[9C\x1b\[9C\x1b\[9C\x1b\[2C\x1b\[9B\x1b\[7B                      \x1b\[f\x1b\[9C\x1b\[9C\x1b\[9C\x1b\[9C\x1b\[9C\x1b\[9B\x1b\[2B  Verify Password  \x1b\[f\x1b\[9C\x1b\[9C\x1b\[9C\x1b\[9C\x1b\[9C\x1b\[9B\x1b\[4B                   \x0e\x1b\[f\x1b\[9C\x1b\[9C\x1b\[9C\x1b\[9C\x1b\[8C\x1b\[9B\x1b\[1Blqqqqqqqqqqqqqqqqqqqk\x1b
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\+{79}\r\n\r\+{33}#############\+{33}\r\n\r\+{28}######           ######\+{28}\r\n\r
+\xff\xfb\x01\xff\xfb\x03Grandstream ([\w-]+) Command Shell\r\nPassword:
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\nlogin:
-\xff\xfb\x01\x1b\[2J\x1b\[0m\x1b\[1;1H\x1b\[2;1H\x1b\[3;1H\x1b\[4;1H ###      ###  ###########   ##########  #############
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03Grandstream ([\w._-]+) Command Shell Copyright [\d-]+\r\nPassword:
 \xff\xfb\x01\xff\xfd\"\[Fallen Heroes Console\] remote control session\.\r\nPassword:\0
 \xff\xfd\x01\xff\xfd!\xff\xfb\x01\xff\xfb\x03root@HD:/#
-\xff\xfb\x01\x1b\[2J\x1b\[58259456;1H\x1b\[0m\x1b\[1;1H \*\*\*\*\*      \*\*\*     \*     \*    \*\*\*\*\*   \*\*\*\*\*\*\*\*\*     \*\*\*       \*\*\*\*\*  \*      \*\x1b\[2;1H
+\xff\xfb\x03\xff\xfb\x01\n\r\n\r +Copyright \(C\) \d+ MultiTech Software Systems Inc\.,\n\r.*MultiVoIP Version ([\d.]+)\n\r
 \xff\xfb\x01\xff\xfb\x03Broadband Cable Device Telnet Daemon\n\r\n\rEnter user:| p|SMC8013WG cable modem/WAP telnetd
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nWelcome to MediaMVP!\r\n
-\x1b\[\?25l\xff\xfb\x01\xff\xfb\x03\x1b\[2J\x1b\[0m\x1b\[1;1H\x1b\[2;1H\x1b\[3;1H         ###   ###            ###   ###   ###            ###   ###\x1b\[4;1H        #####   ###          ###   #####   ###          ###   #####\x1b\[5;1H       ### ###   ###        ###   ### ###   ###        ###   ### ###\x1b\[6;1H      ###   ###   ###      ###   ###   ###   ###      ###   ###   ###\x1b\[7;1H     ###     ###   ###    ###   ###     ###   ###    ###   ###     ###\x1b\[8;1H    ###       ###   ###  ###   ###       ###   ###  ###   ###       ###\x1b\[9;1H   ##########  ###   ######   ##########  ###   ######   ##########  ###\x1b\[10;1H  ############  ###   ####   ############  ###   ####   ############  ###\x1b\[11;1H ###             ###   ##   ###             ###  ###   ###             ###\x1b\[12;1H                                                ###\x1b\[13;1H                                               ###\x1b\[14;1H\x1b\[15;1H\x1b\[16;1HEnter Ctrl-Y to begin\.\x1b\[18;3H\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+\xff\xfb\x01\x1b\[2J\x1b\[0m\x1b\[1;1H\x1b\[2;1H\x1b\[3;1H\x1b\[4;1H ###      ###  ###########   ##########  #############
 \xff\xfd\x1f ?Welcome to MLdonkey ?\n\x1b\[34mWelcome on mldonkey command-line\x1b\[2;37;0m\n\nUse \x1b\[31m\?\x1b\[2;37;0m for help\n\n\x1b\[7mMLdonkey command-line:\x1b\[2;37;0m\n>
+\xff\xfb\x01\xff\xfb\x01\xff\xfb\x01\xff\xfb\x03\xff\xfd\x18\xff\xfd\x1f\r\n\*+\r\n\*  Copyright\(c\) 2004-2008 3Com Corp\. and its licensors\. All rights reserved\.   \*\r\n\*  Without the owner's prior written consent,
+\xff\xfd\x03\xff\xfb\x03\xff\xfb\x01\x1b\[0m\x1b\[1;1H\x1b\[2J\rD\r           \n\r             (DES-.*) Command Line Interface\n\r\n
+\xff\xfd\x01\xff\xfd\x1f\xff\xfb\x01\xff\xfb\x03([\w._-]+) login:
 \xff\xfb\x01\x1b\[1;1H\x1b\[2K\x1b\[2;1H\x1b\[2K\x1b\[3;1H\x1b\[2K\x1b\[4;1H\x1b\[2K\x1b\[5;1H\x1b\[2K\x1b\[6;.*Business Policy Switch 2000
+\xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n\rwelcome on your dreambox! - Kernel (\d[\w.]+) \([\d:]+\)\.\r\n\r([-\w_.]+) login:
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nsh-3\.00#

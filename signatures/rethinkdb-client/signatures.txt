@@ -1,0 +1,1 @@
+ERROR: This is the rdb protocol port! \(bad magic number\)\n

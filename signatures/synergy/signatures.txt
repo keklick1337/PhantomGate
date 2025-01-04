@@ -1,2 +1,3 @@
 \0\0\0\x0bSynergy\0\x01\0
 \0\0\0\x0b\x87L\xa2\xb1H\xa5\xe1\xa5Y\xf9M
+\0\0\0\x0b3999 No go\n

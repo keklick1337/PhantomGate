@@ -1,6 +1,4 @@
-\0\x05\0\x04Illegal operation\0
 \0\x05\0\x04Illegal operation error\.\0
 \0\x05\0\x02\0The IP address is not in the range of allowable addresses\.\0
 \0\x05\0\x04Illegal TFTP operation\0
-\0\x05\0\0Invalid TFTP Opcode
 \0\x05\0\x04Error: Illegal TFTP Operation\0\0\0\0\0

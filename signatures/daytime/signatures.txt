@@ -1,0 +1,5 @@
+\d+ \d\d-\d\d-\d\d \d\d:\d\d:\d\d 50 0 4 \d+\.0 UTC\(NIST\) \*\r\n
+\d\d:\d\d:\d\d \d\d.\d\d.20\d\d\n
+[01]\d:\d\d:\d\d [AP]M [0-3]\d/[01]\d/0\d\n
+\d\d:\d\d:\d\d [AP]M \d\d\d\d/\d\d/\d\d\n
+\d\d\d\d/\d\d/\d\d \d\d:\d\d:\d\d\r\n

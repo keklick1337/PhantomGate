@@ -1,0 +1,1 @@
+Access violation at address \w+ in module 'Xplorer\.exe'\. Read of address

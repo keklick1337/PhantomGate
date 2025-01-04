@@ -1,0 +1,1 @@
+\d+SESSIONDENIED&REASON=Protocol violation\n

@@ -1,1 +1,3 @@
+Welcome to FreeVCS Test NT Service\r\n
 Welcome to FreeVCS MSSQL NT Service\r\n
+Welcome to FreeVCS DBISAM NT Service\r\n

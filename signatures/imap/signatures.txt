@@ -1,32 +1,36 @@
 \* BYE Connection refused\r\n
 \* OK Softalk IMAP Server ready\r\n
 \* OK Waiting for authentication process to respond\.\.\r\n
-\* OK IMAP4rev1\r\nGET BAD  Invalid command\r\n\* BAD  Null command\r\n
-\* OK \[CAPABILITY IMAP4rev1 SORT THREAD=REFERENCES MULTIAPPEND UNSELECT LITERAL\+ IDLE CHILDREN NAMESPACE LOGIN-REFERRALS [^\]]+\]
+\* OK [Dd]ovecot ready\.\r\n
 \* BYE Domino IMAP4 Server Unable to authenticate session\.
 \* OK Welcome to Arvixe IMAP server\.\r\n
+\* OK ([\w._-]+)\r\nGET BAD Unknown or NULL command\r\n BAD NULL COMMAND\r\n
 \* OK CommuniGate Pro IMAP Server ready\r\n
 \* OK Microsoft Exchange Server 2007 IMAP4 service ready\r\n
 \* OK .*\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK IMAP4 IMAP4rev1 Server\r\nGET BAD Unrecognised Command\r\n
 \* OK Dovecot DA ready\.\r\n
 \* OK WebSTAR Mail ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR SORT THREAD=REFERENCES MULTIAPPEND UNSELECT LITERAL\+ IDLE CHILDREN NAMESPACE LOGIN-REFERRALS
-\* OK Welcome to Binc IMAP v(\d[-.\w]+)
+\* OK [Dd]ovecot MUA ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 .*?Courier-IMAP ready\. Copyright 1998-\d+ Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK ([-\w_.]+)\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK GroupWise IMAP4rev1 Server Ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN AUTH=CRAM-MD5
-\* OK \]-:\^:-\[ IMAP4rev1 .*\r\n
+\* OK Welcome to Binc IMAP
 \* OK The Microsoft Exchange IMAP4 service is ready\.\r\n
 \* OK .*IMAP4rev1 Server Completed\r\nGET BAD Protocol Error: Invalid IMAP command specified\r\n
 \* BYE Hi This is the IMAP SSL Redirect\r\n
 \* OK \[CAPABILITY IMAP4rev1 CHILDREN NAMESPACE\] Freemail ready - hit me with your rhythm stick\.\r\n
+\* OK IMAP4rev1 server ready at \d\d/\d\d/\d\d \d\d:\d\d:\d\d \r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN\] Dovecot DA ready\.\r\n
+\* OK \[CAPABILITY IMAP4REV1 X-NETSCAPE LOGIN-REFERRALS STARTTLS LOGINDISABLED\] \[[-.\w]+\] IMAP4rev1 200[-.\w]+ at .*\r\nGET BAD Command unrecognized/login please: /\r\n\* BAD Null command\r\n
 \* OK AVM KEN!4 IMAP Server ready\r\n
 \* OK Hi This is the IMAP SSL Server .*\r\n
 \* OK IMAP4 1\.0 server ready\r\n\* BAD Argument\r\n
 \* OK IMAP4rev1 SmarterMail\r\n
 \* OK IMAP4rev1 Service at Jana-Server ready\r\n
 GET NO Error in IMAP command received by server\.\r\n
-\* OK IMAP4rev1 server ready\r\nGET BAD Unknown command '/'\r\n BAD Unknown command ''\r\n
+\* OK IMAPrev1\r\nGET BAD Unknown or NULL command\r\n BAD NULL COMMAND\r\n
+\* OK IMAP4 ready! [-\w_.]+ Winmail Mail Server MagicWinmail Extend IMAP 101\r\n
 \* OK \[CAPABILITY IMAP4rev1 .*\] GroupWise Server Ready\r\n
+\* OK IMAP4rev1 server ready\r\nGET BAD Unknown command '/'\r\n BAD Unknown command ''\r\n
 \* OK AXIGEN IMAP4rev1 service is ready\r\n

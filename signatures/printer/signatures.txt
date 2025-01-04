@@ -1,9 +1,20 @@
+lpd: (.*)\n
+\x01Socket \d+ received unknown command 0x48 with arguments ELP
+\x01\x01
 \xff
 no queue to check\n\0
 SB06D2F0: \xe5\x9f\xf0\x18\xe5\x9f\xf0\x18\xe5\x9f\xf0\x18\xe5\x9f\xf0\x18\xe5\x9f\xf0\x18\xe1\xa0 no entries\n
 default: unknown printer\n
+lpd: Host name for your address \(\d+\.\d+\.\d+\.\d+\) unknown\n
 no entries\n
+\d+-201 ill-formed FROM address\.
 VSE Line Printer Daemon has rejected this request\.\0\0
+Invalid protocol request \(71\): GGET / HTTP/1\.0\r\n\n
+[-.\w]+: lpsched: unknown printer\n
+\d+-202 your host does not have line printer access\.
+Printer default not found \([\w_]+\)\.\n
 An lpd test connection was completed successfully\r\n
 /usr/local/helios/sbin/lpd Printer default doesn't exist! \n
+\x01no connect permissions\n
 Fictive printer queue short information\n
+Printer Status ---> (.*)                    \nno entries\n

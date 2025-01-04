@@ -1,8 +1,10 @@
 200 NNTP server ready\r\n100 Avaliable commands:\r\nARTICLE\r\nAUTHINFO\r\nBODY\r\nGROUP\r\nHEAD\r\nHELP\r\nIHAVE\r\nLAST\r\nLIST\r\nNEWGROUPS\r\nNEWNEWS\r\nNEXT\r\nPOST\r\nQUIT\r\nSLAVE\r\nSTAT\r\nXHDR\r\n\.\r\n| p|Hamster Playground/Kerio nntpd
 502 Connection refused\r\n
 200 Jana news server ready - posting allowed\r\n
+201 NNTP server ready \(no posting\)\r\n502 No permission\r\n
 502 Could not get your access name\.  Goodbye\.\r\n
 502 You have no permission to talk\.  Goodbye.\r\n
 nnrpd: invalid option -- S\nUsage error\.\n
+502 access denied <[-\w_.]+@[-\w_.]+>, you do not have connect permissions in the nntpcache\.access file\.\r\n
 400 No space left on device writing SMstore file -- throttling\r\n
 200 Service available, posting allowed\r\n

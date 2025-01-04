@@ -1,3 +1,4 @@
+:.*!psyBNC@lam3rz\.de NOTICE \* :
 :ezbounce!srv NOTICE \(unknown\) :\x02
 :dirkproxy NOTICE AUTH :Looking up your hostname\.\.\.\r\n:dirkproxy NOTICE AUTH :Got your hostname\.\r\n
 :dircproxy NOTICE AUTH :Looking up your hostname\.\.\.\r\n:dircproxy NOTICE AUTH :Got your hostname\.\r\n

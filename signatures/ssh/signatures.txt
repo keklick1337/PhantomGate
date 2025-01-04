@@ -1,28 +1,29 @@
 SSH-2\.0-PGP\r?\n
 SSH-1\.5-X\r?\n
+Could not load host key\. Closing connection\.\.\.
 SSH-2\.0-dropbear_([-\w.]+)\r?\n
 SSH-2\.0-WeOnlyDo(?:-wodFTPD)? ([\d.]+)\r?\n
 SSH-2\.0--Oxv-\n
 SSH-2\.0-Mocana SSH \r?\n
 SSH-2\.0-mpSSH_([\d.]+)\r?\n
+SSH-2\.0-7Jcq2\n
 SSH-1\.99-yIfdRWXrjyj\n
 SSH-2\.0-(\d{8,12})\r?\n
 SSH-2\.0-WeOnlyDo-([\d.]+)\r?\n
 SSH-2\.0-0\.0 \r?\n
+SSH-2\.0-OpenSSH\r?\n
 SSH-2\.0-mpsa57B_3A\n
 SSH-2\.0-OpenSSH_3\.6p1\r?\n| p|D-Link/Netgear DSL router modified dropbear sshd
-SSH-2\.0-SSH_0\.2\r?\n
-SSH-2\.0-Fq6T1B\n
 SSH-1\.5-SSH\.0\.1\r?\n
 SSH-1\.99-InteropSecShell_([\d.]+)\r?\n
-\r\nDestination server does not have Ssh activated\.\r\nContact Cisco Systems, Inc to purchase a\r\nlicense key to activate Ssh\.\r\n
+SSH-2\.0-Mocana SSH\r\n
 SSH-2\.0-cA2G3\n
 SSH-2\.0-APSSH_([\w.]+)\r?\n
-SSH-2\.0-Twisted\r?\n
 \0\0\0\$\0\0\0\0\x01\0\0\0\x1bNo host key is configured!\n\r!\"v
 SSH-1\.5-FucKiT RootKit by Cyrax\r?\n
+SSH-2\.0-Tc6l51-sD1m-m_\n
 Could not load hosy key\. Closing connection\.\.\.
-SSH-2\.0-1\.0 Radware SSH \r?\n
+Access to service sshd from [-\w_.]+@[-\w_.]+ has been denied\.\r\n
 SSH-2\.0-FrSAR ([\d.]+) TRUEX COMPT 32/64\r?\n
 SSH-2\.0-Unknown\r?\n
 SSH-1\.5-By-ICE_4_All \( Hackers Not Allowed! \)\r?\n

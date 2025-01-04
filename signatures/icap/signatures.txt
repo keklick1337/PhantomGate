@@ -1,1 +1,2 @@
+ICAP/1\.0 501 Method not implemented.*\r\nService: ProxyAV AV scanner ([^\r\n]+)\r\n
 ICAP/1\.0 501 Method not implemented\r\nConnection: close\r\n\r\n

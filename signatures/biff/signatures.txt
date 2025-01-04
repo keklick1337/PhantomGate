@@ -1,2 +1,1 @@
 Use of uninitialized value in transliteration \(tr///\) at /var/jchkmail/user-filter
-Message received\n

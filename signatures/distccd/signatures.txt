@@ -1,2 +1,4 @@
+DONE00000001.*ccache: failed to create /usr/share/distcc/\.ccache \(Permission denied\)\n
+DONE00000001STAT00000000SERR00000000SOUT00000000DOTO.*?GCC: ([^\0]+)
 DONE00000001.*?DOTO00
 DONE00000001.*CRITICAL! distcc seems to have invoked itself recursively!\n

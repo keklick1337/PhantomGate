@@ -79,5 +79,5 @@ Feel free to submit pull requests or open issues if you have ideas for improveme
 Distributed under the **GNU License** (see [LICENSE](LICENSE) for details).
 
 ---
-
+- For the C99 version, see [this link](https://github.com/keklick1337/PhantomGateC99).  
 **Created by Vladislav Tislenko (aka [keklick1337](https://github.com/keklick1337))**.  

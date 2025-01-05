@@ -8862,3 +8862,4 @@ HTTP/1\.1 200 OK\r\nConnection: Close\r\nPragma: no-cache\r\nCache-Control: priv
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\nsh-3\.00# 
 \xff\xfd\x03\xff\xfb\x01\x1b\[2J\x1b\[1;1H\x1b\[0m\x1b\[\?3l\x1b\(0\x1b\[2;40H\x1b\(B\x1b\(0\x1b\[2;28H\x1b\(BCSX([-\w_.]+) Local Management\x1b\[0m\x1b\(0\x1b\[5;24H\x1b\(BCABLETRON Systems, Incorporated\x1b
 \xff\xfd\x01\xff\xfd\x1f\xff\xfd!\xff\xfb\x01\xff\xfb\x03\r\r\n\r\n\rwelcome on your dreambox! - Kernel (\d[\w.]+) \([\d:]+\)\.\r\n\r([-\w_.]+) login: 
+SSH-2\.0-OpenSSH_9\.2p1 Debian-2\+deb12u3\x0d\x0aInvalid SSH identification string\x2e\x0d\x0a

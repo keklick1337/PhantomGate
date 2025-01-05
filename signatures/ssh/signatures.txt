@@ -28,3 +28,4 @@ SSH-2\.0-FrSAR ([\d.]+) TRUEX COMPT 32/64\r?\n
 SSH-2\.0-Unknown\r?\n
 SSH-1\.5-By-ICE_4_All \( Hackers Not Allowed! \)\r?\n
 SSH-2\.0-mod_sftp/([\w._-]+)\r\n
+SSH-2\.0-OpenSSH_9\.2p1 Debian-2\+deb12u3\x0d\x0aInvalid SSH identification string\x2e\x0d\x0a

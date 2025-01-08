@@ -5,7 +5,7 @@
 220 ([-.\w]+) ESMTP Postfix \(([-.\w]+)\) \(([-.\w ]+)\)
 220 ([-\w_.]+) .*\r\n211 DATA HELO EHLO MAIL NOOP QUIT RCPT RSET SAML TURN VRFY\r\n\r\n
 220 ([-\w_.]+)\r\n214-Commands supported:\r\n214 AUTH STARTTLS HELO EHLO MAIL RCPT DATA NOOP QUIT RSET HELP\r\n
-220 ([\w_.-]+) ESMTP\r\n501 ehlo requires domain/address - see RFC-2821 4\.1\.1\.1\r\n
+220 ([\w_.-]+) ESMTP\r\n501 ehlo requires domain/address - see RFC-2821 \d\d\.\d\d\.\d\d\.\d\d\r\n
 220 (\S+) -- Server ESMTP \(SUN JES MTA 6\.x\)
 220 (\S+) ESMTP Service\r\n502 5\.3\.0 Sendmail Xserve -- HELP not implemented\r\n
 220 (\S+) ESMTP WEB.DE V([^\s\;]+)
@@ -19,8 +19,6 @@
 220 139-162-23-26\.ip\.linodeusercontent\.com ESMTP service ready\r\n
 220 139-162-23-27\.ip\.linodeusercontent\.com ESMTP service ready\r\n
 220 139-162-23-73\.ip\.linodeusercontent\.com ESMTP service ready\r\n
-220 178\.32\.107\.20 ESMTP service ready\r\n
-220 178\.32\.193\.60 ESMTP service ready\r\n
 220 1supply\.spb\.ru ESMTP CommuniGate Pro 6\.2\.6\r\n
 220 375150f0c80c ESMTP Postfix \(Debian/GNU\)\r\n
 220 6qV Winmail Mail Server ESMTP ready\r\n
@@ -86,6 +84,7 @@
 220 [-\w_.]+ Winmail Mail Server ESMTP ready\r\n
 220 \[[\d.]+\] FTGate Server Ready \(#3\.01\)\r\n
 220 \[[\w_.-]+\] ESMTP Ready\r\n501 HELO requires domain address\r\n
+220 \d\d\.\d\d\.\d\d\.\d\d ESMTP service ready\r\n
 220 \r\n501 \r\n
 220 a1dev\.apaone\.com ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
 220 aa1\.bid ESMTP service ready\r\n
@@ -505,7 +504,7 @@
 220 spiegel\.de ESMTP service ready\r\n
 220 srv183\.mysmtp\.fr ESMTP Postfix \(Debian/GNU\)\r\n
 220 srv\.adsxpedia\.com ESMTP service ready\r\n
-220 static\.102\.120\.243\.136\.clients\.your-server\.de ESMTP service ready\r\n
+220 static\.\d\d\.\d\d\.\d\d\.\d\d\.clients\.your-server\.de ESMTP service ready\r\n
 220 stewartkc\.com ESMTP service ready\r\n
 220 strhj\.ideaoffers\.online ESMTP service ready\r\n
 220 subsnataon\.lm\.fu ESMTP service ready\r\n
@@ -704,9 +703,8 @@
 501 Domain must resolve\r\n
 520 Connection not authorised from this address\.\r\n
 553 Requested action not taken; No permission\.\r\n
-554 5\.7\.1 <unknown\[192\.153\.57\.131\]>: Client host rejected: Access denied\r\n
-554 5\.7\.1 <unknown\[192\.153\.57\.193\]>: Client host rejected: Access denied\r\n
 554 5\.7\.1 <unknown\[[\w.]+\]>: Client host rejected: Access denied\r\n
+554 5\.7\.1 <unknown\[\d\d\.\d\d\.\d\d\.\d\d\]>: Client host rejected: Access denied\r\n
 554 Please check that your outgoing mail server settings are correct\. Contact your service provider's technical support for assistance\.\n
 554 SMTP service not available\r\n
 554 SMTP synchronization error\r\n

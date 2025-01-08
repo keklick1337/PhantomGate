@@ -1,1 +1,1 @@
-You are not welcome to use rshd from 192\.153\.57\.131\.\n
+You are not welcome to use rshd from \d\d\.\d\d\.\d\d\.\d\d\.\n

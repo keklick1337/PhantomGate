@@ -1,1 +1,1 @@
-\x13/multistream/1\.0\.0\n
+\x13/multistream/1\.[123456789]\.[123456789][abcdef]\n

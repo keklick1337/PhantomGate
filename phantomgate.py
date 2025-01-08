@@ -14,21 +14,32 @@ import threading
 import sys
 import os
 import logging
+import shutil
+from typing import Optional
 
-VERSION = "0.1.2"
+VERSION = "0.1.3a"
 logger = logging.getLogger("phantomgate")
 
 ###############################################################################
 # 1) LOG CONFIGURATION
 ###############################################################################
-def configure_logging(debug: bool, verbose: bool, quiet: bool) -> None:
+def configure_logging(debug: bool, verbose: bool, quiet: bool, logfile: Optional[str] = None) -> None:
     """
     Configures the logging level and format based on user arguments.
+    If logfile is provided, logs are also written there with timestamps.
     """
     handler = logging.StreamHandler(sys.stdout)
     formatter = logging.Formatter("[%(levelname)s] %(message)s")
     handler.setFormatter(formatter)
     logger.addHandler(handler)
+
+    if logfile:
+        file_handler = logging.FileHandler(logfile, mode="a", encoding="utf-8")
+        file_formatter = logging.Formatter(
+            "%(asctime)s [%(levelname)s] %(message)s", datefmt="%Y-%m-%d %H:%M:%S"
+        )
+        file_handler.setFormatter(file_formatter)
+        logger.addHandler(file_handler)
 
     if debug:
         logger.setLevel(logging.DEBUG)
@@ -102,7 +113,7 @@ def parse_signatures(file_path: str):
     """
     Reads the signature file in binary mode, then decodes each line as Latin-1
     to preserve every possible 8-bit character. Returns a list of tuples:
-      [("raw", b"..."), ("regex", "..."), ...]
+      [("raw", b"...", b"original_line"), ("regex", "...", b"original_line"), ...]
     If a line looks like a regex, store ("regex", auto_fixed_string).
     Otherwise, treat it as raw, unescaping \\r, \\n, \\xNN, etc.
     """
@@ -117,28 +128,30 @@ def parse_signatures(file_path: str):
     for idx, raw_line in enumerate(lines, start=1):
         # Remove trailing newlines: handle b'\r' and/or b'\n'
         raw_line = raw_line.rstrip(b"\r\n")
+        if not raw_line.strip():
+            continue
 
         # Decode as Latin-1 to preserve all 0-255 bytes
         try:
-            line = raw_line.decode("latin-1")
+            line_decoded = raw_line.decode("latin-1")
         except UnicodeDecodeError:
-            line = raw_line.decode("latin-1", errors="replace")
+            line_decoded = raw_line.decode("latin-1", errors="replace")
 
-        line_stripped = line.strip()
+        line_stripped = line_decoded.strip()
         if not line_stripped:
             continue
 
         if looks_like_regex(line_stripped):
             # Regex type
             fixed_line = auto_fix_regex(line_stripped)
-            signatures.append(("regex", fixed_line))
+            signatures.append(("regex", fixed_line, raw_line))
         else:
             # Raw type
             unescaped = unescape_string(line_stripped)
             if unescaped is None:
                 logger.warning("Line %d: unescape_string() failed, skipping...", idx)
                 continue
-            signatures.append(("raw", unescaped))
+            signatures.append(("raw", unescaped, raw_line))
 
     if not signatures:
         raise ValueError(f"Signature file is empty or invalid: {file_path}")
@@ -490,10 +503,10 @@ def generate_regex_match(regex_str: str) -> bytes:
 ###############################################################################
 def generate_payload(signature):
     """
-    If signature is ('raw', b'some_bytes'), return as-is.
-    If signature is ('regex', 'some_pattern'), expand it with generate_regex_match().
+    If signature is ('raw', b'some_bytes', ...), return it as-is.
+    If signature is ('regex', 'some_pattern', ...), expand it with generate_regex_match().
     """
-    sig_type, data = signature
+    sig_type, data, _original_line = signature
     if sig_type == "raw":
         return data
     elif sig_type == "regex":
@@ -501,10 +514,39 @@ def generate_payload(signature):
     return b""
 
 
-def handle_client(conn: socket.socket, addr, signatures, debug, verbose):
+def is_printable_byte(byte: int) -> bool:
+    """
+    Checks if a single byte is printable (ASCII range 32-126 or tab/newline).
+    """
+    return 32 <= byte <= 126 or byte in (9, 10, 13)  # printable ASCII + \t, \n, \r
+
+
+def byte_to_readable(byte: int) -> str:
+    """
+    Converts a single byte to a readable format.
+    If the byte is printable, return the character.
+    If not printable, return the byte as a HEX string (e.g., '\\xAA').
+    """
+    if is_printable_byte(byte):
+        return chr(byte)
+    else:
+        return f"\\x{byte:02X}"
+
+
+def format_signature_line(orig_line: bytes) -> str:
+    """
+    Formats a binary signature line into a readable format:
+    - Printable bytes are displayed as characters.
+    - Non-printable bytes are displayed as HEX strings.
+    """
+    return "".join(byte_to_readable(byte) for byte in orig_line)
+
+
+def handle_client(conn: socket.socket, addr, signatures, debug, verbose, report_clients):
     """
     Handles a single connection in a separate thread.
-    Chooses a random signature, generates a payload, and sends it to the client.
+    Randomly selects a signature, generates a payload, and sends it to the client.
+    If report_clients is on, logs which signature was sent (truncated to terminal width).
     """
     try:
         max_attempts = 5
@@ -527,9 +569,26 @@ def handle_client(conn: socket.socket, addr, signatures, debug, verbose):
 
         # Send all bytes (including any \0)
         conn.sendall(payload)
-        if debug:
+
+        # Standard debug message (if debug, but not forced to show signature)
+        if debug and not report_clients:
             logger.debug("Sent payload (%d bytes) to %s [sig:%d]",
                          len(payload), addr, chosen_index)
+
+        # If report_clients is enabled, show the original signature truncated
+        if report_clients and chosen_index != -1:
+            sig_type, _data, orig_line = signatures[chosen_index]
+            sig_str = format_signature_line(orig_line)
+
+            term_width = shutil.get_terminal_size().columns
+            if term_width < 10:
+                term_width = 80
+
+            if len(sig_str) > term_width:
+                sig_str = sig_str[:term_width]
+
+            logger.debug("Client %s got signature index %d: %s", str(addr), chosen_index, sig_str)
+
         elif verbose:
             logger.info("Sent payload to %s", str(addr))
 
@@ -542,7 +601,8 @@ def handle_client(conn: socket.socket, addr, signatures, debug, verbose):
         conn.close()
 
 
-def start_server(host: str, port: int, signatures, debug: bool, verbose: bool, quiet: bool):
+def start_server(host: str, port: int, signatures, debug: bool, verbose: bool,
+                 quiet: bool, report_clients: bool):
     """
     Creates a socket, binds, listens, and spawns a thread for each client.
     """
@@ -573,7 +633,7 @@ def start_server(host: str, port: int, signatures, debug: bool, verbose: bool, q
 
         client_thread = threading.Thread(
             target=handle_client,
-            args=(conn, addr, signatures, debug, verbose),
+            args=(conn, addr, signatures, debug, verbose, report_clients),
             daemon=True
         )
         client_thread.start()
@@ -593,10 +653,10 @@ def main():
                         help="Path to the signature file (default: 'signatures.txt').")
     parser.add_argument("-l", "--listen",
                         default="127.0.0.1:8888",
-                        help="Host:port to listen on, for example '127.0.0.1:8888'.")
+                        help="Host:port to listen on, e.g. '127.0.0.1:8888'.")
     parser.add_argument("-d", "--debug",
                         action="store_true",
-                        help="Enable debug output.")
+                        help="Enable debug output (do not show signature banners).")
     parser.add_argument("-v", "--verbose",
                         action="store_true",
                         help="Enable verbose output.")
@@ -606,6 +666,11 @@ def main():
     parser.add_argument("-V", "--version",
                         action="store_true",
                         help="Show version and exit.")
+    parser.add_argument("-r", "--report-clients",
+                        action="store_true",
+                        help="Show which signature was sent to which client (single line, truncated). Automatically sets debug on.")
+    parser.add_argument("-f", "--logfile",
+                        help="Path to a logfile where output will also be saved with timestamps.")
 
     args = parser.parse_args()
 
@@ -613,7 +678,11 @@ def main():
         print(f"PhantomGate version {VERSION}")
         sys.exit(0)
 
-    configure_logging(args.debug, args.verbose, args.quiet)
+    # If report-clients is on, force debug to True
+    if args.report_clients:
+        args.debug = True
+
+    configure_logging(args.debug, args.verbose, args.quiet, args.logfile)
 
     # Load signatures from file
     try:
@@ -636,8 +705,15 @@ def main():
         logger.error("Invalid port number: %s", port_str)
         sys.exit(1)
 
-    # Start the server
-    start_server(host, port, signatures, args.debug, args.verbose, args.quiet)
+    start_server(
+        host,
+        port,
+        signatures,
+        args.debug,
+        args.verbose,
+        args.quiet,
+        args.report_clients
+    )
 
 
 if __name__ == "__main__":

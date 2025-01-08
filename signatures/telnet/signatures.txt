@@ -31,13 +31,12 @@ Welcome to Tenor Multipath Switch Telnet Server.*Type: (\S+)
 \r\nSorry, Access to Telnet is Denied\.\r\n
 \r\nSorry, this system is engaged\.\r\n
 \r\nSorry, unable to access input device\.\r\n
-\r\nSynchronet BBS for FreeBSD  Version 3\.20\r\nTelnet connection from: 193\.149\.190\.79\r\nResolving hostname\.\.\.\r\n
-\r\nSynchronet BBS for FreeBSD  Version 3\.20\r\nTelnet connection from: 193\.149\.190\.79\r\nResolving hostname\.\.\.\r\nÿû\x01
-\r\nSynchronet BBS for FreeBSD  Version 3\.20\r\nTelnet connection from: 193\.149\.190\.79\r\nResolving hostname\.\.\.\r\nÿû\x01ÿû\x03ÿý\x18ÿý ÿý\x17ÿý\x1fÿý'
-\r\nSynchronet BBS for Linux  Version 3\.19\r\nTelnet connection from: 64\.7\.199\.36\r\nResolving hostname\.\.\.\r\n
-\r\nSynchronet BBS for Linux  Version 3\.19\r\nTelnet connection from: 64\.7\.199\.36\r\nResolving hostname\.\.\.\r\nÿû\x01ÿû\x03ÿý\x18ÿý ÿý\x17ÿý\x1fÿý'
-\r\nSystem administrator is connecting from 101\.126\.23\.236, \r\nReject the connection request !!!\r\n
-\r\nSystem administrator is connecting from 220\.134\.244\.38, \r\nReject the connection request !!!\r\n
+\r\nSynchronet BBS for FreeBSD  Version 3\.20\r\nTelnet connection from: \d\d\.\d\d\.\d\d\.\d\d\r\nResolving hostname\.\.\.\r\n
+\r\nSynchronet BBS for FreeBSD  Version 3\.20\r\nTelnet connection from: \d\d\.\d\d\.\d\d\.\d\d\r\nResolving hostname\.\.\.\r\nÿû\x01
+\r\nSynchronet BBS for FreeBSD  Version 3\.20\r\nTelnet connection from: \d\d\.\d\d\.\d\d\.\d\d\r\nResolving hostname\.\.\.\r\nÿû\x01ÿû\x03ÿý\x18ÿý ÿý\x17ÿý\x1fÿý'
+\r\nSynchronet BBS for Linux  Version 3\.19\r\nTelnet connection from: \d\d\.\d\d\.\d\d\.\d\d\r\nResolving hostname\.\.\.\r\n
+\r\nSynchronet BBS for Linux  Version 3\.19\r\nTelnet connection from: \d\d\.\d\d\.\d\d\.\d\d\r\nResolving hostname\.\.\.\r\nÿû\x01ÿû\x03ÿý\x18ÿý ÿý\x17ÿý\x1fÿý'
+\r\nSystem administrator is connecting from \d\d\.\d\d\.\d\d\.\d\d, \r\nReject the connection request !!!\r\n
 \r\nSystem unavailable\.  Please try later\.\r\n
 \r\n\0Videolan Server Administration System\0\r\n\r\n\0\xff\xfb\x01\xff\xfb\x03\xff\xfe\"Login: \0
 \r\n\r\nBackup Server Telnet Session\r\n\r\nUser:

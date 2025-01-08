@@ -13,7 +13,7 @@ GET NO Error in IMAP command received by server\.\r\n
 \* OK 7red\.com CommuniGate Pro IMAP Server 6\.1\.11 ready\r\n BAD bad command tag\r\n
 \* OK AVM KEN!4 IMAP Server ready\r\n
 \* OK AXIGEN IMAP4rev1 service is ready\r\n
-\* OK Axigen-8\.1\.2\.9 \(Linux/x64\) IMAP4rev1 service is ready\r\n
+\* OK Axigen-\d\d\.\d\d\.\d\d\.\d\d \(Linux/x64\) IMAP4rev1 service is ready\r\n
 \* OK CommuniGate Pro IMAP Server 5\.1\.13 at isgrp\.net ready\r\n
 \* OK CommuniGate Pro IMAP Server ready\r\n
 \* OK Domino IMAP4 Server Release 12\.0\.2FP2 ready Sun, d Jan 202d 0d:0d:0d \+0000\r\n
@@ -251,8 +251,8 @@ GET NO Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XLIST LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SORT THREAD=REFERENCES MULTIAPPEND UNSELECT LITERAL\+ IDLE CHILDREN NAMESPACE LOGIN-REFERRALS [^\]]+\]
 \* OK \[CAPABILITY IMAP4rev1 STARTTLS LITERAL\+ ID ENABLE SASL-IR LOGINDISABLED\] kolab-linode\.kratern\.se Cyrus IMAP 3\.2\.6-Debian-3\.2\.6-2\+deb11u4 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 STARTTLS LITERAL\+ ID ENABLE SASL-IR LOGINDISABLED\] mail\.fps-work\.pl Cyrus IMAP 2\.5\.13-37-ga30c191aa-Kolab-2\.5\.17\.34-2\.29\.el7\.kolab_16 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 STARTTLS LITERAL\+ ID ENABLE SASL-IR LOGINDISABLED\] mail\.ggo\.com\.pl Cyrus IMAP 2\.5\.13-37-ga30c191aa-Kolab-2\.5\.17\.34-2\.23\.el7\.kolab_16 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 STARTTLS LITERAL\+ ID ENABLE SASL-IR LOGINDISABLED\] mail\.fps-work\.pl Cyrus IMAP 2\.5\.13-37-ga30c191aa-Kolab-\d\d\.\d\d\.\d\d\.\d\d-2\.29\.el7\.kolab_16 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 STARTTLS LITERAL\+ ID ENABLE SASL-IR LOGINDISABLED\] mail\.ggo\.com\.pl Cyrus IMAP 2\.5\.13-37-ga30c191aa-Kolab-\d\d\.\d\d\.\d\d\.\d\d-2\.23\.el7\.kolab_16 server ready\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT IDLE AUTH=PLAIN ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2019 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2017 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 AUTH=PLAIN IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2018 Double Precision, Inc\.  See COPYING for distribution information\.\r\n

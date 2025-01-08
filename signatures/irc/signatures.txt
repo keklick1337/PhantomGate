@@ -1,10 +1,10 @@
 :194e4f7ed840 NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
-:95\.216\.149\.196 NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
 :Default-Chat-Community 421 \* GET :Unknown command\r\n
 :Defiant\.GeekShed\.net NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:Defiant\.GeekShed\.net NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n:Defiant\.GeekShed\.net NOTICE AUTH :\*\*\* No ident response; username prefixed with ~\r\n
 :TwinShadow\.eu NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:TwinShadow\.eu NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n
+:\d\d\.\d\d\.\d\d\.\d\d NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
 :alpha\.lkteam\.net NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
-:alpha\.lkteam\.net NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:alpha\.lkteam\.net NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(172\.86\.75\.47\) instead\.\r\n
+:alpha\.lkteam\.net NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:alpha\.lkteam\.net NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(\d\d\.\d\d\.\d\d\.\d\d\) instead\.\r\n
 :biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n:biggusdickus\.whing\.org NOTICE 937AACBFF :\*\*\* Skipping host resolution \(disabled by server administrator\)\r\n
 :biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n:biggusdickus\.whing\.org NOTICE 937AACBFG :\*\*\* Skipping host resolution \(disabled by server administrator\)\r\n
 :biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n:biggusdickus\.whing\.org NOTICE 937AACBFH :\*\*\* Skipping host resolution \(disabled by server administrator\)\r\n
@@ -22,44 +22,38 @@
 :irc\.disabilities-r-us\.com NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n
 :irc\.disabilities-r-us\.com NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.disabilities-r-us\.com NOTICE AUTH :\*\*\* Couldn't resolve your hostname; using your IP address instead\r\n
 :irc\.doujin\.cafe NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
-:irc\.doujin\.cafe NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.doujin\.cafe NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(162\.33\.177\.19\) instead\.\r\n
+:irc\.doujin\.cafe NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.doujin\.cafe NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(\d\d\.\d\d\.\d\d\.\d\d\) instead\.\r\n
 :irc\.internetplays\.com NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n
 :irc\.internetplays\.com NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.internetplays\.com NOTICE AUTH :\*\*\* Couldn't resolve your hostname; using your IP address instead\r\n
 :irc\.local NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
-:irc\.local NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.local NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(64\.7\.199\.36\) instead\.\r\n
+:irc\.local NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.local NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(\d\d\.\d\d\.\d\d\.\d\d\) instead\.\r\n
 :irc\.planbserver\.com NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
-:irc\.planbserver\.com NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.planbserver\.com NOTICE Auth :\*\*\* Could not resolve your hostname: Request timed out; using your IP address \(149\.248\.78\.29\) instead\.\r\n
+:irc\.planbserver\.com NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.planbserver\.com NOTICE Auth :\*\*\* Could not resolve your hostname: Request timed out; using your IP address \(\d\d\.\d\d\.\d\d\.\d\d\) instead\.\r\n
 :irc\.xyxyx\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
-:irc\.xyxyx\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.xyxyx\.org NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(64\.95\.12\.82\) instead\.\r\n
+:irc\.xyxyx\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.xyxyx\.org NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(\d\d\.\d\d\.\d\d\.\d\d\) instead\.\r\n
 :kad NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
 :lion\.sg\.p2p-network\.net NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:lion\.sg\.p2p-network\.net NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n
 :lion\.sg\.p2p-network\.net NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:lion\.sg\.p2p-network\.net NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n:lion\.sg\.p2p-network\.net NOTICE AUTH :\*\*\* Couldn't resolve your hostname; using your IP address instead\r\n
 :mars\.inframonde\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
-:mars\.inframonde\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:mars\.inframonde\.org NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(72\.5\.42\.227\) instead\.\r\n
+:mars\.inframonde\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:mars\.inframonde\.org NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(\d\d\.\d\d\.\d\d\.\d\d\) instead\.\r\n
 :navi\.fi\.h4ck\.io NOTICE \* :\*\*\* Looking up your hostname\r\n:navi\.fi\.h4ck\.io NOTICE \* :\*\*\* Checking Ident\r\n
 :navi\.fi\.h4ck\.io NOTICE \* :\*\*\* Looking up your hostname\r\n:navi\.fi\.h4ck\.io NOTICE \* :\*\*\* Checking Ident\r\n:navi\.fi\.h4ck\.io NOTICE \* :\*\*\* Couldn't look up your hostname\r\n
 :opal\.lizardirc\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:opal\.lizardirc\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n
-:opal\.lizardirc\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:opal\.lizardirc\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n:opal\.lizardirc\.org NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(162\.33\.177\.19\) instead\.\r\n
+:opal\.lizardirc\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:opal\.lizardirc\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n:opal\.lizardirc\.org NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(\d\d\.\d\d\.\d\d\.\d\d\) instead\.\r\n
 :puck NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
 :shelter\.bunker\.org\.ua NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
 :skylab\.darenet\.org 451 \*  :Register first\.\r\n
 :www\.gaypax\.com NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
-:www\.gaypax\.com NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:www\.gaypax\.com NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(172\.86\.75\.47\) instead\.\r\n
-ERROR :Closing Link: \[149\.248\.78\.29\] \(Too many unknown connections from your IP\)\r\n
-ERROR :Closing Link: \[162\.33\.177\.19\] \(Throttled: Reconnecting too fast\) -Email kline\+static@p2p-network\.net for more information\.\r\n
-ERROR :Closing Link: \[162\.33\.177\.19\] \(Too many unknown connections from your IP\)\r\n
-ERROR :Closing Link: \[172\.86\.75\.47\] \(Too many unknown connections from your IP\)\r\n
-ERROR :Closing Link: \[192\.153\.57\.193\] \(Too many unknown connections from your IP\)\r\n
-ERROR :Closing Link: \[193\.149\.190\.79\] \(Throttled: Reconnecting too fast\) -Email daniel@genericinbox\.com for more information\.\r\n
-ERROR :Closing Link: \[45\.61\.137\.238\] \(Throttled: Reconnecting too fast\) -Email info@torrentseeds\.org for more information\.\r\n
-ERROR :Closing Link: \[64\.190\.113\.170\] \(Throttled: Reconnecting too fast\) -Email http://support\.chat4all\.net for more information\.\r\n
-ERROR :Closing Link: \[64\.190\.113\.170\] \(Too many unknown connections from your IP\)\r\n
-ERROR :Closing Link: \[64\.95\.12\.82\] \(Too many unknown connections from your IP\)\r\n
-ERROR :Closing Link: \[67\.217\.228\.78\] \(Too many unknown connections from your IP\)\r\n
-ERROR :Closing Link: \[72\.5\.42\.227\] \(Throttled: Reconnecting too fast\) -Email admin@recycled-irc\.net for more information\.\r\n
+:www\.gaypax\.com NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:www\.gaypax\.com NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(\d\d\.\d\d\.\d\d\.\d\d\) instead\.\r\n
 ERROR :Closing Link: \[[\d.]+\] \(Throttled: Reconnecting too fast\) -Email (.*) for more information\.
 ERROR :Closing Link: \[[\d.]+\] \(Throttled: Reconnecting too fast\) -Email ([-\w_.]+@[-\w_.]+) for more information\.
 ERROR :Closing Link: \[[\d.]+\] \(Too many unknown connections from your IP\)\r\n
+ERROR :Closing Link: \[\d\d\.\d\d\.\d\d\.\d\d\] \(Throttled: Reconnecting too fast\) -Email admin@recycled-irc\.net for more information\.\r\n
+ERROR :Closing Link: \[\d\d\.\d\d\.\d\d\.\d\d\] \(Throttled: Reconnecting too fast\) -Email daniel@genericinbox\.com for more information\.\r\n
+ERROR :Closing Link: \[\d\d\.\d\d\.\d\d\.\d\d\] \(Throttled: Reconnecting too fast\) -Email http://support\.chat4all\.net for more information\.\r\n
+ERROR :Closing Link: \[\d\d\.\d\d\.\d\d\.\d\d\] \(Throttled: Reconnecting too fast\) -Email info@torrentseeds\.org for more information\.\r\n
+ERROR :Closing Link: \[\d\d\.\d\d\.\d\d\.\d\d\] \(Throttled: Reconnecting too fast\) -Email kline\+static@p2p-network\.net for more information\.\r\n
+ERROR :Closing Link: \[\d\d\.\d\d\.\d\d\.\d\d\] \(Too many unknown connections from your IP\)\r\n
 ERROR :Reconnecting too fast, throttled\.\r\n
 ERROR :Trying to reconnect too fast\.\r\n
 ERROR :Your host is trying to \(re\)connect too fast -- throttled\.\r\n

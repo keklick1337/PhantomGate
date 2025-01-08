@@ -1,1 +1,1 @@
-VOTIFIER 1\.4\.0\n
+VOTIFIER 1\.[123456789]\.[123456789][abcdef]\n

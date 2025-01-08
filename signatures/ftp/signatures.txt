@@ -18,339 +18,13 @@
 220 .*\r\n500 Only one command at a time\.\r\n
 220 .*\r\n530 Please login with USER and PASS first\.\r\n
 220 .*\r\n530 Please login with USER and PASS\.\r\n530 Please login with USER and PASS\.\r\n
-220 10\.0\.5\.2 FTP server \(tnftpd 20100324\+GSSAPI\) ready\.\r\n
-220 120AC FTP server \(GNU inetutils 1\.4\.1\) ready\.\r\n
-220 134\.122\.91\.62 FTP server ready\r\n
-220 139\.162\.159\.54 FTP server ready\r\n
-220 141\.94\.96\.157 FTP server ready\r\n
-220 141\.94\.96\.159 FTP server ready\r\n
-220 141\.94\.96\.161 FTP server ready\r\n
-220 141\.94\.96\.167 FTP server ready\r\n
-220 141\.94\.96\.168 FTP server ready\r\n
-220 141\.94\.99\.208 FTP server ready\r\n
-220 141\.94\.99\.210 FTP server ready\r\n
-220 162\.19\.94\.12 FTP server ready\r\n
-220 162\.19\.94\.13 FTP server ready\r\n
-220 162\.19\.94\.14 FTP server ready\r\n
-220 162\.19\.94\.15 FTP server ready\r\n
-220 162\.19\.94\.17 FTP server ready\r\n
-220 162\.19\.94\.8 FTP server ready\r\n
-220 162\.19\.94\.84 FTP server ready\r\n
-220 162\.19\.94\.86 FTP server ready\r\n
-220 162\.19\.94\.87 FTP server ready\r\n
-220 162\.19\.94\.90 FTP server ready\r\n
-220 178\.32\.100\.30 FTP server ready\r\n
-220 178\.32\.105\.91 FTP server ready\r\n
-220 178\.32\.108\.100 FTP server ready\r\n
-220 178\.32\.108\.18 FTP server ready\r\n
-220 178\.32\.112\.147 FTP server ready\r\n
-220 178\.32\.112\.21 FTP server ready\r\n
-220 178\.32\.112\.229 FTP server ready\r\n
-220 178\.32\.112\.243 FTP server ready\r\n
-220 178\.32\.114\.39 FTP server ready\r\n
-220 178\.32\.116\.149 FTP server ready\r\n
-220 178\.32\.116\.232 FTP server ready\r\n
-220 178\.32\.116\.7 FTP server ready\r\n
-220 178\.32\.122\.42 FTP server ready\r\n
-220 178\.32\.122\.5 FTP server ready\r\n
-220 178\.32\.126\.150 FTP server ready\r\n
-220 178\.32\.129\.77 FTP server ready\r\n
-220 178\.32\.43\.107 FTP server ready\r\n
-220 178\.32\.43\.193 FTP server ready\r\n
-220 178\.32\.43\.5 FTP server ready\r\n
-220 178\.32\.49\.142 FTP server ready\r\n
-220 178\.32\.49\.53 FTP server ready\r\n
-220 178\.32\.54\.208 FTP server ready\r\n
-220 178\.32\.54\.234 FTP server ready\r\n
-220 178\.32\.55\.106 FTP server ready\r\n
-220 178\.32\.56\.197 FTP server ready\r\n
-220 178\.32\.56\.199 FTP server ready\r\n
-220 178\.32\.58\.225 FTP server ready\r\n
-220 178\.32\.59\.70 FTP server ready\r\n
-220 178\.32\.62\.106 FTP server ready\r\n
-220 178\.32\.67\.0 FTP server ready\r\n
-220 178\.32\.67\.1 FTP server ready\r\n
-220 178\.32\.67\.2 FTP server ready\r\n
-220 178\.32\.67\.3 FTP server ready\r\n
-220 178\.32\.67\.4 FTP server ready\r\n
-220 178\.32\.67\.6 FTP server ready\r\n
-220 178\.32\.67\.7 FTP server ready\r\n
-220 178\.32\.84\.32 FTP server ready\r\n
-220 178\.32\.84\.33 FTP server ready\r\n
-220 178\.32\.84\.35 FTP server ready\r\n
-220 178\.32\.84\.37 FTP server ready\r\n
-220 178\.32\.84\.38 FTP server ready\r\n
-220 178\.32\.84\.39 FTP server ready\r\n
-220 178\.32\.88\.53 FTP server ready\r\n
-220 178\.32\.88\.89 FTP server ready\r\n
-220 178\.32\.8\.143 FTP server ready\r\n
-220 178\.32\.8\.180 FTP server ready\r\n
-220 178\.32\.8\.181 FTP server ready\r\n
-220 178\.32\.95\.240 FTP server ready\r\n
-220 178\.32\.95\.241 FTP server ready\r\n
-220 178\.32\.95\.242 FTP server ready\r\n
-220 178\.32\.95\.243 FTP server ready\r\n
-220 178\.32\.95\.244 FTP server ready\r\n
-220 178\.32\.95\.245 FTP server ready\r\n
-220 178\.32\.95\.246 FTP server ready\r\n
-220 178\.32\.95\.247 FTP server ready\r\n
-220 178\.32\.95\.248 FTP server ready\r\n
-220 178\.32\.95\.249 FTP server ready\r\n
-220 178\.32\.95\.250 FTP server ready\r\n
-220 178\.32\.97\.7 FTP server ready\r\n
-220 192\.168\.178\.85 FTP server ready\r\n
+220 120AC FTP server \(GNU inetutils 1\.[123456789]\.[123456789][abcdef]\) ready\.\r\n
 220 237  DoBrasil  237 FTP server \(MikroTik 7\.1\.5\) ready\r\n
 220 45CafeKPC FTP server \(MikroTik 6\.49\.13\) ready\r\n
-220 45\.188\.77\.209 FTP server ready\r\n
-220 4\.16\.77\.188 FTP server ready\r\n
 220 4dftp .* FTP Service \(Version ([^)]+)\)
 220 5-196-58-167\.onlineformapro\.com NcFTPd Server \(licensed copy\) ready\.\r\n
-220 51\.254\.101\.64 FTP server ready\r\n
-220 51\.254\.105\.144 FTP server ready\r\n
-220 51\.254\.108\.110 FTP server ready\r\n
-220 51\.254\.109\.167 FTP server ready\r\n
-220 51\.254\.111\.176 FTP server ready\r\n
-220 51\.254\.112\.232 FTP server ready\r\n
-220 51\.254\.116\.89 FTP server ready\r\n
-220 51\.254\.117\.39 FTP server ready\r\n
-220 51\.254\.121\.207 FTP server ready\r\n
-220 51\.254\.127\.140 FTP server ready\r\n
-220 51\.254\.127\.4 FTP server ready\r\n
-220 51\.254\.128\.126 FTP server ready\r\n
-220 51\.254\.129\.48 FTP server ready\r\n
-220 51\.254\.131\.114 FTP server ready\r\n
-220 51\.254\.131\.152 FTP server ready\r\n
-220 51\.254\.131\.246 FTP server ready\r\n
-220 51\.254\.131\.247 FTP server ready\r\n
-220 51\.254\.132\.184 FTP server ready\r\n
-220 51\.254\.133\.137 FTP server ready\r\n
-220 51\.254\.134\.54 FTP server ready\r\n
-220 51\.254\.136\.111 FTP server ready\r\n
-220 51\.254\.138\.36 FTP server ready\r\n
-220 51\.254\.138\.83 FTP server ready\r\n
-220 51\.254\.140\.64 FTP server ready\r\n
-220 51\.254\.143\.23 FTP server ready\r\n
-220 51\.254\.143\.88 FTP server ready\r\n
-220 51\.254\.152\.107 FTP server ready\r\n
-220 51\.254\.161\.184 FTP server ready\r\n
-220 51\.254\.161\.185 FTP server ready\r\n
-220 51\.254\.161\.186 FTP server ready\r\n
-220 51\.254\.16\.227 FTP server ready\r\n
-220 51\.254\.181\.24 FTP server ready\r\n
-220 51\.254\.181\.25 FTP server ready\r\n
-220 51\.254\.181\.26 FTP server ready\r\n
-220 51\.254\.198\.158 FTP server ready\r\n
-220 51\.254\.198\.92 FTP server ready\r\n
-220 51\.254\.199\.2 FTP server ready\r\n
-220 51\.254\.21\.102 FTP server ready\r\n
-220 51\.254\.30\.57 FTP server ready\r\n
-220 51\.254\.34\.247 FTP server ready\r\n
-220 51\.254\.36\.106 FTP server ready\r\n
-220 51\.254\.39\.141 FTP server ready\r\n
-220 51\.254\.44\.94 FTP server ready\r\n
-220 51\.254\.45\.183 FTP server ready\r\n
-220 51\.254\.45\.79 FTP server ready\r\n
-220 51\.254\.46\.14 FTP server ready\r\n
-220 51\.254\.46\.47 FTP server ready\r\n
-220 51\.254\.46\.57 FTP server ready\r\n
-220 51\.254\.47\.108 FTP server ready\r\n
-220 51\.254\.47\.166 FTP server ready\r\n
-220 51\.254\.47\.7 FTP server ready\r\n
-220 51\.254\.49\.139 FTP server ready\r\n
-220 51\.254\.61\.77 FTP server ready\r\n
-220 51\.254\.61\.83 FTP server ready\r\n
-220 51\.254\.67\.251 FTP server ready\r\n
-220 51\.254\.76\.165 FTP server ready\r\n
-220 51\.254\.76\.171 FTP server ready\r\n
-220 51\.254\.76\.174 FTP server ready\r\n
-220 51\.254\.79\.81 FTP server ready\r\n
-220 51\.254\.85\.198 FTP server ready\r\n
-220 51\.254\.86\.128 FTP server ready\r\n
-220 51\.254\.86\.129 FTP server ready\r\n
-220 51\.254\.86\.130 FTP server ready\r\n
-220 51\.254\.86\.131 FTP server ready\r\n
-220 51\.254\.86\.132 FTP server ready\r\n
-220 51\.254\.86\.133 FTP server ready\r\n
-220 51\.254\.86\.136 FTP server ready\r\n
-220 51\.254\.86\.137 FTP server ready\r\n
-220 51\.254\.86\.138 FTP server ready\r\n
-220 51\.254\.86\.139 FTP server ready\r\n
-220 51\.254\.86\.140 FTP server ready\r\n
-220 51\.254\.86\.141 FTP server ready\r\n
-220 51\.254\.86\.142 FTP server ready\r\n
-220 51\.254\.86\.143 FTP server ready\r\n
-220 51\.254\.86\.145 FTP server ready\r\n
-220 51\.254\.86\.146 FTP server ready\r\n
-220 51\.254\.86\.149 FTP server ready\r\n
-220 51\.254\.86\.151 FTP server ready\r\n
-220 51\.254\.86\.152 FTP server ready\r\n
-220 51\.254\.86\.153 FTP server ready\r\n
-220 51\.254\.86\.154 FTP server ready\r\n
-220 51\.254\.86\.155 FTP server ready\r\n
-220 51\.254\.86\.156 FTP server ready\r\n
-220 51\.254\.86\.157 FTP server ready\r\n
-220 51\.254\.86\.158 FTP server ready\r\n
-220 51\.254\.86\.160 FTP server ready\r\n
-220 51\.254\.86\.161 FTP server ready\r\n
-220 51\.254\.86\.162 FTP server ready\r\n
-220 51\.254\.86\.163 FTP server ready\r\n
-220 51\.254\.86\.164 FTP server ready\r\n
-220 51\.254\.86\.165 FTP server ready\r\n
-220 51\.254\.86\.166 FTP server ready\r\n
-220 51\.254\.86\.167 FTP server ready\r\n
-220 51\.254\.86\.168 FTP server ready\r\n
-220 51\.254\.86\.169 FTP server ready\r\n
-220 51\.254\.86\.170 FTP server ready\r\n
-220 51\.254\.86\.171 FTP server ready\r\n
-220 51\.254\.86\.172 FTP server ready\r\n
-220 51\.254\.86\.173 FTP server ready\r\n
-220 51\.254\.86\.174 FTP server ready\r\n
-220 51\.254\.86\.175 FTP server ready\r\n
-220 51\.254\.86\.176 FTP server ready\r\n
-220 51\.254\.94\.188 FTP server ready\r\n
-220 51\.254\.99\.236 FTP server ready\r\n
-220 54\.36\.106\.174 FTP server ready\r\n
-220 54\.36\.109\.112 FTP server ready\r\n
-220 54\.36\.109\.113 FTP server ready\r\n
-220 54\.36\.111\.121 FTP server ready\r\n
-220 54\.36\.120\.161 FTP server ready\r\n
-220 54\.36\.121\.63 FTP server ready\r\n
-220 54\.36\.123\.2 FTP server ready\r\n
-220 54\.36\.123\.91 FTP server ready\r\n
-220 54\.36\.127\.182 FTP server ready\r\n
-220 54\.36\.135\.172 FTP server ready\r\n
-220 54\.36\.146\.88 FTP server ready\r\n
-220 54\.36\.164\.39 FTP server ready\r\n
-220 54\.36\.165\.144 FTP server ready\r\n
-220 54\.36\.165\.3 FTP server ready\r\n
-220 54\.36\.165\.31 FTP server ready\r\n
-220 54\.36\.166\.58 FTP server ready\r\n
-220 54\.36\.172\.174 FTP server ready\r\n
-220 54\.36\.172\.19 FTP server ready\r\n
-220 54\.36\.172\.20 FTP server ready\r\n
-220 54\.36\.173\.154 FTP server ready\r\n
-220 54\.36\.173\.196 FTP server ready\r\n
-220 54\.36\.173\.211 FTP server ready\r\n
-220 54\.36\.175\.101 FTP server ready\r\n
-220 54\.36\.175\.118 FTP server ready\r\n
-220 54\.36\.175\.131 FTP server ready\r\n
-220 54\.36\.175\.157 FTP server ready\r\n
-220 54\.36\.175\.42 FTP server ready\r\n
-220 54\.36\.176\.119 FTP server ready\r\n
-220 54\.36\.176\.226 FTP server ready\r\n
-220 54\.36\.177\.120 FTP server ready\r\n
-220 54\.36\.177\.175 FTP server ready\r\n
-220 54\.36\.178\.117 FTP server ready\r\n
-220 54\.36\.178\.171 FTP server ready\r\n
-220 54\.36\.180\.28 FTP server ready\r\n
-220 54\.36\.181\.194 FTP server ready\r\n
-220 54\.36\.181\.242 FTP server ready\r\n
-220 54\.36\.185\.177 FTP server ready\r\n
-220 54\.36\.186\.215 FTP server ready\r\n
-220 54\.36\.188\.197 FTP server ready\r\n
-220 54\.36\.189\.139 FTP server ready\r\n
-220 54\.36\.190\.30 FTP server ready\r\n
-220 54\.36\.192\.132 FTP server ready\r\n
-220 54\.36\.192\.133 FTP server ready\r\n
-220 54\.36\.192\.134 FTP server ready\r\n
-220 54\.36\.192\.135 FTP server ready\r\n
-220 54\.36\.197\.190 FTP server ready\r\n
-220 54\.36\.1\.80 FTP server ready\r\n
-220 54\.36\.26\.16 FTP server ready\r\n
-220 54\.36\.47\.212 FTP server ready\r\n
-220 54\.36\.49\.127 FTP server ready\r\n
-220 54\.36\.4\.109 FTP server ready\r\n
-220 54\.36\.60\.152 FTP server ready\r\n
-220 54\.36\.61\.218 FTP server ready\r\n
-220 54\.36\.61\.91 FTP server ready\r\n
-220 54\.36\.62\.179 FTP server ready\r\n
-220 54\.36\.62\.36 FTP server ready\r\n
-220 54\.36\.77\.119 FTP server ready\r\n
-220 54\.36\.77\.12 FTP server ready\r\n
-220 54\.36\.77\.25 FTP server ready\r\n
-220 54\.36\.77\.26 FTP server ready\r\n
-220 54\.36\.77\.82 FTP server ready\r\n
-220 54\.36\.81\.113 FTP server ready\r\n
-220 54\.36\.81\.114 FTP server ready\r\n
-220 54\.36\.81\.115 FTP server ready\r\n
-220 54\.36\.81\.116 FTP server ready\r\n
-220 54\.36\.81\.117 FTP server ready\r\n
-220 54\.36\.81\.118 FTP server ready\r\n
-220 54\.36\.81\.119 FTP server ready\r\n
-220 54\.36\.88\.155 FTP server ready\r\n
-220 54\.36\.94\.0 FTP server ready\r\n
-220 54\.36\.95\.52 FTP server ready\r\n
-220 54\.36\.99\.106 FTP server ready\r\n
-220 54\.36\.99\.150 FTP server ready\r\n
-220 54\.36\.99\.97 FTP server ready\r\n
-220 5\.196\.100\.98 FTP server ready\r\n
-220 5\.196\.121\.228 FTP server ready\r\n
-220 5\.196\.121\.229 FTP server ready\r\n
-220 5\.196\.121\.230 FTP server ready\r\n
-220 5\.196\.121\.231 FTP server ready\r\n
-220 5\.196\.126\.224 FTP server ready\r\n
-220 5\.196\.126\.225 FTP server ready\r\n
-220 5\.196\.126\.226 FTP server ready\r\n
-220 5\.196\.126\.227 FTP server ready\r\n
-220 5\.196\.139\.226 FTP server ready\r\n
-220 5\.196\.13\.110 FTP server ready\r\n
-220 5\.196\.13\.79 FTP server ready\r\n
-220 5\.196\.156\.216 FTP server ready\r\n
-220 5\.196\.156\.217 FTP server ready\r\n
-220 5\.196\.156\.219 FTP server ready\r\n
-220 5\.196\.157\.108 FTP server ready\r\n
-220 5\.196\.157\.109 FTP server ready\r\n
-220 5\.196\.157\.110 FTP server ready\r\n
-220 5\.196\.157\.111 FTP server ready\r\n
-220 5\.196\.168\.226 FTP server ready\r\n
-220 5\.196\.168\.232 FTP server ready\r\n
-220 5\.196\.171\.49 FTP server ready\r\n
-220 5\.196\.180\.77 FTP server ready\r\n
-220 5\.196\.194\.19 FTP server ready\r\n
-220 5\.196\.199\.80 FTP server ready\r\n
-220 5\.196\.199\.81 FTP server ready\r\n
-220 5\.196\.199\.82 FTP server ready\r\n
-220 5\.196\.251\.60 FTP server ready\r\n
-220 5\.196\.251\.61 FTP server ready\r\n
-220 5\.196\.251\.62 FTP server ready\r\n
-220 5\.196\.251\.63 FTP server ready\r\n
-220 5\.196\.31\.25 FTP server ready\r\n
-220 5\.196\.43\.225 FTP server ready\r\n
-220 5\.196\.55\.242 FTP server ready\r\n
-220 5\.196\.58\.247 FTP server ready\r\n
-220 5\.196\.59\.179 FTP server ready\r\n
-220 5\.196\.59\.185 FTP server ready\r\n
-220 5\.196\.64\.15 FTP server ready\r\n
-220 5\.196\.64\.176 FTP server ready\r\n
-220 5\.196\.64\.22 FTP server ready\r\n
-220 5\.196\.68\.170 FTP server ready\r\n
-220 5\.196\.75\.226 FTP server ready\r\n
-220 5\.196\.78\.173 FTP server ready\r\n
-220 5\.196\.79\.69 FTP server ready\r\n
-220 5\.196\.79\.76 FTP server ready\r\n
-220 5\.196\.81\.104 FTP server ready\r\n
-220 5\.196\.83\.112 FTP server ready\r\n
-220 5\.196\.83\.138 FTP server ready\r\n
-220 5\.196\.90\.108 FTP server ready\r\n
-220 5\.196\.90\.112 FTP server ready\r\n
-220 5\.196\.90\.92 FTP server ready\r\n
-220 5\.196\.91\.170 FTP server ready\r\n
-220 5\.196\.91\.82 FTP server ready\r\n
-220 5\.196\.92\.162 FTP server ready\r\n
-220 5\.196\.92\.22 FTP server ready\r\n
-220 5\.196\.93\.161 FTP server ready\r\n
 220 750up_BIGMAR FTP server \(MikroTik 6\.19\) ready\r\n
 220 84158_Stohler_Advogados FTP server \(MikroTik 6\.49\.2\) ready\r\n
-220 95\.216\.113\.55 FTP server ready\r\n
-220 95\.216\.117\.214 FTP server ready\r\n
-220 95\.216\.11\.168 FTP server ready\r\n
-220 95\.216\.150\.60 FTP server ready\r\n
-220 95\.216\.24\.5 FTP server ready\r\n
-220 95\.216\.24\.62 FTP server ready\r\n
-220 95\.216\.24\.7 FTP server ready\r\n
-220 95\.216\.41\.105 FTP server ready\r\n
-220 95\.216\.41\.86 FTP server ready\r\n
-220 95\.216\.62\.180 FTP server ready\r\n
 220 AC_MT2 FTP server \(MikroTik 7\.11\.3\) ready\r\n
 220 AC_MT2 FTP server \(MikroTik 7\.12\.2\) ready\r\n
 220 ADP LaserStatio FTP server\.\r\n214- FTPD supported commands\(RFC959 subset\):\r\n
@@ -358,7 +32,7 @@
 220 AIS FTP server \(MikroTik 6\.49\.10\) ready\r\n
 220 ALL_Cargo FTP server \(MikroTik 6\.49\.10\) ready\r\n
 220 ANTONIO PATIO OSNI FTP server \(MikroTik 6\.49\.1\) ready\r\n
-220 AXIS Q6044-E PTZ Dome Network Camera 6\.50\.5\.6 \(2022\) ready\.\r\n
+220 AXIS Q6044-E PTZ Dome Network Camera \d\d\.\d\d\.\d\d\.\d\d \(2022\) ready\.\r\n
 220 AXIS Q6115-E PTZ Dome Network Camera 6\.50\.1 \(2017\) ready\.\r\n
 220 Aishling-McGovern FTP server \(MikroTik 6\.42\.1\) ready\r\n
 220 Alize Session Manager FTP Server\r\n
@@ -433,7 +107,7 @@
 220 DiskStation FTP server ready\.\r\n
 220 Donito FTP server \(MikroTik 6\.46\.2\) ready\r\n
 220 E&C-AM1 FTP server \(MikroTik 6\.49\.17\) ready\r\n
-220 EARTH-4222 FTP server \(GNU inetutils 1\.4\.1\) ready\.\r\n
+220 EARTH-4222 FTP server \(GNU inetutils 1\.[123456789]\.[123456789][abcdef]\) ready\.\r\n
 220 EFI FTP Print server ready\.\r\n
 220 EbrahimAbad FTP server \(MikroTik 7\.6\) ready\r\n
 220 EgianaMikroTik FTP server \(MikroTik 6\.49\.2\) ready\r\n
@@ -506,7 +180,7 @@
 220 Hotel Refugio FTP server \(MikroTik 6\.48\.6\) ready\r\n
 220 ICS FTP Server ready\r\n500 '\r': command not understood\.\r\n500 '\r': command not understood\.\r\n
 220 IGNet FTP server \(MikroTik 6\.48\.2\) ready\r\n
-220 IMDVRS FTP server \(GNU inetutils 1\.4\.2\) ready\.\r\n
+220 IMDVRS FTP server \(GNU inetutils 1\.[123456789]\.[123456789][abcdef]\) ready\.\r\n
 220 Indy FTP-Server bereit\.\r\n
 220 InkFilm-1GB FTP server \(MikroTik 6\.45\.8\) ready\r\n
 220 Intel NetportExpress\(tm\) 10/100 Single-port FTP server ready\.\r\n
@@ -705,872 +379,219 @@
 220 Private ftp server, anonymous login not allowed\.\r\n214-The following commands are recognized:\r\n   USER   PASS   QUIT   CWD    PWD    PORT   PASV   TYPE\r\n   LIST   REST   CDUP   RETR   STOR   SIZE   DELE   RMD \r\n   MKD    RNFR   RNTO   ABOR   SYST   NOOP   APPE   NLST\r\n   MDTM   XPWD   XCUP   XMKD   XRMD   NOP    EPSV   EPRT\r\n   AUTH   ADAT   PBSZ   PROT   FEAT   MODE   OPTS   HELP\r\n214 Have a nice day\.\r\n
 220 ProFTP Ready\r\n
 220 ProFTP Server Ready\r\n
-220 ProFTPD 1\.2\.10 Server \(ProFTPD\) \[103\.246\.188\.11\]\r\n
-220 ProFTPD 1\.2\.10 Server \(ProFTPD\) \[103\.246\.188\.1\]\r\n
-220 ProFTPD 1\.2\.9 Server \(FTPD\) \[localhost\]\r\n
-220 ProFTPD 1\.3\.0 Server \(schlich\.cowic\.de\) \[::ffff:116\.202\.94\.172\]\r\n
-220 ProFTPD 1\.3\.1 Server \(Debian\)\r\n
-220 ProFTPD 1\.3\.1 Server \(ProFTPD Default Installation\) \[139\.162\.90\.132\]\r\n
-220 ProFTPD 1\.3\.1 Server \(ProFTPD\) \[::ffff:116\.202\.90\.149\]\r\n
-220 ProFTPD 1\.3\.1 Server \(ProFTPD\) \[::ffff:116\.202\.90\.151\]\r\n
-220 ProFTPD 1\.3\.1 Server \(ProFTPD\)\r\n
-220 ProFTPD 1\.3\.1 Server \(ProFTPD\)\r\n500 command not understood\r\n
-220 ProFTPD 1\.3\.2 Server \(ProFTPD Default Installation\) \[10\.150\.33\.31\]\r\n
-220 ProFTPD 1\.3\.2 Server \(ProFTPD\) \[::ffff:116\.202\.90\.142\]\r\n
-220 ProFTPD 1\.3\.2 Server \(ProFTPD\) \[::ffff:116\.202\.90\.146\]\r\n
-220 ProFTPD 1\.3\.2c Server \(Debian\) \[::ffff:178\.32\.98\.96\]\r\n
-220 ProFTPD 1\.3\.2c Server \(Debian\) \[::ffff:5\.196\.112\.186\]\r\n
-220 ProFTPD 1\.3\.3a Server \(Debian\) \[::ffff:178\.32\.81\.231\]\r\n
-220 ProFTPD 1\.3\.3a Server \(FtpSrv\) \[31\.170\.22\.56\]\r\n
-220 ProFTPD 1\.3\.3a Server \(host08\.netcec\.com\) \[139\.162\.120\.119\]\r\n
-220 ProFTPD 1\.3\.3a Server \(ns1\.investors\.empark\.com\) \[::ffff:5\.196\.123\.220\]\r\n
-220 ProFTPD 1\.3\.3a Server \(ns1\.reservarparking\.com\) \[::ffff:5\.196\.123\.222\]\r\n
-220 ProFTPD 1\.3\.3a Server \(ns1\.tallerdereparacion\.com\) \[::ffff:5\.196\.165\.172\]\r\n
-220 ProFTPD 1\.3\.3a Server \(server\.sinjhiteam\.com\) \[::ffff:5\.196\.165\.72\]\r\n
-220 ProFTPD 1\.3\.3a Server \(servidor\.sinjhiteam\.com\) \[::ffff:5\.196\.165\.74\]\r\n
-220 ProFTPD 1\.3\.3c Server \(ProFTPD Default Installation\) \[178\.32\.115\.2\]\r\n
-220 ProFTPD 1\.3\.3c Server \(ProFTPD\) \[10\.100\.100\.3\]\r\n
-220 ProFTPD 1\.3\.3c Server ready\.\r\n
-220 ProFTPD 1\.3\.3g Server \(ProFTPD Default Installation\) \[::ffff:178\.32\.114\.162\]\r\n
-220 ProFTPD 1\.3\.3g Server \(ProFTPD Default Installation\) \[::ffff:178\.32\.60\.183\]\r\n
-220 ProFTPD 1\.3\.3g Server \(ProFTPD server\) \[::ffff:95\.216\.153\.159\]\r\n
-220 ProFTPD 1\.3\.3g Server \(Secure FTP Server\) \[54\.36\.47\.213\]\r\n
-220 ProFTPD 1\.3\.3g Server \(Sentora FTP Server\) \[::ffff:139\.162\.4\.78\]\r\n
-220 ProFTPD 1\.3\.3g Server \(Zpanel FTP Server\) \[::ffff:139\.162\.73\.236\]\r\n
-220 ProFTPD 1\.3\.3g Server \(Zpanel FTP Server\) \[::ffff:51\.254\.33\.170\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Bazile's FTP Server\) \[::ffff:31\.170\.8\.60\]\r\n
-220 ProFTPD 1\.3\.4a Server \(DebianCS\) \[::ffff:5\.196\.31\.167\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[103\.246\.16\.170\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[116\.202\.67\.179\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[51\.68\.250\.69\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[5\.196\.160\.165\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[5\.196\.70\.32\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:139\.162\.78\.231\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:159\.203\.79\.203\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:178\.32\.110\.13\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:178\.32\.112\.4\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:178\.32\.130\.87\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:178\.32\.40\.47\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:178\.32\.53\.236\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:178\.32\.55\.227\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:178\.32\.69\.139\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:178\.32\.69\.140\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:192\.168\.100\.120\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:192\.168\.29\.116\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:46\.226\.107\.182\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:51\.254\.114\.143\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:51\.254\.130\.243\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:51\.254\.135\.230\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:51\.254\.46\.229\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:51\.254\.81\.104\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:5\.196\.100\.110\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:5\.196\.5\.42\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:5\.196\.61\.167\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:5\.196\.61\.238\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:5\.196\.64\.39\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:5\.196\.67\.202\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:5\.196\.73\.152\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:5\.196\.77\.240\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:5\.196\.78\.64\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:5\.196\.80\.125\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:5\.196\.83\.97\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:5\.196\.94\.132\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:94\.152\.189\.21\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Debian\) \[::ffff:95\.216\.154\.122\]\r\n
-220 ProFTPD 1\.3\.4a Server \(FILPAR\) \[178\.32\.76\.70\]\r\n
-220 ProFTPD 1\.3\.4a Server \(FTP Server: w02\.fr7\.fpcns\.net\) \[46\.226\.108\.145\]\r\n
-220 ProFTPD 1\.3\.4a Server \(FTP server\) \[5\.196\.242\.134\]\r\n
-220 ProFTPD 1\.3\.4a Server \(IGG Media\) \[::ffff:178\.32\.56\.202\]\r\n
-220 ProFTPD 1\.3\.4a Server \(JSFrance FTP\) \[::ffff:5\.196\.52\.36\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Meteo Concept SAS\) \[::ffff:5\.196\.83\.95\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Niezen Magento\) \[::ffff:51\.254\.140\.74\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Online Internet\) \[5\.196\.242\.130\]\r\n
-220 ProFTPD 1\.3\.4a Server \(ProFTPD\) \[::ffff:116\.202\.90\.148\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Resotic\) \[::ffff:54\.36\.137\.170\]\r\n
-220 ProFTPD 1\.3\.4a Server \(SPEAK33\) \[::ffff:5\.196\.30\.190\]\r\n
-220 ProFTPD 1\.3\.4a Server \(SVINFO\) \[::ffff:5\.196\.51\.195\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Sentora FTP Server\) \[::ffff:159\.203\.135\.147\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Sentora FTP Server\) \[::ffff:5\.196\.110\.224\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Server Vega Internetsol\) \[::ffff:5\.196\.126\.80\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Server Vega Internetsol\) \[::ffff:5\.196\.126\.81\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Server\) \[51\.254\.29\.242\]\r\n
-220 ProFTPD 1\.3\.4a Server \(TinyCloud FTP\) \[::ffff:46\.226\.109\.216\]\r\n
-220 ProFTPD 1\.3\.4a Server \(ViGi Corp <F4> Darqroom\) \[::ffff:178\.32\.124\.60\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Webloc_backup\) \[178\.32\.101\.3\]\r\n
-220 ProFTPD 1\.3\.4a Server \(Zpanel FTP Server\) \[::ffff:139\.162\.13\.224\]\r\n
-220 ProFTPD 1\.3\.4a Server \(coval\.info\) \[46\.226\.106\.201\]\r\n
-220 ProFTPD 1\.3\.4a Server \(ftp\) \[::ffff:192\.168\.0\.200\]\r\n
-220 ProFTPD 1\.3\.4a Server \(misopa\.net\) \[::ffff:5\.196\.58\.105\]\r\n
-220 ProFTPD 1\.3\.4a Server \(misopa\.net\) \[::ffff:5\.196\.58\.54\]\r\n
-220 ProFTPD 1\.3\.4a Server \(s1\.charserver\.net\) \[95\.216\.111\.67\]\r\n
-220 ProFTPD 1\.3\.4a Server \(s2\.speakyplanet\) \[::ffff:5\.196\.203\.226\]\r\n
-220 ProFTPD 1\.3\.4a Server \(salomonbrand\) \[::ffff:5\.196\.83\.80\]\r\n
-220 ProFTPD 1\.3\.4a Server \(server2\.lezen\.nl\) \[51\.254\.155\.13\]\r\n
-220 ProFTPD 1\.3\.4a Server \(srv1web3\) \[::ffff:5\.196\.203\.183\]\r\n
-220 ProFTPD 1\.3\.4a Server \(vs7\.kubiweb\) \[::ffff:54\.36\.151\.74\]\r\n
-220 ProFTPD 1\.3\.4a Server \(xHosting\.cz FTP server\) \[::ffff:167\.233\.3\.22\]\r\n
-220 ProFTPD 1\.3\.4b Server \(Mikehome\) \[94\.232\.122\.159\]\r\n
-220 ProFTPD 1\.3\.4b Server \(Server\) \[31\.170\.95\.237\]\r\n
-220 ProFTPD 1\.3\.4b Server \(TP-ShareDT\) \[94\.232\.121\.165\]\r\n
-220 ProFTPD 1\.3\.4b Server \(TP-Share\) \[31\.170\.116\.136\]\r\n
-220 ProFTPD 1\.3\.4b Server \(TP-Share\) \[31\.170\.85\.141\]\r\n
-220 ProFTPD 1\.3\.4b Server \(djanmamurserve\) \[10\.129\.149\.99\]\r\n
-220 ProFTPD 1\.3\.4b Server ready\.\r\n
-220 ProFTPD 1\.3\.4c Server \(ITMSOIL FRANCE Argos FTP server\) \[::ffff:5\.196\.64\.114\]\r\n
-220 ProFTPD 1\.3\.4c Server \(ProFTPD\) \[178\.32\.58\.100\]\r\n
-220 ProFTPD 1\.3\.4c Server \(ProFTPD\) \[51\.254\.174\.245\]\r\n
-220 ProFTPD 1\.3\.4c Server \(ProFTPD\) \[51\.254\.81\.73\]\r\n
-220 ProFTPD 1\.3\.4c Server \(ProFTPD\) \[54\.36\.95\.117\]\r\n
-220 ProFTPD 1\.3\.4c Server \(ProFTPD\) \[5\.196\.21\.123\]\r\n
-220 ProFTPD 1\.3\.4c Server \(ProFTPD\) \[5\.196\.22\.46\]\r\n
-220 ProFTPD 1\.3\.4c Server \(ProFTPD\) \[::ffff:139\.162\.192\.224\]\r\n
-220 ProFTPD 1\.3\.4c Server \(ProFTPD\) \[::ffff:139\.162\.202\.121\]\r\n
-220 ProFTPD 1\.3\.4c Server \(ProFTPD\) \[::ffff:139\.162\.78\.53\]\r\n
-220 ProFTPD 1\.3\.4c Server \(ProFTPD\) \[::ffff:45\.32\.69\.21\]\r\n
-220 ProFTPD 1\.3\.4c Server \(ProFTPD\) \[::ffff:5\.196\.66\.152\]\r\n
-220 ProFTPD 1\.3\.4d Server \(ProFTPD Default Installation\) \[178\.32\.111\.83\]\r\n
-220 ProFTPD 1\.3\.4d Server \(ProFTPD Default Installation\) \[178\.32\.113\.17\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Cartronics\) \[::ffff:178\.32\.47\.56\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Coyotophile\) \[5\.196\.88\.6\]\r\n
-220 ProFTPD 1\.3\.5 Server \(DIFFUSIONNET - Serveur 5419\) \[51\.254\.54\.19\]\r\n
-220 ProFTPD 1\.3\.5 Server \(DIFFUSIONNET - Serveur apia17\) \[51\.254\.54\.17\]\r\n
-220 ProFTPD 1\.3\.5 Server \(DIFFUSIONNET - Serveur apia18\) \[51\.254\.54\.18\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[116\.202\.70\.179\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[116\.202\.70\.182\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[116\.202\.70\.190\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[139\.162\.145\.26\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[139\.162\.168\.60\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[139\.162\.170\.149\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[139\.162\.193\.155\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[159\.203\.9\.107\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[178\.32\.103\.243\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[178\.32\.122\.151\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[178\.32\.47\.148\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[192\.168\.1\.2\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[31\.170\.22\.44\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[31\.170\.52\.6\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[51\.254\.104\.172\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[51\.254\.125\.87\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[51\.254\.68\.231\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[51\.254\.68\.232\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[54\.36\.38\.199\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[5\.196\.135\.70\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[5\.196\.45\.52\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[5\.196\.68\.115\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[5\.196\.79\.8\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[94\.152\.200\.87\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:10\.2\.0\.13\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:139\.162\.199\.192\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:139\.162\.200\.95\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:139\.162\.204\.141\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:139\.162\.214\.115\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:139\.162\.47\.95\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:139\.162\.73\.156\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:159\.203\.117\.169\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:159\.203\.122\.246\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:159\.203\.73\.171\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:159\.203\.74\.220\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:177\.124\.90\.86\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:178\.32\.100\.57\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:178\.32\.101\.209\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:178\.32\.103\.32\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:178\.32\.104\.214\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:178\.32\.118\.189\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:178\.32\.121\.231\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:178\.32\.122\.152\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:178\.32\.122\.208\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:178\.32\.14\.218\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:178\.32\.46\.201\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:178\.32\.76\.247\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:31\.170\.105\.194\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:45\.32\.107\.54\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:46\.226\.104\.129\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:46\.226\.111\.237\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:51\.254\.116\.230\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:51\.254\.12\.68\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:51\.254\.136\.146\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:51\.254\.140\.12\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:51\.254\.45\.65\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:51\.254\.57\.115\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:51\.254\.64\.53\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:51\.254\.64\.54\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:51\.254\.64\.55\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:51\.254\.85\.93\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:54\.36\.121\.3\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:54\.36\.163\.199\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:54\.36\.190\.6\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:54\.36\.54\.169\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:54\.36\.54\.169\]\r\n500 GET non compreso\r\n500 Comando non valido: prova ad essere piÃ¹ creativo\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:54\.36\.55\.223\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:54\.36\.98\.22\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.112\.113\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.192\.241\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.192\.242\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.192\.243\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.192\.244\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.192\.245\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.192\.246\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.192\.247\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.41\.4\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.43\.234\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.52\.163\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.69\.191\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.70\.81\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.75\.117\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.82\.195\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.82\.74\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:5\.196\.92\.224\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:95\.216\.0\.132\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:95\.216\.0\.133\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:95\.216\.0\.134\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:95\.216\.0\.135\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:95\.216\.0\.137\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:95\.216\.0\.138\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:95\.216\.0\.186\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:95\.216\.125\.158\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Debian\) \[::ffff:95\.216\.4\.42\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Default\) \[54\.36\.60\.169\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Ementor\.pl FTP\) \[::ffff:10\.0\.0\.201\]\r\n
-220 ProFTPD 1\.3\.5 Server \(FTP Server: easyg01\.ext\.wadagency\.it\) \[46\.226\.111\.86\]\r\n
-220 ProFTPD 1\.3\.5 Server \(FTP server\) \[192\.168\.123\.98\]\r\n
-220 ProFTPD 1\.3\.5 Server \(FTP\) \[139\.162\.151\.14\]\r\n
-220 ProFTPD 1\.3\.5 Server \(FTP\) \[::ffff:178\.32\.123\.3\]\r\n
-220 ProFTPD 1\.3\.5 Server \(FTP\) \[::ffff:178\.32\.96\.186\]\r\n
-220 ProFTPD 1\.3\.5 Server \(LMDM-FTP\) \[51\.254\.133\.81\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Nieruchomosci\) \[5\.196\.224\.121\]\r\n
-220 ProFTPD 1\.3\.5 Server \(PAF TEAM server\) \[5\.196\.95\.235\]\r\n
-220 ProFTPD 1\.3\.5 Server \(ProFTPD\) \[::ffff:5\.196\.189\.127\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Prod CAP INFO\) \[5\.196\.45\.53\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Psi\) \[5\.196\.93\.206\]\r\n
-220 ProFTPD 1\.3\.5 Server \(Respaldos\) \[13\.52\.120\.193\]\r\n
-220 ProFTPD 1\.3\.5 Server \(VALDECHER-CHENONCEAUX-BLERE\) \[::ffff:178\.32\.104\.185\]\r\n
-220 ProFTPD 1\.3\.5 Server \(W31\.gropo\) \[5\.196\.134\.49\]\r\n
-220 ProFTPD 1\.3\.5 Server \(acmsi-backup\) \[5\.196\.196\.119\]\r\n
-220 ProFTPD 1\.3\.5 Server \(arquivo\.academiadasapostas\.com\) \[::ffff:178\.32\.129\.208\]\r\n
-220 ProFTPD 1\.3\.5 Server \(ben\.hostmodern\.com\.au\) \[::ffff:139\.162\.29\.32\]\r\n
-220 ProFTPD 1\.3\.5 Server \(ftp\.ha1\.asteria\) \[::ffff:178\.32\.112\.223\]\r\n
-220 ProFTPD 1\.3\.5 Server \(ftp\.tuxum\.com\) \[37\.187\.72\.77\]\r\n
-220 ProFTPD 1\.3\.5 Server \(ftp_bde_sigma\) \[::ffff:51\.254\.132\.162\]\r\n
-220 ProFTPD 1\.3\.5 Server \(hotelpestera\.ro\) \[::ffff:139\.162\.175\.75\]\r\n
-220 ProFTPD 1\.3\.5 Server \(itri\) \[139\.162\.90\.205\]\r\n
-220 ProFTPD 1\.3\.5 Server \(lyra\.o2w\.es\) \[46\.105\.125\.214\]\r\n
-220 ProFTPD 1\.3\.5 Server \(s3new\.tominf\.com\) \[::ffff:5\.196\.161\.157\]\r\n
-220 ProFTPD 1\.3\.5 Server \(server\.blicex\.com\) \[::ffff:5\.196\.54\.209\]\r\n
-220 ProFTPD 1\.3\.5 Server \(serveur ftp cobra@kimsufi\) \[::ffff:5\.196\.71\.93\]\r\n
-220 ProFTPD 1\.3\.5 Server \(srv1web1\) \[::ffff:5\.196\.43\.193\]\r\n
-220 ProFTPD 1\.3\.5 Server \(srv1web1utpla\) \[::ffff:178\.32\.114\.189\]\r\n
-220 ProFTPD 1\.3\.5 Server \(tyxServeur\) \[::ffff:51\.254\.140\.230\]\r\n
-220 ProFTPD 1\.3\.5 Server \(vm0\.pixelcreo\.com\) \[::ffff:51\.254\.83\.116\]\r\n
-220 ProFTPD 1\.3\.5 Server \(volvo-off\.pl\) \[::ffff:51\.254\.142\.234\]\r\n
-220 ProFTPD 1\.3\.5 Server ready\.\r\n
-220 ProFTPD 1\.3\.5a Server \(159\.203\.83\.97\) \[::ffff:159\.203\.83\.97\]\r\n
-220 ProFTPD 1\.3\.5a Server \(159\.203\.94\.87\) \[::ffff:159\.203\.94\.87\]\r\n
-220 ProFTPD 1\.3\.5a Server \(1UP Crew FTP\) \[51\.254\.44\.117\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Adevo\.io\) \[::ffff:139\.162\.191\.244\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[139\.162\.132\.252\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[139\.162\.181\.101\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[139\.162\.210\.41\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[51\.254\.133\.136\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[51\.254\.50\.130\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[51\.254\.50\.135\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[52\.28\.8\.169\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[54\.36\.173\.232\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[54\.36\.95\.38\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[5\.196\.139\.180\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[5\.196\.237\.51\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[5\.196\.237\.59\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[95\.216\.95\.66\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:116\.202\.2\.179\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:116\.202\.4\.143\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.111\.53\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.142\.50\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.156\.28\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.170\.73\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.173\.239\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.189\.225\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.192\.39\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.200\.173\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.206\.229\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.207\.171\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.222\.4\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.23\.234\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.41\.146\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.42\.212\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.4\.194\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.51\.77\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.63\.149\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:139\.162\.88\.201\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.101\.41\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.108\.201\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.113\.134\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.113\.84\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.117\.34\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.124\.213\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.45\.219\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.56\.187\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.64\.151\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.64\.157\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.64\.32\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.74\.49\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.82\.181\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.85\.228\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.90\.69\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.92\.120\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:159\.203\.96\.249\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:173\.208\.145\.170\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:173\.208\.145\.171\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:173\.208\.145\.174\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:177\.124\.24\.117\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:178\.32\.62\.255\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:178\.32\.70\.19\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:192\.168\.14\.102\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:45\.32\.103\.140\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:45\.32\.108\.98\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:45\.32\.113\.4\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:45\.32\.117\.135\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:51\.254\.131\.177\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:51\.254\.134\.81\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:51\.254\.137\.142\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:51\.254\.167\.159\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:54\.36\.55\.197\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:5\.134\.68\.9\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:5\.196\.124\.183\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:5\.196\.139\.178\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:5\.196\.139\.179\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:5\.196\.176\.24\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:5\.196\.176\.27\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:5\.196\.220\.221\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:5\.196\.65\.236\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:5\.196\.72\.148\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:5\.196\.72\.179\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:5\.196\.80\.218\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:5\.196\.88\.12\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:5\.196\.88\.97\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:5\.196\.94\.116\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:95\.216\.10\.213\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Debian\) \[::ffff:95\.216\.1\.175\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Janus\) \[51\.254\.83\.185\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Janus\) \[51\.254\.83\.186\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Janus\) \[51\.254\.83\.187\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Novo Oeste\) \[10\.130\.3\.51\]\r\n
-220 ProFTPD 1\.3\.5a Server \(Oro FTP Server @ Femar Consulting S\.r\.l\.\) \[::ffff:139\.162\.165\.193\]\r\n
-220 ProFTPD 1\.3\.5a Server \(ProFTP Linux Services\) \[51\.254\.138\.227\]\r\n
-220 ProFTPD 1\.3\.5a Server \(dr_server\) \[::ffff:5\.196\.88\.188\]\r\n
-220 ProFTPD 1\.3\.5a Server \(estheradeyemo\.com\) \[::ffff:5\.196\.199\.71\]\r\n
-220 ProFTPD 1\.3\.5a Server \(housecallsforbaby\.com\) \[::ffff:159\.203\.71\.126\]\r\n
-220 ProFTPD 1\.3\.5a Server \(medici-storage3\) \[::ffff:54\.36\.49\.121\]\r\n
-220 ProFTPD 1\.3\.5a Server \(owncloud\.ife\.ugo\.aero\) \[::ffff:54\.36\.177\.144\]\r\n
-220 ProFTPD 1\.3\.5a Server \(s2e\.see\.asso\.fr\) \[::ffff:5\.196\.93\.59\]\r\n
-220 ProFTPD 1\.3\.5a Server \(shuionnc\.com\) \[::ffff:139\.162\.35\.80\]\r\n
-220 ProFTPD 1\.3\.5a Server ready\.\r\n
-220 ProFTPD 1\.3\.5b Server \(AP365-2\) \[::ffff:159\.203\.89\.82\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Agildataonline\) \[95\.216\.21\.58\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Babykind24 FTP\) \[::ffff:95\.216\.8\.70\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Backup Firelive\) \[::ffff:5\.196\.70\.231\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Bienvenido al FTP\) \[116\.202\.87\.142\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[116\.202\.1\.5\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[116\.202\.44\.101\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[116\.202\.70\.181\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[116\.202\.98\.213\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[139\.162\.154\.230\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[159\.203\.23\.112\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[159\.203\.28\.175\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[159\.203\.38\.203\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[178\.32\.111\.4\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[178\.32\.73\.230\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[192\.168\.140\.13\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[34\.106\.203\.231\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[54\.36\.131\.236\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[5\.196\.35\.161\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[5\.196\.94\.85\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[91\.121\.134\.27\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[95\.216\.150\.143\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[95\.216\.150\.68\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[95\.216\.23\.100\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[95\.216\.8\.73\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:104\.234\.10\.31\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:116\.202\.100\.51\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:116\.202\.104\.236\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:116\.202\.10\.207\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:116\.202\.114\.153\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:116\.202\.13\.242\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:116\.202\.31\.169\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:116\.202\.32\.236\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:116\.202\.49\.70\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:116\.202\.69\.49\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:139\.162\.153\.106\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:139\.162\.180\.210\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:139\.162\.208\.206\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:139\.162\.60\.40\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:159\.203\.100\.138\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:159\.203\.38\.67\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:172\.16\.21\.95\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.100\.204\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.101\.39\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.102\.181\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.102\.251\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.103\.42\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.104\.135\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.104\.17\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.105\.166\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.106\.233\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.109\.150\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.110\.189\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.111\.213\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.113\.98\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.115\.146\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.118\.84\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.123\.240\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.126\.26\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.126\.36\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.1\.44\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.1\.45\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.1\.46\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.1\.47\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.30\.84\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.30\.85\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.30\.86\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.30\.87\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.50\.141\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.54\.226\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.60\.16\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.72\.111\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.80\.9\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.98\.202\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.98\.74\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:178\.32\.99\.224\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:185\.180\.43\.235\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:192\.168\.0\.49\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:46\.226\.111\.199\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.121\.107\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.140\.48\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.142\.218\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.149\.91\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.158\.148\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.158\.149\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.158\.151\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.172\.52\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.172\.53\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.172\.54\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.172\.55\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.181\.39\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.22\.102\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.24\.184\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.28\.184\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.28\.185\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.28\.186\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.28\.187\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.29\.21\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.29\.49\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.57\.36\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.71\.231\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.7\.14\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.84\.205\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:51\.254\.86\.61\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.104\.64\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.107\.74\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.120\.88\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.126\.168\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.143\.212\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.143\.213\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.143\.214\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.143\.215\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.143\.56\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.143\.57\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.143\.58\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.143\.59\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.149\.116\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.168\.176\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.168\.214\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.175\.236\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.176\.68\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.177\.194\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.181\.207\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.183\.16\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.18\.201\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.197\.140\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.197\.189\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.38\.45\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.60\.214\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.90\.9\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:54\.36\.95\.240\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.104\.164\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.104\.165\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.104\.166\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.104\.167\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.139\.212\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.139\.213\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.139\.214\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.139\.215\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.183\.164\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.183\.165\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.183\.166\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.183\.167\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.194\.131\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.212\.154\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.212\.155\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.241\.220\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.241\.221\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.241\.222\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.241\.223\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.44\.229\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.65\.133\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.68\.89\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.70\.12\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.70\.75\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.71\.46\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.77\.156\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.7\.18\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.95\.22\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:5\.196\.95\.230\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.0\.52\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.0\.82\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.100\.165\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.101\.181\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.101\.254\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.102\.135\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.114\.211\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.125\.147\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.12\.80\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.137\.156\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.139\.213\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.22\.159\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.22\.165\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.24\.36\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.32\.125\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.32\.90\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.34\.113\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.37\.33\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.4\.96\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.6\.179\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Debian\) \[::ffff:95\.216\.6\.67\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Demibarrio\) \[::ffff:51\.254\.176\.234\]\r\n
-220 ProFTPD 1\.3\.5b Server \(EDV-Betrieb KK Gifhorn\) \[95\.216\.17\.229\]\r\n
-220 ProFTPD 1\.3\.5b Server \(FTP Server: w01new\.wadagency\.it\) \[46\.226\.109\.125\]\r\n
-220 ProFTPD 1\.3\.5b Server \(FTP\) \[54\.36\.173\.46\]\r\n
-220 ProFTPD 1\.3\.5b Server \(FTP\) \[::ffff:178\.32\.117\.58\]\r\n
-220 ProFTPD 1\.3\.5b Server \(FTP\) \[::ffff:178\.32\.120\.74\]\r\n
-220 ProFTPD 1\.3\.5b Server \(FTP\) \[::ffff:54\.36\.52\.230\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Ferrum FTP server\) \[192\.168\.0\.254\]\r\n
-220 ProFTPD 1\.3\.5b Server \(GRADIENT-DALLOZ\) \[54\.36\.182\.186\]\r\n
-220 ProFTPD 1\.3\.5b Server \(GRADIENT-FLF\) \[54\.36\.182\.185\]\r\n
-220 ProFTPD 1\.3\.5b Server \(GettyImagesEditorialFTP\) \[13\.52\.53\.37\]\r\n
-220 ProFTPD 1\.3\.5b Server \(PrezzoConveniente\) \[51\.254\.46\.9\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ProFTPD Default Installation\) \[::ffff:95\.216\.138\.251\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ProFTPD\) \[139\.162\.213\.231\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ProFTPD\) \[159\.203\.97\.234\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ProFTPD\) \[178\.32\.42\.176\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ProFTPD\) \[178\.32\.61\.191\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ProFTPD\) \[178\.32\.8\.182\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ProFTPD\) \[178\.32\.8\.183\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ProFTPD\) \[46\.226\.92\.102\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ProFTPD\) \[54\.36\.172\.230\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ProFTPD\) \[5\.196\.149\.10\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ProFTPD\) \[5\.196\.196\.214\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ProFTPD\) \[5\.196\.204\.167\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ProFTPD\) \[5\.196\.31\.141\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ProFTPD\) \[5\.196\.69\.223\]\r\n
-220 ProFTPD 1\.3\.5b Server \(REB FTP\) \[::ffff:51\.254\.131\.65\]\r\n
-220 ProFTPD 1\.3\.5b Server \(RunTheWorld\) \[5\.196\.134\.64\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Ruralbit - Sites Clientes\) \[95\.216\.29\.106\]\r\n
-220 ProFTPD 1\.3\.5b Server \(STAGE DECO\.AGENCY\) \[95\.216\.96\.48\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Sentora FTP Server\) \[::ffff:139\.162\.18\.51\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Sentora FTP Server\) \[::ffff:45\.32\.8\.244\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Seolyzer FTP\) \[::ffff:178\.32\.113\.213\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Seolyzer FTP\) \[::ffff:178\.32\.113\.60\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Seolyzer FTP\) \[::ffff:178\.32\.117\.211\]\r\n
-220 ProFTPD 1\.3\.5b Server \(Seolyzer FTP\) \[::ffff:54\.36\.91\.221\]\r\n
-220 ProFTPD 1\.3\.5b Server \(TWW\) \[::ffff:178\.32\.106\.33\]\r\n
-220 ProFTPD 1\.3\.5b Server \(TwojeStudioFTP\) \[::ffff:95\.216\.56\.244\]\r\n
-220 ProFTPD 1\.3\.5b Server \(XChange\) \[54\.36\.110\.189\]\r\n
-220 ProFTPD 1\.3\.5b Server \(accelerator\.copernicus\.eu\) \[54\.36\.18\.79\]\r\n
-220 ProFTPD 1\.3\.5b Server \(activitour\) \[54\.36\.82\.49\]\r\n
-220 ProFTPD 1\.3\.5b Server \(as1\) \[116\.202\.98\.152\]\r\n
-220 ProFTPD 1\.3\.5b Server \(cbir\) \[116\.202\.107\.113\]\r\n
-220 ProFTPD 1\.3\.5b Server \(cloud\.kameameahfilms\.org\) \[46\.226\.110\.131\]\r\n
-220 ProFTPD 1\.3\.5b Server \(eko7\) \[94\.152\.208\.29\]\r\n
-220 ProFTPD 1\.3\.5b Server \(eko7\) \[94\.152\.208\.73\]\r\n
-220 ProFTPD 1\.3\.5b Server \(flg-development\.info\) \[::ffff:116\.202\.2\.164\]\r\n
-220 ProFTPD 1\.3\.5b Server \(ftp\.smartblue\.de\) \[116\.202\.23\.99\]\r\n
-220 ProFTPD 1\.3\.5b Server \(hosting-1 FTP Server\) \[::ffff:95\.216\.153\.94\]\r\n
-220 ProFTPD 1\.3\.5b Server \(media1\) \[116\.202\.100\.129\]\r\n
-220 ProFTPD 1\.3\.5b Server \(o2\.oqc\.fr\) \[51\.254\.139\.207\]\r\n
-220 ProFTPD 1\.3\.5b Server \(s1\.breizhchrono\) \[::ffff:178\.32\.110\.151\]\r\n
-220 ProFTPD 1\.3\.5b Server \(s56\.mhost\.eu\) \[51\.254\.198\.95\]\r\n
-220 ProFTPD 1\.3\.5b Server \(s76\.mhost\.eu\) \[51\.254\.198\.86\]\r\n
-220 ProFTPD 1\.3\.5b Server \(srv01\.mirlir\.com FTP Server\) \[::ffff:95\.216\.69\.123\]\r\n
-220 ProFTPD 1\.3\.5b Server \(srv2\.ruttkamp\.com FTP Server\) \[::ffff:95\.216\.20\.213\]\r\n
-220 ProFTPD 1\.3\.5b Server \(vh0091\.ivin\.nl\) \[51\.254\.156\.179\]\r\n
-220 ProFTPD 1\.3\.5b Server \(vps694501\) \[178\.32\.126\.86\]\r\n
-220 ProFTPD 1\.3\.5b Server \(vps694501\) \[54\.36\.181\.228\]\r\n
-220 ProFTPD 1\.3\.5b Server \(vs4\.huxley\) \[::ffff:178\.32\.63\.108\]\r\n
-220 ProFTPD 1\.3\.5b Server \(vs4\.huxley\) \[::ffff:178\.32\.96\.225\]\r\n
-220 ProFTPD 1\.3\.5b Server \(vs4\.huxley\) \[::ffff:54\.36\.13\.139\]\r\n
-220 ProFTPD 1\.3\.5b Server \(worker1\) \[116\.202\.106\.8\]\r\n
-220 ProFTPD 1\.3\.5b Server ready\.\r\n
-220 ProFTPD 1\.3\.5d Server \(Debian\) \[::ffff:178\.32\.115\.10\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.160\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.161\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.162\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.163\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.164\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.165\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.166\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.167\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.168\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.169\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.170\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.171\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.172\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.173\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.174\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[178\.32\.72\.175\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[54\.36\.163\.129\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[54\.36\.172\.140\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[5\.196\.61\.142\]\r\n
-220 ProFTPD 1\.3\.5d Server \(ProFTPD\) \[94\.232\.175\.210\]\r\n
-220 ProFTPD 1\.3\.5d Server ready\.\r\n
-220 ProFTPD 1\.3\.5e Server \('FACT-Finder\) \[::ffff:62\.140\.8\.22\]\r\n
-220 ProFTPD 1\.3\.5e Server \(159\.203\.75\.82\) \[::ffff:159\.203\.75\.82\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Bellevue Import Server 2\.0\) \[116\.202\.27\.33\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:116\.202\.70\.197\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:178\.32\.52\.171\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:178\.32\.58\.157\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:178\.32\.60\.253\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:45\.32\.107\.231\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:45\.32\.110\.162\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:45\.32\.113\.155\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:45\.32\.11\.170\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:45\.32\.126\.170\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:45\.32\.144\.186\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:51\.254\.103\.238\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:5\.196\.36\.84\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:5\.196\.68\.16\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:5\.196\.74\.158\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:95\.216\.123\.181\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:95\.216\.13\.148\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:95\.216\.153\.96\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:95\.216\.18\.26\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Centos\) \[::ffff:95\.216\.96\.176\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Coiner ftp\) \[::ffff:95\.216\.151\.169\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[116\.202\.100\.54\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[116\.202\.80\.199\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[139\.162\.164\.18\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[139\.162\.176\.203\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[54\.36\.199\.16\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[5\.196\.118\.123\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:103\.132\.95\.102\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:103\.133\.25\.210\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:104\.234\.11\.85\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:10\.20\.0\.6\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:10\.55\.55\.22\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:10\.90\.90\.100\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:10\.90\.90\.110\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:116\.202\.110\.125\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:116\.202\.28\.115\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:116\.202\.2\.161\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.119\.30\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.132\.27\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.141\.67\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.149\.151\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.14\.245\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.165\.40\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.171\.225\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.183\.138\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.197\.95\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.202\.129\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.210\.83\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.212\.181\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.212\.82\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.219\.234\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.3\.125\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.48\.46\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:139\.162\.69\.95\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:159\.203\.102\.72\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:159\.203\.114\.245\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:159\.203\.133\.84\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:159\.203\.39\.205\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:159\.203\.57\.100\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:159\.203\.69\.252\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:159\.203\.7\.5\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:159\.203\.82\.24\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:172\.31\.10\.56\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:178\.32\.116\.169\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:178\.32\.117\.120\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:178\.32\.47\.196\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:178\.32\.97\.231\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:45\.32\.102\.212\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:45\.32\.104\.106\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:45\.32\.106\.40\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:45\.32\.149\.187\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:45\.32\.7\.23\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:46\.226\.108\.212\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:46\.226\.109\.225\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:46\.226\.111\.72\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.125\.154\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.189\.225\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.25\.80\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.25\.81\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.25\.82\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.25\.83\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.25\.85\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.25\.86\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.25\.88\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.25\.89\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.25\.91\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.25\.92\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.25\.93\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.25\.94\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.25\.95\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.32\.203\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.46\.241\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:51\.254\.47\.45\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.102\.170\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.110\.88\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.120\.219\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.123\.105\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.123\.40\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.208\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.209\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.210\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.211\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.212\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.214\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.215\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.216\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.217\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.218\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.219\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.220\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.221\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.222\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.133\.223\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.166\.144\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.16\.129\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.174\.52\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.176\.146\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.189\.49\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.53\.148\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.85\.81\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.85\.82\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.85\.83\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:54\.36\.99\.148\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:5\.196\.139\.181\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:5\.196\.220\.220\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:5\.196\.253\.144\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:5\.196\.30\.68\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:5\.196\.41\.153\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:5\.196\.50\.247\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:5\.196\.67\.215\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:5\.196\.67\.234\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:5\.196\.79\.33\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:5\.196\.89\.29\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:5\.196\.94\.49\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.102\.4\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.108\.83\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.112\.116\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.138\.204\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.138\.77\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.145\.174\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.148\.100\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.149\.188\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.152\.107\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.21\.184\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.29\.92\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.41\.231\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.61\.149\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.66\.86\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Debian\) \[::ffff:95\.216\.68\.103\]\r\n
-220 ProFTPD 1\.3\.5e Server \(EcoWeb FTP Server\) \[::ffff:139\.162\.163\.102\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Estel Direct\) \[95\.216\.78\.3\]\r\n
-220 ProFTPD 1\.3\.5e Server \(FTP Server\) \[::ffff:159\.203\.27\.197\]\r\n
-220 ProFTPD 1\.3\.5e Server \(FTP\) \[::ffff:116\.202\.2\.92\]\r\n
-220 ProFTPD 1\.3\.5e Server \(FTPd Server\) \[172\.16\.1\.13\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Guisup\) \[::ffff:178\.32\.104\.213\]\r\n
-220 ProFTPD 1\.3\.5e Server \(LemonCom - WebServer #04\) \[::ffff:54\.36\.99\.30\]\r\n
-220 ProFTPD 1\.3\.5e Server \(MariluzNet\) \[::ffff:177\.124\.183\.236\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Nichel FTP Server\) \[139\.162\.176\.147\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Oneal Europe\) \[116\.202\.47\.240\]\r\n
-220 ProFTPD 1\.3\.5e Server \(ProFTPD Default Installation\) \[::ffff:139\.162\.38\.82\]\r\n
-220 ProFTPD 1\.3\.5e Server \(ProFTPD\) \[::ffff:159\.203\.3\.44\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Seeds Ftp Server\) \[::ffff:54\.36\.13\.116\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Sentora FTP Server\) \[::ffff:139\.162\.6\.98\]\r\n
-220 ProFTPD 1\.3\.5e Server \(Sentora FTP Server\) \[::ffff:45\.32\.126\.62\]\r\n
-220 ProFTPD 1\.3\.5e Server \(SisAgroMRS\) \[159\.203\.141\.30\]\r\n
-220 ProFTPD 1\.3\.5e Server \(TSL - Web Server\) \[139\.162\.161\.107\]\r\n
-220 ProFTPD 1\.3\.5e Server \(UIPRAIL\) \[46\.226\.110\.205\]\r\n
-220 ProFTPD 1\.3\.5e Server \(admin\.joshliao\.com FTP Server\) \[::ffff:139\.162\.29\.216\]\r\n
-220 ProFTPD 1\.3\.5e Server \(box-399199\.kphservices\.com\) \[5\.196\.68\.10\]\r\n
-220 ProFTPD 1\.3\.5e Server \(bvk\.imanage\.ch\) \[::ffff:116\.202\.105\.8\]\r\n
-220 ProFTPD 1\.3\.5e Server \(capecom\.co\.uk\) \[::ffff:45\.32\.132\.78\]\r\n
-220 ProFTPD 1\.3\.5e Server \(cdn4\.icatalogue\.com\) \[139\.162\.191\.176\]\r\n
-220 ProFTPD 1\.3\.5e Server \(ereprise\.ma\) \[::ffff:51\.254\.37\.51\]\r\n
-220 ProFTPD 1\.3\.5e Server \(ersinilgun\.com\) \[::ffff:54\.36\.85\.80\]\r\n
-220 ProFTPD 1\.3\.5e Server \(eurofarmcentar\.ba\) \[::ffff:139\.162\.182\.186\]\r\n
-220 ProFTPD 1\.3\.5e Server \(fondationbrigittebardot\) \[54\.36\.104\.90\]\r\n
-220 ProFTPD 1\.3\.5e Server \(ftp\.rostelecom\.com\.br\) \[::ffff:177\.124\.64\.251\]\r\n
-220 ProFTPD 1\.3\.5e Server \(ftptransp\) \[40\.78\.145\.71\]\r\n
-220 ProFTPD 1\.3\.5e Server \(gotrealit\.com\) \[::ffff:159\.203\.127\.148\]\r\n
-220 ProFTPD 1\.3\.5e Server \(groupauto\.ftp\.izimotive\.com\) \[::ffff:54\.36\.111\.92\]\r\n
-220 ProFTPD 1\.3\.5e Server \(hub\.imslot\.net\) \[54\.36\.114\.141\]\r\n
-220 ProFTPD 1\.3\.5e Server \(jpweb01\) \[::ffff:139\.162\.69\.174\]\r\n
-220 ProFTPD 1\.3\.5e Server \(linuxServerFtp\) \[::ffff:95\.216\.33\.196\]\r\n
-220 ProFTPD 1\.3\.5e Server \(localhost\) \[::ffff:116\.202\.24\.63\]\r\n
-220 ProFTPD 1\.3\.5e Server \(mailrelay2\) \[::ffff:95\.216\.155\.168\]\r\n
-220 ProFTPD 1\.3\.5e Server \(marocgeo\.net\) \[::ffff:54\.36\.108\.210\]\r\n
-220 ProFTPD 1\.3\.5e Server \(novalyo_ftp\) \[178\.32\.97\.216\]\r\n
-220 ProFTPD 1\.3\.5e Server \(pc275\.com\) \[::ffff:159\.203\.13\.249\]\r\n
-220 ProFTPD 1\.3\.5e Server \(pickmycampingcot\.com\) \[::ffff:45\.32\.65\.173\]\r\n
-220 ProFTPD 1\.3\.5e Server \(runvs\.de FTP Server\) \[::ffff:95\.216\.66\.21\]\r\n
-220 ProFTPD 1\.3\.5e Server \(safranbio\.fr\) \[::ffff:5\.196\.58\.146\]\r\n
-220 ProFTPD 1\.3\.5e Server \(testsite\.csr-stay\.com\) \[::ffff:178\.32\.106\.117\]\r\n
-220 ProFTPD 1\.3\.5e Server \(training\.brainlang\.com\) \[::ffff:51\.254\.45\.9\]\r\n
-220 ProFTPD 1\.3\.5e Server \(web1\.antony\.de FTP Server\) \[::ffff:116\.202\.31\.120\]\r\n
-220 ProFTPD 1\.3\.5e Server \(web6\.grilli\.net FTP Server\) \[5\.196\.111\.196\]\r\n
-220 ProFTPD 1\.3\.5e Server ready\.\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(104\.236\.242\.200\) \[::ffff:159\.203\.77\.75\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[139\.162\.160\.248\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[159\.203\.40\.98\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[173\.208\.153\.26\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[173\.208\.153\.28\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[173\.208\.153\.30\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[178\.32\.105\.44\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:10\.17\.0\.6\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:139\.162\.177\.99\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:139\.162\.205\.24\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:139\.162\.212\.142\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:159\.203\.138\.83\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:159\.203\.67\.96\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:178\.32\.104\.81\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:178\.32\.12\.155\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:45\.32\.107\.92\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:45\.32\.118\.233\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:5\.196\.105\.210\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:5\.196\.122\.201\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:5\.196\.68\.11\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:5\.196\.73\.173\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:5\.196\.74\.234\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:5\.196\.85\.80\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:5\.196\.88\.137\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:5\.196\.89\.209\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Debian\) \[::ffff:95\.216\.70\.189\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(SBC\) \[::ffff:159\.203\.29\.171\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Sentora FTP Server\) \[::ffff:159\.203\.86\.2\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Sentora FTP Server\) \[::ffff:45\.32\.58\.8\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Sentora FTP Server\) \[::ffff:45\.32\.66\.204\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(Server tion\.com\.pl\) \[::ffff:5\.196\.248\.139\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(ftp\.amazingraze\.co\) \[::ffff:139\.162\.28\.168\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(ftp\.salefinder\.com\.au\) \[::ffff:139\.162\.43\.63\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(mail\.gbeegames\.com\) \[::ffff:159\.203\.101\.178\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(members\.teamflower\.org\) \[::ffff:10\.17\.0\.5\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(ns1\) \[177\.124\.64\.10\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(onload\.com\.br\) \[::ffff:159\.203\.114\.21\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(pmiwdc\.online\) \[::ffff:159\.203\.70\.252\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(sdprc\.org\) \[::ffff:159\.203\.91\.23\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(wifisolution\.ch\) \[::ffff:5\.196\.134\.197\]\r\n
-220 ProFTPD 1\.3\.5rc3 Server \(zeus\.promonet\.it\) \[::ffff:5\.196\.95\.219\]\r\n
-220 ProFTPD 1\.3\.6rc1 Server \(ProFTPD Default Installation\) \[5\.196\.79\.53\]\r\n
-220 ProFTPD 1\.3\.6rc2 Server \(FTP server\) \[167\.235\.224\.126\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \('FACT-Finder\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(1UP Crew FTP\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(AP365-2\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Adevo\.io\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Agildataonline\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Babykind24 FTP\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Backup Firelive\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Bazile's FTP Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Bellevue Import Server 2\.0\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Bienvenido al FTP\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Cartronics\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Centos\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Coiner ftp\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Coyotophile\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(DIFFUSIONNET - Serveur 5419\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(DIFFUSIONNET - Serveur apia17\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(DIFFUSIONNET - Serveur apia18\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(DebianCS\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Debian\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Debian\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n500 GET non compreso\r\n500 Comando non valido: prova ad essere piÃ¹ creativo\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Debian\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Debian\)\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Default\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Demibarrio\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(EDV-Betrieb KK Gifhorn\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(EcoWeb FTP Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Ementor\.pl FTP\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Estel Direct\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(FILPAR\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(FTP Server: easyg01\.ext\.wadagency\.it\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(FTP Server: w01new\.wadagency\.it\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(FTP Server: w02\.fr7\.fpcns\.net\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(FTP Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(FTP server\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(FTPD\) \[localhost\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(FTP\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(FTP\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(FTPd Server\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Ferrum FTP server\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(FtpSrv\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(GRADIENT-DALLOZ\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(GRADIENT-FLF\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(GettyImagesEditorialFTP\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Guisup\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(IGG Media\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ITMSOIL FRANCE Argos FTP server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(JSFrance FTP\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Janus\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(LMDM-FTP\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(LemonCom - WebServer #04\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(MariluzNet\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Meteo Concept SAS\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Mikehome\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Nichel FTP Server\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Nieruchomosci\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Niezen Magento\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Novo Oeste\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Oneal Europe\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Online Internet\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Oro FTP Server @ Femar Consulting S\.r\.l\.\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(PAF TEAM server\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(PrezzoConveniente\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ProFTP Linux Services\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ProFTPD Default Installation\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ProFTPD Default Installation\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ProFTPD\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ProFTPD\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ProFTPD\)\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ProFTPD\)\r\n500 command not understood\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Prod CAP INFO\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Psi\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(REB FTP\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Resotic\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Respaldos\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(RunTheWorld\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Ruralbit - Sites Clientes\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(SPEAK33\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(STAGE DECO\.AGENCY\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(SVINFO\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Seeds Ftp Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Sentora FTP Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Seolyzer FTP\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Server Vega Internetsol\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Server\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(SisAgroMRS\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(TP-ShareDT\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(TP-Share\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(TSL - Web Server\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(TWW\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(TinyCloud FTP\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(TwojeStudioFTP\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(UIPRAIL\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(VALDECHER-CHENONCEAUX-BLERE\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ViGi Corp <F4> Darqroom\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(W31\.gropo\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Webloc_backup\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(XChange\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(Zpanel FTP Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(\d\d\.\d\d\.\d\d\.\d\d\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(accelerator\.copernicus\.eu\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(acmsi-backup\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(activitour\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(admin\.joshliao\.com FTP Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(arquivo\.academiadasapostas\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(as1\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ben\.hostmodern\.com\.au\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(box-399199\.kphservices\.com\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(bvk\.imanage\.ch\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(capecom\.co\.uk\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(cbir\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(cdn4\.icatalogue\.com\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(cloud\.kameameahfilms\.org\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(coval\.info\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(djanmamurserve\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(dr_server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(eko7\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ereprise\.ma\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ersinilgun\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(estheradeyemo\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(eurofarmcentar\.ba\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(flg-development\.info\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(fondationbrigittebardot\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ftp\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ftp\.ha1\.asteria\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ftp\.rostelecom\.com\.br\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ftp\.smartblue\.de\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ftp\.tuxum\.com\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ftp_bde_sigma\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ftptransp\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(gotrealit\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(groupauto\.ftp\.izimotive\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(host08\.netcec\.com\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(hosting-1 FTP Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(hotelpestera\.ro\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(housecallsforbaby\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(hub\.imslot\.net\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(itri\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(jpweb01\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(linuxServerFtp\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(localhost\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(lyra\.o2w\.es\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(mailrelay2\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(marocgeo\.net\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(media1\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(medici-storage3\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(misopa\.net\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(novalyo_ftp\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ns1\.investors\.empark\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ns1\.reservarparking\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(ns1\.tallerdereparacion\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(o2\.oqc\.fr\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(owncloud\.ife\.ugo\.aero\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(pc275\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(pickmycampingcot\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(runvs\.de FTP Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(s1\.breizhchrono\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(s1\.charserver\.net\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(s2\.speakyplanet\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(s2e\.see\.asso\.fr\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(s3new\.tominf\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(s56\.mhost\.eu\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(s76\.mhost\.eu\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(safranbio\.fr\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(salomonbrand\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(schlich\.cowic\.de\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(server2\.lezen\.nl\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(server\.blicex\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(server\.sinjhiteam\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(serveur ftp cobra@kimsufi\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(servidor\.sinjhiteam\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(shuionnc\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(srv01\.mirlir\.com FTP Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(srv1web1\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(srv1web1utpla\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(srv1web3\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(srv2\.ruttkamp\.com FTP Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(testsite\.csr-stay\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(training\.brainlang\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(tyxServeur\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(vh0091\.ivin\.nl\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(vm0\.pixelcreo\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(volvo-off\.pl\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(vps694501\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(vs4\.huxley\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(vs7\.kubiweb\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(web1\.antony\.de FTP Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(web6\.grilli\.net FTP Server\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(worker1\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server \(xHosting\.cz FTP server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef] Server ready\.\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]g Server \(ProFTPD Default Installation\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]g Server \(ProFTPD server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]g Server \(Secure FTP Server\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]g Server \(Sentora FTP Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]g Server \(Zpanel FTP Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc1 Server \(ProFTPD Default Installation\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc2 Server \(FTP server\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(Debian\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(Debian\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(SBC\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(Sentora FTP Server\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(Server tion\.com\.pl\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(\d\d\.\d\d\.\d\d\.\d\d\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(ftp\.amazingraze\.co\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(ftp\.salefinder\.com\.au\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(mail\.gbeegames\.com\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(members\.teamflower\.org\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(ns1\) \[\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(onload\.com\.br\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(pmiwdc\.online\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(sdprc\.org\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(wifisolution\.ch\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
+220 ProFTPD 1\.[123456789]\.[123456789][abcdef]rc3 Server \(zeus\.promonet\.it\) \[::ffff:\d\d\.\d\d\.\d\d\.\d\d\]\r\n
 220 ProFTPD FTP Server ready\.\r\n
 220 ProFTPD Server ready\.\r\n
 220 Pus Wanayasa FTP server \(MikroTik 6\.48\.7\) ready\r\n
@@ -1597,7 +618,7 @@
 220 RO-USERMAN-TINKNET FTP server \(MikroTik 7\.13\.4\) ready\r\n
 220 RO-WIFI-AREA-DARMAJAYA FTP server \(MikroTik 7\.12\.1\) ready\r\n
 220 ROUTER EVENTOS TL FTP server \(MikroTik 7\.12\.2\) ready\r\n
-220 RTK_GW FTP server \(GNU inetutils 1\.4\.1\) ready\.\r\n
+220 RTK_GW FTP server \(GNU inetutils 1\.[123456789]\.[123456789][abcdef]\) ready\.\r\n
 220 RTR-CARLOROSCIOLI FTP server \(MikroTik 6\.49\.7\) ready\r\n
 220 RackSw FTP server \(MikroTik 6\.49\.11\) ready\r\n
 220 Ready\r\n502 Not implemented\r\n
@@ -1620,7 +641,7 @@
 220 SERV LOKAL FTP server \(MikroTik 6\.49\.10\) ready\r\n
 220 SERVER IENTC FTP server \(MikroTik 6\.45\.9\) ready\r\n
 220 SHamsGolbon FTP server \(MikroTik 6\.49\.13\) ready\r\n
-220 SM164242-GHDUHR-T21 FTP server \(GNU inetutils 1\.4\.1\) ready\.\r\n
+220 SM164242-GHDUHR-T21 FTP server \(GNU inetutils 1\.[123456789]\.[123456789][abcdef]\) ready\.\r\n
 220 SMANKA-UTAMA FTP server \(MikroTik 7\.15\.3\) ready\r\n
 220 SMTP service ready\r\n214-Commands:\r\r\n214-\tDATA\tRCPT\tMAIL\tQUIT\tRSET\r\r\n214 \tHELO\tVRFY\tEXPN\tHELP\tNOOP\r\n
 220 SORIF-CORE FTP server \(MikroTik 7\.10\) ready\r\n
@@ -1739,8 +760,8 @@
 220 \"Welcome to Bot FTP service\.\"\r\n331 Please specify the password\.\r\n230 Login successful\. Have fun\.\r\n
 220 \(\(LHG ESTACAO - DIEGO BURIN\)\) FTP server \(MikroTik 6\.47\.9\) ready\r\n
 220 \(dS\) FTP server ready\.\r\n530 Please login with USER and PASS\.\r\n530 Please login with USER and PASS\.\r\n
-220 \(none\) FTP server \(GNU inetutils 1\.4\.1\) ready\.\r\n
-220 \(none\) FTP server \(GNU inetutils 1\.4\.1\) ready\.\r\n500 'GET / HTTP/1\.0': command not understood\.\r\n500 '': command not understood\.\r\n
+220 \(none\) FTP server \(GNU inetutils 1\.[123456789]\.[123456789][abcdef]\) ready\.\r\n
+220 \(none\) FTP server \(GNU inetutils 1\.[123456789]\.[123456789][abcdef]\) ready\.\r\n500 'GET / HTTP/1\.0': command not understood\.\r\n500 '': command not understood\.\r\n
 220 \(vsFTPd 2\.0\.5\)\r\n
 220 \(vsFTPd 2\.0\.6\)\r\n
 220 \(vsFTPd 2\.0\.7\)\r\n
@@ -1755,6 +776,8 @@
 220 \(vsFTPd 3\.0\.3\)\r\n
 220 \(vsFTPd 3\.0\.3\)\r\n530 Please login with USER and PASS\.\r\n
 220 \(vsFTPd 3\.0\.5\)\r\n
+220 \d\d\.\d\d\.\d\d\.\d\d FTP server \(tnftpd 20100324\+GSSAPI\) ready\.\r\n
+220 \d\d\.\d\d\.\d\d\.\d\d FTP server ready\r\n
 220 \r\n500 Unknown command: \"\"\r\n500 Unknown command: \"\"\r\n
 220 \r\n500-'\r\n500  ': command not understood\.\r\n500-'\r\n500  ': command not understood\.\r\n
 220 aFTPServer ready \(cwd is /\)\r\n
@@ -1763,13 +786,10 @@
 220 altiore FTP server \(Version 6\.4/OpenBSD/Linux-ftpd-0\.17\) ready\.\r\n
 220 anapaula\.casa FTP server \(MikroTik 6\.42\.1\) ready\r\n
 220 awaiting Input\r\n
-220 bftpd 1\.6\.6 at 185\.180\.89\.183 ready\.\r\n
-220 bftpd 2\.2 at 103\.133\.122\.52 ready\.\r\n
-220 bftpd 2\.2 at 103\.133\.126\.63 ready\.\r\n
-220 bftpd 2\.2 at 45\.188\.139\.64 ready\.\r\n
-220 bftpd 2\.2\.1 at 192\.168\.1\.1 ready\.\r\n
-220 bftpd 4\.4 at 10\.0\.0\.1 ready\.\r\n
-220 bftpd 4\.4 at 81\.16\.214\.108 ready\.\r\n
+220 bftpd 1\.[123456789]\.[123456789][abcdef] at \d\d\.\d\d\.\d\d\.\d\d ready\.\r\n
+220 bftpd 2\.2 at \d\d\.\d\d\.\d\d\.\d\d ready\.\r\n
+220 bftpd 2\.2\.1 at \d\d\.\d\d\.\d\d\.\d\d ready\.\r\n
+220 bftpd 4\.4 at \d\d\.\d\d\.\d\d\.\d\d ready\.\r\n
 220 bit\.soliday\.ru FTP server \(Version 6\.00LS\) ready\.\r\n
 220 blog\.danbo\.bg FTP server \(Version 6\.00LS\) ready\.\r\n
 220 cloudjunkie FTP server \(GNU inetutils 2\.4\) ready\.\r\n
@@ -1801,7 +821,7 @@
 220 localhost FTP server \(Version 6\.4/OpenBSD/Linux-ftpd-0\.17\) ready\.\r\n
 220 localhost FTP server ready\r\n214-The following commands are recognized \(\* =>'s unimplemented\)\.\r\n214-USER    PASS    ACCT\*   CWD     XCWD    CDUP    XCUP    SMNT\*   \r\n214-QUIT    REIN\*   PORT    PASV    TYPE    STRU    MODE    RETR    \r\n214-STOR    STOU    APPE    ALLO\*   REST    RNFR    RNTO    ABOR    \r\n214-DELE
 220 localhost\.localdomain FTP server \(GNU inetutils 1\.5\) ready\.\r\n
-220 localhost\.localdomain FTP server \(GNU inetutils 1\.9\.4\) ready\.\r\n
+220 localhost\.localdomain FTP server \(GNU inetutils 1\.[123456789]\.[123456789][abcdef]\) ready\.\r\n
 220 mail\.gate4\.net CommuniGate Pro FTP Server 6\.2\.15 ready\r\n
 220 mail\.gate4\.net CommuniGate Pro FTP Server 6\.2\.15 ready\r\n500 Invalid command; use HELP\r\n
 220 mikrotik_dist_kapencar_5009 FTP server \(MikroTik 7\.8\) ready\r\n
@@ -1820,8 +840,7 @@
 220 pro\.godroad\.tw FTP server \(Version 6\.00LS\) ready\.\r\n
 220 ps2ftpd ready\.\r\n500 Not understood\.\r\n
 220 psf oswaldo cruz slp FTP server \(MikroTik 6\.49\.8\) ready\r\n
-220 pyftpdlib 1\.4\.0 ready\.\r\n
-220 pyftpdlib 1\.5\.6 ready\.\r\n
+220 pyftpdlib 1\.[123456789]\.[123456789][abcdef] ready\.\r\n
 220 pyftpdlib 2\.0\.0 ready\.\r\n
 220 pyftpdlib 2\.0\.1 ready\.\r\n
 220 radar\.4 FTP server \(MikroTik 6\.49\.17\) ready\r\n
@@ -5523,41 +4542,23 @@
 220-FileZilla Server 0\.9\.60 beta\r\n220-written by Tim Kosse \(Tim\.Kosse@gmx\.de\)\r\n220 Please visit https://filezilla-project\.org/\r\n
 220-FileZilla Server 0\.9\.60 beta\r\n220-written by Tim Kosse \(tim\.kosse@filezilla-project\.org\)\r\n220 Please visit https://filezilla-project\.org/\r\n
 220-FileZilla Server 0\.9\.60 beta\r\n220-written by Tim Kosse \(tim\.kosse@filezilla-project\.org\)\r\n220 Please visit https://filezilla-project\.org/\r\n500 Syntax error, command unrecognized\.\r\n
-220-FileZilla Server 1\.0\.1\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.1\.0\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.2\.0\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.3\.0\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.4\.1\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.5\.0\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.5\.1\r\n220-Please visit https://filezilla-project\.org/\r\n220 Benvenuti in FTPs di NTS Project srl\r\n
-220-FileZilla Server 1\.6\.1\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.6\.1\r\n220-Please visit https://filezilla-project\.org/\r\n220 Bienvenu sur le serveur web de stÃ©phane\.\r\n
-220-FileZilla Server 1\.6\.1\r\n220-Please visit https://filezilla-project\.org/\r\n220 Hi Connect\r\n
-220-FileZilla Server 1\.6\.5\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.6\.6\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.6\.7\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.7\.0\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.7\.1\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.7\.2\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.7\.3\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.7\.3\r\n220-Please visit https://filezilla-project\.org/\r\n220 FTP Server\.\r\n
-220-FileZilla Server 1\.7\.3\r\n220-Please visit https://filezilla-project\.org/\r\n220 Welcome to SRV_GRC\r\n
-220-FileZilla Server 1\.8\.0-rc1\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.8\.0\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.8\.1\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.8\.1\r\n220-Please visit https://filezilla-project\.org/\r\n220 Welcome PremioTravel FTP!\r\n
-220-FileZilla Server 1\.8\.1\r\n220-Please visit https://filezilla-project\.org/\r\n220 Welcome to Praxedo FTP Server \(eu1\)\r\n
-220-FileZilla Server 1\.8\.2\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.8\.2\r\n220-Please visit https://filezilla-project\.org/\r\n220 Welcome Transfer Data\r\n
-220-FileZilla Server 1\.9\.1\r\n220-Please visit https://filezilla-project\.org/\r\n220 SEMSEye ftp\r\n
-220-FileZilla Server 1\.9\.3\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.9\.4\r\n220 Please visit https://filezilla-project\.org/\r\n
-220-FileZilla Server 1\.9\.4\r\n220 Please visit https://filezilla-project\.org/\r\n421 Login time exceeded\. Closing control connection\.\r\n
-220-FileZilla Server 1\.9\.4\r\n220 Please visit https://filezilla-project\.org/\r\n501 What are you trying to do\? Go away\.\r\n
-220-FileZilla Server 1\.9\.4\r\n220-Please visit https://filezilla-project\.org/\r\n220 Bienvenido a mi FTP\. Por favor logueate con tus datos y disfruta de tu espacio de almacenamiento en la nube\.\r\n
-220-FileZilla Server 1\.9\.4\r\n220-Please visit https://filezilla-project\.org/\r\n220 Novasystems\r\n
-220-FileZilla Server 1\.9\.4\r\n220-Please visit https://filezilla-project\.org/\r\n220 Welcome to DÃ¶nerinsel FTP Server\r\n
-220-FileZilla Server 1\.9\.4\r\n220-Please visit https://filezilla-project\.org/\r\n220 nope!\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]-rc1\r\n220 Please visit https://filezilla-project\.org/\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220 Please visit https://filezilla-project\.org/\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220 Please visit https://filezilla-project\.org/\r\n421 Login time exceeded\. Closing control connection\.\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220 Please visit https://filezilla-project\.org/\r\n501 What are you trying to do\? Go away\.\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220-Please visit https://filezilla-project\.org/\r\n220 Benvenuti in FTPs di NTS Project srl\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220-Please visit https://filezilla-project\.org/\r\n220 Bienvenido a mi FTP\. Por favor logueate con tus datos y disfruta de tu espacio de almacenamiento en la nube\.\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220-Please visit https://filezilla-project\.org/\r\n220 Bienvenu sur le serveur web de stÃ©phane\.\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220-Please visit https://filezilla-project\.org/\r\n220 FTP Server\.\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220-Please visit https://filezilla-project\.org/\r\n220 Hi Connect\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220-Please visit https://filezilla-project\.org/\r\n220 Novasystems\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220-Please visit https://filezilla-project\.org/\r\n220 SEMSEye ftp\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220-Please visit https://filezilla-project\.org/\r\n220 Welcome PremioTravel FTP!\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220-Please visit https://filezilla-project\.org/\r\n220 Welcome Transfer Data\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220-Please visit https://filezilla-project\.org/\r\n220 Welcome to DÃ¶nerinsel FTP Server\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220-Please visit https://filezilla-project\.org/\r\n220 Welcome to Praxedo FTP Server \(eu1\)\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220-Please visit https://filezilla-project\.org/\r\n220 Welcome to SRV_GRC\r\n
+220-FileZilla Server 1\.[123456789]\.[123456789][abcdef]\r\n220-Please visit https://filezilla-project\.org/\r\n220 nope!\r\n
 220-FileZilla Server version 0\.9\.24 beta\r\n
 220-FileZilla Server version 0\.9\.24 beta\r\n220-written by Tim Kosse \(Tim\.Kosse@gmx\.de\)\r\n
 220-FileZilla Server version 0\.9\.24 beta\r\n220-written by Tim Kosse \(Tim\.Kosse@gmx\.de\)\r\n220 Please visit http://sourceforge\.net/projects/filezilla/\r\n
@@ -5609,12 +4610,12 @@
 220-Microsoft FTP Service\r\n220 FTP SERVER\r\n
 220-Microsoft FTP Service\r\n220 Login Successful\r\n
 220-Microsoft FTP Service\r\n220 apicodial\.cap-info\.fr - Serveur FTP développement Groupe CAP INFO\r\n
-220-Naposoldal-FTP\r\n    WarFTPd 1\.82\.00-RC13 \(Sep 12 2009\) Ready\r\n    \(C\)opyright 1996 - 2009 by Jarle \(jgaa\) Aase - all rights reserved\.\r\n220 Please enter your user name\.\r\n421 Illegal command string\. Goodbye\.\r\n
+220-Naposoldal-FTP\r\n    WarFTPd 1\.[123456789]\.[123456789][abcdef]-RC13 \(Sep 12 2009\) Ready\r\n    \(C\)opyright 1996 - 2009 by Jarle \(jgaa\) Aase - all rights reserved\.\r\n220 Please enter your user name\.\r\n421 Illegal command string\. Goodbye\.\r\n
 220-Playstation 3 FTP    \r\n220 Copyleft \(c\) \d+ multiMAN \(login as anonymous\)    \r\n
 220-Serv-U FTP Server for Winsock\r\n
 220-Setting memory limit to 1024\+1024kbytes\r\n220-Local time is now \d+:\d+ and the load is [\d.]+\.\r\n220 You will be disconnected after \d+ seconds of inactivity.\r\n
-220-SlimFTPd 3\.17, by WhitSoft Development \(www\.whitsoftdev\.com\)\r\n220-You are connecting from 64\.95\.12\.82:52730\.\r\n220 Proceed with login\.\r\n
-220-SlimFTPd 3\.181, by WhitSoft Development \(www\.whitsoftdev\.com\)\r\n220-You are connecting from 64\.95\.12\.82:60510\.\r\n220 Proceed with login\.\r\n
+220-SlimFTPd 3\.17, by WhitSoft Development \(www\.whitsoftdev\.com\)\r\n220-You are connecting from \d\d\.\d\d\.\d\d\.\d\d:52730\.\r\n220 Proceed with login\.\r\n
+220-SlimFTPd 3\.181, by WhitSoft Development \(www\.whitsoftdev\.com\)\r\n220-You are connecting from \d\d\.\d\d\.\d\d\.\d\d:60510\.\r\n220 Proceed with login\.\r\n
 220-TwoFTPd server ready\.\r\n220 Authenticate first\.\r\n
 220-Welcome To Rumpus!\r\n220 Service ready for new user\r\n
 220-Welcome to Cerberus FTP Server\r\n220 Created by Cerberus, LLC\r\n
@@ -5710,9 +4711,8 @@
 500 OOPS: vsftpd: not found: directory given in 'secure_chroot_dir':/var/run/vsftpd/empty\r\n
 500 OOPS: vsftpd: not found: directory given in 'secure_chroot_dir':/var/run/vsftpd/empty\r\n500 OOPS: priv_sock_get_cmd\r\n
 500 OOPS: vsftpd: refusing to run with writable root inside chroot\(\)\r\n
-500 Sorry, no server available to handle request on 178\.32\.68\.13\r\n
-500 Sorry, no server available to handle request on ::ffff:54\.36\.189\.72\r\n
-500 Sorry, no server available to handle request on ::ffff:54\.36\.190\.237\r\n
+500 Sorry, no server available to handle request on ::ffff:\d\d\.\d\d\.\d\d\.\d\d\r\n
+500 Sorry, no server available to handle request on \d\d\.\d\d\.\d\d\.\d\d\r\n
 500 Sorry, no server available to handle request on ip190\.ip-178-32-121\.eu\r\n
 500 Sorry, no server available to handle request on ns3090421\.ip-54-36-62\.eu\r\n
 530 Connection refused, unknown IP address\.\r\n

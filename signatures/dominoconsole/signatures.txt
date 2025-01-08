@@ -1,3 +1,3 @@
 [A-Z][a-z]{2} [A-Z][a-z]{2} +\d{1,2} +\d\d:\d\d:\d\d (?:19|20)\d\d\r\n
-\x1b\[0mVRCDN Media Server 1\.2\.0 \(git hash: e45aed0/202d-01-0dT0d:0d:0d\+02:00,branch: dev,build time: 202d-01-0dT0d:0d:0d\) login:
-ÿþ\x01ÿû\x01\r\n\r\n\n\nTeldat               \(c\)2001-2013\r\n\nRouter model ATLAS360 IPSec 15 27 CPU PowerQuiccIII  S/N: 547/02361\r\n10 LAN\r\nCIT software version: 10\.09\.12\.00\.02 Jan 17 2014 0d:0d:0d\r\n\r\n\r\n\r\n\r\n
+\x1b\[0mVRCDN Media Server 1\.[123456789]\.[123456789][abcdef] \(git hash: e45aed0/202d-01-0dT0d:0d:0d\+02:00,branch: dev,build time: 202d-01-0dT0d:0d:0d\) login:
+ÿþ\x01ÿû\x01\r\n\r\n\n\nTeldat               \(c\)2001-2013\r\n\nRouter model ATLAS360 IPSec 15 27 CPU PowerQuiccIII  S/N: 547/02361\r\n10 LAN\r\nCIT software version: \d\d\.\d\d\.\d\d\.\d\d\.02 Jan 17 2014 0d:0d:0d\r\n\r\n\r\n\r\n\r\n

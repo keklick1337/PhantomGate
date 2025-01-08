@@ -1,4 +1,3 @@
-login: Password: Login incorrect\.
-login: Password:
 login: Login incorrect\.
 login: Password:
+login: Password: Login incorrect\.

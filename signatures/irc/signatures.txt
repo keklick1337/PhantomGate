@@ -1,94 +1,90 @@
-NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking ident\r\nNOTICE AUTH :\*\*\* No identd \(auth\) response\r\nNOTICE AUTH :\*\*\* Found your hostname\r\n
-NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Found your hostname, welcome back\r\nNOTICE AUTH :\*\*\* Checking ident\r\nNOTICE AUTH :\*\*\* Got ident response\r\n
-ERROR :Trying to reconnect too fast\.\r\n
-NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Found your hostname\r\nNOTICE AUTH :\*\*\* Got Ident response\r\n
-NOTICE AUTH :\*\*\* Hostname lookup disabled, using your numeric IP\r\nNOTICE AUTH :\*\*\* Checking Ident\r\n
-NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Found your hostname\r\n
-NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* No Ident response\r\nNOTICE AUTH :\*\*\* Found your hostname\r\n
-NOTICE AUTH :\*\*\* Looking up your hostname\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Found your hostname\r\n
-NOTICE AUTH :\*\*\* Looking up your hostname\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Got ident response\r\nNOTICE AUTH :\*\*\* Couldn't look up your hostname\r\n
-NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking ident\r\nNOTICE AUTH :\*\*\*
-:Default-Chat-Community 421 \* GET :Unknown command\r\n
-NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking ident\r\nNOTICE AUTH :\*\*\* Got ident response\r\nNOTICE AUTH :\*\*\* Found your hostname\r\n
-ERROR :Reconnecting too fast, throttled\.\r\n
-NOTICE AUTH :\*\*\* Looking up your hostname\r\nNOTICE AUTH :\*\*\* Found your hostname, cached\r\nNOTICE AUTH :\*\*\* Checking Ident\r\n
-ERROR :Closing Link: \[[\d.]+\] \(Throttled: Reconnecting too fast\) -Email ([-\w_.]+@[-\w_.]+) for more information\.
-NOTICE AUTH :\*\*\* Looking up your hostname\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Couldn't look up your hostname\r\n
-ERROR :Closing Link: \[[\d.]+\] \(Too many unknown connections from your IP\)\r\n
-ERROR Your host is trying to \(re\)connect too fast -- throttled\r\n
-ERROR :Closing Link: \[[\d.]+\] \(Throttled: Reconnecting too fast\) -Email (.*) for more information\.
-NOTICE AUTH :\*\*\* Looking up your hostname\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* No ident response\r\n
-NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Found your hostname, welcome back\r\nNOTICE AUTH :\*\*\* Checking ident\r\nNOTICE AUTH :\*\*\* No identd \(auth\) response\r\n
-ERROR..Your host is trying to \(re\)connect too fast -- throttled\r\n
-NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Couldn't look up your hostname\r\n
 :194e4f7ed840 NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
-:alpha\.lkteam\.net NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
-:Defiant\.GeekShed\.net NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:Defiant\.GeekShed\.net NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n:Defiant\.GeekShed\.net NOTICE AUTH :\*\*\* No ident response; username prefixed with ~\r\n
 :95\.216\.149\.196 NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
+:Default-Chat-Community 421 \* GET :Unknown command\r\n
+:Defiant\.GeekShed\.net NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:Defiant\.GeekShed\.net NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n:Defiant\.GeekShed\.net NOTICE AUTH :\*\*\* No ident response; username prefixed with ~\r\n
 :TwinShadow\.eu NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:TwinShadow\.eu NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n
+:alpha\.lkteam\.net NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
 :alpha\.lkteam\.net NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:alpha\.lkteam\.net NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(172\.86\.75\.47\) instead\.\r\n
-:biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n:biggusdickus\.whing\.org NOTICE 937AACBFG :\*\*\* Skipping host resolution \(disabled by server administrator\)\r\n
 :biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n:biggusdickus\.whing\.org NOTICE 937AACBFF :\*\*\* Skipping host resolution \(disabled by server administrator\)\r\n
-:chat\.do-dear\.com NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n
+:biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n:biggusdickus\.whing\.org NOTICE 937AACBFG :\*\*\* Skipping host resolution \(disabled by server administrator\)\r\n
 :biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n:biggusdickus\.whing\.org NOTICE 937AACBFH :\*\*\* Skipping host resolution \(disabled by server administrator\)\r\n
-:boole\.flintfam\.org NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
 :biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:biggusdickus\.whing\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n:biggusdickus\.whing\.org NOTICE 937AACBFL :\*\*\* Skipping host resolution \(disabled by server administrator\)\r\n
-:hotdog\.de\.p2p-network\.net NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:hotdog\.de\.p2p-network\.net NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n
+:boole\.flintfam\.org NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
+:chat\.do-dear\.com NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n
+:eu3\.chat4all\.org NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:eu3\.chat4all\.org NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n:eu3\.chat4all\.org NOTICE AUTH :\*\*\* Couldn't resolve your hostname; using your IP address instead\r\n
 :godzilla\.jp\.p2p-network\.net NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:godzilla\.jp\.p2p-network\.net NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n
 :godzilla\.jp\.p2p-network\.net NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:godzilla\.jp\.p2p-network\.net NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n:godzilla\.jp\.p2p-network\.net NOTICE AUTH :\*\*\* Couldn't resolve your hostname; using your IP address instead\r\n
-:eu3\.chat4all\.org NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:eu3\.chat4all\.org NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n:eu3\.chat4all\.org NOTICE AUTH :\*\*\* Couldn't resolve your hostname; using your IP address instead\r\n
-:irc\.doujin\.cafe NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
-:irc\.disabilities-r-us\.com NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n
 :halcyon\.darenet\.org 451 \*  :Register first\.\r\n
-:irc\.internetplays\.com NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n
-:irc-01\.netwichtig\.ch 451 \* :You have not registered\r\n
+:hotdog\.de\.p2p-network\.net NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:hotdog\.de\.p2p-network\.net NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n
 :hybrid8\.debian\.local NOTICE \* :\*\*\* Looking up your hostname\r\n:hybrid8\.debian\.local NOTICE \* :\*\*\* Checking Ident\r\n:hybrid8\.debian\.local NOTICE \* :\*\*\* Couldn't look up your hostname\r\n
-:irc\.disabilities-r-us\.com NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.disabilities-r-us\.com NOTICE AUTH :\*\*\* Couldn't resolve your hostname; using your IP address instead\r\n
-:irc\.doujin\.cafe NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.doujin\.cafe NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(162\.33\.177\.19\) instead\.\r\n
-:irc\.local NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.local NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(64\.7\.199\.36\) instead\.\r\n
-:irc\.local NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
+:irc-01\.netwichtig\.ch 451 \* :You have not registered\r\n
 :irc\.aboututpia\.org 020 \* :Please wait while we process your connection\.\r\n
+:irc\.disabilities-r-us\.com NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n
+:irc\.disabilities-r-us\.com NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.disabilities-r-us\.com NOTICE AUTH :\*\*\* Couldn't resolve your hostname; using your IP address instead\r\n
+:irc\.doujin\.cafe NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
+:irc\.doujin\.cafe NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.doujin\.cafe NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(162\.33\.177\.19\) instead\.\r\n
+:irc\.internetplays\.com NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n
 :irc\.internetplays\.com NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.internetplays\.com NOTICE AUTH :\*\*\* Couldn't resolve your hostname; using your IP address instead\r\n
+:irc\.local NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
+:irc\.local NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.local NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(64\.7\.199\.36\) instead\.\r\n
 :irc\.planbserver\.com NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
 :irc\.planbserver\.com NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.planbserver\.com NOTICE Auth :\*\*\* Could not resolve your hostname: Request timed out; using your IP address \(149\.248\.78\.29\) instead\.\r\n
-:lion\.sg\.p2p-network\.net NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:lion\.sg\.p2p-network\.net NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n
 :irc\.xyxyx\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
-:kad NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
-:mars\.inframonde\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:mars\.inframonde\.org NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(72\.5\.42\.227\) instead\.\r\n
 :irc\.xyxyx\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:irc\.xyxyx\.org NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(64\.95\.12\.82\) instead\.\r\n
-:mars\.inframonde\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
-:puck NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
+:kad NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
+:lion\.sg\.p2p-network\.net NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:lion\.sg\.p2p-network\.net NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n
 :lion\.sg\.p2p-network\.net NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\n:lion\.sg\.p2p-network\.net NOTICE AUTH :\*\*\* Checking ident\.\.\.\r\n:lion\.sg\.p2p-network\.net NOTICE AUTH :\*\*\* Couldn't resolve your hostname; using your IP address instead\r\n
-:opal\.lizardirc\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:opal\.lizardirc\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n
-:navi\.fi\.h4ck\.io NOTICE \* :\*\*\* Looking up your hostname\r\n:navi\.fi\.h4ck\.io NOTICE \* :\*\*\* Checking Ident\r\n:navi\.fi\.h4ck\.io NOTICE \* :\*\*\* Couldn't look up your hostname\r\n
-:opal\.lizardirc\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:opal\.lizardirc\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n:opal\.lizardirc\.org NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(162\.33\.177\.19\) instead\.\r\n
-:skylab\.darenet\.org 451 \*  :Register first\.\r\n
+:mars\.inframonde\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
+:mars\.inframonde\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:mars\.inframonde\.org NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(72\.5\.42\.227\) instead\.\r\n
 :navi\.fi\.h4ck\.io NOTICE \* :\*\*\* Looking up your hostname\r\n:navi\.fi\.h4ck\.io NOTICE \* :\*\*\* Checking Ident\r\n
+:navi\.fi\.h4ck\.io NOTICE \* :\*\*\* Looking up your hostname\r\n:navi\.fi\.h4ck\.io NOTICE \* :\*\*\* Checking Ident\r\n:navi\.fi\.h4ck\.io NOTICE \* :\*\*\* Couldn't look up your hostname\r\n
+:opal\.lizardirc\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:opal\.lizardirc\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n
+:opal\.lizardirc\.org NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:opal\.lizardirc\.org NOTICE Auth :\*\*\* Looking up your ident\.\.\.\r\n:opal\.lizardirc\.org NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(162\.33\.177\.19\) instead\.\r\n
+:puck NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
 :shelter\.bunker\.org\.ua NOTICE \* :BitlBee-IRCd initialized, please go on\r\n
-:www\.gaypax\.com NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:www\.gaypax\.com NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(172\.86\.75\.47\) instead\.\r\n
+:skylab\.darenet\.org 451 \*  :Register first\.\r\n
 :www\.gaypax\.com NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n
-ERROR :Closing Link: \[162\.33\.177\.19\] \(Throttled: Reconnecting too fast\) -Email kline\+static@p2p-network\.net for more information\.\r\n
-ERROR :Closing Link: \[192\.153\.57\.193\] \(Too many unknown connections from your IP\)\r\n
+:www\.gaypax\.com NOTICE Auth :\*\*\* Looking up your hostname\.\.\.\r\n:www\.gaypax\.com NOTICE Auth :\*\*\* Could not resolve your hostname: Domain name not found; using your IP address \(172\.86\.75\.47\) instead\.\r\n
 ERROR :Closing Link: \[149\.248\.78\.29\] \(Too many unknown connections from your IP\)\r\n
-ERROR :Closing Link: \[193\.149\.190\.79\] \(Throttled: Reconnecting too fast\) -Email daniel@genericinbox\.com for more information\.\r\n
-ERROR :Your host is trying to \(re\)connect too fast -- throttled\.\r\n
-ERROR :Closing Link: \[64\.95\.12\.82\] \(Too many unknown connections from your IP\)\r\n
-ERROR :Closing Link: \[172\.86\.75\.47\] \(Too many unknown connections from your IP\)\r\n
-ERROR :Closing Link: \[45\.61\.137\.238\] \(Throttled: Reconnecting too fast\) -Email info@torrentseeds\.org for more information\.\r\n
+ERROR :Closing Link: \[162\.33\.177\.19\] \(Throttled: Reconnecting too fast\) -Email kline\+static@p2p-network\.net for more information\.\r\n
 ERROR :Closing Link: \[162\.33\.177\.19\] \(Too many unknown connections from your IP\)\r\n
-ERROR :Closing Link: \[72\.5\.42\.227\] \(Throttled: Reconnecting too fast\) -Email admin@recycled-irc\.net for more information\.\r\n
-ERROR :Closing Link: \[67\.217\.228\.78\] \(Too many unknown connections from your IP\)\r\n
-ERROR :Closing Link: \[64\.190\.113\.170\] \(Too many unknown connections from your IP\)\r\n
-ERROR :Your host is trying to \(re\)connect too fast -- throttled\r\n
+ERROR :Closing Link: \[172\.86\.75\.47\] \(Too many unknown connections from your IP\)\r\n
+ERROR :Closing Link: \[192\.153\.57\.193\] \(Too many unknown connections from your IP\)\r\n
+ERROR :Closing Link: \[193\.149\.190\.79\] \(Throttled: Reconnecting too fast\) -Email daniel@genericinbox\.com for more information\.\r\n
+ERROR :Closing Link: \[45\.61\.137\.238\] \(Throttled: Reconnecting too fast\) -Email info@torrentseeds\.org for more information\.\r\n
 ERROR :Closing Link: \[64\.190\.113\.170\] \(Throttled: Reconnecting too fast\) -Email http://support\.chat4all\.net for more information\.\r\n
+ERROR :Closing Link: \[64\.190\.113\.170\] \(Too many unknown connections from your IP\)\r\n
+ERROR :Closing Link: \[64\.95\.12\.82\] \(Too many unknown connections from your IP\)\r\n
+ERROR :Closing Link: \[67\.217\.228\.78\] \(Too many unknown connections from your IP\)\r\n
+ERROR :Closing Link: \[72\.5\.42\.227\] \(Throttled: Reconnecting too fast\) -Email admin@recycled-irc\.net for more information\.\r\n
+ERROR :Closing Link: \[[\d.]+\] \(Throttled: Reconnecting too fast\) -Email (.*) for more information\.
+ERROR :Closing Link: \[[\d.]+\] \(Throttled: Reconnecting too fast\) -Email ([-\w_.]+@[-\w_.]+) for more information\.
+ERROR :Closing Link: \[[\d.]+\] \(Too many unknown connections from your IP\)\r\n
 ERROR :Reconnecting too fast, throttled\.\r\n
-NOTICE AUTH :\*\*\* Processing connection to irc\.garion\.org\r\n
-NOTICE AUTH :\*\*\* Processing connection to aapple\.no\r\n
-NOTICE AUTH :\*\*\* Looking up your hostname\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Got ident response\r\nNOTICE AUTH :\*\*\* Couldn't look up your hostname\r\n
+ERROR :Trying to reconnect too fast\.\r\n
+ERROR :Your host is trying to \(re\)connect too fast -- throttled\.\r\n
+ERROR :Your host is trying to \(re\)connect too fast -- throttled\r\n
+ERROR Your host is trying to \(re\)connect too fast -- throttled\r\n
+ERROR..Your host is trying to \(re\)connect too fast -- throttled\r\n
+NOTICE AUTH :\*\*\* Hostname lookup disabled, using your numeric IP\r\nNOTICE AUTH :\*\*\* Checking Ident\r\n
+NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Couldn't look up your hostname\r\n
+NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Found your hostname\r\nNOTICE AUTH :\*\*\* Got Ident response\r\n
+NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* No Ident response\r\nNOTICE AUTH :\*\*\* Found your hostname\r\n
+NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking ident\r\nNOTICE AUTH :\*\*\*
+NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking ident\r\nNOTICE AUTH :\*\*\* Got ident response\r\nNOTICE AUTH :\*\*\* Found your hostname\r\n
+NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking ident\r\nNOTICE AUTH :\*\*\* No identd \(auth\) response\r\nNOTICE AUTH :\*\*\* Found your hostname\r\n
 NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Couldn't look up your hostname\r\n
+NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Found your hostname, welcome back\r\nNOTICE AUTH :\*\*\* Checking ident\r\nNOTICE AUTH :\*\*\* Got ident response\r\n
+NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Found your hostname, welcome back\r\nNOTICE AUTH :\*\*\* Checking ident\r\nNOTICE AUTH :\*\*\* No identd \(auth\) response\r\n
+NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Found your hostname\r\n
+NOTICE AUTH :\*\*\* Looking up your hostname\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Couldn't look up your hostname\r\n
+NOTICE AUTH :\*\*\* Looking up your hostname\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Found your hostname\r\n
+NOTICE AUTH :\*\*\* Looking up your hostname\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Got ident response\r\nNOTICE AUTH :\*\*\* Couldn't look up your hostname\r\n
+NOTICE AUTH :\*\*\* Looking up your hostname\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* No ident response\r\n
+NOTICE AUTH :\*\*\* Looking up your hostname\r\nNOTICE AUTH :\*\*\* Found your hostname, cached\r\nNOTICE AUTH :\*\*\* Checking Ident\r\n
+NOTICE AUTH :\*\*\* Processing connection to aapple\.no\r\n
+NOTICE AUTH :\*\*\* Processing connection to aapple\.no\r\nNOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Couldn't look up your hostname\r\n
+NOTICE AUTH :\*\*\* Processing connection to irc\.garion\.org\r\n
 NOTICE AUTH :\*\*\* Processing connection to irc\.garion\.org\r\nNOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Couldn't look up your hostname\r\n
 NOTICE AUTH :\*\*\* Processing connection to irc\.linuxnation\.no\r\n
 NOTICE AUTH :\*\*\* Processing connection to irc\.linuxnation\.no\r\nNOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Couldn't look up your hostname\r\n
-NOTICE AUTH :\*\*\* Looking up your hostname\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Couldn't look up your hostname\r\n
-NOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Couldn't look up your hostname\r\n
-NOTICE AUTH :\*\*\* Processing connection to aapple\.no\r\nNOTICE AUTH :\*\*\* Looking up your hostname\.\.\.\r\nNOTICE AUTH :\*\*\* Checking Ident\r\nNOTICE AUTH :\*\*\* Couldn't look up your hostname\r\n

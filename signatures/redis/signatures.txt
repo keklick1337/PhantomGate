@@ -1,3 +1,2 @@
 -ERR operation not permitted\r\n
 -ERR wrong number of arguments for 'get' command\r\n
--ERR wrong number of arguments for 'get' command\r\n

@@ -1,4 +1,3 @@
-<error>\nConnection not allowed from .*\n
 <error>\nBad connect string!
 <error>\nClient limit exceeded\.\n
-<error>\nBad connect string!
+<error>\nConnection not allowed from .*\n

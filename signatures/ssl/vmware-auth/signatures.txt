@@ -1,5 +1,5 @@
 220 VMware Authentication Daemon Version 1\.10: SSL Required, ServerDaemonProtocol:SOAP, MKSDisplayProtocol:VNC , , NFCSSL supported/t, \r\n
 220 VMware Authentication Daemon Version 1\.10: SSL Required, ServerDaemonProtocol:SOAP, MKSDisplayProtocol:VNC , , NFCSSL supported/t\r\n
-220 VMware Authentication Daemon Version 1\.10: SSL Required, ServerDaemonProtocol:SOAP, MKSDisplayProtocol:VNC , VMXARGS supported, NFCSSL supported/t\r\n
 220 VMware Authentication Daemon Version 1\.10: SSL Required, ServerDaemonProtocol:SOAP, MKSDisplayProtocol:VNC , VMXARGS supported, NFCSSL supported/t, SHA256 supported\r\n
+220 VMware Authentication Daemon Version 1\.10: SSL Required, ServerDaemonProtocol:SOAP, MKSDisplayProtocol:VNC , VMXARGS supported, NFCSSL supported/t\r\n
 220 VMware Authentication Daemon Version 1\.10: SSL Required, ServerDaemonProtocol:SOAP, MKSDisplayProtocol:VNC , VMXARGS supported, NFCSSL supported\r\n

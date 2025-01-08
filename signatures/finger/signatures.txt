@@ -1,28 +1,28 @@
-This is finger server\r\n\r\nPlease use username@domain format\.\r\n
-OpenLDAP Finger Service\.\.\.\r\n
-Login name: HTTP/1\.0       In real life: \?\?\?\r\n
-finger: GET: no such user\nfinger: /: no such user\nfinger: HTTP/1\.0: no such user\n
-finger: GET: no such user.\r\nfinger: /: no such user.\r\nfinger: HTTP/1.0: no such user.\r\n
-finger: /var/adm/lastlog open error\nLogin       Name
-Username Real name                      Idletime TTY Remote console location\n
-Login name: /         \t\t\tIn real life: \?\?\?\r\n\r\nLogin name: GET       \t\t\tIn real life: \?\?\?\r\n\r\nLogin name: HTTP/1\.0  \t\t\tIn real life: \?\?\?\r\n
-\nDebian GNU/Linux      Copyright \(c\) 1993-1999 Software in the Public Interest\n\n                 Your site has been rejected for some reason\.\n\n         This may be caused by a missing RFC 1413 identd on your site\.\n\n
-Login     Name       Tty      Idle  Login Time   Office     Office Phone\r\n
-Login       Name               TTY         Idle    When    Where\r\nGET                   \?\?\?\r\n/                     \?\?\?\r\nHTTP/1\.0              \?\?\?\r\n
-Login name: GET       \t\t\tIn real life: \?\?\?\r\n
-Gathering system data\.\.\.\nUsername Real name                      Idletime TTY Remote console location\n
-finger: sorry, no such user\.\n
-User not found\r\n
-No cfingerd\.conf file present\.  Check your setup\.\n
-No such activity\.\r\n
-\r\nIntegrated port\r\nPrinter Type: IBM Infoprint (.*)\r\n
-No such user\n
-That user does not want to be fingered\.\n
-Login     Name                Tty      Idle  Login Time   Office     Office Phone\n
-\r\nIntegrated port\r\nPrinter Type: Lexmark T642\r\nPrint Job Status:
-No information available\r\n
-finger: /var/adm/lastlog open error\nNo one logged on\r\n
-Punix version ([\d./()]+) - Current Time \(since boot\) \d+:\d\d:\d\d\r\nName        pid    stat   pc       cpusec    stack    pr/sy   idle    tty\r\n
 Finger online user list request denied\.\r\n
-finger: GET / HTTP/1\.0: no such user\n
+Gathering system data\.\.\.\nUsername Real name                      Idletime TTY Remote console location\n
+Login       Name               TTY         Idle    When    Where\r\nGET                   \?\?\?\r\n/                     \?\?\?\r\nHTTP/1\.0              \?\?\?\r\n
+Login     Name                Tty      Idle  Login Time   Office     Office Phone\n
+Login     Name       Tty      Idle  Login Time   Office     Office Phone\r\n
+Login name: /         \t\t\tIn real life: \?\?\?\r\n\r\nLogin name: GET       \t\t\tIn real life: \?\?\?\r\n\r\nLogin name: HTTP/1\.0  \t\t\tIn real life: \?\?\?\r\n
+Login name: GET       \t\t\tIn real life: \?\?\?\r\n
 Login name: GET       \x09\x09\x09In real life: \?\?\?\r\n
+Login name: HTTP/1\.0       In real life: \?\?\?\r\n
+No cfingerd\.conf file present\.  Check your setup\.\n
+No information available\r\n
+No such activity\.\r\n
+No such user\n
+OpenLDAP Finger Service\.\.\.\r\n
+Punix version ([\d./()]+) - Current Time \(since boot\) \d+:\d\d:\d\d\r\nName        pid    stat   pc       cpusec    stack    pr/sy   idle    tty\r\n
+That user does not want to be fingered\.\n
+This is finger server\r\n\r\nPlease use username@domain format\.\r\n
+User not found\r\n
+Username Real name                      Idletime TTY Remote console location\n
+\nDebian GNU/Linux      Copyright \(c\) 1993-1999 Software in the Public Interest\n\n                 Your site has been rejected for some reason\.\n\n         This may be caused by a missing RFC 1413 identd on your site\.\n\n
+\r\nIntegrated port\r\nPrinter Type: IBM Infoprint (.*)\r\n
+\r\nIntegrated port\r\nPrinter Type: Lexmark T642\r\nPrint Job Status:
+finger: /var/adm/lastlog open error\nLogin       Name
+finger: /var/adm/lastlog open error\nNo one logged on\r\n
+finger: GET / HTTP/1\.0: no such user\n
+finger: GET: no such user.\r\nfinger: /: no such user.\r\nfinger: HTTP/1.0: no such user.\r\n
+finger: GET: no such user\nfinger: /: no such user\nfinger: HTTP/1\.0: no such user\n
+finger: sorry, no such user\.\n

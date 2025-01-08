@@ -1,357 +1,350 @@
-\* BYE Connection refused\r\n
-\* OK Softalk IMAP Server ready\r\n
-\* OK IMAP4rev1\r\nGET BAD  Invalid command\r\n\* BAD  Null command\r\n
-\* OK [Dd]ovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SORT THREAD=REFERENCES MULTIAPPEND UNSELECT LITERAL\+ IDLE CHILDREN NAMESPACE LOGIN-REFERRALS [^\]]+\]
-\* BYE Domino IMAP4 Server Unable to authenticate session\.
-\* OK Welcome to Arvixe IMAP server\.\r\n
-\* OK ([\w._-]+)\r\nGET BAD Unknown or NULL command\r\n BAD NULL COMMAND\r\n
-\* OK CommuniGate Pro IMAP Server ready\r\n
-\* OK Microsoft Exchange Server 2007 IMAP4 service ready\r\n
-\* OK .*\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK IMAP4 IMAP4rev1 Server\r\nGET BAD Unrecognised Command\r\n
-\* OK Dovecot DA ready\.\r\n
-\* OK WebSTAR Mail ready\r\n
-\* OK [Dd]ovecot MUA ready\r\n
-\* OK Welcome to Binc IMAP v(\d[-.\w]+)
-\* OK \[CAPABILITY IMAP4rev1 .*?Courier-IMAP ready\. Copyright 1998-\d+ Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK ([-\w_.]+)\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK GroupWise IMAP4rev1 Server Ready\r\n
-\* OK Welcome to Binc IMAP
-\* OK The Microsoft Exchange IMAP4 service is ready\.\r\n
-\* OK .*IMAP4rev1 Server Completed\r\nGET BAD Protocol Error: Invalid IMAP command specified\r\n
-\* BYE Hi This is the IMAP SSL Redirect\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN\] Dovecot DA ready\.\r\n
-\* OK \[CAPABILITY IMAP4REV1 X-NETSCAPE LOGIN-REFERRALS STARTTLS LOGINDISABLED\] \[[-.\w]+\] IMAP4rev1 200[-.\w]+ at .*\r\nGET BAD Command unrecognized/login please: /\r\n\* BAD Null command\r\n
-\* OK AVM KEN!4 IMAP Server ready\r\n
-\* OK Hi This is the IMAP SSL Server .*\r\n
-\* OK IMAP4rev1 SmarterMail\r\n
-\* OK IMAP4rev1 Service at Jana-Server ready\r\n
 GET NO Error in IMAP command received by server\.\r\n
-\* OK IMAP4 ready! [-\w_.]+ Winmail Mail Server MagicWinmail Extend IMAP 101\r\n
-\* OK IMAPrev1\r\nGET BAD Unknown or NULL command\r\n BAD NULL COMMAND\r\n
-\* OK \[CAPABILITY IMAP4rev1 .*\] GroupWise Server Ready\r\n
-\* OK IMAP4rev1 server ready\r\nGET BAD Unknown command '/'\r\n BAD Unknown command ''\r\n
-\* OK AXIGEN IMAP4rev1 service is ready\r\n
-\* OK \[CAPABILITY IMAP4rev1[\w+= -]*\] Atmail IMAP4 Server ready\. See COPYING for distribution information\.\r\n
-\* OK 7red\.com CommuniGate Pro IMAP Server 6\.1\.11 ready\r\n
 \* BYE Connection refused\r\n
-\* OK 7red\.com CommuniGate Pro IMAP Server 6\.1\.11 ready\r\n BAD bad command tag\r\n
-\* OK Axigen-8\.1\.2\.9 \(Linux/x64\) IMAP4rev1 service is ready\r\n
-\* BYE Domino IMAP4 Server Configured for SSL Connections only\. Please reconnect using SSL Port 993, Sun, 5 Jan 2025 18:03:08 \+0000\r\n
+\* BYE Domino IMAP4 Server Configured for SSL Connections only\. Please reconnect using SSL Port 993, Sun, d Jan 202d 0d:0d:0d \+0000\r\n
 \* BYE Domino IMAP4 Server Unable to authenticate session\.
-\* OK Domino IMAP4 Server Release 14\.0FP1 ready Sun, 5 Jan 2025 21:36:44 \+0000\r\n
-\* OK Dovecot ready\.\r\n
-\* OK CommuniGate Pro IMAP Server 5\.1\.13 at isgrp\.net ready\r\n
-\* OK 1supply\.spb\.ru CommuniGate Pro IMAP Server 6\.2\.6 ready\r\n BAD bad command tag\r\n
+\* BYE Hi This is the IMAP SSL Redirect\r\n
+\* OK ([-\w_.]+)\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK ([\w._-]+)\r\nGET BAD Unknown or NULL command\r\n BAD NULL COMMAND\r\n
+\* OK .*IMAP4rev1 Server Completed\r\nGET BAD Protocol Error: Invalid IMAP command specified\r\n
+\* OK .*\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK 1supply\.spb\.ru CommuniGate Pro IMAP Server 6\.2\.6 ready\r\n
+\* OK 1supply\.spb\.ru CommuniGate Pro IMAP Server 6\.2\.6 ready\r\n BAD bad command tag\r\n
+\* OK 7red\.com CommuniGate Pro IMAP Server 6\.1\.11 ready\r\n
+\* OK 7red\.com CommuniGate Pro IMAP Server 6\.1\.11 ready\r\n BAD bad command tag\r\n
+\* OK AVM KEN!4 IMAP Server ready\r\n
 \* OK AXIGEN IMAP4rev1 service is ready\r\n
-\* OK Domino IMAP4 Server Release 12\.0\.2FP2 ready Sun, 5 Jan 2025 17:36:45 \+0000\r\n
+\* OK Axigen-8\.1\.2\.9 \(Linux/x64\) IMAP4rev1 service is ready\r\n
+\* OK CommuniGate Pro IMAP Server 5\.1\.13 at isgrp\.net ready\r\n
+\* OK CommuniGate Pro IMAP Server ready\r\n
+\* OK Domino IMAP4 Server Release 12\.0\.2FP2 ready Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+\* OK Domino IMAP4 Server Release 14\.0FP1 ready Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+\* OK Domino IMAP4 Server Release 8\.5\.3FP3 ready Mon, d Jan 202d 0d:0d:0d \+0200\r\n
+\* OK Dovecot DA ready\.\r\n
+\* OK Dovecot ready\.\r\n
+\* OK GroupWise IMAP4rev1 Server Ready\r\n
 \* OK H\^\$Y\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK Domino IMAP4 Server Release 8\.5\.3FP3 ready Mon, 6 Jan 2025 00:02:46 \+0200\r\n
+\* OK Hi This is the IMAP SSL Server .*\r\n
+\* OK IMAP4 IMAP4rev1 Server\r\nGET BAD Unrecognised Command\r\n
+\* OK IMAP4 ready! [-\w_.]+ Winmail Mail Server MagicWinmail Extend IMAP 101\r\n
+\* OK IMAP4rev1 Service at Jana-Server ready\r\n
 \* OK IMAP4rev1 SmarterMail\r\n
-\* OK IMAP4rev1 server ready at 01/05/25 21:30:15\r\nGET BAD UNKNOWN Command\r\n\r\n BAD UNKNOWN Command\r\n
-\* OK IMAP4rev1 server ready at 01/05/25 21:35:58\r\nGET BAD UNKNOWN Command\r\n\r\n BAD UNKNOWN Command\r\n
-\* OK IMAP4rev1 server ready at 01/05/25 23:51:16\r\nGET BAD UNKNOWN Command\r\n\r\n BAD UNKNOWN Command\r\n
-\* OK IMAP4rev1 server ready at 01/06/25 01:19:42\r\nGET BAD UNKNOWN Command\r\n\r\n BAD UNKNOWN Command\r\n
-\* OK Kerio Connect 8\.4\.0 IMAP4rev1 server ready\r\n
-\* OK Kerio Connect 8\.2\.1 IMAP4rev1 server ready\r\n
+\* OK IMAP4rev1 server ready at 01/05/25 0d:0d:0d\r\nGET BAD UNKNOWN Command\r\n\r\n BAD UNKNOWN Command\r\n
+\* OK IMAP4rev1 server ready at 01/06/25 0d:0d:0d\r\nGET BAD UNKNOWN Command\r\n\r\n BAD UNKNOWN Command\r\n
+\* OK IMAP4rev1 server ready\r\nGET BAD Unknown command '/'\r\n BAD Unknown command ''\r\n
+\* OK IMAP4rev1\r\nGET BAD  Invalid command\r\n\* BAD  Null command\r\n
+\* OK IMAPrev1\r\nGET BAD Unknown or NULL command\r\n BAD NULL COMMAND\r\n
 \* OK JAMES IMAP4rev1 Server ns334651 is ready\.\r\n
-\* OK Kerio Connect 9\.2\.5 patch 3 IMAP4rev1 server ready\r\n
 \* OK Kerio Connect 10\.0\.1 IMAP4rev1 server ready\r\n
-\* OK Kerio Connect 10\.0\.6 patch 1 IMAP4rev1 server ready\r\n
 \* OK Kerio Connect 10\.0\.5 IMAP4rev1 server ready\r\n
-\* OK Kerio Connect 9\.2\.12 patch 1 IMAP4rev1 server ready\r\n
+\* OK Kerio Connect 10\.0\.6 patch 1 IMAP4rev1 server ready\r\n
 \* OK Kerio Connect 10\.0\.6 patch 2 IMAP4rev1 server ready\r\n
-\* OK Kerio Connect 9\.2\.7 IMAP4rev1 server ready\r\n
-\* OK Waiting for authentication process to respond\.\.\r\n\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK Kerio Connect 9\.2\.8 patch 1 IMAP4rev1 server ready\r\n
-\* OK Kerio Connect 9\.4\.1 patch 1 IMAP4rev1 server ready\r\n
-\* OK Waiting for authentication process to respond\.\.\r\n
-\* OK Kerio Connect 9\.4\.1 IMAP4rev1 server ready\r\n
-\* OK Kerio Connect 9\.4\.2 IMAP4rev1 server ready\r\n
-\* OK The Microsoft Exchange IMAP4 service is ready\.\r\n
+\* OK Kerio Connect 8\.2\.1 IMAP4rev1 server ready\r\n
+\* OK Kerio Connect 8\.4\.0 IMAP4rev1 server ready\r\n
 \* OK Kerio Connect 9\.2\.1 IMAP4rev1 server ready\r\n
-\* OK Waiting for authentication process to respond\.\.\r\n\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK Kerio Connect 9\.2\.12 patch 1 IMAP4rev1 server ready\r\n
+\* OK Kerio Connect 9\.2\.5 patch 3 IMAP4rev1 server ready\r\n
+\* OK Kerio Connect 9\.2\.7 IMAP4rev1 server ready\r\n
+\* OK Kerio Connect 9\.2\.8 patch 1 IMAP4rev1 server ready\r\n
 \* OK Kerio Connect 9\.3\.1 patch 2 IMAP4rev1 server ready\r\n
+\* OK Kerio Connect 9\.4\.1 IMAP4rev1 server ready\r\n
+\* OK Kerio Connect 9\.4\.1 patch 1 IMAP4rev1 server ready\r\n
+\* OK Kerio Connect 9\.4\.2 IMAP4rev1 server ready\r\n
+\* OK Microsoft Exchange Server 2007 IMAP4 service ready\r\n
+\* OK Softalk IMAP Server ready\r\n
+\* OK The Microsoft Exchange IMAP4 service is ready\.\r\n
+\* OK Waiting for authentication process to respond\.\.\r\n
 \* OK Waiting for authentication process to respond\.\.\r\n\* OK Waiting for authentication process to respond\.\.\r\n
+\* OK Waiting for authentication process to respond\.\.\r\n\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK Waiting for authentication process to respond\.\.\r\n\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK Waiting for authentication process to respond\.\.\r\n\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK Waiting for authentication process to respond\.\.\r\n\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4 IMAP4rev1 LITERAL\+ ID STARTTLS\] example\.com Cyrus IMAP4 v2\.3\.7-Invoca-RPM-2\.3\.7-12\.el5_7\.2 server ready\r\n
-\* OK \[CAPABILITY IMAP4REV1 I18NLEVEL=1 LITERAL\+ SASL-IR LOGIN-REFERRALS STARTTLS LOGINDISABLED\] ns\.system602\.cz IMAP4rev1 2007e\.404 at Sun, 5 Jan 2025 20:50:50 \+0100 \(CET\)\r\n
+\* OK Waiting for authentication process to respond\.\.\r\n\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK WebSTAR Mail ready\r\n
+\* OK Welcome to Arvixe IMAP server\.\r\n
+\* OK Welcome to Binc IMAP
+\* OK Welcome to Binc IMAP v(\d[-.\w]+)
+\* OK [Dd]ovecot MUA ready\r\n
+\* OK [Dd]ovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4 IMAP4rev1 LITERAL\+ ID AUTH=CRAM-MD5 SASL-IR COMPRESS=DEFLATE\] pop-sofia\.digsys\.bg Cyrus IMAP v2\.3\.16 server ready\r\n
 \* OK \[CAPABILITY IMAP4 IMAP4rev1 LITERAL\+ ID AUTH=LOGIN AUTH=PLAIN AUTH=GSSAPI AUTH=DIGEST-MD5 AUTH=CRAM-MD5 SASL-IR COMPRESS=DEFLATE\] hkmail1\.foresttek\.com Cyrus IMAP v2\.3\.16 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=DIGEST-MD5 AUTH=CRAM-MD5 AUTH=NTLM AUTH=LOGIN AUTH=PLAIN SASL-IR\] smtp Cyrus IMAP 3\.0\.8-Debian-3\.0\.8-6\+deb10u4 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] baron Cyrus IMAP 3\.6\.1-Debian-3\.6\.1-4\+deb12u3 server ready\r\n
-\* OK Waiting for authentication process to respond\.\.\r\n\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN AUTH=LOGIN SASL-IR\] alpha\.gp Cyrus IMAP 3\.4\.3-dirty-Debian-3\.4\.3-3ubuntu0\.1 server ready\r\n
+\* OK \[CAPABILITY IMAP4 IMAP4rev1 LITERAL\+ ID STARTTLS\] example\.com Cyrus IMAP4 v2\.3\.7-Invoca-RPM-2\.3\.7-12\.el5_7\.2 server ready\r\n
 \* OK \[CAPABILITY IMAP4 IMAP4rev1 LITERAL\+ ID STARTTLS\] example\.com Cyrus IMAP4 v2\.3\.7-Invoca-RPM-2\.3\.7-16\.el5_11 server ready\r\n
-\* OK Waiting for authentication process to respond\.\.\r\n\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4 IMAP4rev1 LITERAL\+ ID\] linux1\.compufit\.at Cyrus IMAP4 v2\.3\.7-Invoca-RPM-2\.3\.7-16\.el5_11 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5 AUTH=DIGEST-MD5 SASL-IR\] mail3\.factsoft\.de Cyrus IMAP 2\.5\.10-Debian-2\.5\.10-3 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN AUTH=LOGIN SASL-IR\] mail\.propertyview\.net Cyrus IMAP 3\.8\.2-Debian-3\.8\.2-1 server ready\r\n
-\* OK \[CAPABILITY IMAP4REV1 LITERAL\+ SASL-IR LOGIN-REFERRALS STARTTLS AUTH=LOGIN\] box\.gropo\.it IMAP4rev1 2004\.357 at Sun, 5 Jan 2025 18:43:45 \+0100 \(CET\)\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=DIGEST-MD5 AUTH=CRAM-MD5 AUTH=NTLM AUTH=PLAIN AUTH=LOGIN SASL-IR\] caraid Cyrus IMAP git2\.4\.17\+0-Debian-2\.4\.17\+nocaldav-0\+deb8u2 server ready\r\n
+\* OK \[CAPABILITY IMAP4REV1 I18NLEVEL=1 LITERAL\+ SASL-IR LOGIN-REFERRALS STARTTLS LOGINDISABLED\] ns\.system602\.cz IMAP4rev1 2007e\.404 at Sun, d Jan 202d 0d:0d:0d \+0100 \(CET\)\r\n
+\* OK \[CAPABILITY IMAP4REV1 LITERAL\+ SASL-IR LOGIN-REFERRALS STARTTLS AUTH=LOGIN\] box\.gropo\.it IMAP4rev1 2004\.357 at Sun, d Jan 202d 0d:0d:0d \+0100 \(CET\)\r\n
+\* OK \[CAPABILITY IMAP4REV1 X-NETSCAPE LOGIN-REFERRALS STARTTLS LOGINDISABLED\] \[[-.\w]+\] IMAP4rev1 200[-.\w]+ at .*\r\nGET BAD Command unrecognized/login please: /\r\n\* BAD Null command\r\n
+\* OK \[CAPABILITY IMAP4rev1 .*?Courier-IMAP ready\. Copyright 1998-\d+ Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 .*\] GroupWise Server Ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=DIGEST-MD5 AUTH=CRAM-MD5 AUTH=NTLM AUTH=LOGIN AUTH=PLAIN SASL-IR\] smtp Cyrus IMAP 3\.0\.8-Debian-3\.0\.8-6\+deb10u4 server ready\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=DIGEST-MD5 AUTH=CRAM-MD5 AUTH=NTLM AUTH=LOGIN AUTH=PLAIN SASL-IR\] srv2019 Cyrus IMAP 3\.0\.8-Debian-3\.0\.8-6\+deb10u6 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN AUTH=LOGIN SASL-IR\] mail\.bomert\.com Cyrus IMAP 3\.8\.2-Debian-3\.8\.2-1 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=DIGEST-MD5 AUTH=CRAM-MD5 AUTH=NTLM AUTH=PLAIN AUTH=LOGIN SASL-IR\] caraid Cyrus IMAP git2\.4\.17\+0-Debian-2\.4\.17\+nocaldav-0\+deb8u2 server ready\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=DIGEST-MD5 AUTH=NTLM AUTH=CRAM-MD5 AUTH=PLAIN AUTH=LOGIN SASL-IR\] mail\.scortum\.com Cyrus IMAP v2\.4\.17-caldav-beta9-Debian-2\.4\.17\+caldav~beta9-3 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5 AUTH=DIGEST-MD5 SASL-IR\] mail3\.factsoft\.de Cyrus IMAP 2\.5\.10-Debian-2\.5\.10-3 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN AUTH=LOGIN SASL-IR\] alpha\.gp Cyrus IMAP 3\.4\.3-dirty-Debian-3\.4\.3-3ubuntu0\.1 server ready\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN AUTH=LOGIN SASL-IR\] mail1\.insystem\.net Cyrus IMAP 2\.5\.7 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN AUTH=LOGIN SASL-IR\] mail\.bomert\.com Cyrus IMAP 3\.8\.2-Debian-3\.8\.2-1 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN AUTH=LOGIN SASL-IR\] mail\.propertyview\.net Cyrus IMAP 3\.8\.2-Debian-3\.8\.2-1 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] baron Cyrus IMAP 3\.6\.1-Debian-3\.6\.1-4\+deb12u3 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] example\.com Cyrus IMAP v2\.4\.17-Fedora-RPM-2\.4\.17-13\.el7 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] example\.com Cyrus IMAP v2\.4\.17-Fedora-RPM-2\.4\.17-15\.el7 server ready\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] example\.com Cyrus IMAP v2\.4\.17-Fedora-RPM-2\.4\.17-7\.el7 server ready\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] imap Cyrus IMAP 2\.5\.10-Debian-2\.5\.10-3\+deb9u3 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] example\.com Cyrus IMAP v2\.4\.17-Fedora-RPM-2\.4\.17-15\.el7 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] mic-regenergqc-gra3-01\.localdomain Cyrus IMAP v2\.4\.17-Fedora-RPM-2\.4\.17-8\.el7_1 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] example\.com Cyrus IMAP v2\.4\.17-Fedora-RPM-2\.4\.17-13\.el7 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] orange Cyrus IMAP 3\.2\.6-Debian-3\.2\.6-2\+deb11u2 server ready\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] mail Cyrus IMAP v2\.4\.16-Debian-2\.4\.16-4\+deb7u2 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] mic-regenergqc-gra3-01\.localdomain Cyrus IMAP v2\.4\.17-Fedora-RPM-2\.4\.17-8\.el7_1 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] orange Cyrus IMAP 3\.2\.6-Debian-3\.2\.6-2\+deb11u2 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS AUTH=PLAIN SASL-IR\] server ready\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS LOGINDISABLED AUTH=SCRAM-SHA-512 AUTH=SCRAM-SHA-384 AUTH=SCRAM-SHA-256 AUTH=SCRAM-SHA-224 AUTH=SCRAM-SHA-1 AUTH=DIGEST-MD5 AUTH=OTP AUTH=CRAM-MD5 AUTH=NTLM SASL-IR\] yorktown\.internal\.spock\.org Cyrus IMAP 3\.8\.4 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE AUTH=PLAIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS\] mail\.accatone\.net Cyrus IMAP 3\.6\.1-Debian-3\.6\.1-4\+deb12u3 server ready\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS LOGINDISABLED\] mail\.healthylicious\.bg Cyrus IMAP 3\.2\.11 server ready\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS LOGINDISABLED\] mx\.nividic\.net Cyrus IMAP 3\.4\.3-dirty-Debian-3\.4\.3-3build2 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS\] mail\.accatone\.net Cyrus IMAP 3\.6\.1-Debian-3\.6\.1-4\+deb12u3 server ready\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE STARTTLS\] meoqeen02\.biblia\.wiki\.br Cyrus IMAP 3\.0\.13-Debian-3\.0\.13-5 server ready\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ ID ENABLE XIMAPPROXY\] impala\.pmalaty\.com Cyrus IMAP 2\.5\.10-55-gb6dbffa-Kolab-2\.5\.10-6\.1\.el7\.kolab_16 server ready\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LOGINDISABLED\] Dovecot \(Ubuntu\) ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NOTIFY NAMESPACE STARTTLS AUTH=PLAIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN\] Dovecot \(Ubuntu\) ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5 AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LOGINDISABLED\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5 AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE AUTH=PLAIN\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=CRAM-MD5 AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot \(Ubuntu\) ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SEPCIAL-USE XLIST STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5 AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN\] Dovecot DA ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN\] Dovecot \(Ubuntu\) ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE AUTH=PLAIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LOGINDISABLED\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LOGINDISABLED\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NOTIFY NAMESPACE STARTTLS AUTH=PLAIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SEPCIAL-USE XLIST STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE XLIST STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE XLIST STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=ANONYMOUS AUTH=PLAIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5 AUTH=LOGIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=GSSAPI\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=DIGEST-MD5 AUTH=LOGIN\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=CRAM-MD5 AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n\* BYE Disconnected for inactivity\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS LOGINDISABLED AUTH=GSSAPI\] Dovecot \(Ubuntu\) ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=DIGEST-MD5 AUTH=LOGIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5 AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=GSSAPI\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS LOGINDISABLED\] Dovecot \(Ubuntu\) ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN\] Dovecot DA ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n\* BYE Disconnected for inactivity\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN\] Dovecot DA ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN\] Dovecot \(Ubuntu\) ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS LOGINDISABLED AUTH=CRAM-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS LOGINDISABLED AUTH=NTLM\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5 AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS AUTH=PLAIN\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS LOGINDISABLED AUTH=CRAM-MD5 AUTH=NTLM\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS LOGINDISABLED AUTH=CRAM-MD5\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS LOGINDISABLED AUTH=DIGEST-MD5 AUTH=CRAM-MD5 AUTH=NTLM\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XLIST STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS LOGINDISABLED AUTH=GSSAPI\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS LOGINDISABLED AUTH=NTLM\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS LOGINDISABLED\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE STARTTLS LOGINDISABLED\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XLIST STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5 AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE STARTTLS AUTH=PLAIN\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ STARTTLS AUTH=PLAIN\] Zarafa IMAP gateway ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ LOGINDISABLED\] Dovecot \(Ubuntu\) ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=CRAM-MD5 AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ AUTH=CRAM-MD5 AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ AUTH=PLAIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=CRAM-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5 AUTH=LOGIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=LOGIN AUTH=PLAIN AUTH=CRAM-MD5\] Dovecot \(Ubuntu\) ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 LITERAL\+ SASL-IR LOGIN-REFERRALS ID ENABLE STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ AUTH=PLAIN\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ AUTH=PLAIN\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ AUTH=PLAIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5 AUTH=DIGEST-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n\* BYE Disconnected for inactivity\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=CRAM-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5 AUTH=LOGIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ LOGINDISABLED\] Dovecot \(Ubuntu\) ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ LOGINDISABLED\] Dovecot \(Ubuntu\) ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=CRAM-MD5 AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=CRAM-MD5 AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=LOGIN AUTH=PLAIN AUTH=CRAM-MD5\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=CRAM-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=CRAM-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5 AUTH=LOGIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5 AUTH=LOGIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5 AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5 AUTH=DIGEST-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot \(Ubuntu\) ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot \(Ubuntu\) ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=CRAM-MD5 AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5 AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] server ready\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n\* BYE Too many invalid IMAP commands\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n\* BYE Too many invalid IMAP commands\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot \(Ubuntu\) ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] server ready\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot \(Ubuntu\) ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n\* BYE Disconnected for inactivity\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\n\* BYE Connection queue full\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=GSSAPI AUTH=GSS-SPNEGO\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=GSSAPI AUTH=GSS-SPNEGO\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=GSSAPI AUTH=GSS-SPNEGO\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\n\* BYE Connection queue full\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=GSSAPI AUTH=GSS-SPNEGO\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=DIGEST-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN\] Dovecot DA ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n\* BYE Too many invalid IMAP commands\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN\] Dovecot \(Ubuntu\) ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN\] Dovecot DA ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] server ready\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN\] Dovecot DA ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN\] Dovecot DA ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n\* BYE Too many invalid IMAP commands\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN\] Dovecot \(Ubuntu\) ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN\] Dovecot \(Ubuntu\) ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED AUTH=CRAM-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED AUTH=GSSAPI\] Dovecot \(Ubuntu\) ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED AUTH=SCRAM-SHA-256\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS AUTH=PLAIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED AUTH=CRAM-MD5 AUTH=DIGEST-MD5\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED AUTH=CRAM-MD5\] Dovecot \(Ubuntu\) ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED AUTH=SCRAM-SHA-256\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED UTF8=ACCEPT\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED UTF8=ACCEPT\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot \(Debian\) ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED AUTH=CRAM-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED AUTH=DIGEST-MD5 AUTH=CRAM-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED AUTH=GSSAPI\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED AUTH=GSSAPI\] Dovecot \(Ubuntu\) ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED AUTH=SCRAM-SHA-256\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED AUTH=SCRAM-SHA-256\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED UTF8=ACCEPT\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED UTF8=ACCEPT\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot \(Debian\) ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot \(Ubuntu\) ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n\* BYE Too many invalid IMAP commands\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot \(Ubuntu\) ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED\] server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE LITERAL\+ STARTTLS LOGINDISABLED\] server ready\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n\* BYE Too many invalid IMAP commands\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n\* BYE Too many invalid IMAP commands\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE XLIST LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY PREVIEW LITERAL\+ NOTIFY METADATA COMPRESS=DEFLATE QUOTA ACL RIGHTS=texk STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY PREVIEW LITERAL\+ NOTIFY METADATA COMPRESS=DEFLATE QUOTA ACL RIGHTS=texk STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XDOVECOT \+SPECIAL-USE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot \(Ubuntu\) ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XLIST LITERAL\+ AUTH=PLAIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY PREVIEW STATUS=SIZE SAVEDATE LITERAL\+ NOTIFY SPECIAL-USE ACL RIGHTS=texk STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XLIST LITERAL\+ AUTH=PLAIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XLIST LITERAL\+ STARTTLS AUTH=PLAIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY PREVIEW STATUS=SIZE SAVEDATE LITERAL\+ NOTIFY SPECIAL-USE ACL RIGHTS=texk STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 STARTTLS LITERAL\+ ID ENABLE SASL-IR LOGINDISABLED\] mail\.fps-work\.pl Cyrus IMAP 2\.5\.13-37-ga30c191aa-Kolab-2\.5\.17\.34-2\.29\.el7\.kolab_16 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE XLIST LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY PREVIEW LITERAL\+ NOTIFY METADATA COMPRESS=DEFLATE QUOTA ACL RIGHTS=texk STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XDOVECOT LITERAL\+ AUTH=PLAIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XLIST LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n\* BYE Too many invalid IMAP commands\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\nGET BAD Error in IMAP command received by server\.\r\n\* BAD Error in IMAP command received by server\.\r\n\* BYE Too many invalid IMAP commands\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE NAMESPACE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY PREVIEW LITERAL\+ NOTIFY METADATA COMPRESS=DEFLATE QUOTA ACL RIGHTS=texk STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY PREVIEW LITERAL\+ NOTIFY METADATA COMPRESS=DEFLATE QUOTA ACL RIGHTS=texk STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 STARTTLS LITERAL\+ ID ENABLE SASL-IR LOGINDISABLED\] mail\.ggo\.com\.pl Cyrus IMAP 2\.5\.13-37-ga30c191aa-Kolab-2\.5\.17\.34-2\.23\.el7\.kolab_16 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY PREVIEW LITERAL\+ NOTIFY METADATA COMPRESS=DEFLATE QUOTA ACL RIGHTS=texk STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY PREVIEW LITERAL\+ NOTIFY METADATA COMPRESS=DEFLATE QUOTA ACL RIGHTS=texk STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY PREVIEW STATUS=SIZE SAVEDATE LITERAL\+ NOTIFY SPECIAL-USE ACL RIGHTS=texk STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE SNIPPET=FUZZY PREVIEW=FUZZY PREVIEW STATUS=SIZE SAVEDATE LITERAL\+ NOTIFY SPECIAL-USE ACL RIGHTS=texk STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SORT SORT=DISPLAY THREAD=REFERENCES THREAD=REFS THREAD=ORDEREDSUBJECT MULTIAPPEND URL-PARTIAL CATENATE UNSELECT CHILDREN NAMESPACE UIDPLUS LIST-EXTENDED I18NLEVEL=1 CONDSTORE QRESYNC ESEARCH ESORT SEARCHRES WITHIN CONTEXT=SEARCH LIST-STATUS MOVE STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN AUTH=CRAM-MD5\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 STARTTLS LITERAL\+ ID ENABLE SASL-IR LOGINDISABLED\] kolab-linode\.kratern\.se Cyrus IMAP 3\.2\.6-Debian-3\.2\.6-2\+deb11u4 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE XLIST LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE SPECIAL-USE XLIST LITERAL\+ STARTTLS AUTH=PLAIN AUTH=LOGIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XDOVECOT LITERAL\+ AUTH=PLAIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XDOVECOT \+SPECIAL-USE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XDOVECOT \+SPECIAL-USE LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2019 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT IDLE AUTH=PLAIN ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2019 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XLIST LITERAL\+ AUTH=PLAIN\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XLIST LITERAL\+ AUTH=PLAIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XLIST LITERAL\+ STARTTLS AUTH=PLAIN\] Dovecot ready\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2022 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 IDLE ACL ACL2=UNION STARTTLS LOGINDISABLED ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2018 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XLIST LITERAL\+ STARTTLS AUTH=PLAIN\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XLIST LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SASL-IR LOGIN-REFERRALS ID ENABLE IDLE XLIST LITERAL\+ STARTTLS LOGINDISABLED\] Dovecot ready\.\r\n\* BAD Error in IMAP command received by server\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 SORT THREAD=REFERENCES MULTIAPPEND UNSELECT LITERAL\+ IDLE CHILDREN NAMESPACE LOGIN-REFERRALS [^\]]+\]
+\* OK \[CAPABILITY IMAP4rev1 STARTTLS LITERAL\+ ID ENABLE SASL-IR LOGINDISABLED\] kolab-linode\.kratern\.se Cyrus IMAP 3\.2\.6-Debian-3\.2\.6-2\+deb11u4 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 STARTTLS LITERAL\+ ID ENABLE SASL-IR LOGINDISABLED\] mail\.fps-work\.pl Cyrus IMAP 2\.5\.13-37-ga30c191aa-Kolab-2\.5\.17\.34-2\.29\.el7\.kolab_16 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 STARTTLS LITERAL\+ ID ENABLE SASL-IR LOGINDISABLED\] mail\.ggo\.com\.pl Cyrus IMAP 2\.5\.13-37-ga30c191aa-Kolab-2\.5\.17\.34-2\.23\.el7\.kolab_16 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT IDLE AUTH=PLAIN ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2019 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2017 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 AUTH=PLAIN IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2018 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 AUTH=PLAIN IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2022 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2021 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 AUTH=PLAIN IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2011 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 AUTH=PLAIN IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2015 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2018 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS LOGINDISABLED\] Courier-IMAP ready\. Copyright 1998-2011 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS LOGINDISABLED ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2018 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 AUTH=PLAIN IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2018 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2015 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2021 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 AUTH=PLAIN IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2011 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2018 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2021 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2022 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2011 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2017 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2010 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=PLAIN AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2022 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE\] Courier-IMAP ready\. Copyright 1998-2005 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS LOGINDISABLED ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2019 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-SHA256 IDLE UTF8=ACCEPT ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2022 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS LOGINDISABLED\] Courier-IMAP ready\. Copyright 1998-2016 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2015 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=CRAM-SHA1 IDLE ACL ACL2=UNION STARTTLS LOGINDISABLED ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2018 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-MD5 AUTH=PLAIN IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2004 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=CRAM-SHA256 IDLE UTF8=ACCEPT ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2022 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA AUTH=PLAIN AUTH=CRAM-MD5 AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2022 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2021 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION ID STARTTLS\] Courier-IMAP ready\. Copyright 1998-2015 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2018 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2019 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS LOGINDISABLED ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2018 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS LOGINDISABLED ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2019 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS LOGINDISABLED\] Courier-IMAP ready\. Copyright 1998-2011 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS LOGINDISABLED\] Courier-IMAP ready\. Copyright 1998-2016 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2004 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2005 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2008 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2010 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2011 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2015 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2019 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK castalia\.akereon\.net Zimbra IMAP4rev1 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2008 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2016 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION\] Courier-IMAP ready\. Copyright 1998-2008 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE UTF8=ACCEPT ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2018 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2004 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2017 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION STARTTLS\] Courier-IMAP ready\. Copyright 1998-2005 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK adele\.almacolor\.pl Zimbra IMAP4rev1 server ready\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE STARTTLS\] Courier-IMAP ready\. Copyright 1998-2005 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE UTF8=ACCEPT ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2019 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION\] Courier-IMAP ready\. Copyright 1998-2008 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION\] Courier-IMAP ready\. Copyright 1998-2010 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2018 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION\] Courier-IMAP ready\. Copyright 1998-2011 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK localhost IMAP4rev1 Mercury/32 v4\.62 server ready\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2018 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE AUTH=CRAM-SHA1 AUTH=CRAM-SHA256 ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2019 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE STARTTLS\] Courier-IMAP ready\. Copyright 1998-2005 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE UTF8=ACCEPT ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2018 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE UTF8=ACCEPT ACL ACL2=UNION STARTTLS ENABLE UTF8=ACCEPT\] Courier-IMAP ready\. Copyright 1998-2019 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE\] Courier-IMAP ready\. Copyright 1998-2003 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
-\* OK mail\.etics\.it IMAP4rev1 MDaemon 24\.5\.2 ready\r\n
-\* OK mail\.aphvn\.fr Zimbra IMAP4rev1 server ready\r\n
-\* OK dovecot ready\.\r\n
-\* OK mail\.didji\.net Zimbra IMAP4rev1 server ready\r\n
-\* OK mail\.ap-gw\.net Zimbra IMAP4rev1 server ready\r\n
+\* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE\] Courier-IMAP ready\. Copyright 1998-2005 Double Precision, Inc\.  See COPYING for distribution information\.\r\n
+\* OK \[CAPABILITY IMAP4rev1[\w+= -]*\] Atmail IMAP4 Server ready\. See COPYING for distribution information\.\r\n
+\* OK adele\.almacolor\.pl Zimbra IMAP4rev1 server ready\r\n
+\* OK castalia\.akereon\.net Zimbra IMAP4rev1 server ready\r\n
 \* OK dl-ci\.com Zimbra IMAP4rev1 server ready\r\n
-\* OK mail\.Iranbehdasht\.ir IMAP4rev1 MDaemon 14\.5\.2 ready\r\n
-\* OK mail\.axelaris\.com Zimbra IMAP4rev1 server ready\r\n
+\* OK dovecot ready\.\r\n
+\* OK idealit\.eu Zimbra IMAP4rev1 server ready\r\n
+\* OK localhost IMAP4rev1 Mercury/32 v4\.62 server ready\.\r\n
 \* OK mail Cyrus IMAP4 v2\.2\.13-Debian-2\.2\.13-19squeeze3build0\.10\.04\.1 server ready\r\n
+\* OK mail-mta-srv1\.tebyanidc\.ir Zimbra IMAP4rev1 server ready\r\n
+\* OK mail\.Iranbehdasht\.ir IMAP4rev1 MDaemon 14\.5\.2 ready\r\n
+\* OK mail\.ap-gw\.net Zimbra IMAP4rev1 server ready\r\n
+\* OK mail\.aphvn\.fr Zimbra IMAP4rev1 server ready\r\n
+\* OK mail\.axelaris\.com Zimbra IMAP4rev1 server ready\r\n
+\* OK mail\.behsamanco\.com IMAP4rev1 MDaemon 16\.5\.1 ready\r\n
+\* OK mail\.calami\.com Zimbra IMAP4rev1 server ready\r\n
+\* OK mail\.didji\.net Zimbra IMAP4rev1 server ready\r\n
+\* OK mail\.etics\.it IMAP4rev1 MDaemon 24\.5\.2 ready\r\n
+\* OK mail\.gate4\.net CommuniGate Pro IMAP Server 6\.2\.15 ready\r\n
 \* OK mail\.gate4\.net CommuniGate Pro IMAP Server 6\.2\.15 ready\r\n BAD bad command tag\r\n
 \* OK mail\.graphisend\.com IMAP4rev1 MDaemon 21\.0\.3 ready\r\n
 \* OK mail\.ido\.ir IMAP4rev1 MDaemon 11\.0\.0 ready\r\n
 \* OK mail\.infili\.com Zimbra IMAP4rev1 server ready\r\n
 \* OK mail\.innosen\.com Cyrus IMAP4 v2\.0\.17-DOTPATCH server ready\r\n
-\* OK mail-mta-srv1\.tebyanidc\.ir Zimbra IMAP4rev1 server ready\r\n
-\* OK idealit\.eu Zimbra IMAP4rev1 server ready\r\n
-\* OK mail\.gate4\.net CommuniGate Pro IMAP Server 6\.2\.15 ready\r\n
-\* OK mail\.mailfr3\.ovh IMAP4rev1 MDaemon 21\.0\.3 ready\r\n
-\* OK mail\.behsamanco\.com IMAP4rev1 MDaemon 16\.5\.1 ready\r\n
-\* OK mail\.mailfr\.biz IMAP4rev1 MDaemon 21\.0\.3 ready\r\n
-\* OK mail\.netaccess\.it IMAP4rev1 MDaemon 16\.5\.2 ready\r\n
-\* OK mail\.mailfr5\.ovh IMAP4rev1 MDaemon 21\.0\.3 ready\r\n
-\* OK mail\.nkey\.it IMAP4rev1 MDaemon 16\.5\.2 ready\r\n
 \* OK mail\.madworld\.at Zimbra IMAP4rev1 server ready\r\n
-\* OK mail\.calami\.com Zimbra IMAP4rev1 server ready\r\n
-\* OK mail\.sadmin\.es CommuniGate Pro IMAP Server 6\.2\.15 ready\r\n
-\* OK mail\.momentumenter\.com\.ua Zimbra IMAP4rev1 server ready\r\n
-\* OK mail\.polimetal\.md Zimbra IMAP4rev1 server ready\r\n
+\* OK mail\.mailfr3\.ovh IMAP4rev1 MDaemon 21\.0\.3 ready\r\n
+\* OK mail\.mailfr5\.ovh IMAP4rev1 MDaemon 21\.0\.3 ready\r\n
+\* OK mail\.mailfr\.biz IMAP4rev1 MDaemon 21\.0\.3 ready\r\n
 \* OK mail\.mirodon\.com IMAP4rev1 MDaemon 17\.5\.2 ready\r\n
+\* OK mail\.momentumenter\.com\.ua Zimbra IMAP4rev1 server ready\r\n
+\* OK mail\.mysiteshop\.com Zimbra IMAP4rev1 server ready\r\n
+\* OK mail\.netaccess\.it IMAP4rev1 MDaemon 16\.5\.2 ready\r\n
+\* OK mail\.nkey\.it IMAP4rev1 MDaemon 16\.5\.2 ready\r\n
 \* OK mail\.orion26\.com Zimbra IMAP4rev1 server ready\r\n
 \* OK mail\.paturages\.be IMAP4rev1 MDaemon 24\.5\.2 ready\r\n
-\* OK mail\.mysiteshop\.com Zimbra IMAP4rev1 server ready\r\n
-\* OK mail\.siverin\.ru IMAP4rev1 MDaemon 13\.0\.0 ready\r\n
+\* OK mail\.polimetal\.md Zimbra IMAP4rev1 server ready\r\n
+\* OK mail\.sadmin\.es CommuniGate Pro IMAP Server 6\.2\.15 ready\r\n
 \* OK mail\.sadmin\.es CommuniGate Pro IMAP Server 6\.2\.15 ready\r\n BAD bad command tag\r\n
 \* OK mail\.shiko\.ua Zimbra IMAP4rev1 server ready\r\n
-\* OK mailz\.163-8\.com Zimbra IMAP4rev1 server ready\r\n
+\* OK mail\.siverin\.ru IMAP4rev1 MDaemon 13\.0\.0 ready\r\n
 \* OK mailer\.kundakci\.fr Zimbra IMAP4rev1 server ready\r\n
-\* OK posta\.yammo\.it Zimbra IMAP4rev1 server ready\r\n
-\* OK zimbra\.polyclinique-du-parc\.net Zimbra IMAP4rev1 server ready\r\n
+\* OK mailz\.163-8\.com Zimbra IMAP4rev1 server ready\r\n
 \* OK mx\.doctorpet\.cl Zimbra IMAP4rev1 server ready\r\n
+\* OK ns6631496\.ip-5-196-85\.eu Zimbra IMAP4rev1 server ready\r\n
+\* OK posta\.yammo\.it Zimbra IMAP4rev1 server ready\r\n
+\* OK relay20\.idealhost\.biz IMAP4rev1 MDaemon 9\.5\.2 ready\r\n
 \* OK sae\.ru CommuniGate Pro IMAP Server 6\.2\.14 ready\r\n
+\* OK sae\.ru CommuniGate Pro IMAP Server 6\.2\.14 ready\r\n BAD bad command tag\r\n
 \* OK schooleverest\.ru CommuniGate Pro IMAP Server 6\.2\.14 ready\r\n
 \* OK schooleverest\.ru CommuniGate Pro IMAP Server 6\.2\.14 ready\r\n BAD bad command tag\r\n
-\* OK relay20\.idealhost\.biz IMAP4rev1 MDaemon 9\.5\.2 ready\r\n
-\* OK zimbra\.premiumfinance-group\.com Zimbra IMAP4rev1 server ready\r\n
-\* OK ns6631496\.ip-5-196-85\.eu Zimbra IMAP4rev1 server ready\r\n
-\* OK sae\.ru CommuniGate Pro IMAP Server 6\.2\.14 ready\r\n BAD bad command tag\r\n
 \* OK superqtiendas\.com\.mx Zimbra IMAP4rev1 server ready\r\n
 \* OK zimbra\.goldoweb\.com Zimbra IMAP4rev1 server ready\r\n
+\* OK zimbra\.polyclinique-du-parc\.net Zimbra IMAP4rev1 server ready\r\n
+\* OK zimbra\.premiumfinance-group\.com Zimbra IMAP4rev1 server ready\r\n
 \* OK zmail\.soerensengarcia\.com\.br Zimbra IMAP4rev1 server ready\r\n

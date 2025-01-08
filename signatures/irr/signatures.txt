@@ -1,2 +1,2 @@
-% No search key specified\n\n
 %  No entries found for the selected source\(s\)\.\n
+% No search key specified\n\n

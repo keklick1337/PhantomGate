@@ -1,5 +1,5 @@
+503 Service Unavailable\r\n\r\n\0
 HTTP/1\.0 401 Unauthorized\r\n\r\n<BODY><HTML><H1>401 - Authorization Failed</H1></HTML></BODY>\0
 Microsoft Windows XP \[Version [\d.]+\]\n\(C\) Copyright 1985-\d+ Microsoft Corp\.\n\nC:\\>
-\r\nlogin: \0
-503 Service Unavailable\r\n\r\n\0
 \r\n[-\w_.]+ [\d.]+ - Unauthorized access \x07prohibited under penalty of law\.\r\n\r\nlogin: \xff\xfc\x01
+\r\nlogin: \0

@@ -1,2 +1,2 @@
-Invalid GWADDR / START protocol\n
 Invalid FT GWADDR / START protocol\n
+Invalid GWADDR / START protocol\n

@@ -1,2 +1,1 @@
 Expecting SSL \(optional\) and CONFIG as first commands\.\n
-Expecting SSL \(optional\) and CONFIG as first commands\.\n

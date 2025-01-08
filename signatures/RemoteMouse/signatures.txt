@@ -1,2 +1,2 @@
-SIN 17win nop nopwd \d+
 SIN 17osx nop nopwd \d+
+SIN 17win nop nopwd \d+

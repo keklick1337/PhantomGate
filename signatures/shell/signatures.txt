@@ -1,8 +1,8 @@
-\x01remshd: getservbyname\n
-\0Access is denied\n
-\x01remshd: Kerberos Authentication not enabled\.\n
-\x01INTERnet ACP Error  Status = %SYSTEM-F-TOOMUCHDATA\r\n\0
-\x01remshd: Error! Kerberos authentication failed
-\0rsh: \x10: Command not supported\n
-\x01Permission denied\.\n
 \* You are not welcome to use rshd from .*\n
+\0Access is denied\n
+\0rsh: \x10: Command not supported\n
+\x01INTERnet ACP Error  Status = %SYSTEM-F-TOOMUCHDATA\r\n\0
+\x01Permission denied\.\n
+\x01remshd: Error! Kerberos authentication failed
+\x01remshd: Kerberos Authentication not enabled\.\n
+\x01remshd: getservbyname\n

@@ -1,3 +1,3 @@
-\d+ .*\n\x000 succeeded\n\0
 0 succeeded\n\0
 7694 \.>Q\n\x000 succeeded\n\x00
+\d+ .*\n\x000 succeeded\n\0

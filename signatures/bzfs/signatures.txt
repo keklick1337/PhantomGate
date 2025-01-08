@@ -1,2 +1,2 @@
-BZFS\d\d\d\d\r\n\r\n
 BZFS\d\d\d\d\0
+BZFS\d\d\d\d\r\n\r\n

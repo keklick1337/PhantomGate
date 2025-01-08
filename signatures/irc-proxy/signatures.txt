@@ -1,14 +1,14 @@
 :.*!psyBNC@lam3rz\.de NOTICE \* :
-:dirkproxy NOTICE AUTH :Looking up your hostname\.\.\.\r\n:dirkproxy NOTICE AUTH :Got your hostname\.\r\n
-:dircproxy NOTICE AUTH :Looking up your hostname\.\.\.\r\n:dircproxy NOTICE AUTH :Got your hostname\.\r\n
-\+OK \r\n-ERR XXX authorization first\r\n
-:sbnc!sbnc@sbnc\.soohrt\.org NOTICE \* :Wellcum\r\n
-Login failed\. Disconnecting\.\r\n
 :.*!psyBNC@lam3rz\.de NOTICE \* :psyBNC([-.\w]+)\r\n
 :>!psyBNC@lam3rz\.de NOTICE \* :
 :Welcome!psyBNC@psyBNC\.dk NOTICE \* :psyBNC2\.4-BETA1\r\n
 :\x034W\x0313e\x037l\x038c\x039o\x0312m\x036e\x031!!psyBNC@lam3rz\.de NOTICE \* :psyBNC2\.3BETA\r\n
-:shroudbnc\.info NOTICE AUTH :\*\*\* shroudBNC 1\.3\.9 - Copyright \(C\) 2005-2014 Gunnar Beutner\r\n:shroudbnc\.info NOTICE AUTH :\*\*\* Doing reverse DNS lookup on 72\.5\.42\.227\.\.\.\r\n:shroudbnc\.info NOTICE AUTH :\*\*\* Reverse DNS query failed\. Using IP address as your hostname\.\r\n
+:dircproxy NOTICE AUTH :Looking up your hostname\.\.\.\r\n:dircproxy NOTICE AUTH :Got your hostname\.\r\n
+:dirkproxy NOTICE AUTH :Looking up your hostname\.\.\.\r\n:dirkproxy NOTICE AUTH :Got your hostname\.\r\n
+:sbnc!sbnc@sbnc\.soohrt\.org NOTICE \* :Wellcum\r\n
 :shroudbnc\.info NOTICE AUTH :\*\*\* shroudBNC 1\.2 \$Revision: 1080 \$ - Copyright © 2005-2007 Gunnar Beutner\r\n:shroudbnc\.info NOTICE AUTH :\*\*\* Doing reverse DNS lookup on 45\.61\.137\.238\.\.\.\r\n
-:shroudbnc\.info NOTICE AUTH :\*\*\* shroudBNC 1\.3\.9 - Copyright \(C\) 2005-2014 Gunnar Beutner\r\n:shroudbnc\.info NOTICE AUTH :\*\*\* Doing reverse DNS lookup on 72\.5\.42\.227\.\.\.\r\n
 :shroudbnc\.info NOTICE AUTH :\*\*\* shroudBNC 1\.2 \$Revision: 1080 \$ - Copyright © 2005-2007 Gunnar Beutner\r\n:shroudbnc\.info NOTICE AUTH :\*\*\* Doing reverse DNS lookup on 45\.61\.137\.238\.\.\.\r\n:shroudbnc\.info NOTICE AUTH :\*\*\* Reverse DNS query failed\. Using IP address as your hostname\.\r\n
+:shroudbnc\.info NOTICE AUTH :\*\*\* shroudBNC 1\.3\.9 - Copyright \(C\) 2005-2014 Gunnar Beutner\r\n:shroudbnc\.info NOTICE AUTH :\*\*\* Doing reverse DNS lookup on 72\.5\.42\.227\.\.\.\r\n
+:shroudbnc\.info NOTICE AUTH :\*\*\* shroudBNC 1\.3\.9 - Copyright \(C\) 2005-2014 Gunnar Beutner\r\n:shroudbnc\.info NOTICE AUTH :\*\*\* Doing reverse DNS lookup on 72\.5\.42\.227\.\.\.\r\n:shroudbnc\.info NOTICE AUTH :\*\*\* Reverse DNS query failed\. Using IP address as your hostname\.\r\n
+Login failed\. Disconnecting\.\r\n
+\+OK \r\n-ERR XXX authorization first\r\n

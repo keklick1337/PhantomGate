@@ -1,6 +1,6 @@
-\xff\xfd\x1f\n\n\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\n\n                         Welcome to MLdonkey chrooted
-[\x00-\x10]\0\0\0\0\0[^\0]\0\0\0
-Telnet connection from [\d.]+ rejected \(see allowed_ips setting\)\n
 .*\0\0\0\x06\0Donkey\x01\x0c\0\./donkey\.ini\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0\0
-\xff\xfd\x1f[\r\n* ]+Welcome to MLdonkey          \r\n
+Telnet connection from [\d.]+ rejected \(see allowed_ips setting\)\n
+[\x00-\x10]\0\0\0\0\0[^\0]\0\0\0
 \x0e\x00\x00\x00\x00\x00\)\x00\x00\x00;\x00\x00\x00D\x00\x00\x00
+\xff\xfd\x1f[\r\n* ]+Welcome to MLdonkey          \r\n
+\xff\xfd\x1f\n\n\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\n\n                         Welcome to MLdonkey chrooted

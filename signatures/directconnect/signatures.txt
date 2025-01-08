@@ -1,5 +1,5 @@
-\$MyNick ([-.\w]+)|\$Lock
 \$Lock EXTENDEDPROTOCOL1Pi>>e@cm\[<;Zv1\?dBCJwgh@`fJnix Pk=PtokaX\|
 \$Lock EXTENDEDPROTOCOL=H22wlRteGYgFe`Z3`3\?k630NQ3nix Pk=PtokaX\|
-\$Lock EXTENDEDPROTOCOLgBHk8Ki\^E6<u4A4v1SMB\?D:>>Munix Pk=PtokaX\|
 \$Lock EXTENDEDPROTOCOLU3nX>ipax`W>ZReKmDMW\?AmdT\[1nix Pk=PtokaX\|
+\$Lock EXTENDEDPROTOCOLgBHk8Ki\^E6<u4A4v1SMB\?D:>>Munix Pk=PtokaX\|
+\$MyNick ([-.\w]+)|\$Lock

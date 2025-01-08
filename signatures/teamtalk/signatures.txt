@@ -1,9 +1,9 @@
-welcome userid=\d+ servername=\"([^"]+)\" motd=\"\" forwarding=\d+ channels=\d+ operators=\d+ maxusers=\d+ protocol=\"([\w._-]+)\"\r\n
-welcome userid=\d+ servername=\"([^"]+)\" userrights=\d+ maxusers=\d+ usertimeout=\d+ protocol=\"([\w._-]+)\"\r\n
-teamtalk userid=846 servername="janine private server" maxusers=1000 maxiplogins=0 usertimeout=60 protocol="5\.13"\r\n
 teamtalk userid=107 servername="virtual mass server" maxusers=1000 maxiplogins=0 usertimeout=60 protocol="5\.13"\r\n
 teamtalk userid=50 servername="nicole server" maxusers=1000 maxiplogins=0 usertimeout=60 protocol="5\.13"\r\n
-teamtalk userid=719 servername="Hostee" maxusers=1000 maxiplogins=0 usertimeout=60 protocol="5\.13"\r\n
 teamtalk userid=567 servername="Julia pia Nemesia" maxusers=1000 maxiplogins=0 usertimeout=60 protocol="5\.13"\r\n
+teamtalk userid=719 servername="Hostee" maxusers=1000 maxiplogins=0 usertimeout=60 protocol="5\.13"\r\n
+teamtalk userid=846 servername="janine private server" maxusers=1000 maxiplogins=0 usertimeout=60 protocol="5\.13"\r\n
 welcome userid=04981 servername="\(\^"\^"\)" userrights=546 maxusers=8547501 usertimeout=27 protocol="\(\.iWQ-j\)"\r\n
 welcome userid=474276 servername="\(\^"\^\)" motd="" forwarding=2387 channels=63 operators=68 maxusers=63 protocol="\(0lJpr\)"\r\n
+welcome userid=\d+ servername=\"([^"]+)\" motd=\"\" forwarding=\d+ channels=\d+ operators=\d+ maxusers=\d+ protocol=\"([\w._-]+)\"\r\n
+welcome userid=\d+ servername=\"([^"]+)\" userrights=\d+ maxusers=\d+ usertimeout=\d+ protocol=\"([\w._-]+)\"\r\n

@@ -1,764 +1,719 @@
-220.*214 See http\:\/\/www\.messagelabs\.com\/support
-220 HMailServer ESMTP\r\n
-421 Service not available, closing transmission channel \r\n
-220 imss-2 ESMTP ready at .*\r\n
-220 LiteMail SMTP Server Ready\.\r\n
-Permission denied - do not try again\.\r\n
-220 WebMail ESMTP\r\n502 negative vibes\r\n
-220-InterScan Version (\S+) .*Ready\r\n220 ([-.+\w]+) ESMTP Postfix\r\n
-220 Mail Server\r\n211 Help:->Supported Commands: HELO,EHLO,QUIT,HELP,RCPT,MAIL,DATA,RSET,NOOP\r\n
-220 I, CALLPILOT\[[\d.]+\], speak ESMTP\.  Talk to me\.\r\n
-220 (\S+) -- Server ESMTP \(SUN JES MTA 6\.x\)
-220 .* SMTP ready at .*\r\n501 Command \"EHLO\" requires an argument\r\n
-500 Permission denied - closing connection\.\r\n
-554 Please check that your outgoing mail server settings are correct\. Contact your service provider's technical support for assistance\.\n
-220 .*\r\n502 Error: command not implemented\r\n
-220 Simple Mail Tranfer Service Ready \r\n502 Commande not implement \r\n
-220 Welcome to the Advanced SMTP Server\r\n
-220 network-box ESMTP\r\n
-220 (\S+) ESMTP Service\r\n502 5\.3\.0 Sendmail Xserve -- HELP not implemented\r\n
-421 [-\w_.]+ - Your name, '\[[-\w_.]+\]', is unknown to me\.\r\n
-220 Welcome to the mail server\.\r\n211 DATA EXPN HELO MAIL NOOP QUIT RCPT RSET SAML SEND SOML TURN VRFY\r\n
-554 SMTP synchronization error\r\n
-421 [\d.]+ Service not available, closing transmission channel\r\n
-220 ?(\S+) ESMTP server \(InterMail v(\S+)
-572 Relay not authorized\r\n
-421 Sorry, SMTP server too busy right now \(193\); try again later\r\n
-554 SMTP service not available\r\n
-rblsmtpd: [\d.]+ pid \d+:.*220 rblsmtpd\.local\r\n
 220  DP-3510\r\n
-554 Service unavailable; Client host \[[\w._-]+\] blocked using Barracuda Reputation;
-220 CheckPoint FireWall-1 secure SMTP server\r\n
-Failed to open configuration file.*exim
-220 ESMTP \(Debian/GNU Mewwwwwww\)\r\n
-220-InterScan Version (\S+) .*Ready\r\n
-501 Domain must resolve\r\n
-421 Unexpected log failure, please try later\r\n
-220 Ready to receive mail2 -=- ESMTP\r\n502 unknown command\.\r\n
-220 ([-.\w]+) ESMTP Postfix \(([-.\w]+)\) \(([-.\w ]+)\)
-220 ShareMailPro SMTP Server Ready \r\n
-554 5\.7\.1 <unknown\[[\w.]+\]>: Client host rejected: Access denied\r\n
-220 smtpd\r\n502 [\d.]+ Error: command not recognized\r\n
-220 ([-\w_.]+) .*\r\n211 DATA HELO EHLO MAIL NOOP QUIT RCPT RSET SAML TURN VRFY\r\n\r\n
-220 Welcome to the QK SMTP Server\r\n
-220 Service ready M052 smtpd\r\n
-220 \r\n501 \r\n
-220 shttp\.srv Simple Mail Transfer Service Ready\r\n
-220 SPAM, we hates it.\r\n
-220 rblsmtpd\.local\r\n
-220  ESMTP Lyris service ready\r\n
-220 \[[\d.]+\] FTGate Server Ready \(#3\.01\)\r\n
-220 SMTP Server RoiMailServer ready\.\r\n
-220 Welcome to the INDY SMTP Server\r\n
-220 DP-1820E\r\n
-220-InterScan Version (\S+) .*Ready\r\n220 ([-.+\w]+) NTMail \(v([-.+\w]+)/.* ready
-220 .*\r\n221 2\.7\.0 Error: I can break rules, too\. Goodbye\.\r\n
-220 mailmatrix SMTP Server \(Mail Matrix Server\) ready
-220 Welcome to Nemesis ESMTP server on \S+
-220 .*\r\n214-Commands Supported:\r\n214-HELO EHLO AUTH HELP QUIT MAIL NOOP RSET RCPT DATA ETRN VRFY STARTTLS\r\n214-Copyright \(c\) 1995-200\d, Stalker Software, Inc\.\r\n
-220[\s-].*?ESMTP\r\n214 netqmail home page: http://qmail\.org/netqmail\r\n
-220 PostCast SMTP server \(http://www\.postcastserver\.com/\) ready at .*\r\n
-220 (\S+) ESMTP WEB.DE V([^\s\;]+)
-553 Requested action not taken; No permission\.\r\n
-220 \[[\w_.-]+\] ESMTP Ready\r\n501 HELO requires domain address\r\n
-220 Jana-Server Simple Mail Transfer Service ready\r\n
-220 ([-\w_.]+)\r\n214-Commands supported:\r\n214 AUTH STARTTLS HELO EHLO MAIL RCPT DATA NOOP QUIT RSET HELP\r\n
-220 ESMTP service ready\r\n250\x20ok\r\n
-220 ESMTP Service ready\r\n500 Command unrecognized\r\n
 220  ESMTP Lyris ListManager service ready\r\n
-relaylock: Error: PRODUCT_ROOT_D not defined\nrelaylock: Error: PRODUCT_ROOT_D not defined\n1\n
-421 unable to read controls \(#4\.3\.0\)\r\n
-421 4\.3\.2 Service not available\r\n
-220 Merak MAILSRV\r\n
-220.*214 SMTP server comments and bug reports to: \<zmhacks\@nic.funet.fi\>
-220 ([\w_.-]+) ESMTP\r\n501 ehlo requires domain/address - see RFC-2821 4\.1\.1\.1\r\n
-220 CheckPoint FireWall-1 secure ESMTP server\r\n
-220 jMailer SMTP Server\r\n
-220 Canon[-.\w]+ ESMTP Ready\r\n
-220.*500 Unknown or unimplemented command
-520 Connection not authorised from this address\.\r\n
+220  ESMTP Lyris service ready\r\n
 220  ESMTP\r\n214-The following commands are recognized\r\n214-\tauth\tdata\tehlo\thelo\r\n214-\thelp\tmail\tnoop\tquit\r\n214 \trcpt\trset\tvrfy\r\n| p|Eserv/4 smtpd
-220-InterScan Version (\S+) .*Ready\r\n220 ([-.+\w]+) Microsoft ESMTP MAIL Service, Version: ([\d.]+) ready at
-220.*500 MessageWall: Unrecognized command
-220 localhost Dumbster SMTP service ready\r\n
-220 ESMTP Service ready at .*\r\n214-Enter one of the following commands:\r\n214-HELO EHLO MAIL RCPT DATA RSET NOOP QUIT\r\n214 HELP \r\n
-220.*214-This is America Online mail version [vV](\S+)
-220 [-\w_.]+ Winmail Mail Server ESMTP ready\r\n
-421 4\.3\.2 Connection rate limit exceeded\.\r\n
+220 ([-.\w]+) ESMTP Postfix \(([-.\w]+)\) \(([-.\w ]+)\)
+220 ([-\w_.]+) .*\r\n211 DATA HELO EHLO MAIL NOOP QUIT RCPT RSET SAML TURN VRFY\r\n\r\n
+220 ([-\w_.]+)\r\n214-Commands supported:\r\n214 AUTH STARTTLS HELO EHLO MAIL RCPT DATA NOOP QUIT RSET HELP\r\n
+220 ([\w_.-]+) ESMTP\r\n501 ehlo requires domain/address - see RFC-2821 4\.1\.1\.1\r\n
+220 (\S+) -- Server ESMTP \(SUN JES MTA 6\.x\)
+220 (\S+) ESMTP Service\r\n502 5\.3\.0 Sendmail Xserve -- HELP not implemented\r\n
+220 (\S+) ESMTP WEB.DE V([^\s\;]+)
+220 .* SMTP ready at .*\r\n501 Command \"EHLO\" requires an argument\r\n
+220 .*\r\n214-Commands Supported:\r\n214-HELO EHLO AUTH HELP QUIT MAIL NOOP RSET RCPT DATA ETRN VRFY STARTTLS\r\n214-Copyright \(c\) 1995-200\d, Stalker Software, Inc\.\r\n
+220 .*\r\n221 2\.7\.0 Error: I can break rules, too\. Goodbye\.\r\n
+220 .*\r\n502 Error: command not implemented\r\n
 220 139-162-23-170\.ip\.linodeusercontent\.com ESMTP service ready\r\n
 220 139-162-23-18\.ip\.linodeusercontent\.com ESMTP service ready\r\n
-220 139-162-23-73\.ip\.linodeusercontent\.com ESMTP service ready\r\n
 220 139-162-23-199\.ip\.linodeusercontent\.com ESMTP service ready\r\n
 220 139-162-23-26\.ip\.linodeusercontent\.com ESMTP service ready\r\n
 220 139-162-23-27\.ip\.linodeusercontent\.com ESMTP service ready\r\n
+220 139-162-23-73\.ip\.linodeusercontent\.com ESMTP service ready\r\n
 220 178\.32\.107\.20 ESMTP service ready\r\n
 220 178\.32\.193\.60 ESMTP service ready\r\n
 220 1supply\.spb\.ru ESMTP CommuniGate Pro 6\.2\.6\r\n
 220 375150f0c80c ESMTP Postfix \(Debian/GNU\)\r\n
-220 8888tiger\.com ESMTP service ready\r\n
 220 6qV Winmail Mail Server ESMTP ready\r\n
 220 6w7hf\.uklevitrasupport\.com ESMTP service ready\r\n
+220 8888tiger\.com ESMTP service ready\r\n
 220 8\.37\.e6b9\.ip4\.static\.sl-reverse\.com ESMTP service ready\r\n
-220 AM1PEPF000252DC\.mail\.protection\.outlook\.com Microsoft ESMTP MAIL Service ready at Sun, 5 Jan 2025 21:37:34 \+0000 \[08DD2BFB27C2BF94\]\r\n
-220 B5\.3F\.7B67\.ip4\.static\.sl-reverse\.com ESMTP service ready\r\n
+220 ?(\S+) ESMTP server \(InterMail v(\S+)
+220 AM1PEPF000252DC\.mail\.protection\.outlook\.com Microsoft ESMTP MAIL Service ready at Sun, d Jan 202d 0d:0d:0d \+0000 \[08DD2BFB27C2BF94\]\r\n
 220 ApexInnovations\.cos ESMTP service ready\r\n
+220 B5\.3F\.7B67\.ip4\.static\.sl-reverse\.com ESMTP service ready\r\n
 220 BVPa Winmail Mail Server ESMTP ready\r\n
-220 Cloud-Rust ESMTP Postfix \(Debian/GNU\)\r\n
+220 Canon[-.\w]+ ESMTP Ready\r\n
+220 CheckPoint FireWall-1 secure ESMTP server\r\n
+220 CheckPoint FireWall-1 secure SMTP server\r\n
 220 ClearPivot\.cos ESMTP service ready\r\n
-220 EH-Mail-02\.engels-helden\.local Microsoft ESMTP MAIL Service ready at Sun, 5 Jan 2025 22:41:48 \+0100\r\n
-220 Debian-bookworm-latest-amd64-base\.example\.com ESMTP Exim 4\.96 Mon, 06 Jan 2025 01:35:17 \+0300\r\n
-220 EXCHANGE\.officehouse\.local Microsoft ESMTP MAIL Service ready at Mon, 6 Jan 2025 00:51:24 \+0200\r\n
-220 EXCHANGE\.officehouse\.local Microsoft ESMTP MAIL Service ready at Mon, 6 Jan 2025 00:41:40 \+0200\r\n
-220 EX1\.wrf\.local Microsoft ESMTP MAIL Service ready at Sun, 5 Jan 2025 19:41:48 \+0300\r\n
-220 Ex\.Roomi\.net Microsoft ESMTP MAIL Service ready at Sun, 5 Jan 2025 23:02:02 \+0330\r\n
-220 Exchange\.vanderbrook\.net Microsoft ESMTP MAIL Service ready at Sun, 5 Jan 2025 14:00:12 \+0000\r\n
-220 EXCHANGE\.officehouse\.local Microsoft ESMTP MAIL Service ready at Mon, 6 Jan 2025 00:51:20 \+0200\r\n
-220 Exchange-1\.flytoday\.org Microsoft ESMTP MAIL Service ready at Mon, 6 Jan 2025 05:05:36 \+0330\r\n
-220 Exchange\.vanderbrook\.net Microsoft ESMTP MAIL Service ready at Sun, 5 Jan 2025 22:49:02 \+0000\r\n
-220 Go0gle\.com ESMTP service ready\r\n
+220 Cloud-Rust ESMTP Postfix \(Debian/GNU\)\r\n
+220 DP-1820E\r\n
+220 Debian-bookworm-latest-amd64-base\.example\.com ESMTP Exim 4\.96 Mon, d Jan 202d 0d:0d:0d \+0300\r\n
+220 EH-Mail-02\.engels-helden\.local Microsoft ESMTP MAIL Service ready at Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 ESMTP Service ready at .*\r\n214-Enter one of the following commands:\r\n214-HELO EHLO MAIL RCPT DATA RSET NOOP QUIT\r\n214 HELP \r\n
+220 ESMTP Service ready\r\n500 Command unrecognized\r\n
+220 ESMTP \(Debian/GNU Mewwwwwww\)\r\n
+220 ESMTP service ready\r\n250\x20ok\r\n
+220 EX1\.wrf\.local Microsoft ESMTP MAIL Service ready at Sun, d Jan 202d 0d:0d:0d \+0300\r\n
+220 EXCHANGE\.officehouse\.local Microsoft ESMTP MAIL Service ready at Mon, d Jan 202d 0d:0d:0d \+0200\r\n
+220 Ex\.Roomi\.net Microsoft ESMTP MAIL Service ready at Sun, d Jan 202d 0d:0d:0d \+0330\r\n
+220 Exchange-1\.flytoday\.org Microsoft ESMTP MAIL Service ready at Mon, d Jan 202d 0d:0d:0d \+0330\r\n
+220 Exchange\.vanderbrook\.net Microsoft ESMTP MAIL Service ready at Sun, d Jan 202d 0d:0d:0d \+0000\r\n
 220 GlobalVista\.cos ESMTP service ready\r\n
-220 IL-CH-D-EX19\.pk-research\.com Microsoft ESMTP MAIL Service ready at Sun, 5 Jan 2025 12:06:24 -0600\r\n
+220 Go0gle\.com ESMTP service ready\r\n
+220 HMailServer ESMTP\r\n
 220 I, CALLPILOT\[26\.97\], speak ESMTP\.  Talk to me\.\r\n
-220 MAIL\.intellica-consulting\.com Microsoft ESMTP MAIL Service ready at Mon, 6 Jan 2025 01:51:46 \+0300\r\n
-220 LOCA-EXCH-SRV1\.loca\.local Microsoft ESMTP MAIL Service ready at Sun, 5 Jan 2025 19:52:56 \+0200\r\n
+220 I, CALLPILOT\[[\d.]+\], speak ESMTP\.  Talk to me\.\r\n
+220 IL-CH-D-EX19\.pk-research\.com Microsoft ESMTP MAIL Service ready at Sun, d Jan 202d 0d:0d:0d -0600\r\n
+220 Jana-Server Simple Mail Transfer Service ready\r\n
+220 LOCA-EXCH-SRV1\.loca\.local Microsoft ESMTP MAIL Service ready at Sun, d Jan 202d 0d:0d:0d \+0200\r\n
+220 LiteMail SMTP Server Ready\.\r\n
 220 LuxePioneer\.cos ESMTP service ready\r\n
-220 OVH-EXCH2\.global\.local Microsoft ESMTP MAIL Service ready at Sun, 5 Jan 2025 22:11:34 \+0000\r\n
+220 MAIL\.intellica-consulting\.com Microsoft ESMTP MAIL Service ready at Mon, d Jan 202d 0d:0d:0d \+0300\r\n
+220 Mail Server\r\n211 Help:->Supported Commands: HELO,EHLO,QUIT,HELP,RCPT,MAIL,DATA,RSET,NOOP\r\n
+220 Merak MAILSRV\r\n
 220 NextFrontier\.cos ESMTP service ready\r\n
+220 OVH-EXCH2\.global\.local Microsoft ESMTP MAIL Service ready at Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+220 PostCast SMTP server \(http://www\.postcastserver\.com/\) ready at .*\r\n
 220 RUTDFdfe\.dkfncvksd\.gabrielamelopropiedades\.cl ESMTP service ready\r\n
-220 SRVEX2019\.chilchota\.com Microsoft ESMTP MAIL Service ready at Sun, 5 Jan 2025 18:19:15 -0600\r\n
+220 Ready to receive mail2 -=- ESMTP\r\n502 unknown command\.\r\n
 220 SMTP Server RoiMailServer ready\.\r\n
+220 SPAM, we hates it.\r\n
+220 SRVEX2019\.chilchota\.com Microsoft ESMTP MAIL Service ready at Sun, d Jan 202d 0d:0d:0d -0600\r\n
+220 Service ready M052 smtpd\r\n
+220 ShareMailPro SMTP Server Ready \r\n
+220 Simple Mail Tranfer Service Ready \r\n502 Commande not implement \r\n
 220 SwiftVentures\.cos ESMTP service ready\r\n
 220 UnityForge\.cos ESMTP service ready\r\n
-220 WESDC01\.wesselink\.honda-wesselink\.nl Microsoft ESMTP MAIL Service ready at Sun, 5 Jan 2025 18:12:17 \+0100\r\n
-220 WIN-OP8TFSQSS3S\.home ESMTP MailEnable Service, Version: 10\.49-- ready at 01/05/25 22:57:30\r\n
-220 ajnfqwivjyatvasizcvzu\.de ESMTP service ready\r\n
-220 a1dev\.apaone\.com ESMTP Exim 4\.92 Sun, 05 Jan 2025 11:46:22 \+0100\r\n
-220 allaboutbarbra\.com ESMTP service ready\r\n
-220 acid-lounge\.org\.uk ESMTP service ready\r\n
-220 allaboutbarbra\.com ESMTP service ready\r\n500 5\.5\.1 command unknown in "GET / HTTP/1\.0"\r\n500 5\.5\.1 no command entered in ""\r\n
-220 abdo\.abdo\.com ESMTP service ready\r\n
+220 WESDC01\.wesselink\.honda-wesselink\.nl Microsoft ESMTP MAIL Service ready at Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 WIN-OP8TFSQSS3S\.home ESMTP MailEnable Service, Version: 10\.49-- ready at 01/05/25 0d:0d:0d\r\n
+220 WebMail ESMTP\r\n502 negative vibes\r\n
+220 Welcome to Nemesis ESMTP server on \S+
+220 Welcome to the Advanced SMTP Server\r\n
+220 Welcome to the INDY SMTP Server\r\n
+220 Welcome to the QK SMTP Server\r\n
+220 Welcome to the mail server\.\r\n211 DATA EXPN HELO MAIL NOOP QUIT RCPT RSET SAML SEND SOML TURN VRFY\r\n
+220 [-\w_.]+ Winmail Mail Server ESMTP ready\r\n
+220 \[[\d.]+\] FTGate Server Ready \(#3\.01\)\r\n
+220 \[[\w_.-]+\] ESMTP Ready\r\n501 HELO requires domain address\r\n
+220 \r\n501 \r\n
+220 a1dev\.apaone\.com ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
 220 aa1\.bid ESMTP service ready\r\n
-220 animal-university\.fr ESMTP service ready\r\n
-220 annakovach\.mysafeservers\.com ESMTP Exim 4\.89 Sun, 05 Jan 2025 23:30:29 \+0100\r\n
-220 akatalepsy\.com ESMTP Postfix \(Debian/GNU\)\r\n
-220 app\.mobileappspoint\.com ESMTP service ready\r\n
-220 animallogic\.com ESMTP service ready\r\n
-220 artemis\.dryades\.org ESMTP Postfix\r\n
-220 animaltesting\.fr ESMTP service ready\r\n
-220 analytics\.neticrm\.tw ESMTP Postfix \(Debian/GNU\)\r\n
-220 backvis\.al ESMTP service ready\r\n
+220 abdo\.abdo\.com ESMTP service ready\r\n
 220 accessshape\.shop ESMTP service ready\r\n
-220 avas-mx-beta-2\.planisys\.net ESMTP Postfix\r\n
-220 balikesirbuyuksehirrehberi\.com ESMTP service ready\r\n
-220 ashelymadsions ESMTP Exim 4\.89 OpenSMTPD\r\n
-220 b-vul-sg\.poin\.fun ESMTP Exim 4\.94\.2 Mon, 06 Jan 2025 06:26:17 \+0700\r\n
-220 bavgris\.be ESMTP service ready\r\n
+220 acid-lounge\.org\.uk ESMTP service ready\r\n
+220 ajnfqwivjyatvasizcvzu\.de ESMTP service ready\r\n
+220 akatalepsy\.com ESMTP Postfix \(Debian/GNU\)\r\n
+220 allaboutbarbra\.com ESMTP service ready\r\n
+220 allaboutbarbra\.com ESMTP service ready\r\n500 5\.5\.1 command unknown in "GET / HTTP/1\.0"\r\n500 5\.5\.1 no command entered in ""\r\n
+220 analytics\.neticrm\.tw ESMTP Postfix \(Debian/GNU\)\r\n
+220 animal-university\.fr ESMTP service ready\r\n
 220 animaldiversity\.org ESMTP service ready\r\n
+220 animallogic\.com ESMTP service ready\r\n
+220 animaltesting\.fr ESMTP service ready\r\n
+220 annakovach\.mysafeservers\.com ESMTP Exim 4\.89 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 app\.mobileappspoint\.com ESMTP service ready\r\n
+220 artemis\.dryades\.org ESMTP Postfix\r\n
+220 ashelymadsions ESMTP Exim 4\.89 OpenSMTPD\r\n
+220 avas-mx-beta-2\.planisys\.net ESMTP Postfix\r\n
+220 b-vul-sg\.poin\.fun ESMTP Exim 4\.94\.2 Mon, d Jan 202d 0d:0d:0d \+0700\r\n
+220 backvis\.al ESMTP service ready\r\n
+220 balikesirbuyuksehirrehberi\.com ESMTP service ready\r\n
+220 bavgris\.be ESMTP service ready\r\n
 220 benjaminhayesolutions\.net ESMTP service ready\r\n
-220 bigahcg\.kerja\.vip ESMTP Exim 4\.96 Mon, 06 Jan 2025 04:22:37 \+0700\r\n
-220 bestsoffers\.co\.uk ESMTP service ready\r\n
 220 bestorangejuice\.site ESMTP service ready\r\n
+220 bestsoffers\.co\.uk ESMTP service ready\r\n
+220 bigahcg\.kerja\.vip ESMTP Exim 4\.96 Mon, d Jan 202d 0d:0d:0d \+0700\r\n
+220 biggo\.vip ESMTP Postfix \(BigGo\)\r\n
+220 birch\.evergreen\.wilson\.st ESMTP Postfix \(Ubuntu\)\r\n
 220 bizzy\.org ESMTP service ready\r\n
-220 capitalcoachfx\.com ESMTP service ready\r\n
 220 bootloader\.io ESMTP Postfix\r\n
 220 braathen\.org ESMTP service ready\r\n
+220 brusnikaso\.info ESMTP service ready\r\n
 220 bvqyd\.pasticun500\.com ESMTP service ready\r\n
-220 ceesprod\.mysafeservers\.com ESMTP Exim 4\.92 Sun, 05 Jan 2025 23:30:50 \+0100\r\n
-220 biggo\.vip ESMTP Postfix \(BigGo\)\r\n
-220 charlie\.okerr\.com ESMTP Postfix \(Debian/GNU\)\r\n
-220 corporate\.kogi\.fr ESMTP Postfix\r\n
+220 canada24\.bio ESMTP service ready\r\n
+220 capitalcoachfx\.com ESMTP service ready\r\n
+220 ceesprod\.mysafeservers\.com ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
 220 celestialecho\.us ESMTP service ready\r\n
 220 centos-79-64-minimal\.centos-79-64-minimal ESMTP service ready\r\n
-220 brusnikaso\.info ESMTP service ready\r\n
-220 dailybreaking\.buzz ESMTP service ready\r\n
-220 birch\.evergreen\.wilson\.st ESMTP Postfix \(Ubuntu\)\r\n
-220 dexamethasoneff\.com ESMTP service ready\r\n
-220 comcaastfree\.info ESMTP service ready\r\n
+220 charlie\.okerr\.com ESMTP Postfix \(Debian/GNU\)\r\n
 220 cloud-22\.yukthi\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 dl-app\.site ESMTP service ready\r\n
-220 debian-2gb-nyc3-01\.cossu\.cc ESMTP Postfix \(Debian/GNU\)\r\n
-220 do004\.mail\.untamedwolverine\.com ESMTP Postfix \(Ubuntu\)\r\n
+220 comcaastfree\.info ESMTP service ready\r\n
+220 corporate\.kogi\.fr ESMTP Postfix\r\n
 220 countersoon\.shop ESMTP service ready\r\n
-220 dhaw97160\.com ESMTP Exim 4\.96 Sun, 05 Jan 2025 17:14:00 \+0000\r\n
 220 cse-prod\.conseils-plus\.fr ESMTP service ready\r\n
 220 cwp\.mailsumo\.co ESMTP service ready\r\n
-220 domain\.com ESMTP service ready\r\n
-220 canada24\.bio ESMTP service ready\r\n
-220 dmyanmarhost\.com ESMTP service ready\r\n
-220 doliprane\.autos ESMTP service ready\r\n
-220 duleemakavindi\.com ESMTP service ready\r\n
 220 dada\.otos\.pl ESMTP Postfix \(Debian/GNU\)\r\n
-220 directadmin\.triomy\.com\.my ESMTP Exim 4\.96-58-g4e9ed49f8 Mon, 06 Jan 2025 07:37:17 \+0800\r\n
+220 dailybreaking\.buzz ESMTP service ready\r\n
 220 dayork\.shop ESMTP service ready\r\n
-220 dzyjsb\.com ESMTP service ready\r\n
-220 etemplefies\.lm\.fu ESMTP service ready\r\n
-220 etrgovina\.mystableservers\.com ESMTP Exim 4\.92 Mon, 06 Jan 2025 01:25:42 \+0100\r\n
-220 enewsletter4\.com SMTP Server \(JAMES SMTP Server 2\.3\.2\) ready Mon, 6 Jan 2025 00:31:55 \+0800 \(HKT\)\r\n
+220 debian-2gb-nyc3-01\.cossu\.cc ESMTP Postfix \(Debian/GNU\)\r\n
+220 dexamethasoneff\.com ESMTP service ready\r\n
+220 dhaw97160\.com ESMTP Exim 4\.96 Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+220 directadmin\.triomy\.com\.my ESMTP Exim 4\.96-58-g4e9ed49f8 Mon, d Jan 202d 0d:0d:0d \+0800\r\n
 220 directchecks\.com ESMTP service ready\r\n
-220 esandex\.net ESMTP Exim 4\.94\.2 Sun, 05 Jan 2025 20:29:09 -0500\r\n
-220 effat\.org ESMTP service ready\r\n
+220 dl-app\.site ESMTP service ready\r\n
+220 dmyanmarhost\.com ESMTP service ready\r\n
+220 do004\.mail\.untamedwolverine\.com ESMTP Postfix \(Ubuntu\)\r\n
+220 doliprane\.autos ESMTP service ready\r\n
+220 domain\.com ESMTP service ready\r\n
+220 duleemakavindi\.com ESMTP service ready\r\n
+220 dzyjsb\.com ESMTP service ready\r\n
 220 e2f52271f8a5 smtp4dev ready\r\n
+220 effat\.org ESMTP service ready\r\n
+220 emxg1\.privatemailzone\.com ESMTP EARTH\r\n
+220 enewsletter4\.com SMTP Server \(JAMES SMTP Server 2\.3\.2\) ready Mon, d Jan 202d 0d:0d:0d \+0800 \(HKT\)\r\n
 220 engineeringcollege\.online ESMTP service ready\r\n
 220 engineeringcyllege\.click ESMTP service ready\r\n
+220 esandex\.net ESMTP Exim 4\.94\.2 Sun, d Jan 202d 0d:0d:0d -0500\r\n
+220 etemplefies\.lm\.fu ESMTP service ready\r\n
+220 etrgovina\.mystableservers\.com ESMTP Exim 4\.92 Mon, d Jan 202d 0d:0d:0d \+0100\r\n
 220 extrelay\.dwasiahost\.com ESMTP Postfix \(Ubuntu\)\r\n
-220 fdsfsdgdfgdfgfd\.fi ESMTP service ready\r\n
 220 fantasycastle\.site ESMTP service ready\r\n
-220 feedreader\.com ESMTP service ready\r\n
-220 flexcoach\.info ESMTP service ready\r\n
-220 emxg1\.privatemailzone\.com ESMTP EARTH\r\n
-220 fiheurope\.org ESMTP service ready\r\n
 220 fastfoodmenupreise\.de ESMTP service ready\r\n
 220 fc1ecd18f39d ESMTP Postfix \(Debian/GNU\)\r\n
+220 fdsfsdgdfgdfgfd\.fi ESMTP service ready\r\n
+220 feedreader\.com ESMTP service ready\r\n
+220 fiheurope\.org ESMTP service ready\r\n
 220 filehappy\.shop ESMTP service ready\r\n
-220 grigna\.ovh ESMTP Exim 4\.96 Sun, 05 Jan 2025 16:43:20 \+0100\r\n
-220 gz89\.perhitungan\.com ESMTP Exim 4\.96 Sun, 05 Jan 2025 21:20:07 \+0700\r\n
-220 gsmserver\.co\.uk ESMTP service ready\r\n
-220 gjtrzqpl\.fg ESMTP service ready\r\n
-220 hesina\.com ESMTP Exim 4\.96 Sun, 05 Jan 2025 11:36:38 \+0100\r\n
-220 henrystorm\.com ESMTP service ready\r\n
-220 fsfla\.org ESMTP Postfix \(Debian/GNU\)\r\n
-220 hesdola\.vizvaz\.com ESMTP service ready\r\n
-220 gocience\.com ESMTP service ready\r\n
-220 hika\.satususanna\.com ESMTP service ready\r\n
-220 helpanimals\.be ESMTP service ready\r\n
+220 flexcoach\.info ESMTP service ready\r\n
 220 freshface\.makeup ESMTP service ready\r\n
-220 holosop\.sexidude\.com ESMTP service ready\r\n
-220 hosting01\.europedev\.com ESMTP Exim 4\.96 Sun, 05 Jan 2025 21:46:01 \+0100\r\n
-220 hollyland-tech\.com ESMTP service ready\r\n
-220 host1\.groupeyoni\.fr ESMTP Postfix\r\n
-220 investerncapital\.info ESMTP service ready\r\n
-220 humaneanimalrescue\.org ESMTP service ready\r\n
+220 fsfla\.org ESMTP Postfix \(Debian/GNU\)\r\n
+220 gjtrzqpl\.fg ESMTP service ready\r\n
+220 gocience\.com ESMTP service ready\r\n
 220 gra5-smtp-1 ESMTP SubEthaSMTP 3\.1\.7\r\n
+220 grigna\.ovh ESMTP Exim 4\.96 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 gsmserver\.co\.uk ESMTP service ready\r\n
+220 gz89\.perhitungan\.com ESMTP Exim 4\.96 Sun, d Jan 202d 0d:0d:0d \+0700\r\n
+220 helpanimals\.be ESMTP service ready\r\n
+220 henrystorm\.com ESMTP service ready\r\n
+220 hesdola\.vizvaz\.com ESMTP service ready\r\n
+220 hesina\.com ESMTP Exim 4\.96 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 hika\.satususanna\.com ESMTP service ready\r\n
 220 hj168168\.com ESMTP service ready\r\n
+220 hollyland-tech\.com ESMTP service ready\r\n
+220 holosop\.sexidude\.com ESMTP service ready\r\n
+220 host1\.groupeyoni\.fr ESMTP Postfix\r\n
 220 hosting-zdjec\.com ESMTP service ready\r\n
-220 ikikadin\.com ESMTP service ready\r\n
+220 hosting01\.europedev\.com ESMTP Exim 4\.96 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 hosting01\.gitugituaja\.com ESMTP Exim 4\.96 Sun, d Jan 202d 0d:0d:0d \+0000\r\n
 220 hot\.195\.15\.digitaldreamcatchers\.com ESMTP service ready\r\n
+220 humaneanimalrescue\.org ESMTP service ready\r\n
 220 hz1\.inetss\.com ESMTP Postfix \(Ubuntu\)\r\n
-220 hosting01\.gitugituaja\.com ESMTP Exim 4\.96 Sun, 05 Jan 2025 14:59:29 \+0000\r\n
-220 imap\.example\.com ESMTP Exim 4\.94\.2 Sun, 05 Jan 2025 14:08:32 \+0000\r\n
-220 imap\.example\.com ESMTP Exim 4\.94\.2 Sun, 05 Jan 2025 23:22:51 \+0000\r\n
 220 icourse\.vn ESMTP service ready\r\n
-220 julipos\.instanthq\.com ESMTP service ready\r\n
+220 ikikadin\.com ESMTP service ready\r\n
+220 imap\.example\.com ESMTP Exim 4\.94\.2 Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+220 imss-2 ESMTP ready at .*\r\n
+220 investerncapital\.info ESMTP service ready\r\n
 220 isp\.noiticket\.it ESMTP Postfix \(Debian/GNU\)\r\n
-220 karaun\.com ESMTP service ready\r\n
 220 itaakaa\.pro ESMTP service ready\r\n
-220 joue\.com ESMTP service ready\r\n
-220 jjonesfuneralhome\.com ESMTP service ready\r\n
-220 joneswalker\.com ESMTP service ready\r\n
+220 jMailer SMTP Server\r\n
 220 jimmyhub\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 kbdirect\.shop ESMTP service ready\r\n
-220 kryptocall\.com ESMTP Exim 4\.92 Sun, 05 Jan 2025 11:14:43 -0300\r\n
+220 jjonesfuneralhome\.com ESMTP service ready\r\n
 220 jnzxnet\.com ESMTP service ready\r\n
+220 joneswalker\.com ESMTP service ready\r\n
+220 joue\.com ESMTP service ready\r\n
+220 julipos\.instanthq\.com ESMTP service ready\r\n
+220 karaun\.com ESMTP service ready\r\n
+220 kbdirect\.shop ESMTP service ready\r\n
+220 khumbtomb\.com ESMTP service ready\r\n
 220 kief\.com ESMTP service ready\r\n
 220 koratsli\.cz ESMTP service ready\r\n
-220 kpop-social\.com ESMTP Exim 4\.92 Sun, 05 Jan 2025 17:05:38 \+0200\r\n
-220 kst-vp01\.bringto\.top ESMTP Exim 4\.92 Sun, 05 Jan 2025 12:32:44 \+0000\r\n
-220 kst-vp01\.bringto\.top ESMTP Exim 4\.92 Sun, 05 Jan 2025 12:33:25 \+0000\r\n
-220 khumbtomb\.com ESMTP service ready\r\n
-220 ks1-gra1\.krt\.ovh ESMTP Exim 4\.94\.2 Sun, 05 Jan 2025 14:06:24 \+0000\r\n
-220 kst-vp01\.bringto\.top ESMTP Exim 4\.92 Sun, 05 Jan 2025 16:08:18 \+0000\r\n
-220 lde003\.mail\.trustytapir\.com ESMTP Postfix \(Ubuntu\)\r\n
-220 lde001\.mail\.fiercebadger\.com ESMTP Postfix \(Ubuntu\)\r\n
-220 kvas\.com ESMTP service ready\r\n
-220 kst-vp01\.bringto\.top ESMTP Exim 4\.92 Sun, 05 Jan 2025 12:33:31 \+0000\r\n
-220 lde002\.zestymikado\.com ESMTP Postfix \(Ubuntu\)\r\n
+220 kpop-social\.com ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0200\r\n
+220 kryptocall\.com ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d -0300\r\n
+220 ks1-gra1\.krt\.ovh ESMTP Exim 4\.94\.2 Sun, d Jan 202d 0d:0d:0d \+0000\r\n
 220 ks355814\.efr\.zone ESMTP Postfix\r\n
-220 lde002\.mail\.trustytapir\.com ESMTP Postfix \(Ubuntu\)\r\n
-220 lde004\.mail\.pokingbear\.com ESMTP Postfix \(Ubuntu\)\r\n
-220 kst-vp01\.bringto\.top ESMTP Exim 4\.92 Sun, 05 Jan 2025 12:24:52 \+0000\r\n
-220 lde003\.mail\.prancinglynx\.com ESMTP Postfix \(Ubuntu\)\r\n
-220 lde004\.mail\.omnimailr\.com ESMTP Postfix \(Ubuntu\)\r\n
-220 lde003\.mail\.daringibex\.com ESMTP Postfix \(Ubuntu\)\r\n
+220 kst-vp01\.bringto\.top ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+220 kvas\.com ESMTP service ready\r\n
+220 lde001\.mail\.fiercebadger\.com ESMTP Postfix \(Ubuntu\)\r\n
 220 lde002\.mail\.daringibex\.com ESMTP Postfix \(Ubuntu\)\r\n
 220 lde002\.mail\.strabomail\.com ESMTP Postfix \(Ubuntu\)\r\n
+220 lde002\.mail\.trustytapir\.com ESMTP Postfix \(Ubuntu\)\r\n
+220 lde002\.zestymikado\.com ESMTP Postfix \(Ubuntu\)\r\n
+220 lde003\.mail\.daringibex\.com ESMTP Postfix \(Ubuntu\)\r\n
+220 lde003\.mail\.prancinglynx\.com ESMTP Postfix \(Ubuntu\)\r\n
+220 lde003\.mail\.trustytapir\.com ESMTP Postfix \(Ubuntu\)\r\n
+220 lde004\.mail\.omnimailr\.com ESMTP Postfix \(Ubuntu\)\r\n
+220 lde004\.mail\.pokingbear\.com ESMTP Postfix \(Ubuntu\)\r\n
 220 lde004\.mta\.ravingchamois\.com ESMTP Postfix \(Ubuntu\)\r\n
-220 lde006\.zestymikado\.com ESMTP Postfix \(Ubuntu\)\r\n
-220 lkdshdhgasdhd\.org ESMTP service ready\r\n
-220 localhost \(PowerMTA\(TM\) v4\.0r19\) dummy ESMTP ready\r\n
 220 lde005\.mail\.prancinglynx\.com ESMTP Postfix \(Ubuntu\)\r\n
-220 li865-177\.members\.linode\.com ESMTP service ready\r\n
-220 localhost \(PowerMTA\(TM\) v4\.5r11\) dummy ESMTP ready\r\n
-220 linux-serv01\.proveedor\.net ESMTP Postfix\r\n
-220 localhost\.localhost ESMTP service ready\r\n
-220 localhost\.localdomain\.com ESMTP service ready\r\n
+220 lde006\.zestymikado\.com ESMTP Postfix \(Ubuntu\)\r\n
 220 lgoged-acc\.avocats\.be ESMTP SubEthaSMTP 3\.1\.7\r\n
+220 li865-177\.members\.linode\.com ESMTP service ready\r\n
+220 linux-serv01\.proveedor\.net ESMTP Postfix\r\n
+220 lkdshdhgasdhd\.org ESMTP service ready\r\n
+220 localhost Dumbster SMTP service ready\r\n
+220 localhost \(PowerMTA\(TM\) v4\.0r19\) dummy ESMTP ready\r\n
+220 localhost \(PowerMTA\(TM\) v4\.5r11\) dummy ESMTP ready\r\n
+220 localhost\.localdomain\.com ESMTP service ready\r\n
+220 localhost\.localhost ESMTP service ready\r\n
 220 long\.com ESMTP service ready\r\n
 220 loversd\.youdontcare\.com ESMTP service ready\r\n
 220 luna\.arempro\.xyz ESMTP Postfix\r\n
-220 m14\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 m13\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 lx4\.hoststar\.hosting ESMTP Exim\r\n
-220 m26\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 m27\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 m18\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 m7\.t1\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 m\.treeoflife\.ru Microsoft ESMTP MAIL Service ready at Sun, 5 Jan 2025 23:46:15 \+0300\r\n
-220 m17\.f1\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
 220 lx10\.hoststar\.hosting ESMTP Exim\r\n
 220 lx3\.hoststar\.hosting ESMTP Exim\r\n
-220 lzsup\.uklevitrasupport\.com ESMTP service ready\r\n
-220 m22\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 m11\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 m10\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 m25\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 m23\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 lx68\.hoststar\.hosting ESMTP Exim\r\n
-220 m\.project-sea\.com Microsoft ESMTP MAIL Service ready at Mon, 6 Jan 2025 00:35:26 \+0300\r\n
-220 m1\.w1\.e-info\.org\.tw ESMTP Postfix \(Debian/GNU\)\r\n
+220 lx4\.hoststar\.hosting ESMTP Exim\r\n
 220 lx66\.hoststar\.hosting ESMTP Exim\r\n
 220 lx67\.hoststar\.hosting ESMTP Exim\r\n
-220 m9\.s1\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 lx9\.hoststar\.hosting ESMTP Exim\r\n
-220 m5\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 mail\.chemadden\.online ESMTP service ready\r\n
+220 lx68\.hoststar\.hosting ESMTP Exim\r\n
 220 lx69\.hoststar\.hosting ESMTP Exim\r\n
+220 lx9\.hoststar\.hosting ESMTP Exim\r\n
+220 lzsup\.uklevitrasupport\.com ESMTP service ready\r\n
+220 m10\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 m11\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 m13\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 m14\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 m17\.f1\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 m18\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 m1\.w1\.e-info\.org\.tw ESMTP Postfix \(Debian/GNU\)\r\n
+220 m22\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 m23\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 m25\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 m26\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 m27\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 m5\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 m7\.t1\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
 220 m901\.t2\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 m9\.s1\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 m\.project-sea\.com Microsoft ESMTP MAIL Service ready at Mon, d Jan 202d 0d:0d:0d \+0300\r\n
+220 m\.treeoflife\.ru Microsoft ESMTP MAIL Service ready at Sun, d Jan 202d 0d:0d:0d \+0300\r\n
 220 mail-1\.server\.yesing\.com ESMTP Postfix\r\n
-220 mail1\.bfst\.de ESMTP Postfix\r\n
 220 mail-nfs\.localdomain ESMTP Postfix \(Debian/GNU\)\r\n
+220 mail1\.bfst\.de ESMTP Postfix\r\n
 220 mail3\.guse\.fr ESMTP Postfix \(Debian/GNU\)\r\n
-220 mail\.apikstore\.com ESMTP service ready\r\n
-220 mail\.buzzlink\.online ESMTP service ready\r\n
-220 mail\.actingulf\.com ESMTP service ready\r\n
-220 mail\.azvaytien\.com ESMTP service ready\r\n
-220 mail\.akurnin\.com ESMTP service ready\r\n
-220 mail\.aselincomavera\.co\.in ESMTP service ready\r\n
-220 mail\.datacentric\.sg ESMTP Postfix \(Ubuntu\)\r\n
-220 mail\.corpio\.app ESMTP Exim 4\.94\.2 Mon, 06 Jan 2025 03:20:26 \+0200\r\n
-220 mail\.commonaverageunited\.com ESMTP Postfix\r\n
 220 mail\.acgroupe\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 mail\.copperalliance\.org\.uk ESMTP service ready\r\n
+220 mail\.actingulf\.com ESMTP service ready\r\n
+220 mail\.akurnin\.com ESMTP service ready\r\n
 220 mail\.amerinasolnaf\.co\.in ESMTP service ready\r\n
-220 mail\.digital-mk\.com ESMTP service ready\r\n
-220 mail\.cybertrackgps\.com ESMTP service ready\r\n
-220 mail\.focusmedical\.com\.au ESMTP service ready\r\n
+220 mail\.apikstore\.com ESMTP service ready\r\n
+220 mail\.aselincomavera\.co\.in ESMTP service ready\r\n
+220 mail\.azvaytien\.com ESMTP service ready\r\n
+220 mail\.buzzlink\.online ESMTP service ready\r\n
+220 mail\.chemadden\.online ESMTP service ready\r\n
+220 mail\.commonaverageunited\.com ESMTP Postfix\r\n
+220 mail\.copperalliance\.org\.uk ESMTP service ready\r\n
+220 mail\.corpio\.app ESMTP Exim 4\.94\.2 Mon, d Jan 202d 0d:0d:0d \+0200\r\n
 220 mail\.ctsoft\.studio ESMTP ready\r\n
-220 mail\.farokinas\.co\.in ESMTP service ready\r\n
-220 mail\.harbottleonpremise\.com\.au ESMTP service ready\r\n
-220 mail\.globalrightsindex\.org ESMTP service ready\r\n
-220 mail\.halcyondreams\.com\.au ESMTP service ready\r\n
-220 mail\.desertsafaridubai\.com\.au ESMTP service ready\r\n
-220 mail\.fullcomit\.net ESMTP Postfix\r\n
-220 mail\.jobfilletfortitude\.com ESMTP service ready\r\n
-220 mail\.fourdapbi\.com ESMTP service ready\r\n
-220 mail\.grokinaslobas\.co\.in ESMTP service ready\r\n
-220 mail\.genertec\.com\.cn ESMTP service ready\r\n
-220 mail\.inazolpridoman\.co\.in ESMTP service ready\r\n
-220 mail\.galasoluciones\.com ESMTP Postfix\r\n
-220 mail\.kuf3\.AlcoRehab\.org ESMTP service ready\r\n
-220 mail\.isned\.nl ESMTP Postfix\r\n
-220 mail\.gfd\.si ESMTP Postfix \(Debian/GNU\)\r\n
-220 mail\.kalonadiv\.com ESMTP service ready\r\n
-220 mail\.ige-grenoble\.fr ESMTP service ready\r\n
-220 mail\.example\.com ESMTP service ready\r\n
-220 mail\.joeburden\.com ESMTP service ready\r\n
+220 mail\.cybertrackgps\.com ESMTP service ready\r\n
 220 mail\.cyllene\.net ESMTP CylleneMail\r\n
+220 mail\.datacentric\.sg ESMTP Postfix \(Ubuntu\)\r\n
+220 mail\.desertsafaridubai\.com\.au ESMTP service ready\r\n
+220 mail\.digital-mk\.com ESMTP service ready\r\n
+220 mail\.example\.com ESMTP service ready\r\n
+220 mail\.farokinas\.co\.in ESMTP service ready\r\n
+220 mail\.focusmedical\.com\.au ESMTP service ready\r\n
+220 mail\.fourdapbi\.com ESMTP service ready\r\n
+220 mail\.fullcomit\.net ESMTP Postfix\r\n
+220 mail\.galasoluciones\.com ESMTP Postfix\r\n
+220 mail\.genertec\.com\.cn ESMTP service ready\r\n
+220 mail\.gfd\.si ESMTP Postfix \(Debian/GNU\)\r\n
+220 mail\.globalrightsindex\.org ESMTP service ready\r\n
+220 mail\.grokinaslobas\.co\.in ESMTP service ready\r\n
+220 mail\.halcyondreams\.com\.au ESMTP service ready\r\n
+220 mail\.harbottleonpremise\.com\.au ESMTP service ready\r\n
+220 mail\.ige-grenoble\.fr ESMTP service ready\r\n
+220 mail\.inazolpridoman\.co\.in ESMTP service ready\r\n
 220 mail\.intstkwi\.com ESMTP service ready\r\n
-220 mail\.jibaklotazin\.co\.in ESMTP service ready\r\n
+220 mail\.isned\.nl ESMTP Postfix\r\n
 220 mail\.jennifertreloar\.com\.au ESMTP service ready\r\n
-220 mail\.larraby\.com ESMTP Postfix\r\n
-220 mail\.lagolcharters\.com\.au ESMTP service ready\r\n
+220 mail\.jibaklotazin\.co\.in ESMTP service ready\r\n
 220 mail\.jinvousdapif\.com ESMTP service ready\r\n
-220 mail\.kosmodroms\.lv ESMTP Exim 4\.72 Sun, 05 Jan 2025 17:01:42 \+0200\r\n
+220 mail\.jobfilletfortitude\.com ESMTP service ready\r\n
+220 mail\.joeburden\.com ESMTP service ready\r\n
+220 mail\.jumpupdate\.com ESMTP service ready\r\n
+220 mail\.kalonadiv\.com ESMTP service ready\r\n
+220 mail\.kilopranidos\.co\.in ESMTP service ready\r\n
+220 mail\.kosmodroms\.lv ESMTP Exim 4\.72 Sun, d Jan 202d 0d:0d:0d \+0200\r\n
+220 mail\.kuf3\.AlcoRehab\.org ESMTP service ready\r\n
+220 mail\.kumikomi\.net ESMTP service ready\r\n
+220 mail\.lagolcharters\.com\.au ESMTP service ready\r\n
+220 mail\.larraby\.com ESMTP Postfix\r\n
+220 mail\.liathrestaurant\.com ESMTP service ready\r\n
+220 mail\.manlyoceanside\.com\.au ESMTP service ready\r\n
 220 mail\.marketing-insta\.com ESMTP service ready\r\n
 220 mail\.mct-telecom\.com\.au ESMTP service ready\r\n
-220 mail\.kumikomi\.net ESMTP service ready\r\n
 220 mail\.medlinq\.com ESMTP Postfix \(Debian/GNU\)\r\n
-220 mail\.jumpupdate\.com ESMTP service ready\r\n
-220 mail\.liathrestaurant\.com ESMTP service ready\r\n
-220 mail\.kilopranidos\.co\.in ESMTP service ready\r\n
-220 mail\.manlyoceanside\.com\.au ESMTP service ready\r\n
+220 mail\.mhps\.com\.au ESMTP service ready\r\n
+220 mail\.morriswellness\.com\.au ESMTP service ready\r\n
+220 mail\.mountainbike-trails\.com\.au ESMTP service ready\r\n
 220 mail\.musaics\.com\.au ESMTP service ready\r\n
-220 mail\.no-offense\.com\.au ESMTP service ready\r\n
 220 mail\.mysnb\.com\.au ESMTP service ready\r\n
-220 mail\.ohs-courses\.com\.au ESMTP service ready\r\n
 220 mail\.neraflobimasa\.co\.in ESMTP service ready\r\n
-220 mail\.nklt\.se ESMTP Postfix\r\n
 220 mail\.nirmawdat\.com ESMTP service ready\r\n
 220 mail\.njpath\.com ESMTP service ready\r\n
-220 mail\.playfest\.com\.au ESMTP service ready\r\n
-220 mail\.mhps\.com\.au ESMTP service ready\r\n
-220 mail\.mountainbike-trails\.com\.au ESMTP service ready\r\n
-220 mail\.promopulsepost\.shop ESMTP service ready\r\n
-220 mail\.patrickfrost\.com\.au ESMTP service ready\r\n
-220 mail\.rolsaverindobas\.co\.in ESMTP service ready\r\n
+220 mail\.nklt\.se ESMTP Postfix\r\n
+220 mail\.no-offense\.com\.au ESMTP service ready\r\n
+220 mail\.ohs-courses\.com\.au ESMTP service ready\r\n
 220 mail\.oporaua\.org ESMTP Postfix\r\n
-220 mail\.smtp2go\.com ESMTP Exim 4\.97\.1-S2G Sun, 05 Jan 2025 23:47:59 \+0000\r\n
-220 mail\.sadybacentr\.ua Kerio Connect 9\.2\.8 patch 1 ESMTP ready\r\n
-220 mail\.morriswellness\.com\.au ESMTP service ready\r\n
-220 mail\.sogigo\.com ESMTP Postfix\r\n
-220 mail\.veritonkasin\.co\.in ESMTP service ready\r\n
-220 mail\.unalleviated\.space ESMTP service ready\r\n
-220 mail\.saratoga\.ca\.us ESMTP service ready\r\n
-220 mail\.tinycloud\.be ESMTP Postfix\r\n
+220 mail\.patrickfrost\.com\.au ESMTP service ready\r\n
+220 mail\.playfest\.com\.au ESMTP service ready\r\n
+220 mail\.promopulsepost\.shop ESMTP service ready\r\n
 220 mail\.racing14\.de ESMTP service ready\r\n
-220 mail\.tradeexpress\.rs ESMTP Exim 4\.94\.2 Sun, 05 Jan 2025 23:37:13 \+0100\r\n
-220 mail\.sansazaroditeljstvo\.org\.rs ESMTP Exim 4\.92 Sun, 05 Jan 2025 16:32:33 \+0100\r\n
-220 mail\.singi\.shop ESMTP Exim 4\.92 Mon, 06 Jan 2025 00:39:51 \+0100\r\n
-220 mailer10\.gate210\.r162-139\.smashmail\.eu ESMTP Postfix \(Ubuntu\)\r\n
-220 mail\.tsvgottsbueren\.de ESMTP service ready\r\n
-220 mail\.smtp2go\.com ESMTP Exim 4\.97\.1-S2G Sun, 05 Jan 2025 14:12:16 \+0000\r\n
-220 mailer21\.gate144\.r162-139\.smashmail\.eu ESMTP Postfix \(Ubuntu\)\r\n
-220 mail\.ub91\.lasalle\.com ESMTP service ready\r\n
-220 mailer68\.gate167\.r162-139\.smashmail\.eu ESMTP Postfix \(Ubuntu\)\r\n
-220 mail\.sones\.ru Microsoft ESMTP MAIL Service ready at Sun, 5 Jan 2025 23:44:55 \+0300\r\n
-220 mail\.shishkin-seeds\.world ESMTP Postfix \(Ubuntu\)\r\n
-220 mail\.walmart\.com ESMTP service ready\r\n
-220 mail\.smtp2go\.com ESMTP Exim 4\.97\.1-S2G Sun, 05 Jan 2025 14:12:17 \+0000\r\n
-220 mail\.zaubermoment\.shop ESMTP service ready\r\n
-220 mailer209\.gate144\.r162-139\.smashmail\.eu ESMTP Postfix \(Ubuntu\)\r\n
-220 mail\.southbridge\.ru ESMTP Postfix\r\n
-220 mail\.userx\.pl ESMTP Exim 4\.92 Mon, 06 Jan 2025 02:01:02 \+0100\r\n
-220 mail\.vtr\.net\.ua ESMTP Postfix\r\n
-220 mailhog\.staging\.bfstc\.councilplatform\.com ESMTP MailHog\r\n
-220 mail\.vilmansori\.com ESMTP service ready\r\n
-220 mailgw\.getz\.com ESMTP Postfix\r\n
-220 manage\.naturesfinest\.bg ESMTP Exim 4\.96 Mon, 06 Jan 2025 00:36:31 \+0100\r\n
-220 mail\.tucsonguild\.org ESMTP service ready\r\n
+220 mail\.rolsaverindobas\.co\.in ESMTP service ready\r\n
+220 mail\.sadybacentr\.ua Kerio Connect 9\.2\.8 patch 1 ESMTP ready\r\n
+220 mail\.sansazaroditeljstvo\.org\.rs ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 mail\.saratoga\.ca\.us ESMTP service ready\r\n
 220 mail\.scriptspower\.ca ESMTP Postfix \(Ubuntu\)\r\n
-220 mailhog\.example ESMTP MailHog\r\n
-220 mailhog\.staging\.north-herts\.councilplatform\.com ESMTP MailHog\r\n
+220 mail\.shishkin-seeds\.world ESMTP Postfix \(Ubuntu\)\r\n
+220 mail\.singi\.shop ESMTP Exim 4\.92 Mon, d Jan 202d 0d:0d:0d \+0100\r\n
+220 mail\.smtp2go\.com ESMTP Exim 4\.97\.1-S2G Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+220 mail\.sogigo\.com ESMTP Postfix\r\n
+220 mail\.sones\.ru Microsoft ESMTP MAIL Service ready at Sun, d Jan 202d 0d:0d:0d \+0300\r\n
+220 mail\.southbridge\.ru ESMTP Postfix\r\n
+220 mail\.tinycloud\.be ESMTP Postfix\r\n
+220 mail\.tradeexpress\.rs ESMTP Exim 4\.94\.2 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 mail\.tsvgottsbueren\.de ESMTP service ready\r\n
+220 mail\.tucsonguild\.org ESMTP service ready\r\n
+220 mail\.ub91\.lasalle\.com ESMTP service ready\r\n
+220 mail\.unalleviated\.space ESMTP service ready\r\n
+220 mail\.userx\.pl ESMTP Exim 4\.92 Mon, d Jan 202d 0d:0d:0d \+0100\r\n
+220 mail\.veritonkasin\.co\.in ESMTP service ready\r\n
+220 mail\.vilmansori\.com ESMTP service ready\r\n
+220 mail\.vtr\.net\.ua ESMTP Postfix\r\n
+220 mail\.walmart\.com ESMTP service ready\r\n
+220 mail\.zaubermoment\.shop ESMTP service ready\r\n
 220 mail\.zieleit\.de ESMTP service ready\r\n
+220 mailer10\.gate210\.r162-139\.smashmail\.eu ESMTP Postfix \(Ubuntu\)\r\n
+220 mailer209\.gate144\.r162-139\.smashmail\.eu ESMTP Postfix \(Ubuntu\)\r\n
+220 mailer21\.gate144\.r162-139\.smashmail\.eu ESMTP Postfix \(Ubuntu\)\r\n
+220 mailer68\.gate167\.r162-139\.smashmail\.eu ESMTP Postfix \(Ubuntu\)\r\n
+220 mailgw\.getz\.com ESMTP Postfix\r\n
+220 mailhog-6f9597b85f-6wn5l ESMTP MailHog\r\n
+220 mailhog\.example ESMTP MailHog\r\n
 220 mailhog\.staging\.angus-microsites\.publicplatform\.com ESMTP MailHog\r\n
+220 mailhog\.staging\.bfstc\.councilplatform\.com ESMTP MailHog\r\n
 220 mailhog\.staging\.brentwood\.councilplatform\.com ESMTP MailHog\r\n
 220 mailhog\.staging\.catarse\.com\.br ESMTP MailHog\r\n
-220 mailhog-6f9597b85f-6wn5l ESMTP MailHog\r\n
-220 manage\.naturesfinest\.bg ESMTP Exim 4\.96 Sun, 05 Jan 2025 15:28:56 \+0100\r\n
+220 mailhog\.staging\.north-herts\.councilplatform\.com ESMTP MailHog\r\n
 220 mailmark\.hill-smart\.com ESMTP service ready\r\n
+220 mailmatrix SMTP Server \(Mail Matrix Server\) ready
 220 mailrelay\.datait\.fi ESMTP Postfix \(Ubuntu\)\r\n
-220 mx\.agitos\.de ESMTP Postfix \(Debian/GNU\)\r\n
-220 modcamera\.com ESMTP service ready\r\n
-220 naturel-factory\.com ESMTP service ready\r\n
-220 mobilink1\.catbuilder\.biz Microsoft ESMTP MAIL Service, Version: 8\.5\.9600\.16384 ready at  Sun, 5 Jan 2025 16:22:55 \+0100 \r\n
-220 mta\.cirrus\.ovh ESMTP Postfix\r\n
-220 ms\.ega\.tf ESMTP Exim 4\.94\.2 Sun, 05 Jan 2025 12:27:47 \+0100\r\n
-220 mta3\.sendermap\.com ESMTP service ready\r\n
-220 mta1\.exhibittrade\.com ESMTP service ready\r\n
-220 mx1\.thinkingtaiwan\.com ESMTP Postfix \(Debian/GNU\)\r\n
+220 manage\.naturesfinest\.bg ESMTP Exim 4\.96 Mon, d Jan 202d 0d:0d:0d \+0100\r\n
+220 manage\.naturesfinest\.bg ESMTP Exim 4\.96 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
 220 mirtnansmit\.lm\.fu ESMTP service ready\r\n
+220 mobilink1\.catbuilder\.biz Microsoft ESMTP MAIL Service, Version: 8\.5\.9600\.16384 ready at  Sun, d Jan 202d 0d:0d:0d \+0100 \r\n
+220 modcamera\.com ESMTP service ready\r\n
 220 moroccoanimalaid\.com ESMTP service ready\r\n
-220 mynightschool\.info ESMTP service ready\r\n
-220 mxa\.danpiel\.net ESMTP Postfix \(Ubuntu\)\r\n
-220 mx\.optimgov\.com ESMTP Postfix\r\n
-220 mx\.cammodelsmail\.com ESMTP Postfix\r\n
-220 mta2\.sendermap\.com ESMTP service ready\r\n
-220 mx100\.secure\.neticrm\.com ESMTP Postfix \(Debian/GNU\)\r\n
-220 mta6\.dpmail\.fr ESMTP service ready\r\n
-220 mx\.aza-ms\.si ESMTP Postfix\r\n
 220 mp4\.corporate1photography\.com ESMTP service ready\r\n
-220 nox\.landgraaf\.net ESMTP Postfix\r\n
+220 ms\.ega\.tf ESMTP Exim 4\.94\.2 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 mta1\.exhibittrade\.com ESMTP service ready\r\n
+220 mta2\.sendermap\.com ESMTP service ready\r\n
+220 mta3\.sendermap\.com ESMTP service ready\r\n
+220 mta6\.dpmail\.fr ESMTP service ready\r\n
+220 mta\.cirrus\.ovh ESMTP Postfix\r\n
+220 mx100\.secure\.neticrm\.com ESMTP Postfix \(Debian/GNU\)\r\n
+220 mx1\.thinkingtaiwan\.com ESMTP Postfix \(Debian/GNU\)\r\n
+220 mx\.agitos\.de ESMTP Postfix \(Debian/GNU\)\r\n
+220 mx\.aza-ms\.si ESMTP Postfix\r\n
+220 mx\.cammodelsmail\.com ESMTP Postfix\r\n
+220 mx\.optimgov\.com ESMTP Postfix\r\n
+220 mxa\.danpiel\.net ESMTP Postfix \(Ubuntu\)\r\n
+220 mynightschool\.info ESMTP service ready\r\n
+220 naturel-factory\.com ESMTP service ready\r\n
 220 nerdthrill\.com ESMTP service ready\r\n
-220 nordparts\.lv ESMTP Exim 4\.92 Sun, 05 Jan 2025 17:01:44 \+0200\r\n
+220 network-box ESMTP\r\n
+220 newic ESMTP Exim 4\.90_1 Ubuntu Mon, d Jan 202d 0d:0d:0d \+0200\r\n
 220 newsexvideohd\.com ESMTP service ready\r\n
-220 newic ESMTP Exim 4\.90_1 Ubuntu Mon, 06 Jan 2025 00:30:07 \+0200\r\n
+220 newsletter\.amnesty\.tw ESMTP Postfix \(Debian/GNU\)\r\n
+220 nordparts\.lv ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0200\r\n
+220 nouvelle-regie\.com ESMTP service ready\r\n
+220 nox\.landgraaf\.net ESMTP Postfix\r\n
+220 ns3109491\.ip-54-36-51\.eu ESMTP Exim 4\.94\.2 Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+220 ns31105485\.ip-54-36-169\.eu ESMTP service ready\r\n
 220 od6tw\.uklevitrasupport\.com ESMTP service ready\r\n
+220 offerlmnvcxzt\.org ESMTP service ready\r\n
+220 offermplqwexr\.net ESMTP service ready\r\n
 220 offerweplmnbv\.net ESMTP service ready\r\n
 220 onlineadspost\.com ESMTP service ready\r\n
-220 offermplqwexr\.net ESMTP service ready\r\n
-220 offerlmnvcxzt\.org ESMTP service ready\r\n
-220 nouvelle-regie\.com ESMTP service ready\r\n
-220 newsletter\.amnesty\.tw ESMTP Postfix \(Debian/GNU\)\r\n
-220 outgoing-smtp\.statewidesoftware\.com ESMTP Postfix \(Ubuntu\)\r\n
-220 pinellas\.gov ESMTP service ready\r\n
-220 panel\.zagrosbpms\.ir ESMTP Exim 4\.96 Sun, 05 Jan 2025 20:57:02 \+0330\r\n
-220 orc\.nethack\.net ESMTP Postfix\r\n
-220 processing\.megadepot\.com ESMTP Exim 4\.92 Sun, 05 Jan 2025 19:27:06 \+0000\r\n
-220 ns31105485\.ip-54-36-169\.eu ESMTP service ready\r\n
-220 ns3109491\.ip-54-36-51\.eu ESMTP Exim 4\.94\.2 Sun, 05 Jan 2025 15:18:40 \+0000\r\n
 220 onuma\.webweaving\.org ESMTP Postfix \(dirkx\)\r\n
-220 posecarrelageartisants\.space ESMTP service ready\r\n
-220 plynt\.perhitungan\.com ESMTP Exim 4\.96 Sun, 05 Jan 2025 21:32:14 \+0700\r\n
-220 passby\.online ESMTP service ready\r\n
+220 orc\.nethack\.net ESMTP Postfix\r\n
+220 outgoing-smtp\.statewidesoftware\.com ESMTP Postfix \(Ubuntu\)\r\n
 220 ovh-dedicated-01 ESMTP SubEthaSMTP 3\.1\.7\r\n
+220 panel\.zagrosbpms\.ir ESMTP Exim 4\.96 Sun, d Jan 202d 0d:0d:0d \+0330\r\n
+220 passby\.online ESMTP service ready\r\n
 220 pcloudovh1\.jecreemonstand\.com ESMTP Postfix\r\n
-220 plantillas\.lawebredonda\.es ESMTP Exim 4\.89 Sun, 05 Jan 2025 13:44:09 \+0100\r\n
+220 pinellas\.gov ESMTP service ready\r\n
+220 plantillas\.lawebredonda\.es ESMTP Exim 4\.89 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 plynt\.perhitungan\.com ESMTP Exim 4\.96 Sun, d Jan 202d 0d:0d:0d \+0700\r\n
 220 pnujgujs\.carozuch\.com ESMTP service ready\r\n
-220 raider\.badea\.me ESMTP Postfix\r\n
-220 sciencedaily\.com ESMTP service ready\r\n
-220 qsqoazazm\.com ESMTP service ready\r\n
-220 puzzlemedia\.rs ESMTP Exim 4\.92 Mon, 06 Jan 2025 00:15:39 \+0100\r\n
+220 posecarrelageartisants\.space ESMTP service ready\r\n
+220 processing\.megadepot\.com ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+220 puzzlemedia\.rs ESMTP Exim 4\.92 Mon, d Jan 202d 0d:0d:0d \+0100\r\n
 220 qkdjfhtr\.rt ESMTP service ready\r\n
-220 relaybs\.iserv\.eu ESMTP Exim 4\.94\.2 Sun, 05 Jan 2025 11:45:10 \+0100\r\n
+220 qsqoazazm\.com ESMTP service ready\r\n
+220 raider\.badea\.me ESMTP Postfix\r\n
 220 raysettayublicatiyn\.click ESMTP service ready\r\n
-220 relay1\.iserv\.eu ESMTP Exim 4\.94\.2 Sun, 05 Jan 2025 11:35:14 \+0100\r\n
-220 retouronaturel\.com ESMTP service ready\r\n
-220 redoplynoxer\.com ESMTP service ready\r\n
+220 rblsmtpd\.local\r\n
 220 rcdas\.org ESMTP service ready\r\n
+220 redoplynoxer\.com ESMTP service ready\r\n
+220 relay1\.iserv\.eu ESMTP Exim 4\.94\.2 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 relaybs\.iserv\.eu ESMTP Exim 4\.94\.2 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 retouronaturel\.com ESMTP service ready\r\n
 220 rikatravels\.com ESMTP service ready\r\n
-220 serawak\.space ESMTP service ready\r\n
-220 server2recover\.novalocal ESMTP Exim 4\.94 Sun, 05 Jan 2025 12:08:03 \+0100\r\n
 220 rsdhjasah\.com ESMTP service ready\r\n
+220 rufinder\.pro ESMTP Exim 4\.89 Sun, d Jan 202d 0d:0d:0d \+0300\r\n
+220 s\.mhs\.in\.ua ESMTP Exim 4\.93 Sun, d Jan 202d 0d:0d:0d \+0200\r\n
 220 sabretooth\.bornhosting\.dk ESMTP Postfix \(Debian/GNU\)\r\n
+220 sciencedaily\.com ESMTP service ready\r\n
 220 seaworld\.org ESMTP service ready\r\n
-220 s\.mhs\.in\.ua ESMTP Exim 4\.93 Sun, 05 Jan 2025 22:51:20 \+0200\r\n
-220 server1\.egogo\.nl ESMTP Exim 4\.97\.1 Sun, 05 Jan 2025 14:17:47 \+0100\r\n
-220 server\.lttelevision\.com ESMTP Exim 4\.92 Sun, 05 Jan 2025 16:31:35 \+0100\r\n
-220 servicecarrelage\.space ESMTP service ready\r\n
-220 serv\.pixelcode\.tn ESMTP Exim 4\.96\.2 Sun, 05 Jan 2025 14:46:46 \+0100\r\n
-220 rufinder\.pro ESMTP Exim 4\.89 Sun, 05 Jan 2025 17:53:00 \+0300\r\n
-220 server1\.egogo\.nl ESMTP Exim 4\.97\.1 Sun, 05 Jan 2025 16:31:01 \+0100\r\n
-220 server\.3idea\.online ESMTP service ready\r\n
-220 server\.kakolako\.com ESMTP Exim 4\.96 Sun, 05 Jan 2025 11:49:27 \+0000\r\n
-220 server\.bolasalju\.id ESMTP Exim 4\.96 Sun, 05 Jan 2025 22:37:10 \+0700\r\n
 220 selvestersend\.com ESMTP service ready\r\n
-220 server\.gimpplus\.org ESMTP service ready\r\n
-220 server\.platformprogiapp\.info ESMTP Exim 4\.92 Sun, 05 Jan 2025 23:37:32 \+0000\r\n
+220 serawak\.space ESMTP service ready\r\n
+220 serv\.pixelcode\.tn ESMTP Exim 4\.96\.2 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 server1\.egogo\.nl ESMTP Exim 4\.97\.1 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 server2recover\.novalocal ESMTP Exim 4\.94 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 server\.3idea\.online ESMTP service ready\r\n
 220 server\.ba1\.es ESMTP service ready\r\n
-220 server\.cameleon\.rs ESMTP Exim 4\.92 Mon, 06 Jan 2025 01:47:02 \+0100\r\n
-220 smtp03\.sesmtp\.net ESMTP service ready\r\n
+220 server\.bolasalju\.id ESMTP Exim 4\.96 Sun, d Jan 202d 0d:0d:0d \+0700\r\n
+220 server\.cameleon\.rs ESMTP Exim 4\.92 Mon, d Jan 202d 0d:0d:0d \+0100\r\n
+220 server\.gimpplus\.org ESMTP service ready\r\n
+220 server\.kakolako\.com ESMTP Exim 4\.96 Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+220 server\.lttelevision\.com ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 server\.platformprogiapp\.info ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+220 servicecarrelage\.space ESMTP service ready\r\n
+220 shttp\.srv Simple Mail Transfer Service Ready\r\n
 220 simtantai\.com ESMTP service ready\r\n
-220 smtp03\.sepostman\.net ESMTP service ready\r\n
-220 smtp01\.marketinginunderwear\.com ESMTP Postfix \(Ubuntu\)\r\n
-220 smtp02\.sesmtp\.net ESMTP service ready\r\n
-220 smtp04\.sndxprt\.net ESMTP service ready\r\n
-220 smtp-relay\.bobbie\.de ESMTP Postfix \(Debian/GNU\)\r\n
 220 skocznvases\.lm\.fu ESMTP service ready\r\n
-220 smtp02\.sndxprt\.net ESMTP service ready\r\n
 220 smtp-auth\.cyber\.it ESMTP Postfix\r\n
+220 smtp-relay\.bobbie\.de ESMTP Postfix \(Debian/GNU\)\r\n
+220 smtp01\.marketinginunderwear\.com ESMTP Postfix \(Ubuntu\)\r\n
+220 smtp01\.sepostman\.net ESMTP service ready\r\n
+220 smtp01\.sesmtp\.net ESMTP service ready\r\n
 220 smtp01\.sndxprt\.net ESMTP service ready\r\n
 220 smtp02\.sepostman\.net ESMTP service ready\r\n
-220 smtp04\.sesmtp\.net ESMTP service ready\r\n
+220 smtp02\.sesmtp\.net ESMTP service ready\r\n
+220 smtp02\.sndxprt\.net ESMTP service ready\r\n
+220 smtp03\.sepostman\.net ESMTP service ready\r\n
+220 smtp03\.sesmtp\.net ESMTP service ready\r\n
 220 smtp04\.sepostman\.net ESMTP service ready\r\n
-220 smtp07\.sepostman\.net ESMTP service ready\r\n
-220 smtp08\.sndxprt\.net ESMTP service ready\r\n
-220 smtp06\.sepostman\.net ESMTP service ready\r\n
-220 smtp07\.sndxprt\.net ESMTP service ready\r\n
-220 smtp5\.next\.uservers\.net ESMTP Postfix\r\n
+220 smtp04\.sesmtp\.net ESMTP service ready\r\n
+220 smtp04\.sndxprt\.net ESMTP service ready\r\n
 220 smtp05\.sepostman\.net ESMTP service ready\r\n
-220 smtp01\.sepostman\.net ESMTP service ready\r\n
 220 smtp05\.sndxprt\.net ESMTP service ready\r\n
+220 smtp06\.sepostman\.net ESMTP service ready\r\n
 220 smtp06\.sndxprt\.net ESMTP service ready\r\n
-220 smtp01\.sesmtp\.net ESMTP service ready\r\n
+220 smtp07\.sepostman\.net ESMTP service ready\r\n
+220 smtp07\.sndxprt\.net ESMTP service ready\r\n
 220 smtp08\.sepostman\.net ESMTP service ready\r\n
+220 smtp08\.sndxprt\.net ESMTP service ready\r\n
+220 smtp4\.sendmetric\.com ESMTP ready\r\n
+220 smtp5\.next\.uservers\.net ESMTP Postfix\r\n
+220 smtp5\.to\.yukthi\.com ESMTP Postfix \(Debian/GNU\)\r\n
+220 smtp\.acui\.fr Microsoft ESMTP MAIL Service, Version: 10\.0\.14393\.4169 ready at  Sun, d Jan 202d 0d:0d:0d \+0100 \r\n
+220 smtp\.andjcrew\.team ESMTP service ready\r\n
 220 smtp\.ascensionverssucces\.com ESMTP service ready\r\n
+220 smtp\.elevationspirituelle\.com ESMTP service ready\r\n
 220 smtp\.hg3-dist\.com ESMTP Postfix \(Ubuntu\)\r\n
 220 smtp\.park-infos\.fr ESMTP service ready\r\n
-220 smtp4\.sendmetric\.com ESMTP ready\r\n
-220 smtp\.andjcrew\.team ESMTP service ready\r\n
-220 smtp\.talkiu\.com ESMTP Exim 4\.93 Ubuntu Sun, 05 Jan 2025 23:24:33 \+0000\r\n
-220 societe\.com ESMTP service ready\r\n
-220 smtp\.thekase\.com Microsoft ESMTP MAIL Service, Version: 8\.5\.9600\.16384 ready at  Mon, 6 Jan 2025 03:25:44 \+0100 \r\n
-220 smtp\.acui\.fr Microsoft ESMTP MAIL Service, Version: 10\.0\.14393\.4169 ready at  Sun, 5 Jan 2025 21:25:26 \+0100 \r\n
 220 smtp\.realisationpersonnelleexpress\.com ESMTP service ready\r\n
 220 smtp\.scafi\.it ESMTP Postfix\r\n
-220 smtp5\.to\.yukthi\.com ESMTP Postfix \(Debian/GNU\)\r\n
-220 smtp\.elevationspirituelle\.com ESMTP service ready\r\n
-220 smtplino3\.thetisweb\.it ESMTP Postfix \(Ubuntu\)\r\n
+220 smtp\.talkiu\.com ESMTP Exim 4\.93 Ubuntu Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+220 smtp\.thekase\.com Microsoft ESMTP MAIL Service, Version: 8\.5\.9600\.16384 ready at  Mon, d Jan 202d 0d:0d:0d \+0100 \r\n
 220 smtp\.webdev\.it ESMTP Postfix \(Ubuntu\)\r\n
-220 spiegel\.de ESMTP service ready\r\n
-220 srv\.adsxpedia\.com ESMTP service ready\r\n
-220 srv183\.mysmtp\.fr ESMTP Postfix \(Debian/GNU\)\r\n
-220 superkids\.space ESMTP service ready\r\n
-220 strhj\.ideaoffers\.online ESMTP service ready\r\n
-220 static\.102\.120\.243\.136\.clients\.your-server\.de ESMTP service ready\r\n
-220 taedp\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
 220 smtpd\r\n502 39489 Error: command not recognized\r\n
+220 smtpd\r\n502 [\d.]+ Error: command not recognized\r\n
+220 smtplino3\.thetisweb\.it ESMTP Postfix \(Ubuntu\)\r\n
+220 societe\.com ESMTP service ready\r\n
+220 spiegel\.de ESMTP service ready\r\n
+220 srv183\.mysmtp\.fr ESMTP Postfix \(Debian/GNU\)\r\n
+220 srv\.adsxpedia\.com ESMTP service ready\r\n
+220 static\.102\.120\.243\.136\.clients\.your-server\.de ESMTP service ready\r\n
 220 stewartkc\.com ESMTP service ready\r\n
-220 sullise\.americanunfinished\.com ESMTP service ready\r\n
+220 strhj\.ideaoffers\.online ESMTP service ready\r\n
 220 subsnataon\.lm\.fu ESMTP service ready\r\n
-220 thefrenchcorner\.net ESMTP service ready\r\n
-220 thjdw\.com ESMTP service ready\r\n
+220 sullise\.americanunfinished\.com ESMTP service ready\r\n
+220 superkids\.space ESMTP service ready\r\n
+220 taedp\.neticrm\.net ESMTP Postfix \(Debian/GNU\)\r\n
 220 thalis\.hunteragency\.gr ESMTP Postfix\r\n
-220 trofei-dv\.ru ESMTP service ready\r\n
-220 thepussy\.shop ESMTP service ready\r\n
-220 umjail644\.dsgdsuy\.morganisageek\.org ESMTP service ready\r\n
-220 ubuntu\.UNKNOWN ESMTP Postfix \(Ubuntu\)\r\n
-220 unlim2\.freexion\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 topcategories\.online ESMTP service ready\r\n
+220 thefrenchcorner\.net ESMTP service ready\r\n
 220 thefrugalchicken\.com ESMTP service ready\r\n
-220 ueuromed\.org ESMTP service ready\r\n
+220 thepussy\.shop ESMTP service ready\r\n
+220 thjdw\.com ESMTP service ready\r\n
+220 tictac2023\.com ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+220 topcategories\.online ESMTP service ready\r\n
 220 topsproducts\.online ESMTP service ready\r\n
-220 v1\.qkk\.jp ESMTP Postfix \(Debian/GNU\)\r\n
-220 vintagebike\.motorcycles ESMTP service ready\r\n
-220 vh2c\.com\.br ESMTP Exim 4\.94\.2 Sun, 05 Jan 2025 22:23:20 -0300\r\n
+220 trofei-dv\.ru ESMTP service ready\r\n
+220 ubuntu\.UNKNOWN ESMTP Postfix \(Ubuntu\)\r\n
+220 ueuromed\.org ESMTP service ready\r\n
 220 uis\.unesco\.org ESMTP service ready\r\n
+220 umjail644\.dsgdsuy\.morganisageek\.org ESMTP service ready\r\n
+220 unlim2\.freexion\.net ESMTP Postfix \(Debian/GNU\)\r\n
 220 us-lax01\.tech9computers\.com ESMTP Postfix \(Debian/GNU\)\r\n
-220 vps-1c92a77e\.vps\.ovh\.net ESMTP service ready\r\n
-220 tictac2023\.com ESMTP Exim 4\.92 Sun, 05 Jan 2025 13:38:44 \+0000\r\n
+220 v1\.qkk\.jp ESMTP Postfix \(Debian/GNU\)\r\n
+220 vh2c\.com\.br ESMTP Exim 4\.94\.2 Sun, d Jan 202d 0d:0d:0d -0300\r\n
+220 vintagebike\.motorcycles ESMTP service ready\r\n
 220 vps-114678c3\.vps\.ovh\.net ESMTP service ready\r\n
-220 vps-4a135aa4\.vps\.ovh\.net ESMTP Exim 4\.92 Sun, 05 Jan 2025 22:38:30 \+0000\r\n
-220 vps-4b63d7d3\.vps\.ovh\.net ESMTP Exim 4\.92 Sun, 05 Jan 2025 19:04:27 \+0000\r\n
-220 vps-6c3ec3ab\.openstacklocal ESMTP service ready\r\n
-220 vps-coolloud\.coolloud\.org\.tw ESMTP Postfix \(Debian/GNU\)\r\n
-220 vps-51bd08d7\.vps\.ovh\.net ESMTP Exim 4\.94\.2 Sun, 05 Jan 2025 12:26:59 \+0100\r\n
-220 vps-4b13cdba\.vps\.ovh\.net ESMTP Exim 4\.94\.2 Sun, 05 Jan 2025 12:24:41 \+0100\r\n
-220 vps-c02353d6\.vps\.ovh\.net ESMTP Exim 4\.94\.2 Mon, 06 Jan 2025 02:54:45 \+0100\r\n
-220 vps-58d9f76e\.vps\.ovh\.net ESMTP service ready\r\n
-220 vps-8b82f924\.vps\.ovh\.net ESMTP Postfix \(Ubuntu\)\r\n
-220 vps220326\.ovh\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 vps-65f85c13\.vps\.ovh\.net ESMTP Sendmail 8\.15\.2/8\.15\.2; Mon, 6 Jan 2025 01:52:05 GMT\r\n
-220 vps2\.feather-graph\.com ESMTP Exim 4\.96 Sun, 05 Jan 2025 19:17:27 \+0100\r\n
-220 vps791293\.ovh\.net ESMTP Exim 4\.92 Sun, 05 Jan 2025 18:32:16 \+0100\r\n
-220 vps-40ba63c5\.vps\.ovh\.net ESMTP service ready\r\n
-220 vps205464\.ovh\.net ESMTP Sendmail 8\.14\.7/8\.14\.7; Sun, 5 Jan 2025 22:32:04 \+0100\r\n
-220 vps791293\.ovh\.net ESMTP Exim 4\.92 Sun, 05 Jan 2025 20:47:34 \+0100\r\n
-220 vps-7bea3aac\.vps\.ovh\.ca ESMTP service ready\r\n
+220 vps-1c92a77e\.vps\.ovh\.net ESMTP service ready\r\n
 220 vps-2856cac7\.vps\.ovh\.net ESMTP service ready\r\n
-220 vps-4a135aa4\.vps\.ovh\.net ESMTP Exim 4\.92 Sun, 05 Jan 2025 20:55:57 \+0000\r\n
-220 vps-d1844a49\.vps\.ovh\.net\.novalocal ESMTP Exim 4\.92 Sun, 05 Jan 2025 13:04:04 \+0000\r\n
-220 web-stranka\.com ESMTP service ready\r\n
-220 vps585064\.ovh\.net ESMTP Postfix \(Debian/GNU\)\r\n
-220 vps\.nsd\.asia ESMTP Postfix \(Debian/GNU\)\r\n
-220 wmimutual\.com ESMTP service ready\r\n
-220 vps\.msf\.tw ESMTP Postfix \(Debian/GNU\)\r\n
-220 windwardengineering\.com ESMTP service ready\r\n
-220 western-architectural\.com ESMTP service ready\r\n
+220 vps-40ba63c5\.vps\.ovh\.net ESMTP service ready\r\n
+220 vps-4a135aa4\.vps\.ovh\.net ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+220 vps-4b13cdba\.vps\.ovh\.net ESMTP Exim 4\.94\.2 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 vps-4b63d7d3\.vps\.ovh\.net ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0000\r\n
+220 vps-51bd08d7\.vps\.ovh\.net ESMTP Exim 4\.94\.2 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 vps-58d9f76e\.vps\.ovh\.net ESMTP service ready\r\n
+220 vps-65f85c13\.vps\.ovh\.net ESMTP Sendmail 8\.15\.2/8\.15\.2; Mon, d Jan 202d 0d:0d:0d GMT\r\n
+220 vps-6c3ec3ab\.openstacklocal ESMTP service ready\r\n
+220 vps-7bea3aac\.vps\.ovh\.ca ESMTP service ready\r\n
+220 vps-8b82f924\.vps\.ovh\.net ESMTP Postfix \(Ubuntu\)\r\n
+220 vps-c02353d6\.vps\.ovh\.net ESMTP Exim 4\.94\.2 Mon, d Jan 202d 0d:0d:0d \+0100\r\n
+220 vps-coolloud\.coolloud\.org\.tw ESMTP Postfix \(Debian/GNU\)\r\n
+220 vps-d1844a49\.vps\.ovh\.net\.novalocal ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0000\r\n
 220 vps-ecb883a1\.vps\.ovh\.net ESMTP service ready\r\n
-220 washington\.edu ESMTP service ready\r\n
-220 wlcutah\.com ESMTP service ready\r\n
-220 vps-d1844a49\.vps\.ovh\.net\.novalocal ESMTP Exim 4\.92 Sun, 05 Jan 2025 20:11:47 \+0000\r\n
-220 wisconsinpollinators\.com ESMTP service ready\r\n
+220 vps205464\.ovh\.net ESMTP Sendmail 8\.14\.7/8\.14\.7; Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 vps220326\.ovh\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 vps2\.feather-graph\.com ESMTP Exim 4\.96 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 vps585064\.ovh\.net ESMTP Postfix \(Debian/GNU\)\r\n
+220 vps791293\.ovh\.net ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
+220 vps\.msf\.tw ESMTP Postfix \(Debian/GNU\)\r\n
+220 vps\.nsd\.asia ESMTP Postfix \(Debian/GNU\)\r\n
 220 vps\.sow\.org\.tw ESMTP Postfix \(Debian/GNU\)\r\n
-220 xmznz\.com ESMTP service ready\r\n
 220 vps\.tfai\.org\.tw ESMTP Postfix \(Debian/GNU\)\r\n
-220 zwemwater\.nl ESMTP service ready\r\n
+220 washington\.edu ESMTP service ready\r\n
+220 web-stranka\.com ESMTP service ready\r\n
+220 western-architectural\.com ESMTP service ready\r\n
+220 windwardengineering\.com ESMTP service ready\r\n
+220 wisconsinpollinators\.com ESMTP service ready\r\n
+220 wlcutah\.com ESMTP service ready\r\n
+220 wmimutual\.com ESMTP service ready\r\n
 220 wolcottoptical\.com ESMTP service ready\r\n
-220 zummatex\.click ESMTP service ready\r\n
-220 yawsymediscyunts\.click ESMTP service ready\r\n
-220 yimuzds\.com ESMTP service ready\r\n
-220 x5wei\.uklevitrasupport\.com ESMTP service ready\r\n
 220 wsrv01\.it-network\.at ESMTP Postfix \(Debian/GNU\)\r\n
+220 www0\.goldenplaza\.com\.ua ESMTP Exim 4\.97\.1 Sun, d Jan 202d 0d:0d:0d \+0200\r\n
+220 x5wei\.uklevitrasupport\.com ESMTP service ready\r\n
+220 xmznz\.com ESMTP service ready\r\n
+220 yawsymediscyunts\.click ESMTP service ready\r\n
 220 yeallowlady\.online ESMTP service ready\r\n
-220 www0\.goldenplaza\.com\.ua ESMTP Exim 4\.97\.1 Sun, 05 Jan 2025 22:56:12 \+0200\r\n
-220 younify2\.fastcloudnetwork\.com ESMTP Exim 4\.92 Sun, 05 Jan 2025 12:58:58 \+0100\r\n
+220 yimuzds\.com ESMTP service ready\r\n
+220 younify2\.fastcloudnetwork\.com ESMTP Exim 4\.92 Sun, d Jan 202d 0d:0d:0d \+0100\r\n
 220 zizanodos\.site ESMTP service ready\r\n
+220 zummatex\.click ESMTP service ready\r\n
+220 zwemwater\.nl ESMTP service ready\r\n
 220-'\?ESMTP\r\n214 netqmail home page: http://qmail\.org/netqmail\r\n
-220-company\.dreamlineit\.com ESMTP Exim 4\.97\.1 #2 Sun, 05 Jan 2025 23:09:06 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-cloud-mail\.rvpl\.com\.sg ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 07:33:39 \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-d191\.fcomet\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 23:00:57 \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-depro10\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 23:17:16 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-depro3\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 22:23:37 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-depro7\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 00:31:00 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-clouduk\.shim-bi\.com ESMTP Exim 4\.96\.2 #2 Mon, 06 Jan 2025 05:57:37 \+0530 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-cp\.uppersia\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 02:58:03 \+0330 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-corsto1\.corstowebdesign\.co\.uk ESMTP Exim 4\.96\.2 #2 Mon, 06 Jan 2025 01:20:01 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-depro4\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 00:18:36 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-depro11\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 23:43:01 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-depro3\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 00:01:04 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-cvz10\.allit\.be ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 15:13:24 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-depro6\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 21:52:29 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-company\.dreamlineit\.com ESMTP Exim 4\.97\.1 #2 Sun, 05 Jan 2025 23:08:50 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-cp01\.rackhost\.eu ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 12:33:24 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-depro4\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 23:55:05 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-depro6\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 22:17:22 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-depro1\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 00:00:44 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-depro7\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 23:11:59 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-clouduk\.shim-bi\.com ESMTP Exim 4\.96\.2 #2 Mon, 06 Jan 2025 06:53:06 \+0530 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-depro9\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 00:27:31 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-depro1\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 00:31:49 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-company\.dreamlineit\.com ESMTP Exim 4\.97\.1 #2 Sun, 05 Jan 2025 23:12:22 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-jppro2\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 04:13:58 \+0900 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-depro9\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 22:56:48 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node131\.myfclouduk\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 00:44:08 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-email\.uoahospitality\.com\.my ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 07:44:28 \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-jppro2\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 04:29:12 \+0900 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-evnoiagroup\.eu ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 20:39:19 \+0100 \r\n220- We do not authorize the use of this system to transport unsolicited, \r\n220  and/or bulk e-mail\.\r\n
-220-node1770\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 15:30:27 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-mail\.servermail\.no ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 16:15:55 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-mail\.ttrk\.dev ESMTP Postfix \(Debian/GNU\)\r\n220 mail\.ttrk\.dev ESMTP Postfix \(Debian/GNU\)\r\n
-220-emy\.mxwh\.net ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 13:12:28 -0500 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-jppro2\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 02:21:03 \+0900 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node193\.myfcloudsg\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 16:02:01 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node1770\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 16:50:52 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node118\.myfclouduk\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 00:07:40 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-mail\.ttrk\.dev ESMTP Postfix \(Debian/GNU\)\r\n
-220-node132\.myfclouduk\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 00:11:24 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-InterScan Version (\S+) .*Ready\r\n
+220-InterScan Version (\S+) .*Ready\r\n220 ([-.+\w]+) ESMTP Postfix\r\n
+220-InterScan Version (\S+) .*Ready\r\n220 ([-.+\w]+) Microsoft ESMTP MAIL Service, Version: ([\d.]+) ready at
+220-InterScan Version (\S+) .*Ready\r\n220 ([-.+\w]+) NTMail \(v([-.+\w]+)/.* ready
+220-cloud-mail\.rvpl\.com\.sg ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-clouduk\.shim-bi\.com ESMTP Exim 4\.96\.2 #2 Mon, d Jan 202d 0d:0d:0d \+0530 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-company\.dreamlineit\.com ESMTP Exim 4\.97\.1 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-corsto1\.corstowebdesign\.co\.uk ESMTP Exim 4\.96\.2 #2 Mon, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-cp01\.rackhost\.eu ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-cp\.uppersia\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0330 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-cvz10\.allit\.be ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-d191\.fcomet\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-depro10\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-depro11\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-depro1\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-depro3\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-depro3\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-depro4\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-depro4\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-depro6\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-depro7\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-depro7\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-depro9\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-depro9\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-email\.uoahospitality\.com\.my ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-emy\.mxwh\.net ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d -0500 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-evnoiagroup\.eu ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0100 \r\n220- We do not authorize the use of this system to transport unsolicited, \r\n220  and/or bulk e-mail\.\r\n
+220-jppro2\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0900 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-mail\.servermail\.no ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
 220-mail\.syncevolution\.com ESMTP Postfix\r\n
-220-node2840\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 23:35:49 \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node180\.myfcloudsg\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 16:10:11 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node175\.myfcloudsg\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 16:05:54 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node185\.myfcloudsg\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 14:12:05 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node1811\.danskictmanagement\.com ESMTP Exim 4\.96\.2 #2 Mon, 06 Jan 2025 02:40:33 \+0300 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node3420\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 22:07:04 \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node2840\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 22:44:20 \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node126\.myfclouduk\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 00:12:07 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node173\.myfcloudde\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 22:15:41 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node173\.myfcloudsg\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 00:03:38 \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node2824\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 22:24:48 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node3211\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 22:51:06 \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node3064\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 22:24:23 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node2196\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 16:45:51 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node2152\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 16:30:30 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node261\.myfcloudde\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 22:22:16 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node2068\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 23:33:54 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node262\.myfcloudde\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 21:19:24 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node4045\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 21:02:51 \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node3984\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 23:30:44 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node4403\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 21:02:14 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node260\.myfcloudde\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 22:18:51 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node2890\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 22:45:50 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node4091\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 20:57:21 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node3222\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Mon, 06 Jan 2025 02:00:55 \+0300 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node2445\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 15:19:20 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node4176\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 21:30:35 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node3514\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 14:30:07 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node4588\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 20:46:24 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node234\.myfcloudde\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 20:53:16 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node4177\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 23:18:00 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node4086\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 18:56:57 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node4026\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Mon, 06 Jan 2025 00:17:52 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node3263\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 23:59:15 \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node3874\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 23:47:23 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node4546\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 22:45:01 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node4497\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 22:02:43 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node5553\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 21:30:47 \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node3749\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Mon, 06 Jan 2025 04:00:33 \+0900 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node4597\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 21:26:58 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node2766\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Mon, 06 Jan 2025 00:39:19 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node5038\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 22:42:08 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node4870\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 23:47:28 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node4723\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 14:28:49 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node2985\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 22:14:32 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node5111\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 23:20:21 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node5397\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 23:46:37 \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node5095\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 22:05:53 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node5091\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 19:59:09 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-server\.needassistant\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 15:45:02 \+0200 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node5123\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 23:23:32 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node5158\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 23:19:48 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-server1\.bwr-intl\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 13:45:06 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node5509\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 16:01:53 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-sgpro1\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 00:02:06 \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node7350\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Mon, 06 Jan 2025 00:09:13 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node5355\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 22:20:42 \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-server1\.bwr-intl\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 18:49:50 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node5351\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 20:44:55 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-sgpro1\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 01:06:56 \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-sgpro1\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 23:13:54 \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-tornado\.privatednszone\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 05:22:07 \+0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-server1\.bwr-intl\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 13:52:06 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-tornado\.privatednszone\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 05:21:03 \+0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-serv08\.atvirtual\.eu ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 23:18:18 \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-sgpro2\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 23:57:32 \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-vm287\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 23:42:17 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node6352\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 22:39:20 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-tornado\.privatednszone\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 05:19:49 \+0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-node72\.myfcloudjp\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 19:12:34 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-tornado\.privatednszone\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 05:10:34 \+0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-sgpro2\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 23:47:20 \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-sgpro4\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 00:18:06 \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-sgpro2\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 23:24:27 \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-uventia-pharma\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 22:48:19 \+0100 \r\n220- We do not authorize the use of this system to transport unsolicited, \r\n220  and/or bulk e-mail\.\r\n
-220-sgpro3\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 22:05:19 \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-sgpro1\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 23:05:00 \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-whm1\.sustam\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 16:52:23 -0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-srv\.backcheckgroup\.com ESMTP Exim 4\.97\.1 #2 Sun, 05 Jan 2025 17:16:00 \+0500 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-whm1\.sustam\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 14:46:12 -0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-whm1\.sustam\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 16:58:11 -0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-sgpro2\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 23:29:09 \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-whm1\.sustam\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 14:50:38 -0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-whm1\.sustam\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 14:49:07 -0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-tornado\.privatednszone\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 05:10:08 \+0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-tornado\.privatednszone\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 05:23:00 \+0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-tornado\.privatednszone\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 05:11:21 \+0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-server\.waydata\.cloud ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 20:18:41 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-vm654\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, 05 Jan 2025 15:47:03 \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-tornado\.privatednszone\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 05:18:02 \+0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-tornado\.privatednszone\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 05:10:35 \+0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-vps1\.itsystems-mx\.com ESMTP Exim 4\.96\.2 #2 Sun, 05 Jan 2025 18:00:44 -0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
-220-tornado\.privatednszone\.com ESMTP Exim 4\.98 #2 Mon, 06 Jan 2025 05:15:41 \+0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-mail\.ttrk\.dev ESMTP Postfix \(Debian/GNU\)\r\n
+220-mail\.ttrk\.dev ESMTP Postfix \(Debian/GNU\)\r\n220 mail\.ttrk\.dev ESMTP Postfix \(Debian/GNU\)\r\n
+220-node118\.myfclouduk\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node126\.myfclouduk\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node131\.myfclouduk\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node132\.myfclouduk\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node173\.myfcloudde\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node173\.myfcloudsg\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node175\.myfcloudsg\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node1770\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node180\.myfcloudsg\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node1811\.danskictmanagement\.com ESMTP Exim 4\.96\.2 #2 Mon, d Jan 202d 0d:0d:0d \+0300 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node185\.myfcloudsg\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node193\.myfcloudsg\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node2068\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node2152\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node2196\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node234\.myfcloudde\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node2445\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node260\.myfcloudde\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node261\.myfcloudde\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node262\.myfcloudde\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node2766\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Mon, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node2824\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node2840\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node2890\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node2985\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node3064\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node3211\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node3222\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Mon, d Jan 202d 0d:0d:0d \+0300 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node3263\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node3420\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node3514\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node3749\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Mon, d Jan 202d 0d:0d:0d \+0900 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node3874\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node3984\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node4026\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Mon, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node4045\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node4086\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node4091\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node4176\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node4177\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node4403\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node4497\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node4546\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node4588\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node4597\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node4723\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node4870\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node5038\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node5091\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node5095\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node5111\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node5123\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node5158\.myfcloud\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node5351\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node5355\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node5397\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node5509\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node5553\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0700 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node6352\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node72\.myfcloudjp\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-node7350\.myfcloud\.com ESMTP Exim 4\.96\.2 #2 Mon, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-serv08\.atvirtual\.eu ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0100 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-server1\.bwr-intl\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-server\.needassistant\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0200 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-server\.waydata\.cloud ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-sgpro1\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-sgpro1\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-sgpro2\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-sgpro3\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-sgpro4\.fcomet\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0800 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-srv\.backcheckgroup\.com ESMTP Exim 4\.97\.1 #2 Sun, d Jan 202d 0d:0d:0d \+0500 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-tornado\.privatednszone\.com ESMTP Exim 4\.98 #2 Mon, d Jan 202d 0d:0d:0d \+0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-uventia-pharma\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d \+0100 \r\n220- We do not authorize the use of this system to transport unsolicited, \r\n220  and/or bulk e-mail\.\r\n
+220-vm287\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-vm654\.fcomet\.com ESMTP Exim 4\.98 #2 Sun, d Jan 202d 0d:0d:0d \+0000 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-vps1\.itsystems-mx\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d -0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220-whm1\.sustam\.com ESMTP Exim 4\.96\.2 #2 Sun, d Jan 202d 0d:0d:0d -0600 \r\n220-We do not authorize the use of this system to transport unsolicited, \r\n220 and/or bulk e-mail\.\r\n
+220.*214 SMTP server comments and bug reports to: \<zmhacks\@nic.funet.fi\>
+220.*214 See http\:\/\/www\.messagelabs\.com\/support
+220.*214-This is America Online mail version [vV](\S+)
+220.*500 MessageWall: Unrecognized command
+220.*500 Unknown or unimplemented command
+220[\s-].*?ESMTP\r\n214 netqmail home page: http://qmail\.org/netqmail\r\n
+421 4\.3\.2 Connection rate limit exceeded\.\r\n
 421 4\.3\.2 Service not available\r\n
+421 Service not available, closing transmission channel \r\n
 421 Service not available, closing transmission channel\r\n
-554 Service unavailable; Client host \[J_\] blocked using Barracuda Reputation;
+421 Sorry, SMTP server too busy right now \(193\); try again later\r\n
+421 Unexpected log failure, please try later\r\n
+421 [-\w_.]+ - Your name, '\[[-\w_.]+\]', is unknown to me\.\r\n
+421 [\d.]+ Service not available, closing transmission channel\r\n
+421 unable to read controls \(#4\.3\.0\)\r\n
+500 Permission denied - closing connection\.\r\n
+501 Domain must resolve\r\n
+520 Connection not authorised from this address\.\r\n
+553 Requested action not taken; No permission\.\r\n
 554 5\.7\.1 <unknown\[192\.153\.57\.131\]>: Client host rejected: Access denied\r\n
 554 5\.7\.1 <unknown\[192\.153\.57\.193\]>: Client host rejected: Access denied\r\n
+554 5\.7\.1 <unknown\[[\w.]+\]>: Client host rejected: Access denied\r\n
+554 Please check that your outgoing mail server settings are correct\. Contact your service provider's technical support for assistance\.\n
+554 SMTP service not available\r\n
+554 SMTP synchronization error\r\n
+554 Service unavailable; Client host \[J_\] blocked using Barracuda Reputation;
+554 Service unavailable; Client host \[[\w._-]+\] blocked using Barracuda Reputation;
+572 Relay not authorized\r\n
+Failed to open configuration file.*exim
+Permission denied - do not try again\.\r\n
+rblsmtpd: [\d.]+ pid \d+:.*220 rblsmtpd\.local\r\n
+relaylock: Error: PRODUCT_ROOT_D not defined\nrelaylock: Error: PRODUCT_ROOT_D not defined\n1\n

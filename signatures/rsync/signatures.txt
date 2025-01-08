@@ -1,18 +1,18 @@
-@RSYNCD: 31\.0 sha512 sha256 sha1 md5 md4\n  Welcome to mirror\.planetunix\.net\.  Served from endpoints around the globe\.\n  For other mirror sites visit https://www\.openbsd\.org/ftp\.html#rsync\n       _____                 ____   _____ _____\n      / ___ \\               \|  _ \\ / ____\|  __ \\\n     / /  / /___  ___  ____ \| \|_\) \| \(___ \| \|  \| \|\n    / /  / / __ \\/ _ \\/ __ \\\|  _ < \\___ \\\| \|  \| \|\n   / /__/ / /_/ /  __/ / / /\| \|_\) \|____\) \| \|__\| \|\n   \\_____/ \.___/\\___/_/ /_/ \|____/\|_____/\|_____/\n        /_/\n               \|    \.            The proactively secure Unix-like\n           \.   \|L  /\|   \.        Operating System\.\n       _ \. \|\\ _\| \\--\+\._/\| \.      Please visit the OpenBSD web site\n      / \|\|\\\| Y J  \)   / \|/\| \./\x09 at https://www\.openbsd\.org/\n     J  \|\)'\( \|        ` F`\.'/\n   -<\|  F         __     \.-<     You may mirror the OpenBSD ftp archive via:\n     \| /       \.-'\. `\.  /-\. L___ rsync -av mirror\.planetunix\.net::OpenBSD\n     J \\      <    \\  \| \| O\\\|\.-' rsync -av mirror\.planetunix\.net::OpenBSD/path\n   _J \\  \.-    \\/ O \| \| \\  \|F\n  '-F  -<_\.     \\   \.-'  `-' L__ To mirror the cvs repository, see:\n __J  _   _\.     >-'  \)\._\.   \|-' https://www\.openbsd\.org/anoncvs\.html\n `-\|\.'   /_\.           \\_\|   F\n   /\.-   \.                _\.<\n  /'    /\.'             \.'  `\\\n   /L  /'   \|/      _\.-'-\\\n  /'J       ___\.---'\\\|\n    \|\\  \.--' V  \| `\. `\n    \|/`\. `-\.     `\._\)\n       / \.-\.\\\n VK    \\ \(  `\\\n        `\.\\\n\n
-@RSYNCD: 30\.0\n=======================================================\nwelcome to agico-do2\n=======================================================\n\n
-@RSYNCD: 29\n
-@RSYNCD: 31\.0 md5 md4\n
 @RSYNCD: 26\n
+@RSYNCD: 29\n
+@RSYNCD: 30\.0\n
+@RSYNCD: 30\.0\n=======================================================\nwelcome to agico-do2\n=======================================================\n\n
+@RSYNCD: 30\.0\n@ERROR: protocol startup error\n
+@RSYNCD: 31\.0 md5 md4\n
+@RSYNCD: 31\.0 sha512 sha256 sha1 md5 md4\n
+@RSYNCD: 31\.0 sha512 sha256 sha1 md5 md4\n  Welcome to mirror\.planetunix\.net\.  Served from endpoints around the globe\.\n  For other mirror sites visit https://www\.openbsd\.org/ftp\.html#rsync\n       _____                 ____   _____ _____\n      / ___ \\               \|  _ \\ / ____\|  __ \\\n     / /  / /___  ___  ____ \| \|_\) \| \(___ \| \|  \| \|\n    / /  / / __ \\/ _ \\/ __ \\\|  _ < \\___ \\\| \|  \| \|\n   / /__/ / /_/ /  __/ / / /\| \|_\) \|____\) \| \|__\| \|\n   \\_____/ \.___/\\___/_/ /_/ \|____/\|_____/\|_____/\n        /_/\n               \|    \.            The proactively secure Unix-like\n           \.   \|L  /\|   \.        Operating System\.\n       _ \. \|\\ _\| \\--\+\._/\| \.      Please visit the OpenBSD web site\n      / \|\|\\\| Y J  \)   / \|/\| \./\x09 at https://www\.openbsd\.org/\n     J  \|\)'\( \|        ` F`\.'/\n   -<\|  F         __     \.-<     You may mirror the OpenBSD ftp archive via:\n     \| /       \.-'\. `\.  /-\. L___ rsync -av mirror\.planetunix\.net::OpenBSD\n     J \\      <    \\  \| \| O\\\|\.-' rsync -av mirror\.planetunix\.net::OpenBSD/path\n   _J \\  \.-    \\/ O \| \| \\  \|F\n  '-F  -<_\.     \\   \.-'  `-' L__ To mirror the cvs repository, see:\n __J  _   _\.     >-'  \)\._\.   \|-' https://www\.openbsd\.org/anoncvs\.html\n `-\|\.'   /_\.           \\_\|   F\n   /\.-   \.                _\.<\n  /'    /\.'             \.'  `\\\n   /L  /'   \|/      _\.-'-\\\n  /'J       ___\.---'\\\|\n    \|\\  \.--' V  \| `\. `\n    \|/`\. `-\.     `\._\)\n       / \.-\.\\\n VK    \\ \(  `\\\n        `\.\\\n\n
+@RSYNCD: 31\.0 sha512 sha256 sha1 md5 md4\n\n
+@RSYNCD: 31\.0\n
+@RSYNCD: 31\.0\n@ERROR: protocol startup error\n
 @RSYNCD: 31\.0\nCentOS\.org rsync service \(centosr9\.centos\.org\)\n------------------------------------------------------------\n\nThis service is intended for the sole use of the CentOS worldwide mirror network\nto synchronize mirrors\.\n\nUnless you are running or intending to run a listed public CentOS mirror\nuse a mirror listed at https://centos\.org/download/mirrors\n\nIf you intend to populate a mirror for public use please read the\nnotes at https://wiki\.centos\.org/HowTos/CreatePublicMirrors\n\nIf you do use this service then it is implied that you are providing a\nmirror for public use and giving us authority to publicise such mirror\.\n\n\n
 @RSYNCD: 31\.0\nCentOS\.org rsync service \(centost9\.centos\.org\)\n------------------------------------------------------------\n\nThis service is intended for the sole use of the CentOS worldwide mirror network\nto synchronize mirrors\.\n\nUnless you are running or intending to run a listed public CentOS mirror\nuse a mirror listed at https://centos\.org/download/mirrors\n\nIf you intend to populate a mirror for public use please read the\nnotes at https://wiki\.centos\.org/HowTos/CreatePublicMirrors\n\nIf you do use this service then it is implied that you are providing a\nmirror for public use and giving us authority to publicise such mirror\.\n\n\n
-@RSYNCD: 31\.0\nThis is stage3\.opensuse\.org, restricted rsync server of openSUSE\.org\.\n\nIf you run a public mirror, please get in contact so we can give you\naccess to the this rsync server\.\n\nYou'll find conditions for access and further information at\nhttp://en\.opensuse\.org/Mirror_Infrastructure\n\nThanks!\nadmin@opensuse\.org\n\n
-@RSYNCD: 30\.0\n
-@RSYNCD: 30\.0\n@ERROR: protocol startup error\n
-@RSYNCD: 31\.0\nWelcome! SmartDM\n\n
-@RSYNCD: 31\.0 sha512 sha256 sha1 md5 md4\n\n
-@RSYNCD: 31\.0\nRestricted rsync services for Express KCS\nMaintained by Express KCS; http://www\.expresskcs\.com\n\n\n
-@RSYNCD: 31\.0\n\n
-@RSYNCD: 31\.0 sha512 sha256 sha1 md5 md4\n
-@RSYNCD: 31\.0\n@ERROR: protocol startup error\n
-@RSYNCD: 31\.0\n
 @RSYNCD: 31\.0\nNidin Daemon\n\n
+@RSYNCD: 31\.0\nRestricted rsync services for Express KCS\nMaintained by Express KCS; http://www\.expresskcs\.com\n\n\n
+@RSYNCD: 31\.0\nThis is stage3\.opensuse\.org, restricted rsync server of openSUSE\.org\.\n\nIf you run a public mirror, please get in contact so we can give you\naccess to the this rsync server\.\n\nYou'll find conditions for access and further information at\nhttp://en\.opensuse\.org/Mirror_Infrastructure\n\nThanks!\nadmin@opensuse\.org\n\n
+@RSYNCD: 31\.0\nWelcome! SmartDM\n\n
+@RSYNCD: 31\.0\n\n

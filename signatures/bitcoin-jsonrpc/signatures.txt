@@ -1,3 +1,2 @@
 HTTP/1\.0 405 Method Not Allowed\r\nContent-Type: text/html; charset=ISO-8859-1\r\n\r\nJSONRPC server handles only POST requests
-HTTP/1\.1 403 Forbidden\r\nDate: Sun, 05 Jan 2025 18:57:00 \+0000\r\nConnection: close\r\nContent-Length: 9\r\nContent-Type: text/plain\r\nServer: bitcoin-json-rpc/v0\.10\.0\.0-unk\r\n\r\nForbidden
-HTTP/1\.1 403 Forbidden\r\nDate: Sun, 05 Jan 2025 19:07:39 \+0000\r\nConnection: close\r\nContent-Length: 9\r\nContent-Type: text/plain\r\nServer: bitcoin-json-rpc/v0\.10\.0\.0-unk\r\n\r\nForbidden
+HTTP/1\.1 403 Forbidden\r\nDate: Sun, d Jan 202d 0d:0d:0d \+0000\r\nConnection: close\r\nContent-Length: 9\r\nContent-Type: text/plain\r\nServer: bitcoin-json-rpc/v0\.10\.0\.0-unk\r\n\r\nForbidden

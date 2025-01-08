@@ -1,17 +1,17 @@
-Zadej heslo:
-echo o [\d.]+ \d+ >s\r\necho common>> s\r\necho common>> s\r\necho bin>> s\r\necho get m220\.exe
-\xfa\xcb\xd9\xd9\xdd\xc5\xd8\xce\xd6
-220 jeem\.mail\.pv ESMTP\r\n
-A-311 Death welcome\x001
-220 CAFEiNi [-\w_.]+ FTP server\r\n
-Can't fork pty, bye!\n
-220 Windrone Server \(Win32\)\r\n
-PWD
 220 Bot Server \(Win32\)\r\n
-Sifre_EDIT
-<HTML>\n<HEAD>\n<TITLE>Directory /</TITLE>\n<BASE HREF=\"file:/\">\n</HEAD>\n<BODY>\n<H1>Directory listing of /</H1>
-\r\n\[RPL\]002\r\n
+220 CAFEiNi [-\w_.]+ FTP server\r\n
 220 Reptile welcomes you\.\.\r\n
-exec .* failed : No such file or directory\n
 220 SSL Connection Established - Loading Protocol\.\.\.\.\r\n
+220 Windrone Server \(Win32\)\r\n
+220 jeem\.mail\.pv ESMTP\r\n
 :[-\w_.]+ 451 GET :\r\n
+<HTML>\n<HEAD>\n<TITLE>Directory /</TITLE>\n<BASE HREF=\"file:/\">\n</HEAD>\n<BODY>\n<H1>Directory listing of /</H1>
+A-311 Death welcome\x001
+Can't fork pty, bye!\n
+PWD
+Sifre_EDIT
+Zadej heslo:
+\r\n\[RPL\]002\r\n
+\xfa\xcb\xd9\xd9\xdd\xc5\xd8\xce\xd6
+echo o [\d.]+ \d+ >s\r\necho common>> s\r\necho common>> s\r\necho bin>> s\r\necho get m220\.exe
+exec .* failed : No such file or directory\n

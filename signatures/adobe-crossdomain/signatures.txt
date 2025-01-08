@@ -1,4 +1,4 @@
-<cross-domain-policy><allow-access-from domain='([^']*)' to-ports='([^']*)' /></cross-domain-policy>\0
-<cross-domain-policy><allow-access-from domain=\"([^\"]*)\" to-ports=\"([^\"]*)\"/></cross-domain-policy>
 <\?xml version="1\.0"\?>\r\n<cross-domain-policy>\r\n    <site-control permitted-cross-domain-policies="master-only"/>\r\n    <allow-access-from domain="\*" to-ports="59160"/>\r\n</cross-domain-policy>\x00
+<cross-domain-policy><allow-access-from domain='([^']*)' to-ports='([^']*)' /></cross-domain-policy>\0
 <cross-domain-policy><allow-access-from domain='\*' to-ports='14000' /></cross-domain-policy>\x00
+<cross-domain-policy><allow-access-from domain=\"([^\"]*)\" to-ports=\"([^\"]*)\"/></cross-domain-policy>

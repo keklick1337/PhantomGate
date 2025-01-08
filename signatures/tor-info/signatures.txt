@@ -1,11 +1,4 @@
+HTTP/1\.0 404 Not found\r\nDate: Mon, d Jan 202d 0d:0d:0d GMT\r\n\r\n
+HTTP/1\.0 404 Not found\r\nDate: Sun, d Jan 202d 0d:0d:0d GMT\r\n\r\n
 HTTP/1\.0 503 Directory busy, try again later\r\n\r\n
 HTTP/1\.0 \d\d\d .*\r\nContent-Encoding: identity\r\n.*signed-directory\npublished .*\nrecommended-software
-HTTP/1\.0 404 Not found\r\nDate: Sun, 05 Jan 2025 15:12:42 GMT\r\n\r\n
-HTTP/1\.0 404 Not found\r\nDate: Mon, 06 Jan 2025 00:59:31 GMT\r\n\r\n
-HTTP/1\.0 404 Not found\r\nDate: Sun, 05 Jan 2025 15:30:52 GMT\r\n\r\n
-HTTP/1\.0 404 Not found\r\nDate: Sun, 05 Jan 2025 15:21:22 GMT\r\n\r\n
-HTTP/1\.0 404 Not found\r\nDate: Sun, 05 Jan 2025 15:14:04 GMT\r\n\r\n
-HTTP/1\.0 404 Not found\r\nDate: Sun, 05 Jan 2025 20:43:17 GMT\r\n\r\n
-HTTP/1\.0 404 Not found\r\nDate: Sun, 05 Jan 2025 14:54:16 GMT\r\n\r\n
-HTTP/1\.0 404 Not found\r\nDate: Sun, 05 Jan 2025 19:56:24 GMT\r\n\r\n
-HTTP/1\.0 404 Not found\r\nDate: Sun, 05 Jan 2025 21:11:11 GMT\r\n\r\n

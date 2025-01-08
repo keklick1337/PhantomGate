@@ -1,63 +1,62 @@
-\+OK Welcome to the Atmail POP3 server - Login with user@domain\.\r\n
-\+OK POP3\r\n-ERR Invalid command in current state\.\r\n
-\+OK DBMAIL pop3 server ready to rock <
-\+OK E-mail server ready\.\r\n
-\+OK DvISE Mail Access Server Server ready \(Tobit Software, Germany\)\r\n
-\+OK XXX Private Mail server\r\n-ERR Invalid command in current state\.\r\n
-\+OK Solid POP3 server ready\r\n
-\+OK [-\w_.]+ Welcome to the mail server\.\r\n
-\+OK VPOP3 Server Ready <.*>\r\n
-\+OK POP3 Server ready\r\n
-\+OK Dovecot DA ready\.\r\n
-\+OK POP3 server ready <Jana-Server>\r\n
-\+OK Microsoft Exchange POP3 server version (\S+) ready\r\n
-\+OK ([\w._-]+)\r\n-ERR Invalid command in current state\.\r\n-ERR Invalid command in current state\.\r\n
-\+OK Atmail IMAP/POP3 server ready\r\n
-\+OK Welcome to Arvixe POP3 server\.\r\n
-\+OK Microsoft Exchange Server 2007 POP3 service ready\r\n
-\+OK Solid POP3 server ready\r\n-ERR unknown command\r\n-ERR unknown command\r\n
-\+OK Microsoft Exchange 2000 POP3 server version (\S+).* ready\.\r\n
-\+OK MailSite POP3 Server (\S+) Ready <
-\+OK POP3 thats cool man\r\n
 -ERR Invalid command\.\r\n-ERR Invalid command\.\r\n
-\+OK Hello there\.\r\n
-\+OK [Dd]ovecot ready\.\r\n
-\+OK GroupWise POP3 server ready\r\n
-\+OK ready\r\n
-\+OK Welcome to MailEnable POP3 Server
-\+OK Dovecot ready -
-\+OK The Microsoft Exchange POP3 service is ready\.\r\n
-\+OK WinGate Engine POP3 Gateway ready\r\n
-\+OK dovecot MUA ready\r\n
-\+OK Pop3 ready\.\r\n
-\+OK (.*) Dovecot ready\.\r\n
-\+OK Quick 'n Easy Mail Server ready\r\n
 -ERR Permission denied - closing connection\.\r\n
-\+OK Microsoft Exchange Server 2007 POP3 HIROC service ready\r\n
-\+OK pop server ready\r\n
-\+OK Internet Rex POP3 server ready <
-\+OK ready  \r\n
-\+OK Welcome AltiPop3 POP3 Server\r\n
-\+OK\r\n
-\+OK POP3 ready\r\n-ERR invalid command\r\n
-\+OK Microsoft Windows POP3 Service Version 1.0 <
-\+OK POP3 FTGate4 server ready
-\+OK David\.fx Mail Access Server ready \(Tobit\.Software, Germany\)\r\n
-\+OK POP3 server ready\r\n
+-ERR \[SYS/PERM\] Fatal error: tls_init\(\) failed\r\n
 Unable to open trace file \"/var/spool/popper/
+\+OK (.*) Dovecot ready\.\r\n
+\+OK ([\w._-]+)\r\n-ERR Invalid command in current state\.\r\n-ERR Invalid command in current state\.\r\n
+\+OK 1supply\.spb\.ru CommuniGate Pro POP3 Server 6\.2\.6 ready <8784\.1736083306@1supply\.spb\.ru>\r\n
+\+OK 1supply\.spb\.ru CommuniGate Pro POP3 Server 6\.2\.6 ready <8784\.1736083306@1supply\.spb\.ru>\r\n-ERR invalid command; use HELP\r\n
+\+OK 1supply\.spb\.ru CommuniGate Pro POP3 Server 6\.2\.6 ready <8785\.1736083838@1supply\.spb\.ru>\r\n
+\+OK 1supply\.spb\.ru CommuniGate Pro POP3 Server 6\.2\.6 ready <8785\.1736083838@1supply\.spb\.ru>\r\n-ERR invalid command; use HELP\r\n
+\+OK Atmail IMAP/POP3 server ready\r\n
+\+OK DBMAIL pop3 server ready to rock <
+\+OK David\.fx Mail Access Server ready \(Tobit\.Software, Germany\)\r\n
+\+OK Dovecot DA ready\.\r\n
+\+OK Dovecot ready -
+\+OK Dovecot ready\.\r\n
+\+OK Dovecot ready\.\r\n-ERR Unknown command\.\r\n
+\+OK DvISE Mail Access Server Server ready \(Tobit Software, Germany\)\r\n
+\+OK E-POST POP3 Server \(([^\)]+)
+\+OK E-mail server ready\.\r\n
+\+OK GroupWise POP3 server ready\r\n
+\+OK Hello there\.\r\n
 \+OK Hi\r\n
 \+OK InterMail POP3 server ready\.\r\n
-\+OK POP3 server ready <[-\w]+>\r\n-ERR Invalid command\r\n
-\+OK Server Ready\r\n
--ERR \[SYS/PERM\] Fatal error: tls_init\(\) failed\r\n
-\+OK E-POST POP3 Server \(([^\)]+)
-\+OK Dovecot ready\.\r\n
-\+OK 1supply\.spb\.ru CommuniGate Pro POP3 Server 6\.2\.6 ready <8784\.1736083306@1supply\.spb\.ru>\r\n
-\+OK 1supply\.spb\.ru CommuniGate Pro POP3 Server 6\.2\.6 ready <8785\.1736083838@1supply\.spb\.ru>\r\n
-\+OK 1supply\.spb\.ru CommuniGate Pro POP3 Server 6\.2\.6 ready <8784\.1736083306@1supply\.spb\.ru>\r\n-ERR invalid command; use HELP\r\n
-\+OK Dovecot ready\.\r\n-ERR Unknown command\.\r\n
-\+OK 1supply\.spb\.ru CommuniGate Pro POP3 Server 6\.2\.6 ready <8785\.1736083838@1supply\.spb\.ru>\r\n-ERR invalid command; use HELP\r\n
+\+OK Internet Rex POP3 server ready <
+\+OK MailSite POP3 Server (\S+) Ready <
+\+OK Microsoft Exchange 2000 POP3 server version (\S+).* ready\.\r\n
 \+OK Microsoft Exchange 2000 POP3 server version \(S-'I'\)M\+\^H\[B ready\.\r\n
-\+OK dovecot ready\.\r\n
+\+OK Microsoft Exchange POP3 server version (\S+) ready\r\n
+\+OK Microsoft Exchange Server 2007 POP3 HIROC service ready\r\n
+\+OK Microsoft Exchange Server 2007 POP3 service ready\r\n
+\+OK Microsoft Windows POP3 Service Version 1.0 <
+\+OK POP3 FTGate4 server ready
+\+OK POP3 Server ready\r\n
+\+OK POP3 ready\r\n-ERR invalid command\r\n
+\+OK POP3 server ready <Jana-Server>\r\n
+\+OK POP3 server ready <[-\w]+>\r\n-ERR Invalid command\r\n
+\+OK POP3 server ready\r\n
+\+OK POP3 thats cool man\r\n
+\+OK POP3\r\n-ERR Invalid command in current state\.\r\n
+\+OK Pop3 ready\.\r\n
+\+OK Quick 'n Easy Mail Server ready\r\n
+\+OK Server Ready\r\n
+\+OK Solid POP3 server ready\r\n
+\+OK Solid POP3 server ready\r\n-ERR unknown command\r\n-ERR unknown command\r\n
+\+OK The Microsoft Exchange POP3 service is ready\.\r\n
+\+OK VPOP3 Server Ready <.*>\r\n
+\+OK Welcome AltiPop3 POP3 Server\r\n
+\+OK Welcome to Arvixe POP3 server\.\r\n
+\+OK Welcome to MailEnable POP3 Server
+\+OK Welcome to the Atmail POP3 server - Login with user@domain\.\r\n
+\+OK WinGate Engine POP3 Gateway ready\r\n
+\+OK XXX Private Mail server\r\n-ERR Invalid command in current state\.\r\n
+\+OK [-\w_.]+ Welcome to the mail server\.\r\n
+\+OK [Dd]ovecot ready\.\r\n
 \+OK dovecot MUA ready\r\n
-\+OK mail\.shenda\.biz POP3 MDaemon 13\.0\.5 ready <MDAEMON-F202501060645\.AA4554202MD4740@shenda\.biz>\r\n
+\+OK dovecot ready\.\r\n
+\+OK mail\.shenda\.biz POP3 MDaemon 13\.0\.5 ready <MDAEMON-F202d01060645\.AA4554202MD4740@shenda\.biz>\r\n
+\+OK pop server ready\r\n
+\+OK ready  \r\n
+\+OK ready\r\n
+\+OK\r\n

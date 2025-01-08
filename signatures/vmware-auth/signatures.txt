@@ -1,2 +1,2 @@
-220 VMware Authentication Daemon Version 1\.0, ServerDaemonProtocol:SOAP, MKSDisplayProtocol:VNC , , \r\n
 220 VMware Authentication Daemon Version 1\.0, ServerDaemonProtocol:SOAP, MKSDisplayProtocol:VNC , , , \r\n
+220 VMware Authentication Daemon Version 1\.0, ServerDaemonProtocol:SOAP, MKSDisplayProtocol:VNC , , \r\n

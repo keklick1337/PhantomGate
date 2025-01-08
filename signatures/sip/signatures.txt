@@ -1,44 +1,47 @@
 SIP/2\.0 200 OK\r\n.*Server: TANDBERG/81 \(([\w._ -]+)\)\r\n
 SIP/2\.0 200 OK\r\nVia: SIP/2\.0/TCP nm;received=[\d.]+;branch=foo\r\nCall-ID: 50000\r\nFrom: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2>;tag=foo\r\nCSeq: 42 OPTIONS\r\nAllow: PRACK, INVITE, ACK, BYE, CANCEL, UPDATE, SUBSCRIBE, NOTIFY, REFER, MESSAGE, OPTIONS\r\nAccept: application/sdp, application/pidf\+xml, application/xpidf\+xml, application/simple-message-summary, message/sipfrag;version=2\.0, application/im-iscomposing\+xml, text/plain\r\nSupported: replaces, 100rel, timer, norefersub\r\nAllow-Events: presence, message-summary, refer\r\nUser-Agent: netTALK\r\n
-SIP/2\.0 200 OK\r\n.*User-Agent: Sipek on PJSUA v([\w._-]+)/win32\r\n
 SIP/2\.0 200 OK\r\n.*\r\nUser-Agent: 3CXPhoneSystem ([\w._-]+)\r\n
+SIP/2\.0 200 OK\r\n.*To: <sip:nm2@nm2>;tag=[0-9a-f-]+\r\n.*Allow: INVITE,ACK,CANCEL,BYE,OPTIONS,REFER,INFO,NOTIFY,PRACK,MESSAGE\r\n.*Supported: replaces,timer,100rel\r\nAccept: application/sdp\r\n
 SIP/2\.0 500 Server Internal Error\r\n.*\r\nUser-Agent: BT Home Hub\r\n
 SIP/2\.0 200 OK\r\n.*Allow: INVITE,ACK,CANCEL,OPTIONS,UPDATE,INFO,NOTIFY,BYE,REFER\r\nAccept: application/sdp,application/media_control\+xml,application/dtmf-relay,application/dtmf,message/sipfrag;version=2\.0\r\n
-SIP/2\.0 .*\r\nServer: Cisco-SIPGateway/IOS-([-\d\w.]+)\r\n
 SIP/2\.0 404 Not Found\r\n.*User-Agent: (AVM FRITZ!Box Fon WLAN [\w._-]+) ([\w._-]+ \(\w+ \d+ \d+\))
 SIP/2\.0 400 Illegal request line\r\nFrom: <sip:missing>\r\nTo: <sip:missing>;tag=badrequest\r\nUser-Agent: AVM FRITZ!Box Fon ([^\r\n]+)\r\n
+SIP/2\.0 .*\r\nServer: Glassfish_SIP_([\w._-]+)\r\n
 SIP/2\.0 481 Call Leg/Transaction Does Not Exist\r\nFrom: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2>;tag=0-\w+-\w+-\w+-\w+\r\nCall-ID: 50000\r\nCSeq: 42 OPTIONS\r\nVia: SIP/2\.0/TCP nm;received=[\d.]+;branch=foo\r\nContent-Length: 0\r\n\r\n
-SIP/2\.0 200 OK\r\n.*\r\nUser-Agent: X-Lite release ([\w._ -]+)\r\n
 SIP/2\.0 406 Not acceptable\r\n.*Server: sipXecs/([\w._-]+) sipXecs/sipxbridge \(Linux\)\r\n
 SIP/2\.0 404 Not Found\r\n.*Server: Asterisk PBX ([\w._~+-]+)\r\n.*Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, REFER, SUBSCRIBE, NOTIFY, INFO, PUBLISH\r\n
 SIP/2\.0 403 Forbidden\r\n.*From: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2>;tag=Mitel-([\w._-]+)_\d+-\d+\r\n
-SIP/2\.0 200 OK\r\n.*Server: NetSapiens SiPBx 1-1205c\r\n
 SIP/2\.0 404 Not Found\r\nVia: SIP/2\.0/TCP nm;branch=foo;received=[\d.]+\r\nTo: <sip:nm2@nm2>;tag=\w+\r\nFrom: <sip:nm@nm>;tag=root\r\nCall-ID: 50000\r\nCSeq: 42 OPTIONS\r\nContent-Length: 0\r\n\r\n
+SIP/2\.0 200 OK\r\n.*Server: NetSapiens SiPBx 1-1205c\r\n
 SIP/2\.0 200 OK\r\n.*Server: TANDBERG/([\w._-]+) \(([\w._ -]+)\)\r\n
 SIP/2\.0 200 OK\r\n.*Server: Audiocodes-Sip-Gateway-(Mediant [\w._-]+)/v([\w._-]+)\r\n
 SIP/2\.0 200 OK\r\nVia: SIP/2\.0/TCP nm;branch=foo\r\nFrom: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2>;tag=\w+\r\nCall-ID: 50000\r\nCSeq: 42 OPTIONS\r\nContact: <sip:[\d.]+:\d+>\r\nAllow: INVITE,ACK,CANCEL,OPTIONS,UPDATE,INFO,NOTIFY,BYE,REFER\r\nAccept: application/sdp,application/media_control\+xml,application/dtmf-relay,application/dtmf,message/sipfrag;version=2\.0\r\nContent-Length: 0\r\n\r\n
 SIP/2\.0 404 Not Found\r\n.*User-Agent: Asterisk PBX \(digium\)\r\n
+SIP/2\.0 200 OK\r\n.*\r\nUser-Agent: Zoiper (rev\.\d+)\r\n
 SIP/2\.0 200 OK\r\n.*\r\nUser-Agent: ComdasysB2BUA([\w._-]+)\r\n
 SIP/2\.0 200 OK\r\n.*User-Agent: FreeSWITCH-mod_sofia/([\w._ +~-]+)\r\n
 SIP/2\.0 200 OK\r\n.*User-Agent: snom([\w._-]+)/([\w._-]+)\r\n
 SIP/2\.0 200 OK\r\n.*User-Agent: Berofix VOIP Gateway\r\n
+SIP/2\.0 .*\r\nUser-Agent: PolycomSoundPointIP-SPIP_(\d+)-UA/([\d.]+)_(\w+)\r\n
 SIP/2\.0 200 OK\r\n.*User-Agent: VOIP_Agent_001\r\nAllow: INVITE, ACK, BYE, CANCEL, OPTIONS, SUBSCRIBE, REFER, NOTIFY, UPDATE, MESSAGE, SERVICE, INFO, PING\r\n
-SIP/2\.0 504 Server time-out\r\nms-user-logon-data: RemoteUser\r\nFrom: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2>;tag=\w+\r\nCall-ID: 50000\r\nCSeq: 42 OPTIONS\r\nVia: SIP/2\.0/TCP nm;branch=foo\r\nContent-Length: 0\r\n\r\n
 SIP/2\.0 400 Invalid Contact information\r\n.*Via: SIP/2\.0/TCP nm;branch=foo;received=[\d.]+;ms-received-port=\d+;ms-received-cid=[0-9A-F]{8}\r\nms-diagnostics: \d+;reason=\"Parsing failure\";source=\"([\w._-]+)\"\r\nContent-Length: 0\r\n\r\n
+SIP/2\.0 501 Not Implemented.*\r\nServer: SJphone/([-\w_.]+) \(SJ Labs\)\r\n
 SIP/2\.0 400 Illegal request line\r\nFrom: <sip:missing>\r\nTo: <sip:missing>;tag=badrequest\r\nUser-Agent: AVM FRITZ!Box Fon (\w+) \(UI\) ([^\r\n]+)\r\n
-SIP/2\.0 404 Not found\r\nVia: SIP/2\.0/TCP nm;branch=foo\r\nFrom: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2>;tag=local-tag\r\nCall-ID: 50000\r\nCSeq: 42 OPTIONS\r\nContact: <sip:nm@nm>\r\nContent-Length: 0\r\n\r\n
 SIP/2\.0 405 Method Not Allowed\r\n.*User-Agent: Patton SN(\w+) 5BIS MxSF v([\w._-]+) [0-9A-F]+ R([\w._-]+) (\d\d\d\d-\d\d-\d\d) H323 SIP BRI\r\n\r\n
 SIP/2\.0 200 OK\r\n.*Server: Audiocodes-Sip-Gateway-(MP-[\w._ -]+)/v\.([\w._-]+)\r\n
+SIP/2\.0 404 Not found\r\nVia: SIP/2\.0/TCP nm;branch=foo\r\nFrom: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2>;tag=local-tag\r\nCall-ID: 50000\r\nCSeq: 42 OPTIONS\r\nContact: <sip:nm@nm>\r\nContent-Length: 0\r\n\r\n
 SIP/2\.0 200 OK\r\n.*User-Agent: SAGEM / 3202\.3 / 2601EC \r\n
+SIP/2\.0 .*\r\nServer: OpenS[Ee][Rr] \(([\w\d\.-]+) \(([\d\w/]+)\)\)
 SIP/2\.0 404 Not Found\r\n.*\r\nServer: Speedport/([\d.-]+)\r\n
 SIP/2\.0 405 Method Not Allowed\r\n.*\r\nServer: SIParator/([\w._-]+)\r\n
 SIP/2\.0 504 Server time-out\r\nms-user-logon-data: RemoteUser\r\nFrom: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2>;tag=\w+\r\nCall-ID: 50000\r\nCSeq: 42 OPTIONS\r\nVia: SIP/2\.0/TCP nm;branch=foo\r\nServer: RTC/4\.0\r\nContent-Length: 0\r\n\r\n
+SIP/2\.0 .*\r\nServer: SIP Router \(([\w\d\.-]+) \(([\d\w/]+)\)\)
 SIP/2\.0 403 Non-self Request-URI\r\n.*Server: Epygi Quadro SIP User Agent/v([\w._-]+) \(QUADRO-([^\)]*)\)\r\n
 SIP/2\.0 200 OK\r\nCSeq: 42 OPTIONS\r\nVia: SIP/2\.0/UDP nm;branch=foo;rport\r\nFrom: <sip:nm@nm>;tag=root\r\nCall-ID: 50000\r\nTo: <sip:nm2@nm2>\r\nContact: <sip:nm2@[\d.]+>\r\nContent-Length: 0\r\n\r\n
 SIP/2\.0 400 Illegal request line\r\nFrom: <sip:missing>\r\nTo: <sip:missing>;tag=badrequest\r\nUser-Agent: AVM FRITZ!Box Fon WLAN ([\d.]+) ([^\r\n]+)\r\n
-SIP/2\.0 408 Request timeout\r\n.*Server: sipXecs/([\w._-]+) sipXecs/sipXproxy \(Linux\)\r\n
 SIP/2\.0 404 Not Found\r\n.*User-Agent:Polycom (HDX [\w._ -]+) \(Release - ([\w._-]+)\)\r\n
 SIP/2\.0 400 Invalid Contact information\r\n.*received=[\d.]+;ms-received-port=\d+;ms-received-cid=\d+\r\n
+SIP/2\.0 .*\r\nUser-Agent: Asterisk PBX\r\n
 SIP/2\.0 200 OK\r\n.*User-Agent: T-Com-IpPbxSrv/([\w._-]+)\r\n
 SIP/2\.0 404 Not Found\r\n.*\r\nUser-Agent: Speedport ([\w._ -]+) \(
 SIP/2\.0 404 Not Found\r\n.*\r\nServer: Twinkle/([\w._-]+)\r\n
@@ -48,18 +51,26 @@ SIP/2\.0 200 OK\r\n.*Server: FPBX-([\w._\(\)-]+)\r\n
 SIP/2\.0 501 Not Implemented\r\nServer: Embedded HTTP Server ([\d.]+)\r\n
 SIP/2\.0 200 OK\r\n.*Allow: INVITE, ACK, CANCEL, OPTIONS, BYE, UPDATE, OPTIONS, MESSAGE, NOTIFY, INFO, REFER\r\n.*User-Agent: SightSpeedClient v\. ([\w._-]+)\r\n
 SIP/2\.0 400 Transport protocol incorrect\r\n
-SIP/2\.0 500 Server Internal Error\r\n.*User-Agent: Thomson Inventel / HW_V[\w._-]+ / FW_V[\w._-]+ / SW_V([\w._-]+)\r\n
+SIP/2\.0 500 Server Internal Error\r\n.*\r\nUser-Agent: BT Home Hub (\d+)\r\n
 SIP/2\.0 200 OK\r\n.*\r\nUser-Agent: PolycomSoundStationIP-SSIP_(\d+)-UA/([\d.]+)_(\w+)\r\n
-SIP/2\.0 200 OK\r\n.*Allow: INVITE, ACK, CANCEL, BYE, OPTIONS, INFO, REFER, SUBSCRIBE, NOTIFY\r\nAccept: application/sdp,application/dtmf-relay,application/simple-message-summary,message/sipfrag\r\nAccept-Encoding: identity\r\n
 SIP/2\.0 200 OK\r\n.*User-Agent: Telepathy-SofiaSIP/([\w._-]+) sofia-sip/([\w._-]+)\r\n
+SIP/2\.0 200 OK\r\n.*Allow: INVITE, ACK, CANCEL, BYE, OPTIONS, INFO, REFER, SUBSCRIBE, NOTIFY\r\nAccept: application/sdp,application/dtmf-relay,application/simple-message-summary,message/sipfrag\r\nAccept-Encoding: identity\r\n
 SIP/2\.0 200 OK\r\n.*Server: HiPath ([\w._-]+) V([\w._ -]+) SIP Stack/([\w._-]+)\r\n
 SIP/2\.0 405 Method Not Allowed\r\n.*\r\nUser-Agent: ABS ECC\r\n
 SIP/2\.0 200 OK\r\n.*Server: Asterisk PBX ([\w._+~-]+)\r\n
-SIP/2\.0 404 Not Found\r\n.*User-Agent: AVM (FRITZ!Box Fon WLAN [\w._ -]+) (?:Annex A )?(?:\(UI\) )?([\w._ -]+ \(\w+ +\d+ +\d+\))
 SIP/2\.0 200 OK\r\n.*User-Agent: Configured by 2600hz!\r\n.*Accept: application/sdp\r\nAllow: INVITE, ACK, BYE, CANCEL, OPTIONS, MESSAGE, UPDATE, INFO, REGISTER, REFER, NOTIFY, PUBLISH, SUBSCRIBE\r\n
-SIP/2\.0 .*\r\nUser-Agent: Asterisk PBX ([\w._+-]+)\r\n
-SIP/2\.0 503 Service Unavailable\r\n.*Warning: 399 \"Routing failed: ccbid=997 tcpindex=2 socket=nm:\d+'\r\n.*To: <sip:nm2@nm2>;tag=\d+\r\n
 SIP/2\.0 200 OK\r\n.*\r\nAccept: application/sdp\r\nAccept-Language: en\r\nAllow: INVITE, ACK, CANCEL, OPTIONS, BYE, REGISTER, SUBSCRIBE, NOTIFY, REFER, INFO\r\nSupported: replaces\r\nAllow-Events: presence, message-summary, tunnel-info\r\n
+SIP/2\.0 .*\r\nServer: Sphericall/([\w._-]+) Build/(\d+)\r\n
+SIP/2\.0 503 Service Unavailable\r\n.*Warning: 399 \"Routing failed: ccbid=997 tcpindex=2 socket=nm:\d+'\r\n.*To: <sip:nm2@nm2>;tag=\d+\r\n
 SIP/2\.0 200 OK\r\n.*\r\nUser-Agent: X-Lite Beta release ([\w._ -]+)\r\n
 SIP/2\.0 200 OK\r\n.*User-Agent: QIP ([\w._ -]+)\r\n
 SIP/2\.0 403 Not relaying\r\n.*Server: kamailio \(([\w._-]+) \(x86_64/linux\)\)\r\n
+SIP/2\.0 400 Illegal request line\r\nFrom: <sip:missing>\r\nTo: <sip:missing>;tag=badrequest\r\nUser-Agent: AVM FRITZ!Box Fon WLAN 7170 29\.04\.87 \(Jun  7 2011\)\r\nContent-Length: 0\r\n\r\n
+SIP/2\.0 400 Illegal request line\r\nFrom: <sip:missing>\r\nTo: <sip:missing>;tag=badrequest\r\nUser-Agent: AVM FRITZ!Box Fon WLAN 7170 \(UI\) 29\.04\.88 \(Feb  9 2014\)\r\nContent-Length: 0\r\n\r\n
+SIP/2\.0 400 Illegal request line\r\nFrom: <sip:missing>\r\nTo: <sip:missing>;tag=badrequest\r\nUser-Agent: AVM FRITZ!Box Fon WLAN 7170 29\.04\.88 \(Feb  9 2014\)\r\nContent-Length: 0\r\n\r\n
+SIP/2\.0 200 OK\r\nVia: SIP/2\.0/TCP nm;received=\.206;branch=foo\r\nCall-ID: 50000\r\nFrom: <sip:nm@nm>;tag=root\r\nTo: <sip:nm2@nm2>;tag=foo\r\nCSeq: 42 OPTIONS\r\nAllow: PRACK, INVITE, ACK, BYE, CANCEL, UPDATE, SUBSCRIBE, NOTIFY, REFER, MESSAGE, OPTIONS\r\nAccept: application/sdp, application/pidf\+xml, application/xpidf\+xml, application/simple-message-summary, message/sipfrag;version=2\.0, application/im-iscomposing\+xml, text/plain\r\nSupported: replaces, 100rel, timer, norefersub\r\nAllow-Events: presence, message-summary, refer\r\nUser-Agent: netTALK\r\n
+SIP/2\.0 404 Not Found\r\nXqUser-Agent: \(AVM FRITZ!Box Fon WLAN 2YdiP\) \(c3soreF \(zeb 39 821\)\)
+SIP/2\.0 L\r\nUser-Agent: PolycomSoundPointIP-SPIP_\(5864347\)-UA/\(839672\)_\(U1\)\r\n
+SIP/2\.0 400 Illegal request line\r\nFrom: <sip:missing>\r\nTo: <sip:missing>;tag=badrequest\r\nUser-Agent: AVM FRITZ!Box 7330 107\.05\.22 \(Jun  1 2012\)\r\nContent-Length: 0\r\n\r\n
+SIP/2\.0 400 Missing CSeq Header\r\nCSeq: 0 GET\r\nContent-Length: 0\r\nResource-Priority: \r\n\r\n
+SIP/2\.0 400 Illegal request line\r\nFrom: <sip:missing>\r\nTo: <sip:missing>;tag=badrequest\r\nUser-Agent: FRITZ!OS\r\nP-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=2220123f67a2b704\r\nContent-Length: 0\r\n\r\n

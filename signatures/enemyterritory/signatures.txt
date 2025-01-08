@@ -1,0 +1,1 @@
+Welcome [\d.]+\. You have 15 seconds to identify\.\r\n

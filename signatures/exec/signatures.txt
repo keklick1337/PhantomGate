@@ -2,4 +2,4 @@
 \x01rexecd: [-\d]+ Connexion incorrecte\.\n
 \x01rexecd: [-\d]+ The login is not correct\.\n
 \x01rexecd: Couldn't look up address for your host\n
-\x01INTERnet ACP AUXS failure  Status = %LOGIN-F-NOSUCHUSER\r\n\0
+\x01Where are you\?\n

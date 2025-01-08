@@ -1,1 +1,2 @@
 SPAMD/1\.0 76 Bad header line: \r\n
+SPAMD/1\.0 76 Bad header line: GET / HTTP/1\.0\r\n

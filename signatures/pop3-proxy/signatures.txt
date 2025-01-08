@@ -1,8 +1,8 @@
 \+OK POP3 \(Spampal\) server ready \(USER command must include mailserver name\)\r\n
+-ERR PGP Universal no pop3 service here\r\n
 \+OK UserGate: forward ready\r\n-ERR UserGate: Mistake of the protocol\r\n
 Proxy\+ POP3 server\. Insecure access - terminating\.\r\n
 \+OK \[ISafe POP3 Proxy\] \r\n
-\+OK (.*) \(PGP Universal service is proxying this connection\)\r\n
 \+OK MrPostman webmail proxy ready\r\n
 \+OK POP3 Proxy Server Ready\r\n
 \+OK CCProxy (\S+) POP3 Service Ready\r\n
@@ -13,5 +13,5 @@ Proxy\+ POP3 server\. Insecure access - terminating\.\r\n
 \+OK kingate pop3 proxy\r\n
 \+OK avast! POP3 proxy ready\.\r\n
 -ERR 403 The requested host is forbidden by WinProxy\.  See your network administrator\.\n
-\+OK F-Secure/fsigk_pop/\d+/[-\w_.]+ starting\.\r\n
 \+OK InterScan VirusWall POP3 Proxy\r\n
+\+OK kingate pop3 proxy\r\n

@@ -1,2 +1,2 @@
 \[TS\]\r\n([\w._-]+) Linux ([\w._-]+)\r\nOK\r\n
-\[TS\]\r\n
+\[TS\]\r\n([\w._-]+) Win32 ([\w._-]+)\r\nOK\r\n

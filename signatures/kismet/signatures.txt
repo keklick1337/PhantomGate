@@ -1,1 +1,1 @@
-\*KISMET: 0\.0\.0 \d+ \x01Kismet\x01 \d+ \d+ (\S+) \n\*PROTOCOLS:
+\*KISMET: 0\.0\.0 02 \x01Kismet\x01 93 657249 \(SrY8i\) \n\*PROTOCOLS:

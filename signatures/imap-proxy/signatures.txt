@@ -1,9 +1,10 @@
 \* OK IMAP4 proxy ready\r\n
-\* OK imapfront ready\. \+ stunnel\r\n
 \* OK imapfront ready\.\r\n
-\* OK avast! IMAP Proxy\r\n
 \* BYE PGP Universal no imap4 service here\r\n
 \* OK \[CAPABILITY IMAP4rev1 UIDPLUS CHILDREN NAMESPACE THREAD=ORDEREDSUBJECT THREAD=REFERENCES SORT QUOTA IDLE ACL ACL2=UNION\] Courier-IMAP ready\. Copyright 1998-2008 Double Precision, Inc\. See COPYING for distribution information\.\r\n
+\* OK IMAP4 ready\r\nGET BAD invalid command\r\n
 \* OK \[CAPABILITY IMAP4rev1\] SpamPal for Windows\r\n
 \* OK Zarafa IMAP gateway ready\r\n
 \* OK \[CAPABILITY IMAP4rev1 LITERAL\+ AUTH=PLAIN\] Zarafa IMAP gateway ready\r\n
+\* OK IMAP4 ready\r\nGET BAD invalid command\r\n
+\* OK Zarafa IMAP gateway ready\r\n

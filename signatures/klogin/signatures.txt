@@ -1,3 +1,4 @@
+\x01eklogin: Kerberos authentication failed\.\r\n
 \x01eklogind: Kerberos authentication failed\.\r\n
 \x01klogind: Kerberos authentication failed\.\r\n
 \x01rlogind: Kerberos authentication failed, exiting\.\r\n
@@ -6,3 +7,4 @@
 \x01rlogind: Kerberos authentication failed\.\r\n
 \x01krlogind: Echec de l'authentification Kerberos\.\r\n\0
 \x01rlogind: Kerberos Authentication not enabled\.\.\r\n
+\x01eklogin: Kerberos authentication failed\.\r\n

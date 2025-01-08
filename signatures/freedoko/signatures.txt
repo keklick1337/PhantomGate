@@ -1,0 +1,1 @@
+FreeDoko server\n\d+\.\d+: name: ([^\n]+)\n

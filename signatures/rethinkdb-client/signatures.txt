@@ -1,1 +1,2 @@
 ERROR: This is the rdb protocol port! \(bad magic number\)\n
+ERROR: Received an unsupported protocol version\. This port is for RethinkDB queries\. Does your client driver version not match the server\?\n\x00

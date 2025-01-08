@@ -1,0 +1,2 @@
+Asterisk Call Manager/2\.7\.0\r\n
+Asterisk Call Manager/5\.0\.0\r\n

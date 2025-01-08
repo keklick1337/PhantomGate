@@ -8,20 +8,20 @@ E\0\0\0.S\w+\0C0A000\0Mprotocolo do cliente 65363\.19778 n.{4,6} suportado: serv
 E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1514\0RProcessStartupPacket\0\0
 E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1706\0RProcessStartupPacket\0\0
 E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1440\0RProcessStartupPacket\0\0
+E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1700\0RProcessStartupPacket\0\0
 EInvalid packet length\0
-E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1497\0RProcessStartupPacket\0\0
 E\0\0\0\x9dSFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0F\.\\src\\backend\\postmaster\\postmaster\.c\0L1621\0RProcessStartupPacket\0\0
 E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1627\0RProcessStartupPacket\0\0
 E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1441\0RProcessStartupPacket\0\0
 E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1666\0RProcessStartupPacket\0\0
+E\0\0\0.S\w+\0C0A000\0Mnicht unterst\xc3\xbctztes Frontend-Protokoll 65363\.19778: Server unterst\xc3\xbctzt 1\.0 bis 3\.0\0Fpostmaster\.c\0L\d+\0
+E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1570\0RProcessStartupPacket\0\0
 E\0\0\0.S\w+\0C0A000\0Mprotocolo 65363\.19778 n\xe3o \xe9 suportado: servidor suporta 1\.0 a 3\.0\0Fpostmaster\.c\0L\d+\0
 E\0\0\0\x94SFATAL\0C0A000\0MProtocole non support\?e de l'interface 65363\.19778 : le serveur supporte de 1\.0 \?\n3\.0\0Fpostmaster\.c\0L1626\0RProcessStartupPacket\0\0
 E\0\0\0\x94SFATAL\0C0A000\0MProtocole non support\?e de l'interface 65363\.19778 : le serveur supporte de 1\.0 \?\n3\.0\0Fpostmaster\.c\0L1621\0RProcessStartupPacket\0\0
-E\0\0\0.S\w+\0C0A000\0MProtocole non support\xc3\xa9e de l'interface 65363\.19778: le serveur supporte de 1\.0 \xc3\xa0 3\.0\0Fpostmaster\.c\0L\d+\0
 E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1515\0RProcessStartupPacket\0\0
 E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1612\0RProcessStartupPacket\0\0
 E\0\0\0.S\w+\0C0A000\0MProtocole non support[e\xe9]e de l'interface 65363\.19778: le serveur supporte de 1\.0 [a\xe0] 3\.0\0Fpostmaster\.c\0L\d+\0
-E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1508\0RProcessStartupPacket\0\0
 E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1408\0RProcessStartupPacket\0\0
 E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1293\0RProcessStartupPacket\0\0
 E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1445\0RProcessStartupPacket\0\0
@@ -31,5 +31,8 @@ EFATAL:  ung\xfcltige L\xe4nge des Startpakets\n\0
 E\0\0\0\x89SFATAL\0C0A000\0Mel protocolo 65363\.19778 no est\? permitido: servidor permite 1\.0 hasta 3\.0\0Fpostmaster\.c\0L\d+\0
 EFATAL 1:  invalid length of startup packet\n\0
 E\0\0\0\x9aS\?\?\?\?\0C0A000\0M\?\?\?\?\?\?\?\?\?\?\?\?\?\?\?\? \?\?\?\?\?\?\?\? \?\?\?\?\?\?\?\?\?\?\? \?\?\?\?\?\?\?\?\?\? 65363\.19778; \?\?\?\?\?\? \?\?\?\?\?\?\?\?\?\?\?\? 1\.0 - 3\.0 \0Fpostmaster\.c\0L1695\0RProcessStartupPacket\0\0
-E\0\0\0.S\w+\0C0A000\0Mprotocole non support\xe9e de l'interface 65363\.19778: le serveur supporte de 1\.0 \xe0 3\.0\0Fpostmaster\.c\0L\d+\0
 E\0\0\0\x84SFATAL\0C0A000\0Munsupported frontend protocol 65363\.19778: server supports 1\.0 to 3\.0\0Fpostmaster\.c\0L1695\0RProcessStartupPacket\0\0
+E\x00\x00\x00XSpcHu\x00C0A000\x00Mprotocolo do cliente 65363\.19778 nG\{4,6\} suportado: servidor suporta 1\.0 a 3\.0\x00Fpostmaster\.c\x00L3264\x00
+E\x00\x00\x00=SFATAL\x00C08P01\x00Mclient sent partial pkt in startup phase\x00\x00
+E\x00\x00\x00`SFATAL\x00CXX000\x00Minvalid PCP packet\x00Dincorrect packet length \(1163141167\)\x00Fpcp_worker\.c\x00L188\x00\x00
+E\x00\x00\x00`SFATAL\x00CXX000\x00Minvalid PCP packet\x00Dincorrect packet length \(1163141167\)\x00Fpcp_worker\.c\x00L175\x00\x00

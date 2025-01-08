@@ -11,3 +11,4 @@ unable to set certificate file\n6292:error:02001002:system library:fopen:No such
 0E\x02\x01\x01a@\n\x01\x02\x04\0\x049historical protocol version requested, use LDAPv3 instead
 02\x02\x01\x01a-\n\x01\x02\x04\0\x04&requested protocol version not allowed
 0.\x02.*TLS confidentiality required
+0\x0c\x02\x01\x01a\x07\n\x011\x04\x00\x04\x00

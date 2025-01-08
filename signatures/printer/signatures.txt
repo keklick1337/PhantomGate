@@ -1,7 +1,8 @@
 lpd: (.*)\n
-\x01Socket \d+ received unknown command 0x48 with arguments ELP
 \x01\x01
+\x01Socket \d+ received unknown command 0x48 with arguments ELP
 \xff
+ActiveFax Server: There are \d+ entries in the Faxlist\r\n
 no queue to check\n\0
 SB06D2F0: \xe5\x9f\xf0\x18\xe5\x9f\xf0\x18\xe5\x9f\xf0\x18\xe5\x9f\xf0\x18\xe5\x9f\xf0\x18\xe1\xa0 no entries\n
 default: unknown printer\n
@@ -16,5 +17,8 @@ Printer default not found \([\w_]+\)\.\n
 An lpd test connection was completed successfully\r\n
 /usr/local/helios/sbin/lpd Printer default doesn't exist! \n
 \x01no connect permissions\n
-Fictive printer queue short information\n
 Printer Status ---> (.*)                    \nno entries\n
+/usr/local/helios/sbin/lpd Printer default doesn't exist! \n
+\x01Socket 2452 received unknown command 0x48 with arguments ELP
+\x01\x01
+lpd: \(Jr\)\n

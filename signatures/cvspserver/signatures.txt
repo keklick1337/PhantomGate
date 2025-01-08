@@ -5,3 +5,5 @@ cvs-pserver \[pserver aborted\]: bad auth protocol start: HELP\r\n\n
 cvs \[server aborted\]: bad auth protocol start: HELP\r\nerror  \n
 cvs \[server aborted\]: bad auth protocol start: HELP\r\n
 -f \[pserver aborted\]: bad auth protocol start: HELP\r\n\n
+/usr/sbin/cvs-pserver: line 71321: BKcvs: No such file or directory\n
+no repository configured in /

@@ -1,12 +1,15 @@
+\x01\0\x0b\0\0\0%\0\x04\r\0\0\0\0..\xff\xff\?\0\0\x01\0\0\x1b\0\xff\xff\x01\x02\0\0  \x08\xff....AT&T Laboratories Cambridge\0
+\x01\0\x0b\0\0\0.\0..\0\0\0\0..\xff\xff\?\0\x01\0\0\0.\0\xff\xff.\x04\x01\x01\x08 \x08\xfe...\0Hummingbird Ltd\.\x01\x01 \0
 \x01\0\x0b\0\0......\0\0\0..\xff\xff\?\0.*Labtam Europe Ltd\.\0\0\x01\x01
 \x01\0\x0b\0\0.....\0\0\0\0..\xff\xff\?\0.\0\0..\0\xff\xff......\x08....\0DECWINDOWS compatibility\. Hummingbird
 \x01\0\x0b\0\0.....\0\0\0\0.*StarNet Communications Corp\.
+\x01\0\x0b\0\0.....\0\0\0\0.*Sun Microsystems, Inc\.
 \x01\0\x0b\0\0.....\0\0\0\0.*Labtam Europe Ltd\.
 \x01\0\x0b\0\0.....\0\0\0\0..\xff\xff\?\0\x01\0\0\0.\0\xff\xff\x01.\x01\x01\x08 \x08\xfe...\0Hummingbird Communications Ltd\..\x01\x01
 \x01\0\x0b\0\0.....\0\0\0\0.*(?:LabF\.com|LabF)
 \x01\0\x0b\0\0.....\0\0\0\0..\xff\xff\?\0.\0\0..\0\xff\xff......\x08....\0DECWINDOWS DigitalEquipmentCorporation, eXcursion
-\x01\0\x0b\0\0......\0\0\0..\xff\xff\?\0.*AT&T Laboratories Cambridge
 \x01\0\x0b\0\0.....\0\0\0\0.*Attachmate Corporation\0
+\x01\0\x0b\0\0......\0\0\0..\xff\xff\?\0.*AT&T Laboratories Cambridge
 \x01\0\x0b\0\0\0\x4C\0\xA0\xE0\x63\x02\0\0
 \x01\0\x0b\0\0.....\0\0\0\0.*MicroImages, Inc\.\0
 \0\x16\x0b\0\0\0\x06\0No protocol specified\x0a..
@@ -14,11 +17,11 @@
 \x01\0\x0b\0\0.....\0\0\0\0.*Open source\0
 \x01\0\x0b\0\0.....\0\0\0\0.*ASTEC, Inc\.
 \x01\0\x0b\0\0\0......\0\0.*The X\.Org Foundation
-\x01\0\x0b\0\0\0......\0\0.*The XFree86 Project, Inc
 \x01\0\x0b\0\0.....\0\0\0\0..\xff\xff.\0\x01\0\0..\0\xff\xff......\x08\xfe...\0Hummingbird Communications Ltd\.
 \x01\0\x0b\0\0.....\0\0\0\0.*Pexus Systems, Inc
 \x01\0\x0b\0\0.....\0\0\0\0.*HDS Network Systems, Inc\. \(([^)]+)\)
 \x01\0\x0b\0\0.....\0\0\0\0..\xff\xff.*Hummingbird Ltd\.
+\x01\0\x0b\0\0.....\0\0\0\0.*WRQ, Inc\.
 \x01\0\x0b\0\0.......\0\0..\xff\xff.\0\0\x01\0\0.\0\xff\xff......\x08\xff....Colin Harrison\0
 \x01\0\x0b\0\0.....\0\0\0\0.*The X\.Org Group\0|s p|Xvnc X11/VNC proxy
 \x01\0\x0b\0\0\0.\0..\0\0\0\0..\xff\xff\?\0\x01\0\0\0.\0\xff\xff\x01\x04\x01\x01\x08 \x08\xfe...\0Hummingbird Communications Ltd\.\0\x01\x01 ...\0\0\x08\x08 ...\0\0\x0c\x0c ...\0\0\x18  ...\0\0.\0\0\0 \0\0\0\xff\xff\xff\0\0\0\0\0
@@ -29,4 +32,3 @@
 \x01\0\x0b\0\0.......\0\0..\xff\xff.\0\0\x01\0\0.\0\xff\xff......\x08\xff....The Xming Project\0
 \x01\0\x0b\0\0......\0\0\0..\xff\xff\?\0.\0\0..\0\xff\xff.*Hewlett-Packard Company\0
 \0\x2D\x0B\0\0\0\x0C\0
-\x01\0\x0b\0\0......\0\0\0..\xff\xff\?\0.\0\0..\0\xff\xff.*Santa Cruz Operation Inc\.\0

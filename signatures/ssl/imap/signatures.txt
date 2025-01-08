@@ -1,1 +1,3 @@
+\* BYE Fatal error: tls_init\(\) failed\r\n
+\* BYE Fatal error: tls_start_servertls\(\) failed\r\n
 \* BYE Fatal error: tls_start_servertls\(\) failed\r\n

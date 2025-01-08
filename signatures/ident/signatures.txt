@@ -1,5 +1,4 @@
 0, 0 : ERROR : X-INVALID-REQUEST\r\n
-GET / HTTP/1\.0 : USERID : UNIX : ([-.\w]+)\r\n
 0,0 : ERROR : INVALID-PORT\r\n
 GET / HTTP/1\.0 : ERROR : INVALID-PORT\r\n : ERROR : INVALID-PORT\r\n
 0 , 0 : ERROR :INVALID-PORT\r\n
@@ -8,13 +7,14 @@ HELP : USERID : UNIX : trilluser\r\n
 flock\(\) on closed filehandle .*midentd
 \r\n: ERROR : HIDDEN-USER\r\n
 0 , 0 : ERROR : INVALID-PORT\r\n
-0 , 0 : ERROR : INVALID-PORT\r\n0 , 0 : ERROR : INVALID-PORT\r\n
-0, 0 : ERROR : UNKNOWN-ERROR
+\d+, \d+ : USERID : FreeBSD : \[x\]-\d+\r\n
 GET / HTTP/1\.0 : USERID : UNIX : ([-.\w]+)\r\n : USERID : UNIX : [-.\w]+\r\n
+0 , 0 : ERROR : X-INVALID-REQUEST\r\n
 0, 0 : ERROR : INVALID-AUTH-REQ-INFO : CAPABILITY=USER-INTERACTION : AUTH-MECH=KEBEROS_V4\r\n
 0, 0: ERROR: UNKNOWN-ERROR\n
+0 , 0 : ERROR : FORMAT-ERROR\r\n
 1 , 1 : USERID : OTHER : chuck-the-bsd-deamon\r\n
 0,0:ERROR:UNKNOWN-ERROR\r\n
-GET : ERROR : UNKNOWN-ERROR\r\n
-\d+, \d+ : USERID : UNIX : [-.@\w]+\r\n
 : USERID : UNIX : CacheFlow Server\r\n
+\d+, \d+ : USERID : UNIX : [-.@\w]+\r\n
+GET / HTTP/1\.0 : USERID : UNIX : \(yqH2Z5G\)\r\n

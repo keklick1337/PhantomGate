@@ -1,0 +1,5 @@
+\r\nHello, this is Quagga \(version 1\.2\.4\)\.\r\nCopyright 1996-2005 Kunihiro Ishiguro, et al\.\r\n\r\n\r\nUser Access Verification\r\n\r\nÿû\x01ÿû\x03ÿþ"ÿý\x1fPassword:
+\r\nHello, this is Quagga \(version 1\.0\.20160315\)\.\r\nCopyright 1996-2005 Kunihiro Ishiguro, et al\.\r\n\r\n\r\nUser Access Verification\r\n\r\nÿû\x01ÿû\x03ÿþ"ÿý\x1fPassword: \r\nPassword: \r\nPassword: \r\n% Bad passwords, too many failures!\r\n\r\n% Bad passwords, too many failures!\r\n
+\r\nHello, this is Quagga \(version 0\.99\.23\.1\)\.\r\nCopyright 1996-2005 Kunihiro Ishiguro, et al\.\r\n\r\n\r\nUser Access Verification\r\n\r\nÿû\x01ÿû\x03ÿþ"ÿý\x1fPassword:
+\r\nHello, this is Quagga \(version 0\.99\.22\.4\)\.\r\nCopyright 1996-2005 Kunihiro Ishiguro, et al\.\r\n\r\n\r\nUser Access Verification\r\n\r\nÿû\x01ÿû\x03ÿþ"ÿý\x1fPassword:
+\r\nHello, this is Quagga \(version 1\.0\.20160315\)\.\r\nCopyright 1996-2005 Kunihiro Ishiguro, et al\.\r\n\r\n\r\nUser Access Verification\r\n\r\nÿû\x01ÿû\x03ÿþ"ÿý\x1fPassword:

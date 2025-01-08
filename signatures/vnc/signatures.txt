@@ -6,3 +6,13 @@ RFB 004\.001\n
 0\x82\x01\n\x02\x82\x01\x01\0
 RFB 003.130\n
 RFB 003\.88[89]\n
+RFB 000\.000\n
+RFB 004\.000\n
+RFB 003\.003\n\x00\x00\x00\x00\x00\x00\x00\x1aToo many security failures
+RFB 003\.006\n
+RFB 005\.000\n
+RFB 003\.007\n
+RFB 003\.889\n
+RFB 000\.000\n
+RFB 003\.003\n
+RFB 004\.001\n

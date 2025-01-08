@@ -1,2 +1,4 @@
 \x13BitTorrent protocol\0\0\0\0\0\0\0\0
 Nice try\.\.\.\r\n
+Nice try\.\.\.\r\n
+\x13BitTorrent protocol\x00\x00\x00\x00\x00\x00\x00\x00

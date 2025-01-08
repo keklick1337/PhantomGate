@@ -1,1 +1,3 @@
 0 \w+ 17\n
+0 director 17\n
+0 doctor 17\n

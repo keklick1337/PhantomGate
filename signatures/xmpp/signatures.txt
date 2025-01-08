@@ -1,2 +1,3 @@
 </stream:stream>
 <stream:error><bad-format xmlns='urn:ietf:params:xml:ns:xmpp-streams'/></stream:error></stream:stream>
+</stream:stream>

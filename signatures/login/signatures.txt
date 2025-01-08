@@ -1,15 +1,16 @@
-\x01rlogind: Permission denied\.\r\n
 \[Thread \d+\(INITIAL\)\] at 0x\w+: Segmentation fault \(Stack bottom 0x0\)\n| p|Aficio/NRG/Ricoh printer logind
-\x01UX:in\.rlogind: Permission denied\.\r\n
 \0\r\nSorry, shell is locked\.\r\n
+\x01UX:in\.rlogind: Permission denied\.\r\n
 \0\r\nEL-32 RealPort Server - US Patent No\. 6,047,319\r\n
 \x01Permission denied: Error 0
 \x01Winsock RSHD/NT: Protocol negotiation error\.\n\0
 \x01rlogind: Host name for your address \([\d.]+\) unknown\.\r\n| p|A/UX logind| o|A/UX
+\0\n\rSelect access level \(read, write, administer\): \w+ _vxTaskEntry
 \x01permission denied\.\n
-\0\r\nlogin: \^W\^@\^@\^@\^
 \x01rlogind: Acc\xe8s refus\xe9\.\r\n
+A connection was attempted on an illegal port\.\r\n
 \0\r\nEL-32 EtherLite module\r\n\r\n
 \x01in\.rlogind: Permission denied\.\r\n
 \0\r\n-> trcStack aborted: error in top frame\r\ntShell restarted\.\r\n\r\n-> !1 echo_recv: -1\.\r\n
 \x01TCPIP RLOGIN Connection refused\0\0
+\x00\r\nEL-32 RealPort Server - US Patent No\. 6,047,319\r\n

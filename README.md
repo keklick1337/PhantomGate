@@ -11,13 +11,15 @@
 - **Simple Setup**: Works out of the box with just Python 3 and a signature file.  
 - **Minimal Dependencies**: Uses only the Python standard library.  
 - **Randomized Responses**: Generates pseudo-random responses (for "regex" signatures).  
-- **Flexible Configuration**: Customizable through command-line flags.  
+- **Flexible Configuration**: Customizable through command-line flags (debug, quiet, etc.).  
 - **Lightweight**: Single-file implementation, easy to deploy.
+- **Optional Logging to File**: Use `--logfile` (`-f`) to store logs with timestamps.
+- **Client Reporting**: Use `--report-clients` (`-r`) to show which signature was sent to each client.
 
 ## Quick Start
 
 1. **Clone or Download** this repository and place your signature file (`signatures.txt`) alongside `phantomgate.py`.
-2. **Install** Python 3 (if not already installed).  
+2. **Install** Python 3 (if not already installed).
 3. **Run**:
    ```bash
    python3 phantomgate.py -s signatures.txt -l 0.0.0.0:8888 -v
@@ -31,7 +33,7 @@ Press **Ctrl+C** to stop the server.
 ## Signature File Format
 
 - **Raw Signatures**: Lines without parentheses `(` or `)` are treated as **raw** payloads and can include escaped sequences like `\n`, `\r`, `\x41`, etc.
-- **Regex Signatures**: Lines with parentheses `(` and `)` are treated as **regex** signatures. PhantomGate randomly generates a pseudo-regex-like response using rules for `\d`, `\w`, `[abc]`, `+`, `*`, `.` etc.
+- **Regex Signatures**: Lines with parentheses `(` or square brackets `[` are treated as **regex** signatures. PhantomGate randomly generates a pseudo-regex-like response using rules for `\d`, `\w`, `[abc]`, `+`, `*`, `.` etc.
 
 Example `signatures.txt`:
 ```
@@ -45,7 +47,7 @@ SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.1
 
 ## Usage Examples
 
-- **Default** (listen on `127.0.0.1:8888`, use `signatures`):
+- **Default** (listen on `127.0.0.1:8888`, use `signatures.txt`):
   ```bash
   python3 phantomgate.py
   ```
@@ -57,6 +59,16 @@ SSH-2.0-OpenSSH_8.2p1 Ubuntu-4ubuntu0.1
   ```bash
   python3 phantomgate.py -q
   ```
+- **Report mode**:
+  ```bash
+  python3 phantomgate.py -r -s signatures.txt -l 0.0.0.0:8888
+  ```
+  This shows which signature was sent to each client (truncated to console width), and automatically enables debug output.
+- **Logfile**:
+  ```bash
+  python3 phantomgate.py -f phantom.log -s signatures.txt -l 0.0.0.0:8888
+  ```
+  This stores all logs (with timestamps) to **phantom.log** in addition to printing them on the console.
 - **Show version**:
   ```bash
   python3 phantomgate.py -V
@@ -83,4 +95,4 @@ Distributed under the **GNU License** (see [LICENSE](LICENSE) for details).
 
 ---
 - For the C99 version, see [this link](https://github.com/keklick1337/PhantomGateC99).  
-**Created by Vladislav Tislenko (aka [keklick1337](https://github.com/keklick1337))**.  
+**Created by Vladislav Tislenko (aka [keklick1337](https://github.com/keklick1337))**.

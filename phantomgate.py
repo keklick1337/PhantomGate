@@ -17,7 +17,7 @@ import logging
 import shutil
 from typing import Optional
 
-VERSION = "0.1.3a"
+VERSION = "0.1.3"
 logger = logging.getLogger("phantomgate")
 
 ###############################################################################
